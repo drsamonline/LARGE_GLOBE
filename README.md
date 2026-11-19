@@ -1,0 +1,183 @@
+<div align="center">
+
+# The Larger World Archive
+
+**The world is larger than the map ends.**
+
+A sourced reference library of hidden-world claims — the larger globe, the flat disc, the hollow shell, the ice wall, the inner sun, the sea beneath the sea — plus the giants, dragons, cryptids, aliens and secret societies that are said to live in them. Every claim is attributed to the person who made it, every source is linked, and every test is shown next to the thing it tested.
+
+[**Read the archive**](https://drsamonline.github.io/LARGE_GLOBE/) · [Reading guide](https://drsamonline.github.io/LARGE_GLOBE/reading-guide.html) · [Master list](https://drsamonline.github.io/LARGE_GLOBE/master-list.html) · [Search](https://drsamonline.github.io/LARGE_GLOBE/search.html) · [Single-volume edition](https://drsamonline.github.io/LARGE_GLOBE/print-edition.html)
+
+[![live](https://img.shields.io/badge/live-drsamonline.github.io%2FLARGE__GLOBE-A8823F?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/)
+[![dossiers](https://img.shields.io/badge/dossiers-150-A8823F?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/master-list.html)
+[![sources](https://img.shields.io/badge/linked%20sources-706-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sources.html)
+[![citations](https://img.shields.io/badge/citations-2%2C159%20across%20293%20domains-2C3548?style=flat-square)](#what-a-source-link-means-here)
+[![images](https://img.shields.io/badge/credited%20images-167-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
+[![words](https://img.shields.io/badge/writing-~110%2C000%20words-2C3548?style=flat-square)](#what-this-is)
+[![pages](https://img.shields.io/badge/pages-170%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
+[![labels](https://img.shields.io/badge/labels-documented%20%C2%B7%20debate%20%C2%B7%20fringe%20%C2%B7%20debunked-6E6553?style=flat-square)](#the-four-labels)
+[![dependencies](https://img.shields.io/badge/runtime%20dependencies-0-2ea44f?style=flat-square)](#how-it-is-built)
+[![tracking](https://img.shields.io/badge/tracking%20%2F%20cookies-none-2ea44f?style=flat-square)](#privacy)
+[![offline](https://img.shields.io/badge/works-offline-2ea44f?style=flat-square)](#running-it-locally)
+[![licence](https://img.shields.io/badge/licence-CC%20BY--NC%204.0-A8823F?style=flat-square)](LICENSE)
+[![sponsor](https://img.shields.io/badge/sponsor-GitHub-ea4aaa?style=flat-square)](https://github.com/sponsors/drsamonline)
+[![stars](https://img.shields.io/github/stars/drsamonline/LARGE_GLOBE?style=flat-square&color=A8823F)](https://github.com/drsamonline/LARGE_GLOBE/stargazers)
+
+</div>
+
+![The Larger World Archive — front page](docs/screenshots/home.webp)
+
+---
+
+## What this is
+
+A hidden-world claim usually arrives in one of two shapes: a screenshot with no author, or a ninety-minute video with no citations. Both are impossible to check. This archive rebuilds each idea from the bottom up — who said it first, what they actually wrote, who repeated it, and what the measurement said afterwards.
+
+**150 dossiers. About 110,000 words. 706 linked sources, spread over 2,159 citations to 293 domains. 167 credited images. No account, no tracking, no paywall.**
+
+Every dossier follows the same shape, so you always know where you are in it:
+
+| Section | What it holds |
+|---|---|
+| **The claim** | Stated in its strongest form, in the words of someone who actually holds it |
+| **At a glance** | Status, first proposed, leading voices, the test that would settle it |
+| **Origin** | Who said it, when, in what book or paper, with the page linked |
+| **The best evidence** | The argument's strongest case — not a strawman of it |
+| **The response** | What the field said, with the paper or the survey linked |
+| **Sources** | Every link used, live, in one place at the foot of the page |
+
+The tone is deliberately flat. The material is interesting on its own: Wegener's continental drift was ridiculed for fifty years before plate tectonics vindicated it, and the expanding-Earth school grew out of the same jigsaw fit everybody now accepts. Knowing *why* one survived and the other did not is more useful than knowing which is currently official.
+
+## The four labels
+
+One rule runs through every page: **a claim and its evidence are different things.** So every claim carries one of four labels, applied the same way across all 150 dossiers — 791 times as *live debate*, 322 as *documented*, 235 as *debunked*, 177 as *fringe*.
+
+| Label | Means | Example |
+|---|---|---|
+| **Documented** | Primary documents, peer review or official records | The CIA ran MKUltra |
+| **Live debate** | Argued in the literature, usually at the margins | Slow Earth expansion |
+| **Fringe claim** | Widely circulated, no accepted evidence, no working mechanism | A habitable inner sun |
+| **Debunked / hoax** | Tested and falsified, or admitted fabricated | The 1934 "surgeon's photograph" |
+
+Inclusion is not endorsement, and a debunked label is not a verdict on the reader. Where a claim has been tested and failed, the test is linked beside it.
+
+## What's in the box
+
+- **150 dossiers** — the larger globe, flat earth, hollow earth, ice wall, inner sun, Tartarus, giants, dragons, cryptids, Tartaria, ancient astronauts, aliens, secret societies, flood myths, urban legends, the deep web, mutants, plus frontier science (the Hubble tension, MOND, muon g−2, the firewall paradox), mind and behaviour (ego depletion, readiness potentials, screen time), economics (minimum wage, MMT, Jevons, secular stagnation) and AI (stochastic parrots, scaling laws, open weights, algorithmic fairness).
+- **Five numbered collections** — [the Frontier 200](https://drsamonline.github.io/LARGE_GLOBE/frontier-index.html), [the Ancient 200](https://drsamonline.github.io/LARGE_GLOBE/ancient-index.html), [the Modern 200](https://drsamonline.github.io/LARGE_GLOBE/modern-index.html), [the 200 Sources](https://drsamonline.github.io/LARGE_GLOBE/mega-index.html) and [Open Problems](https://drsamonline.github.io/LARGE_GLOBE/open-problems.html) — 830 rows, each with a label and a one-line summary.
+- **Tools that work without a server** — [search](https://drsamonline.github.io/LARGE_GLOBE/search.html) over all 980 records with deep-linkable queries, a [side-by-side comparison](https://drsamonline.github.io/LARGE_GLOBE/compare.html) of any two dossiers, [charts](https://drsamonline.github.io/LARGE_GLOBE/charts.html), [themes](https://drsamonline.github.io/LARGE_GLOBE/themes.html), a [claim register](https://drsamonline.github.io/LARGE_GLOBE/claims-index.html), [the full bibliography](https://drsamonline.github.io/LARGE_GLOBE/sources.html) and a [single-volume edition](https://drsamonline.github.io/LARGE_GLOBE/print-edition.html) of the whole archive in one page.
+- **A reading guide**, because a 150-dossier archive is useless if you do not know where to start.
+
+## Screenshots
+
+<table>
+<tr>
+<td width="50%"><img src="docs/screenshots/dossier.webp" alt="A dossier page: label, hero image, credit line, body and an at-a-glance panel"><br><sub><b>A dossier.</b> Label, claim, image credit, and the status panel that answers "how settled is this?" before you read a word.</sub></td>
+<td width="50%"><img src="docs/screenshots/search.webp" alt="Search page with a query for atlantis returning four labelled matches"><br><sub><b>Search.</b> One box over 980 records — dossiers and collection rows — filtered by title, claim, label or theme. Every query is a URL.</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="docs/screenshots/master-list.webp" alt="The master list: 150 claims in one table"><br><sub><b>The master list.</b> Every claim in one table with its label, so the whole archive can be scanned in a minute.</sub></td>
+<td width="50%"><img src="docs/screenshots/mobile.webp" alt="The archive on a 420 pixel wide phone screen" width="300"><br><sub><b>On a phone.</b> No app, no hamburger maze — the same pages, reflowed.</sub></td>
+</tr>
+</table>
+
+![The support page](docs/screenshots/support.webp)
+
+## How it is built
+
+Plain static HTML, one stylesheet, one page of JavaScript. There is no build step, no framework, no CDN and nothing to install — `git clone` and open `index.html`. That is the whole pipeline, and it is why the archive will still open in ten years.
+
+- **170 pages, 4.6 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
+- **No runtime dependencies.** The only script on the site is the search index on one page — inline JSON, no fetch, so it works from `file://` and offline.
+- **AVIF images**, lazily loaded below the fold, 166 files totalling 8.6 MB. Every one is credited with its licence and host on the [credits page](https://drsamonline.github.io/LARGE_GLOBE/credits.html).
+- **Accessible by default**: a skip link, one `<h1>` per page, landmarks, `aria-current` on the active nav item, alt text on all 597 images, visible focus rings, and a print stylesheet that expands every citation into a readable URL.
+- **Deployable anywhere.** GitHub Pages serves it from the repository root; there is no `_config.yml`, no Jekyll, no Node in CI.
+
+## Running it locally
+
+```bash
+git clone https://github.com/drsamonline/LARGE_GLOBE.git
+cd LARGE_GLOBE
+
+# either open it directly
+open index.html
+
+# or serve it, which is what Pages does
+python3 -m http.server 8000     # http://localhost:8000
+```
+
+Nothing else is required. There is no `npm install`, no lockfile, no toolchain.
+
+## Repository layout
+
+```
+.
+├── index.html              the front page
+├── 150 dossier pages       one claim each, same shape every time
+├── *-index.html            the five numbered collections
+├── master-list.html        all 150 claims, one table
+├── search.html             the client-side index (980 records)
+├── compare.html            any two dossiers side by side
+├── sources.html            the bibliography, grouped by field
+├── credits.html            every image, its licence and its host
+├── print-edition.html      the whole archive as one printable page
+├── support.html            how to support it, and what it does not buy
+├── 404.html                served by Pages for anything off the map
+├── assets/
+│   ├── style.css           the only stylesheet
+│   └── img/                166 AVIF images
+├── docs/screenshots/       the images in this README
+├── sitemap.xml             all 169 URLs
+└── robots.txt
+```
+
+## What a source link means here
+
+2,159 citations, 916 distinct URLs, 293 domains — Wikipedia and Wikimedia Commons for orientation and images, then `doi.org`, `arxiv.org`, `nature.com`, `science.nasa.gov`, `plato.stanford.edu`, `ncse.ngo` and the primary texts themselves. A link is placed next to the sentence it supports, not gathered in a heap at the bottom, so you can check a specific claim in a specific paragraph.
+
+Links rot. If one is dead, [open an issue](https://github.com/drsamonline/LARGE_GLOBE/issues) with the page and the link; it gets replaced or annotated, not quietly removed.
+
+## Privacy
+
+No accounts, no cookies, no analytics, no fonts or scripts from a third-party host, no email capture. The site is static files on GitHub Pages, so GitHub sees what any web server sees. Search runs entirely in your browser against an inline index — your queries never leave the page, and are only ever in the URL because you can share them.
+
+## Support
+
+<img src="assets/support-portrait.jpg" width="72" height="72" alt="Dr. Sohil Momin" align="left" style="border-radius:50%;margin-right:1rem">
+
+Free, unpaywalled, untracked, and staying that way. If the archive saved you an afternoon, you can pay for one:
+
+| | |
+|---|---|
+| UPI (India) | `drsohilboi@ybl` — payee Dr. Sohil Momin, open amount, or scan [the QR](assets/upi-qr.svg) |
+| GitHub Sponsors | [github.com/sponsors/drsamonline](https://github.com/sponsors/drsamonline) |
+| Ko-fi | [ko-fi.com/matneo](https://ko-fi.com/matneo) |
+| PayPal | [paypal.me/drsohilmomin](https://paypal.me/drsohilmomin?locale.x=en_GB&country.x=IN) |
+| My books | [Amazon author store](https://www.amazon.com/stores/author/B08ZT331LY/allbooks?ccs_id=aed72b9f-71d9-43dc-adee-e9368a317acc) |
+| Everything else | [drsamonline.github.io](https://drsamonline.github.io/) |
+| Email | [sohilmomin2000@gmail.com](mailto:sohilmomin2000@gmail.com) |
+
+Nothing is gated behind it, no tier exists, and a sponsor gets no say over a label. A claim that fails its test is marked **debunked** whether or not anybody paid for the page.
+
+<div align="center">
+
+[![Sponsor on GitHub](https://img.shields.io/badge/%E2%9D%A4%20Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/drsamonline)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-matneo-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/matneo)
+[![PayPal](https://img.shields.io/badge/PayPal-drsohilmomin-00457c?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/drsohilmomin?locale.x=en_GB&country.x=IN)
+[![Books](https://img.shields.io/badge/Books-Amazon%20author%20store-ff9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/stores/author/B08ZT331LY/allbooks)
+
+<sub>Built and written by [Dr. Sohil Momin](https://github.com/drsamonline) · UPI QR for direct support: [assets/upi-qr.svg](assets/upi-qr.svg)</sub>
+
+</div>
+
+## Licence
+
+**The writing** — every dossier, index, chart caption and page in this repository — is © Dr. Sohil Momin, released under [CC BY-NC 4.0](LICENSE): read it, quote it, teach from it, mirror it, translate it, with attribution and not for commercial resale.
+
+**The images** are not mine to license. Each is credited on the [credits page](https://drsamonline.github.io/LARGE_GLOBE/credits.html) with its host and its own terms — mostly Wikimedia Commons, public domain, CC BY or CC BY-SA. Reuse an image only under the licence named beside it, not under the licence above.
+
+**The claims belong to the people who made them**, and are quoted for study. Attribution is the point of the archive; if a quotation is misattributed or a credit is wrong, that is a bug, and [reporting it](https://github.com/drsamonline/LARGE_GLOBE/issues) fixes it.
+
+## Credits
+
+Built with nothing but HTML and CSS, and a great deal of reading. Structure, palette and the print stylesheet follow the house style of the [drsamonline](https://drsamonline.github.io/) sites; the source list leans on Wikimedia Commons, the Internet Archive, NASA, the Royal Society, Nature, arXiv and the Stanford Encyclopedia of Philosophy. Full attribution is in [credits.html](https://drsamonline.github.io/LARGE_GLOBE/credits.html) and [sources.html](https://drsamonline.github.io/LARGE_GLOBE/sources.html).

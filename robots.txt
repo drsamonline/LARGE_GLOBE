@@ -1,0 +1,5 @@
+# The Larger World Archive
+User-agent: *
+Allow: /
+
+Sitemap: https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml

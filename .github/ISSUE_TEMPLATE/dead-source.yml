@@ -1,0 +1,32 @@
+name: Dead or wrong source
+description: A link is dead, a quotation is misattributed, or an image credit is wrong.
+title: "[source] "
+labels: ["source"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Which page
+      description: The URL or the dossier title.
+      placeholder: https://drsamonline.github.io/LARGE_GLOBE/larger-globe.html
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: The link or quotation
+      description: Paste the exact URL, or the sentence as printed.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+      description: Dead link, wrong author, wrong year, wrong licence, or a better primary source exists.
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: A replacement, if you have one
+      description: A DOI, an archive.org snapshot, or the primary document.

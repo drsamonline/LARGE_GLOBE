@@ -1,0 +1,81 @@
+# Enhancement list — The Larger World Archive
+
+An audit of all 170 pages, followed by everything worth changing, ordered by what it buys you per hour spent. Items marked **shipped** are already in this repository as of 19 November 2026; the rest are written so they can be applied without redesigning anything.
+
+Measured baseline: 170 HTML pages (~4 MB), 150 dossiers, ~110,000 words, 166 AVIF images (8.6 MB), 2,159 citations to 916 distinct URLs across 293 domains, 980 search records, one 30 KB stylesheet, one inline search script, zero runtime dependencies.
+
+---
+
+## 1. Shipped in this pass
+
+These were gaps found in the audit and closed without touching a single sentence of content.
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **Social and search metadata on all 170 pages** — `og:*`, `twitter:card`, canonical URL, `theme-color`, per-page title and description carried through | Every page was previously a blank card when shared on X, WhatsApp, Slack, LinkedIn or Telegram. For an archive whose whole distribution model is "someone links you a dossier", this was the largest single loss. |
+| 2 | **A 1200×630 share card** (`assets/og-card.png`) in the site's own palette, plus `og:image:alt` | Shared links now show the title, the subtitle and the counts instead of a grey rectangle. |
+| 3 | **JSON-LD structured data** — `WebSite` + `SearchAction` on the index, `Article` with author, publisher and `isPartOf` on all 150 dossiers, `CollectionPage`/`Book` on the indexes and the print edition | Machine-readable authorship, which is the difference between being cited and being scraped. |
+| 4 | **Favicon set** — `favicon.svg` (the amber ring mark, matching the header), 192/512 PNG, `apple-touch-icon`, `site.webmanifest` | Every tab and every home-screen shortcut showed a default globe icon. |
+| 5 | **`sitemap.xml` (169 URLs) and `robots.txt`** | Nothing pointed a crawler at 170 pages. Indexing was happening by luck. |
+| 6 | **A real `404.html`** with a `<base href>` so assets resolve at any depth, plus the five most-wanted destinations and a search entry point | GitHub Pages served its generic 404; deep links from old posts died there. |
+| 7 | **A sponsor block in the site footer on all 170 pages** — band above the footer notes, five destinations, one line about what is and is not gated | The site had no support path at all, while the READMEs of the other repos did. |
+| 8 | **A dedicated `support.html`** — UPI with QR and payee name, GitHub Sponsors, Ko-fi, PayPal, books, the three free things that help more, and an honest statement of where the money goes | A footer band cannot carry a UPI QR or explain that no tier exists. |
+| 9 | **`.github/FUNDING.yml`** — GitHub, Ko-fi, PayPal, the support page | Puts the Sponsor button in the repository header, where it is actually clicked. |
+| 10 | **Skip link, `id="main"` landmark, visible `:focus-visible` rings** | The 100-item nav is the first thing a keyboard user hits on every page, and there was no way past it. |
+| 11 | **One `<h1>` per page** — the print edition had 153 (one per part); part titles are now `<h2 class="part-title">` with the same visual weight | A 153-heading page has no outline at all for a screen reader or a crawler. |
+| 12 | **A print stylesheet** — nav, hero, cards and the support band removed; every external link expanded to its URL; page-break rules on headings and sections | The archive's own print edition was the only printable page. Now any dossier prints as a citation-ready sheet. |
+| 13 | **Lazy-loading and decode hints audited across 437 images**, with the front-page hero switched to `fetchpriority="high"` | The hero is the LCP element on the index; everything below the fold now defers. (Explicit `width`/`height` was tried and reverted — see item 14 in the next list, which is where it belongs once the figure CSS is made dimension-safe.) |
+| 15 | **Deep-linkable search** — `search.html?q=atlantis`, kept in sync with `history.replaceState`, restored on load | Search results could not be shared, linked, or reached from the `SearchAction` schema. |
+| 16 | **`LICENSE`** — CC BY-NC 4.0 for the writing, with images, quotations and marks explicitly excluded | 170 pages of original research with no stated terms is unquotable by anyone cautious. |
+| 17 | **A dead-source issue template** | Turns "the link is broken" into a structured, fixable report. |
+
+---
+
+## 2. Quick wins — under an hour each, high return
+
+1. **Per-dossier share cards.** Render `assets/og/<slug>.png` for all 150 dossiers from the same HTML template as the site card (title, label, hero crop). 150 headless renders, one script, no design work. Every shared dossier then carries its own claim and label.
+2. **`citation_*` meta tags** (Highwire/Dublin Core: `citation_title`, `citation_author`, `citation_publication_date`, `citation_pdf_url`) on every dossier. This is what Google Scholar reads; without it a reference library is invisible to the one index that matters to researchers.
+3. **A "Cite this page" box** at the foot of each dossier — APA, MLA, Chicago and BibTeX, generated from the page's own title, author and date, with a copy button. Nothing else would do more to make the archive quotable.
+4. **`lastmod` from git history.** `sitemap.xml` currently stamps all 169 URLs with the build date; deriving it from `git log -1 --format=%cI -- <page>` is a one-line change per URL and is the signal crawlers actually trust.
+5. **A random-dossier button** in the header (`?random` → redirect to a random page). A 150-page archive is navigated by wandering; there is currently no way in except the index.
+6. **`/` to focus search, `Esc` to clear, ↑/↓/Enter to walk results** in `search.html`, plus a `aria-live="polite"` on the result count. The search box is the archive's best tool and it is mouse-only.
+7. **A "related dossiers" strip** at the foot of each page — 4 links computed from shared theme and label. 150 pages currently link outward to each other only through the nav.
+8. **`rel="noopener"` on every external link**, not just the new support links (682 of 2,841 currently carry it). Cheap hardening, no visual change.
+9. **A `humans.txt` and a `.well-known/security.txt`.** Two small files, both expected of a site that takes its own claims about privacy seriously.
+10. **Intrinsic image dimensions, done safely.** 589 images carry no `width`/`height`, so every page reflows as it loads. The blanket fix (`img{height:auto}`) breaks the front-page hero and the dossier figures, both of which are absolutely positioned — the fix is per-figure: give `.fig`/`.hero-band` an `aspect-ratio`, then add the attributes. Worth ~0.05 of CLS on a slow connection.
+11. **Breadcrumbs** on every dossier: `Archive › <theme> › <dossier>`, as both a visible strip and `BreadcrumbList` JSON-LD.
+
+## 3. Medium — a day each, changes how the archive is used
+
+11. **A CI gate with four checks.** HTML validation (`vnu`), link check over the 916 external URLs, an accessibility pass (`pa11y` or axe), and a per-page size budget. The archive is 170 hand-generated files; one bad regeneration currently ships silently.
+12. **A scheduled dead-link sweep.** Weekly Action that re-checks all 916 URLs, queries the Wayback Machine availability API for anything that 404s, and opens one issue listing what broke with a snapshot link for each. Dead citations are the archive's slowest decay.
+13. **Sticky per-page table of contents.** Dossiers run 700–2,000 words with 5–7 headed sections and no jump list. A right-hand "on this page" rail (desktop) and a collapsible summary (mobile) would cut the scroll cost of every page.
+14. **Responsive images.** `srcset` at 480/960/1440 for every AVIF plus a WebP `<picture>` fallback, so a phone stops downloading 900×1020 crops. Expect roughly 60% off mobile image bytes.
+15. **A light theme and a reading-size control.** The archive is dark-only, at 18px serif. Both are preference toggles stored in `localStorage`, ~40 lines, and both materially widen who can read a long page.
+16. **An RSS/Atom feed** of new and revised dossiers, plus a JSON Feed. Nothing announces that the archive grew; a feed is the cheapest way to be followed.
+17. **A corrections policy page and a visible "last reviewed" line** on every dossier. The archive's authority rests on being checkable; it should say when each page was last checked, and what happens when a claim is overturned.
+18. **A glossary.** *Firmament*, *ice wall*, *Tartarus*, *concave Earth*, *aether*, *hollow shell*, *expanding Earth*, *Silurian hypothesis* — recurring terms, currently explained 150 separate times in 150 separate voices.
+19. **Extend `compare.html`.** Today it compares two dossiers; make it three, and put the pair in the URL (`?a=flat-earth&b=ice-wall`) so a comparison can be linked, shared and cited.
+20. **A "how to read a dossier" page.** The four labels are explained on the index and again in a key on each page, but the method itself — how a claim was traced, what counts as evidence here — has no permanent home.
+
+## 4. Large — a week or more, changes what the archive is
+
+21. **A generated PDF and EPUB of the print edition.** `print-edition.html` is 813 KB of HTML designed for `Ctrl-P`. A real typeset PDF with running heads, page numbers and a TOC with folios, plus an EPUB for e-readers, turns the archive into something that can be read on a train — and puts it one step from the KDP pipeline the other repositories already have.
+22. **A static build step, or none at all.** The nav, footer and palette are duplicated across 170 files; one change means 170 edits (this pass touched all of them with a script). Either accept a 60-line generator that assembles pages from partials, or add a CI check that fails when two pages' nav blocks disagree. The second is cheaper and keeps the "clone and open `index.html`" property.
+23. **A searchable command palette instead of the "More" menu.** The nav panel holds 100+ links in one column. `Ctrl-K` with fuzzy matching over the same 980-record index would replace it, and would make the mobile header usable.
+24. **Keyboard-first reading.** `j`/`k` to move between dossiers in reading order, `s` to open search, `?` for the shortcut sheet. The reading guide already defines an order; nothing walks it.
+25. **An offline service worker.** The site works from `file://` but not from a flaky connection. A 30-line SW caching the shell plus visited pages would make "readable offline" literally true from the URL as well.
+26. **An audio edition.** Every dossier is 700–2,000 words of prose, which is exactly what a TTS pipeline handles well (Sarvam Bulbul, or any local model), with an `<audio>` element per page and a podcast feed of the same. This is the single largest reach multiplier available to a text archive.
+27. **A Hindi edition of the reading guide and the twelve door pages.** The audience for this material in India is large and served almost entirely by English-language YouTube. Translating the entry points, not the whole archive, is the cheap version of that.
+28. **A provenance ledger.** One machine-readable file (`data/claims.json`) holding every claim's label, date, author and source IDs — from which the master list, the claim register, the charts and the search index are all generated. Today they are four hand-maintained views of the same facts, which means they can disagree.
+
+## 5. Deliberately not recommended
+
+- **Analytics of any kind.** It would contradict the privacy line in the footer, and the site gains nothing from knowing which dossier you read.
+- **A comment section or a forum.** The archive's value is that a claim's fate is decided by evidence, not by who is loudest. Corrections belong in issues, where they are attributable.
+- **Ads or sponsored dossiers.** One sponsored label would cast doubt on all 150.
+- **A CMS.** 170 static files, one stylesheet and a search index is the correct architecture for something meant to still open in a decade.
+
+---
+
+*Baseline audited 19 November 2026. Numbers in this file are measurements of this repository, not estimates.*
