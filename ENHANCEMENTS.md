@@ -21,6 +21,8 @@ The audit found that the five collections name **830 topics** while the archive 
 | 7 | **Search index and collections retargeted** — 12 new records, and the collection rows whose topics now have pages point at the dossier instead of the collection | No duplication: a promoted topic leaves the collection link and appears as a dossier. |
 | 8 | **Print edition extended** to 164 parts, with the twelve new dossiers in reading order and in its contents list | Otherwise the single-volume edition silently omits everything added after it was generated. |
 | 9 | **Sources page extended** with section 13, the 48 new citations, deduplicated against everything already listed | The bibliography has to stay the count the footer claims. |
+| 10 | **Sixty-two theme-list rows repaired** — each had an empty `src` and an empty summary, so a third of the archive's theme shelves showed a blank tile and a bare title | The images existed all along; the build that generated the page had simply failed to fill them. Each row now carries its dossier's hero image and the first line of its standfirst. |
+| 11 | **Topic register regrouped by theme**, not by row number, so a heading no longer sits above rows that belong to a different shelf | The first version inherited the collections' interleaved order, which made the page misleading. |
 
 What this pass deliberately did **not** do: no photographs were added to the twelve new dossiers, because the archive cannot licence what it cannot credit, and a diagram it drew itself is honest about its provenance. Sourcing photographs for them is item 1 of the next list.
 
