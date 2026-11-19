@@ -2,11 +2,29 @@
 
 An audit of all 170 pages, followed by everything worth changing, ordered by what it buys you per hour spent. Items marked **shipped** are already in this repository as of 19 November 2026; the rest are written so they can be applied without redesigning anything.
 
-Measured baseline: 170 HTML pages (~4 MB), 150 dossiers, ~110,000 words, 166 AVIF images (8.6 MB), 2,159 citations to 916 distinct URLs across 293 domains, 980 search records, one 30 KB stylesheet, one inline search script, zero runtime dependencies.
+Measured baseline after the November 2026 expansion: 183 HTML pages (5.1 MB), 162 dossiers, ~117,000 words, 166 AVIF photographs plus 18 original SVG figures, 3,220 citations to 1,151 distinct URLs across 299 domains, 992 search records, one stylesheet, one inline search script, zero runtime dependencies.
 
 ---
 
-## 1. Shipped in this pass
+## 0. Shipped in the November 2026 expansion
+
+The audit found that the five collections name **830 topics** while the archive had written **150** of them. This pass closed part of that gap and built the instrument for closing the rest.
+
+| # | Change | Why |
+|---|---|---|
+| 1 | **Twelve new dossiers**, written to the existing template and voice: cold fusion, the placebo effect, learning styles, growth mindset, the aquatic ape, Snowball Earth, the dinosaur extinction, panpsychism, the free energy principle, polyvagal theory, fast radio bursts, magnetoreception | Six of the twelve are topics the collections already named and labelled but had never written. Each is sourced to 4–5 links, carries an at-a-glance panel, an answer box and a pager entry. |
+| 2 | **Twelve original SVG diagrams**, one per new dossier, in the site's own palette — the replication ledger for cold fusion, the crossover plot learning styles never produced, the Cryogenian timeline, the K–Pg boundary column, the Markov blanket, the dispersion sweep | A scientific archive with no figures is a bibliography. These are drawn from the numbers on the page, not stock art, so the licence question disappears. |
+| 3 | **Six figures added to existing dossiers** — the Hubble tension, dark matter, the Great Filter, turbulence, ego depletion, AMOC | The most-visited pages were the least illustrated. Each figure makes the argument visible: two rulers, a flat rotation curve, three filter placements, a −5/3 slope, four shrinking effect sizes, one overturning loop. |
+| 4 | **Six expansion sections** — "What would change the label" on those same pages | Every dossier states a verdict; almost none stated what would overturn it. That is the difference between a reference work and an opinion column. |
+| 5 | **`topics.html` — the topic register**, 726 rows, grouped by collection and theme, each keeping the label the collection gave it | The single most important structural addition: it is the work queue, and it is the anti-duplication map. A topic on that page is unwritten by definition; a topic that has become a dossier is removed from it. |
+| 6 | **Counts recomputed from data, not edited by hand** — dossiers, sources, figures, per-theme tallies, the theme bar chart, the search index, the sitemap, the print edition's table of contents | The site claimed 150 dossiers in twenty places. It now derives them. |
+| 7 | **Search index and collections retargeted** — 12 new records, and the collection rows whose topics now have pages point at the dossier instead of the collection | No duplication: a promoted topic leaves the collection link and appears as a dossier. |
+| 8 | **Print edition extended** to 164 parts, with the twelve new dossiers in reading order and in its contents list | Otherwise the single-volume edition silently omits everything added after it was generated. |
+| 9 | **Sources page extended** with section 13, the 48 new citations, deduplicated against everything already listed | The bibliography has to stay the count the footer claims. |
+
+What this pass deliberately did **not** do: no photographs were added to the twelve new dossiers, because the archive cannot licence what it cannot credit, and a diagram it drew itself is honest about its provenance. Sourcing photographs for them is item 1 of the next list.
+
+## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
 
@@ -32,6 +50,9 @@ These were gaps found in the audit and closed without touching a single sentence
 ---
 
 ## 2. Quick wins — under an hour each, high return
+
+0. **Photographs for the twelve new dossiers.** Each currently leads with a diagram. The archive's visual language is a credited historical photograph at the top and diagrams in the body; the new pages invert that. One Commons search per topic, one credit line each, and the pattern is restored.
+0b. **A claim stub for every register row.** The 726 rows carry a title, a label and one sentence. Promoting 20 of them per month, in the order the register lists them, closes the gap in about three years — and the register makes that pace visible instead of aspirational.
 
 1. **Per-dossier share cards.** Render `assets/og/<slug>.png` for all 150 dossiers from the same HTML template as the site card (title, label, hero crop). 150 headless renders, one script, no design work. Every shared dossier then carries its own claim and label.
 2. **`citation_*` meta tags** (Highwire/Dublin Core: `citation_title`, `citation_author`, `citation_publication_date`, `citation_pdf_url`) on every dossier. This is what Google Scholar reads; without it a reference library is invisible to the one index that matters to researchers.

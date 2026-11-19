@@ -46,3 +46,20 @@ a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible,s
 
 /* print edition: part titles are section headings, not page headings */
 .part-title{font-size:clamp(30px,4.4vw,50px);line-height:1.06;margin:0 0 18px;font-weight:400;letter-spacing:-.015em;border-top:0;padding-top:0}
+
+/* figures: inline diagrams and vector hero images */
+figure.hero-fig.fig-svg{background:var(--panel)}
+figure.hero-fig.fig-svg img{height:auto;max-height:clamp(240px,44vh,470px);object-fit:contain;padding:0}
+figure.fig-inline{margin:30px 0 8px;border:1px solid var(--line-soft);border-radius:3px;overflow:hidden;background:var(--panel)}
+figure.fig-inline img{display:block;width:100%;height:auto}
+figure.fig-inline figcaption{padding:12px 16px 14px;font-family:var(--sans);font-size:12px;line-height:1.55;color:var(--muted);border-top:1px solid var(--line-soft)}
+figure.fig-inline figcaption .credit{color:#6f6a5f}
+.topic-table{width:100%;border-collapse:collapse;margin:14px 0 30px;font-size:15px}
+.topic-table th{font-family:var(--sans);font-size:10.5px;letter-spacing:1.6px;text-transform:uppercase;color:var(--muted);text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+.topic-table td{padding:9px 10px;border-bottom:1px solid var(--line-soft);vertical-align:top;line-height:1.45}
+.topic-table td.t{color:var(--ink)}
+.topic-table td.s{color:var(--muted);font-size:13.5px}
+.topic-table tr:hover td{background:rgba(211,169,95,.045)}
+.tally{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 26px}
+.tally span{font-family:var(--sans);font-size:11px;letter-spacing:1.2px;text-transform:uppercase;padding:7px 12px;border:1px solid var(--line);color:var(--ink-dim)}
+.tally b{color:var(--amber);font-weight:400}
