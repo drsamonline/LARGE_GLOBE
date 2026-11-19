@@ -63,3 +63,6 @@ figure.fig-inline figcaption .credit{color:#6f6a5f}
 .tally{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 26px}
 .tally span{font-family:var(--sans);font-size:11px;letter-spacing:1.2px;text-transform:uppercase;padding:7px 12px;border:1px solid var(--line);color:var(--ink-dim)}
 .tally b{color:var(--amber);font-weight:400}
+
+/* vector thumbnails in the theme lists: show the whole diagram, not a crop */
+.tax-row img[src$=".svg"]{background:#0f1420;filter:none}
