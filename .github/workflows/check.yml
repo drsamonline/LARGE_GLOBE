@@ -19,6 +19,8 @@ jobs:
         run: python tools/check-structure.py
       - name: Size budget
         run: python tools/check-size.py
+      - name: Shared shell is in step with index.html
+        run: python tools/rebuild-shell.py --check
 
   external-links:
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'

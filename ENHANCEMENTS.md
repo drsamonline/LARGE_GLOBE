@@ -124,6 +124,15 @@ Deliberately deferred: `compare.html` still takes two dossiers, not three. Exten
 | 3 | **Linked from the reading guide and the glossary**, and from every footer | A page nobody can reach is a page that does not exist. |
 | 4 | **Sitemap and CI** — 186 indexable URLs; the new page is in the utility list and carries the same invariants as the rest | 188 pages, 0 problems. |
 
+## 0k. Shipped in the eleventh pass — 20 November 2026
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **`tools/rebuild-shell.py`** — the header and footer live once, in `index.html`, and are copied into all 188 pages with `aria-current` applied per page. `--check` fails if any page has drifted | Every previous pass ended with a script doing 188 string replacements and hoping. This is the last time that is necessary: a navigation change is now one edit and one command. |
+| 2 | **182 pages normalised** — most had a shorter footer than the index, and the rest had drifted in small ways | The site had two footers and several variants of the same nav. It now has one of each. |
+| 3 | **CI runs the check** | Drift is caught at push, not discovered three passes later. |
+| 4 | **A CSS bug found by the shell work** — the citation block carried 52 px of padding above its heading, inherited from the global `section{padding:52px 0}` | It had been visible on all 162 dossiers since the citation block shipped, and nobody had looked at the bottom of a page closely enough. |
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

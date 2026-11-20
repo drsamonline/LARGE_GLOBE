@@ -104,6 +104,7 @@ Plain static HTML, one stylesheet, one page of JavaScript. There is no build ste
 - **Keyboard reading** — `j` and `k` walk to the next and previous dossier, `/` jumps to search, `t` flips the theme, `?` opens the sheet.
 - **Two themes, three type sizes.** A contrast toggle and a text-size control in the header, remembered in `localStorage`, applied before first paint so nothing flashes. The archive was dark-only for its first two years.
 - **Accessible by default**: a skip link, one `<h1>` per page, landmarks, `aria-current` on the active nav item, alt text on every image and an `aria-label` on every figure, visible focus rings, and a print stylesheet that expands every citation into a readable URL.
+- **One source of truth for the shell.** The header and footer live once, in `index.html`; `python3 tools/rebuild-shell.py` copies them into all 188 pages and applies `aria-current` per page. CI fails if any page drifts.
 - **Checked in CI.** Every push runs three checks — plus, since this pass, that every page carries the same navigation and that the palette index has not drifted from the search page: internal links and assets resolve, each page keeps its invariants (one `h1`, a canonical URL, a skip link, no empty `src`, a share card that exists, and — on every dossier — breadcrumbs, a citation block and a related strip), and no page exceeds its size budget. A weekly job re-checks every cited URL and uploads the dead ones as an artifact.
 - **Deployable anywhere.** GitHub Pages serves it from the repository root; there is no `_config.yml`, no Jekyll, no Node in CI.
 
@@ -161,7 +162,7 @@ Nothing else is required. There is no `npm install`, no lockfile, no toolchain.
 │   └── img/                166 AVIF photographs and 18 SVG figures
 ├── docs/screenshots/       the images in this README
 ├── sitemap.xml             all 185 indexable URLs, each with its git date
-├── tools/                  the three checks CI runs
+├── tools/                  the checks CI runs, and the shell generator
 ├── .github/workflows/      structure, size budget, weekly link check
 └── robots.txt
 ```
