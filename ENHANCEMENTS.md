@@ -107,6 +107,14 @@ Deliberately deferred: `compare.html` still takes two dossiers, not three. Exten
 
 **Found while building the ledger:** 57 of the 162 dossiers carry a bespoke badge text — *Ended by DNA*, *A thermal blanket*, *Geology, not architecture* — rather than one of the four canonical labels, while their colour class is correct. The colours are consistent; the words are not. That is either nuance or drift, and it is your call: the ledger records both (`label_text`, `label_canonical`) so the decision can be made with the list in front of you rather than from memory.
 
+## 0i. Shipped in the ninth pass — 20 November 2026
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **An EPUB 3** — `assets/larger-world-archive.epub`, 164 chapters, 388 KB | The PDF is a fixed page; an EPUB is the same book on a phone, reflowing to whatever screen it lands on. Built from the print edition's parts, with the web links flattened to plain text so a chapter does not depend on a network. |
+| 2 | **Structure verified** — mimetype stored first and uncompressed, container → OPF → spine all resolving, 167 manifest items all present, 165 nav links all valid, no remote resources in any chapter | An EPUB that a reader refuses to open is worse than no EPUB. `epubcheck` is not available here, so the checks are the ones that matter mechanically. |
+| 3 | **Both downloads on the print edition page**, side by side | The PDF had a button; the EPUB needed to sit next to it or nobody would find it. |
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
@@ -164,7 +172,7 @@ These were gaps found in the audit and closed without touching a single sentence
 
 ## 4. Large — a week or more, changes what the archive is
 
-21. ~~**A generated PDF and EPUB of the print edition.**~~ **PDF done — see 0h; EPUB still open.** `print-edition.html` is 813 KB of HTML designed for `Ctrl-P`. A real typeset PDF with running heads, page numbers and a TOC with folios, plus an EPUB for e-readers, turns the archive into something that can be read on a train — and puts it one step from the KDP pipeline the other repositories already have.
+21. ~~**A generated PDF and EPUB of the print edition.**~~ **Done — see 0h and 0i.** `print-edition.html` is 813 KB of HTML designed for `Ctrl-P`. A real typeset PDF with running heads, page numbers and a TOC with folios, plus an EPUB for e-readers, turns the archive into something that can be read on a train — and puts it one step from the KDP pipeline the other repositories already have.
 22. **A static build step, or none at all.** The nav, footer and palette are duplicated across 170 files; one change means 170 edits (this pass touched all of them with a script). Either accept a 60-line generator that assembles pages from partials, or add a CI check that fails when two pages' nav blocks disagree. The second is cheaper and keeps the "clone and open `index.html`" property.
 23. ~~**A searchable command palette instead of the "More" menu.**~~ **Palette done — see 0g. The menu itself remains.** The nav panel holds 100+ links in one column. `Ctrl-K` with fuzzy matching over the same 980-record index would replace it, and would make the mobile header usable.
 24. ~~**Keyboard-first reading.**~~ **Done — see 0e.** `j`/`k` to move between dossiers in reading order, `s` to open search, `?` for the shortcut sheet. The reading guide already defines an order; nothing walks it.
