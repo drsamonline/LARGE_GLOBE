@@ -279,6 +279,27 @@ Ten more, five from the cosmos and five from the mind. Published in **41 seconds
 
 The batch also balances the archive's labels for the first time: fringe is no longer a curiosity at the edges but a category with eleven pages, and the three unfalsifiable claims (synchronicity, tulpas, the savant reservoir) are filed as fringe rather than debunked, which is the distinction the four-label scheme exists to make.
 
+## 0t. Shipped in the twentieth pass — 20 November 2026
+
+Ten more: four cosmos, three mind, three history. Published in 41 seconds; PDF and EPUB in 31.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | Life in Venus's Clouds | Live debate |
+| 2 | Europa's Ocean | Live debate |
+| 3 | Mirror Matter | Fringe claim |
+| 4 | The Big Bounce | Live debate |
+| 5 | The Baader–Meinhof Effect | Documented |
+| 6 | Folie à Deux | Documented |
+| 7 | Collective Effervescence | Documented |
+| 8 | The Berenstain Bears | Debunked |
+| 9 | Who Were the Sea Peoples? | Live debate |
+| 10 | The Amber Room | Live debate |
+
+226 dossiers, 1,010 sources, 260 images, 252 pages, PDF 684 pages, EPUB 228 chapters, sitemap 250 URLs, 0 problems.
+
+The archive crossed a thousand source entries with this batch. Two of the ten are the mechanism pages the rest of the collection depends on — the frequency illusion and collective effervescence — and both are filed as documented, because the mechanism is measured even when the claims it explains are not.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

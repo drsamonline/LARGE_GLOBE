@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 216,
+ "count": 226,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -190,6 +190,37 @@
      "https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease",
      "https://pubmed.ncbi.nlm.nih.gov/27314852/",
      "https://en.wikipedia.org/wiki/Amyloid_beta"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "amber-room",
+   "url": "amber-room.html",
+   "title": "The Amber Room",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A room panelled in amber, looted by the Nazis in 1941, and lost in 1945. The reconstruction is finished; the original is still missing, and the search has produced a great deal of theory and no amber.",
+   "facts": {
+    "Status": "Live debate",
+    "Given": "Prussia to Peter the Great, 1716",
+    "Looted": "1941, to Königsberg",
+    "Lost": "1945",
+    "Reconstruction": "Completed 2003, Catherine Palace",
+    "Original": "Never found; destruction is the leading account"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Amber_Room",
+     "https://en.wikipedia.org/wiki/Catherine_Palace",
+     "https://en.wikipedia.org/wiki/K%C3%B6nigsberg",
+     "https://en.wikipedia.org/wiki/Art_theft"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -416,6 +447,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "baader-meinhof",
+   "url": "baader-meinhof.html",
+   "title": "The Baader–Meinhof Effect",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Learn a new word and it appears everywhere for a week. Nothing has changed except your attention — which is why it is also called the frequency illusion.",
+   "facts": {
+    "Status": "Documented",
+    "Named": "1994, in a newspaper letter; 'frequency illusion' by Zwicky, 2005",
+    "Cause": "Selective attention plus confirmation bias",
+    "What changes": "The filter, not the frequency",
+    "What it explains": "Many 'it is everywhere now' claims",
+    "Test": "Trivially demonstrable"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Frequency_illusion",
+     "https://en.wikipedia.org/wiki/Confirmation_bias",
+     "https://en.wikipedia.org/wiki/Attentional_bias",
+     "https://en.wikipedia.org/wiki/Salience_(neuroscience)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "baalbek-giants",
    "url": "baalbek-giants.html",
    "title": "Baalbek and the Giants",
@@ -539,6 +601,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "berenstain-bears",
+   "url": "berenstain-bears.html",
+   "title": "The Berenstain Bears",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A generation remembers the books as 'Berenstein'. They were always 'Berenstain'. The spelling is the archive's neatest case of a false memory shared by thousands of people.",
+   "facts": {
+    "Status": "Debunked",
+    "Real spelling": "Berenstain, always",
+    "Remembered as": "Berenstein",
+    "Mechanism": "Memory regularisation to a common surname ending",
+    "Made famous by": "The Mandela Effect, from 2012",
+    "Physical check": "Any copy of any edition"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Berenstain_Bears",
+     "https://en.wikipedia.org/wiki/False_memory#Mandela_effect",
+     "https://en.wikipedia.org/wiki/False_memory",
+     "https://en.wikipedia.org/wiki/Schema_(psychology)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "bermuda-triangle",
    "url": "bermuda-triangle.html",
    "title": "The Bermuda Triangle",
@@ -594,6 +687,37 @@
      "https://archive.org/details/originofconsciou00jayn",
      "https://www.wired.com/2000/05/jaynes/",
      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3117607/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "big-bounce",
+   "url": "big-bounce.html",
+   "title": "The Big Bounce",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "If the universe contracts before it expands, the Big Bang is not a beginning. The idea is mathematically developed and observationally untested, and the cosmic microwave background is where it would show.",
+   "facts": {
+    "Status": "Live debate",
+    "Routes": "Loop quantum cosmology; ekpyrotic branes",
+    "Motivation": "Avoiding the initial singularity",
+    "Would show in": "CMB power suppression, non-Gaussianity",
+    "Constraint": "Planck: simplest versions disfavoured",
+    "Evidence for a bounce": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Big_Bounce",
+     "https://en.wikipedia.org/wiki/Loop_quantum_cosmology",
+     "https://en.wikipedia.org/wiki/Ekpyrotic_universe",
+     "https://en.wikipedia.org/wiki/Cosmic_microwave_background"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -997,6 +1121,37 @@
      "https://doi.org/10.1016/0022-0728(89)80006-3",
      "https://doi.org/10.1038/s41586-019-1256-6",
      "https://en.wikipedia.org/wiki/Sonoluminescence"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "collective-effervescence",
+   "url": "collective-effervescence.html",
+   "title": "Collective Effervescence",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Durkheim's term for what happens when a crowd assembles and feels something together. It is not mysticism; it is the mechanism by which rituals make beliefs feel true.",
+   "facts": {
+    "Status": "Documented",
+    "Term": "Émile Durkheim, 1912",
+    "What it is": "Heightened shared emotion in assembled groups",
+    "Measurable correlates": "Synchrony, endorphins, pain threshold, bonding",
+    "Function": "Binds the group; makes beliefs feel sacred",
+    "Not": "A force or a field"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Collective_effervescence",
+     "https://en.wikipedia.org/wiki/%C3%89mile_Durkheim",
+     "https://en.wikipedia.org/wiki/The_Elementary_Forms_of_Religious_Life",
+     "https://en.wikipedia.org/wiki/Entrainment_(biomusicology)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1838,6 +1993,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "europa-ocean",
+   "url": "europa-ocean.html",
+   "title": "Europa's Ocean",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Beneath fifteen kilometres of ice, Europa has more liquid water than all of Earth's oceans. Whether anything lives in it is unknown, and a spacecraft is on its way to look.",
+   "facts": {
+    "Status": "Live debate",
+    "Ocean": "60–150 km deep; ~2× Earth's ocean volume",
+    "Ice shell": "15–25 km",
+    "Evidence": "Induced magnetic field; young fractured surface",
+    "Plumes": "Reported, unconfirmed",
+    "Mission": "Europa Clipper, launched 2024, arrives 2030"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Europa_(moon)",
+     "https://en.wikipedia.org/wiki/Europa_Clipper",
+     "https://en.wikipedia.org/wiki/Tidal_heating",
+     "https://en.wikipedia.org/wiki/Ocean_world"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "face-on-mars",
    "url": "face-on-mars.html",
    "title": "The Face on Mars",
@@ -2059,6 +2245,37 @@
      "https://en.wikipedia.org/wiki/Intelligence_quotient",
      "https://en.wikipedia.org/wiki/Heritability_of_IQ",
      "https://en.wikipedia.org/wiki/G_factor_(psychometrics)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "folie-a-deux",
+   "url": "folie-a-deux.html",
+   "title": "Folie à Deux",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A delusion shared by two people in a close relationship, usually one dominant and one suggestible. It is rare, it is real, and the modern diagnostic manuals have quietly stopped calling it a separate illness.",
+   "facts": {
+    "Status": "Documented",
+    "Described": "Lasègue and Falret, 1877",
+    "Structure": "Inducer and recipient, in a close relationship",
+    "Content": "Often persecutory",
+    "Resolution": "Usually on separation",
+    "Modern status": "Folded into the schizophrenia spectrum in DSM-5"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Folie_%C3%A0_deux",
+     "https://en.wikipedia.org/wiki/Delusion",
+     "https://en.wikipedia.org/wiki/Shared_delusional_disorder",
+     "https://en.wikipedia.org/wiki/DSM-5"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3613,6 +3830,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "mirror-matter",
+   "url": "mirror-matter.html",
+   "title": "Mirror Matter",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Every particle could have a mirror twin in a hidden sector that interacts only gravitationally. It would be dark matter, and it would be invisible. It is an elegant idea with no detection.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Lee and Yang, 1956; developed by Foot, Volkas and others",
+    "Claim": "A hidden sector coupled only gravitationally",
+    "Would explain": "Dark matter",
+    "Tests": "Photon and neutron mixing experiments — null",
+    "Standing": "Not excluded; not favoured"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mirror_matter",
+     "https://en.wikipedia.org/wiki/Dark_matter",
+     "https://en.wikipedia.org/wiki/Parity_(physics)",
+     "https://en.wikipedia.org/wiki/Neutron_oscillation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "modern-monetary-theory",
    "url": "modern-monetary-theory.html",
    "title": "Modern Monetary Theory",
@@ -5152,6 +5400,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sea-peoples",
+   "url": "sea-peoples.html",
+   "title": "Who Were the Sea Peoples?",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Egyptian inscriptions record a coalition of peoples attacking the Nile Delta at the end of the Bronze Age. Nobody knows where they came from, and the question is older than archaeology.",
+   "facts": {
+    "Status": "Live debate",
+    "Recorded": "Merneptah, c. 1208 BC; Ramesses III, c. 1177 BC",
+    "Named groups": "Peleset, Tjekker, Shekelesh, Denyen, Sherden",
+    "Likely identification": "Peleset = Philistines",
+    "Contested": "Origins of the rest; one movement or several",
+    "Context": "The Late Bronze Age collapse"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sea_Peoples",
+     "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+     "https://en.wikipedia.org/wiki/Medinet_Habu_(temple)",
+     "https://en.wikipedia.org/wiki/Philistines"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "secret-societies",
    "url": "secret-societies.html",
    "title": "Secret Societies",
@@ -6518,6 +6797,37 @@
      "https://www.theatlantic.com/technology/2014/06/a-brief-history-of-slenderman/372109",
      "https://journal.equinoxpub.com/JASR/article/view/21100",
      "https://www.nytimes.com/1991/09/10/world/2-jovial-con-men-demystify-those-crop-circles-in-britain.html"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "venus-clouds-life",
+   "url": "venus-clouds-life.html",
+   "title": "Life in Venus's Clouds",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The surface of Venus is hot enough to melt lead. Fifty kilometres up, the pressure and temperature are almost Earth-like — which is why the cloud layer keeps being proposed as a habitat, and why the phosphine claim of 2020 mattered.",
+   "facts": {
+    "Status": "Live debate",
+    "Cloud layer": "~50 km up; 30–70 °C; ~1 atm",
+    "Droplets": "75–96% sulfuric acid; very low water activity",
+    "Phosphine claim": "Greaves et al., 2020, ~20 ppb",
+    "Reanalysis": "SO₂ and artefacts; abundance at most a trace",
+    "Planned missions": "Several, which makes it testable"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Life_on_Venus",
+     "https://en.wikipedia.org/wiki/Phosphine",
+     "https://en.wikipedia.org/wiki/Atmosphere_of_Venus",
+     "https://en.wikipedia.org/wiki/Venus"
     ]
    },
    "last_reviewed": "2026-11-20",
