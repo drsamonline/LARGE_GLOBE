@@ -363,6 +363,27 @@ Ten more: AI risk, memory in the phone era, and four cosmology arguments.
 
 **A process failure worth recording.** Eight of these ten were written without the `field` and `years` arguments, and my first repair script — a regex that inserted the missing pair — silently filled them with `"General", "1900s – present"` for every affected dossier. The build passed, the pages rendered, and the only reason it was caught is that I printed the fields afterwards and saw eight identical values. A silent default is worse than a hard failure: the D() signature caught the missing arguments the first four times, and my "fix" defeated the check. Corrected before publishing.
 
+## 0x. Shipped in the twenty-fourth pass — 21 November 2026
+
+Ten more, all from the artefact shelf: four out-of-place objects and six pieces of genuine ancient technology.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | The Saqqara Bird | Debunked |
+| 2 | The Phaistos Disc | Debunked |
+| 3 | Archimedes' Heat Ray | Live debate |
+| 4 | Greek Fire | Live debate |
+| 5 | Damascus Steel | Live debate |
+| 6 | Roman Concrete That Heals | Documented |
+| 7 | The Iron Pillar of Delhi | Documented |
+| 8 | The Lycurgus Cup | Documented |
+| 9 | The London Hammer | Debunked |
+| 10 | Pakal's Rocket | Debunked |
+
+266 dossiers, 1,170 sources, 300 images, 292 pages, PDF 764 pages, EPUB 268 chapters, sitemap 290 URLs, 0 problems.
+
+**The fix for the silent-default bug.** `publish_batch.py` now refuses to publish a dossier with a missing field, a placeholder value (`"General"`, `"1900s – present"`) or fewer than three sources. The two bugs that reached the pages in the last batch — eight dossiers with `"General"` as their field — would have failed this check at the door.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 256,
+ "count": 266,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -471,6 +471,37 @@
      "https://doi.org/10.1006/jhev.1997.0146",
      "https://doi.org/10.1038/nature06204",
      "https://en.wikipedia.org/wiki/Orrorin"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "archimedes-heat-ray",
+   "url": "archimedes-heat-ray.html",
+   "title": "Archimedes' Heat Ray",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Mirrors on the walls of Syracuse, focusing sunlight onto Roman ships. The story is late, the physics is marginal, and the experiments have produced smoke and no fire.",
+   "facts": {
+    "Status": "Live debate",
+    "Event": "Siege of Syracuse, 212 BC",
+    "Earliest sources": "Centuries after the event",
+    "Demonstrated": "Short range, stationary target, many mirrors",
+    "Not demonstrated": "Siege range under battle conditions",
+    "Conclusion": "Possible in principle; unlikely in practice"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Archimedes%27_heat_ray",
+     "https://en.wikipedia.org/wiki/Archimedes",
+     "https://en.wikipedia.org/wiki/Solar_furnace",
+     "https://en.wikipedia.org/wiki/Siege_of_Syracuse_(213%E2%80%93212_BC)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1569,6 +1600,37 @@
      "https://psi-encyclopedia.spr.ac.uk/articles/amityville-hoax/",
      "https://naturalhistory.si.edu/explore/collections/hope-diamond-history",
      "https://english.ahram.org.eg/NewsContentP/50/357462/AlAhram-Weekly/The-curse-of-the-Pharaohs.aspx"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "damascus-steel",
+   "url": "damascus-steel.html",
+   "title": "Damascus Steel",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Blades with a watery pattern, made from crucible steel imported from India, and famous for sharpness. The technique was lost in the eighteenth century, and the nanoscale explanation is contested.",
+   "facts": {
+    "Status": "Live debate",
+    "Source steel": "Wootz, from India and Sri Lanka",
+    "Pattern": "Carbide banding from slow cooling and forging",
+    "Lost": "Around the eighteenth century",
+    "Nanotube claim": "2006; striking, unconfirmed as the mechanism",
+    "Well supported": "Trace elements and carbide segregation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Damascus_steel",
+     "https://en.wikipedia.org/wiki/Wootz_steel",
+     "https://en.wikipedia.org/wiki/Crucible_steel",
+     "https://en.wikipedia.org/wiki/Carbon_nanotube"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3255,6 +3317,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "greek-fire",
+   "url": "greek-fire.html",
+   "title": "Greek Fire",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A Byzantine incendiary that burned on water and was projected from ships. The recipe was a state secret, and it was kept: nobody knows exactly what it was.",
+   "facts": {
+    "Status": "Live debate",
+    "Used from": "Seventh century, Byzantine Empire",
+    "Delivery": "Bronze siphon on a ship",
+    "Key property": "Burned on water",
+    "Formula": "Unknown; no recipe survives",
+    "Likely base": "Petroleum with quicklime and sulphur"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Greek_fire",
+     "https://en.wikipedia.org/wiki/Byzantine_navy",
+     "https://en.wikipedia.org/wiki/Naphtha",
+     "https://en.wikipedia.org/wiki/Early_thermal_weapons"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "green-children-woolpit",
    "url": "green-children-woolpit.html",
    "title": "The Green Children of Woolpit",
@@ -3670,6 +3763,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "iron-pillar-delhi",
+   "url": "iron-pillar-delhi.html",
+   "title": "The Iron Pillar of Delhi",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A six-tonne iron pillar from the Gupta period that has barely rusted in 1,600 years. It is not a lost technology; it is phosphorus, and a dry climate.",
+   "facts": {
+    "Status": "Documented",
+    "Height": "7.2 m; about six tonnes",
+    "Date": "Fourth–fifth century, Gupta",
+    "Composition": "~99% iron, with phosphorus",
+    "Corrosion layer": "Misawite (iron phosphate)",
+    "Cause": "Ore chemistry plus a dry climate"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi",
+     "https://en.wikipedia.org/wiki/Gupta_Empire",
+     "https://en.wikipedia.org/wiki/Passivation",
+     "https://en.wikipedia.org/wiki/Qutb_complex"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "jevons-paradox",
    "url": "jevons-paradox.html",
    "title": "The Jevons Paradox",
@@ -3984,6 +4108,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "london-hammer",
+   "url": "london-hammer.html",
+   "title": "The London Hammer",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A hammer found encased in rock, said to be 400 million years old. The rock is a concretion that formed around a nineteenth-century tool, which is what the tool is.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "London, Texas, 1936",
+    "Object": "Cast-iron hammer, nineteenth-century pattern",
+    "Handle": "Recent wood",
+    "Encasing rock": "Limestone concretion",
+    "Claimed age": "400 million years — for the rock, not the tool"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/London_Hammer",
+     "https://en.wikipedia.org/wiki/Concretion",
+     "https://en.wikipedia.org/wiki/Out-of-place_artifact",
+     "https://en.wikipedia.org/wiki/Creation_science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "loop-quantum-gravity",
    "url": "loop-quantum-gravity.html",
    "title": "Loop Quantum Gravity",
@@ -4104,6 +4259,37 @@
      "https://en.wikipedia.org/wiki/Moon",
      "https://en.wikipedia.org/wiki/Adaptive_optics",
      "https://en.wikipedia.org/wiki/Mirage"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "lycurgus-cup",
+   "url": "lycurgus-cup.html",
+   "title": "The Lycurgus Cup",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A Roman glass cup that looks green in reflected light and red in transmitted light. It does this with gold and silver nanoparticles, which is nanotechnology by accident, fifteen centuries early.",
+   "facts": {
+    "Status": "Documented",
+    "Date": "Fourth century AD",
+    "Held": "British Museum",
+    "Effect": "Green in reflection, red in transmission",
+    "Cause": "Gold and silver nanoparticles, ~50 nm",
+    "Mechanism": "Surface plasmon resonance"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lycurgus_Cup",
+     "https://en.wikipedia.org/wiki/Surface_plasmon_resonance",
+     "https://en.wikipedia.org/wiki/Dichroic_glass",
+     "https://en.wikipedia.org/wiki/Roman_glass"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5018,6 +5204,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "pakal-rocket",
+   "url": "pakal-rocket.html",
+   "title": "Pakal's Rocket",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The carved lid of Pakal's sarcophagus at Palenque shows a figure in a complex posture. In 1968 it was read as an astronaut in a spaceship, which requires ignoring the Maya iconography around it.",
+   "facts": {
+    "Status": "Debunked",
+    "Subject": "K'inich Janaab' Pakal, king of Palenque",
+    "Date": "683 AD",
+    "The claim": "Von Däniken, 1968 — an astronaut in a capsule",
+    "The reading": "Royal death and descent, framed by the world tree",
+    "Evidence": "The glyphs and comparable Maya monuments"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/K%27inich_Janaab%27_Pakal",
+     "https://en.wikipedia.org/wiki/Palenque",
+     "https://en.wikipedia.org/wiki/Maya_mythology",
+     "https://en.wikipedia.org/wiki/Ancient_astronauts"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "panama-papers",
    "url": "panama-papers.html",
    "title": "The Panama Papers",
@@ -5200,6 +5417,37 @@
      "https://jamanetwork.com/journals/jama/fullarticle/2474103",
      "https://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.01191.x",
      "https://www.cancer.gov/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "phaistos-disc",
+   "url": "phaistos-disc.html",
+   "title": "The Phaistos Disc",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A fired clay disc with 241 stamped signs in a spiral. It is genuinely undeciphered, and it is genuinely not evidence of Atlantis, aliens or a lost Atlantic script.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "Phaistos, Crete, 1908",
+    "Date": "About 1700 BC",
+    "Signs": "241 impressions, 45 distinct",
+    "Manufacture": "Stamped with punches into clay",
+    "Deciphered": "No; no bilingual, one short text"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Phaistos_Disc",
+     "https://en.wikipedia.org/wiki/Linear_A",
+     "https://en.wikipedia.org/wiki/Minoan_civilization",
+     "https://en.wikipedia.org/wiki/Undeciphered_writing_systems"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6013,6 +6261,68 @@
      "https://en.wikipedia.org/wiki/Roko%27s_basilisk",
      "https://rationalwiki.org/wiki/Roko%27s_basilisk",
      "https://www.lesswrong.com/w/timeless-decision-theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "roman-concrete",
+   "url": "roman-concrete.html",
+   "title": "Roman Concrete That Heals",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Roman marine concrete has survived two thousand years of seawater. The explanation is lime clasts that crack, dissolve and recrystallise — and a 2023 study found a way to make it deliberately.",
+   "facts": {
+    "Status": "Documented",
+    "Aggregate": "Volcanic ash (pozzolana) with lime",
+    "Marine mineral": "Aluminous tobermorite",
+    "Self-healing": "Lime clasts dissolve and recrystallise",
+    "2023 study": "MIT: the clasts were deliberate; a modern version heals",
+    "Best example": "The Pantheon dome"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Roman_concrete",
+     "https://en.wikipedia.org/wiki/Pozzolana",
+     "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+     "https://en.wikipedia.org/wiki/Self-healing_concrete"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "saqqara-bird",
+   "url": "saqqara-bird.html",
+   "title": "The Saqqara Bird",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A wooden bird from an Egyptian tomb, about 2,200 years old, was said to be a model glider. It has no tail fin, no airfoil, and no evidence of ever having flown.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "Saqqara, 1898",
+    "Date": "About 200 BC",
+    "Material": "Sycamore wood, 18 cm",
+    "Missing for flight": "Tail fin, wing camber, sufficient wing area",
+    "Replicas": "Fly only when modified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Saqqara_Bird",
+     "https://en.wikipedia.org/wiki/Saqqara",
+     "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
+     "https://en.wikipedia.org/wiki/Out-of-place_artifact"
     ]
    },
    "last_reviewed": "2026-11-20",
