@@ -342,6 +342,27 @@ Ten more: megastructures, dream claims, and two famous grails.
 
 Four of these are the same structural case — a real observation with an unevidenced inference bolted on (Dyson's infrared excess, the palmar crease, the dream report, the solstice alignment). Filing them together makes the archive's central distinction legible in one shelf.
 
+## 0w. Shipped in the twenty-third pass — 20 November 2026
+
+Ten more: AI risk, memory in the phone era, and four cosmology arguments.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | The Paperclip Maximiser | Live debate |
+| 2 | Grey Goo | Fringe claim |
+| 3 | Mind Uploading | Fringe claim |
+| 4 | Phantom Vibration Syndrome | Documented |
+| 5 | The Google Effect | Documented |
+| 6 | Planet Nine as a Black Hole | Fringe claim |
+| 7 | Loop Quantum Gravity | Live debate |
+| 8 | Assembly Theory | Live debate |
+| 9 | Blue Light and Circadian Damage | Live debate |
+| 10 | Dark Flow | Live debate |
+
+256 dossiers, 1,130 sources, 290 images, 282 pages, PDF 744 pages, EPUB 258 chapters, sitemap 280 URLs, 0 problems.
+
+**A process failure worth recording.** Eight of these ten were written without the `field` and `years` arguments, and my first repair script — a regex that inserted the missing pair — silently filled them with `"General", "1900s – present"` for every affected dossier. The build passed, the pages rendered, and the only reason it was caught is that I printed the fields afterwards and saw eight identical values. A silent default is worse than a hard failure: the D() signature caught the missing arguments the first four times, and my "fix" defeated the check. Corrected before publishing.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

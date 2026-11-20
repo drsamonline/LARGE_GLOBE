@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 246,
+ "count": 256,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -540,6 +540,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "assembly-theory",
+   "url": "assembly-theory.html",
+   "title": "Assembly Theory",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A proposed measure of how complex an object is, by counting the minimum steps needed to build it. Its authors argue it explains selection and can detect life; its critics argue it measures construction, not causation.",
+   "facts": {
+    "Status": "Live debate",
+    "Developed": "Cronin and Walker, from 2017",
+    "Measure": "Assembly index — minimum construction steps",
+    "Claim": "High index implies selection",
+    "Criticism": "Measures construction, not history; method contested",
+    "Published": "Nature, 2023"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Assembly_theory",
+     "https://en.wikipedia.org/wiki/Abiogenesis",
+     "https://en.wikipedia.org/wiki/Complexity",
+     "https://en.wikipedia.org/wiki/Mass_spectrometry"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "baader-meinhof",
    "url": "baader-meinhof.html",
    "title": "The Baader–Meinhof Effect",
@@ -935,6 +966,37 @@
      "https://en.wikipedia.org/wiki/The_Black_Swan",
      "https://en.wikipedia.org/wiki/Superforecasting",
      "https://en.wikipedia.org/wiki/Fat-tailed_distribution"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "blue-light-circadian",
+   "url": "blue-light-circadian.html",
+   "title": "Blue Light and Circadian Damage",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Short-wavelength light suppresses melatonin and shifts the body clock. That much is solid. The claim that screens damage the retina, or that blue-blocking glasses fix sleep, is where the evidence thins out.",
+   "facts": {
+    "Status": "Live debate",
+    "Established": "Melatonin suppression; circadian phase shift",
+    "Pathway": "Intrinsically photosensitive retinal ganglion cells",
+    "Not supported": "Retinal damage from screens",
+    "Inconsistent": "Blue-blocking lenses in trials",
+    "What works": "Dimming, timing, morning light"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Circadian_rhythm",
+     "https://en.wikipedia.org/wiki/Melatonin",
+     "https://en.wikipedia.org/wiki/Intrinsically_photosensitive_retinal_ganglion_cell",
+     "https://en.wikipedia.org/wiki/Blue-light_blocking_glasses"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1507,6 +1569,37 @@
      "https://psi-encyclopedia.spr.ac.uk/articles/amityville-hoax/",
      "https://naturalhistory.si.edu/explore/collections/hope-diamond-history",
      "https://english.ahram.org.eg/NewsContentP/50/357462/AlAhram-Weekly/The-curse-of-the-Pharaohs.aspx"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dark-flow",
+   "url": "dark-flow.html",
+   "title": "Dark Flow",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A 2008 analysis reported that galaxy clusters are all drifting toward a patch of sky beyond the observable universe. If true it would break the assumption that the universe looks the same in every direction. Later data did not confirm it.",
+   "facts": {
+    "Status": "Live debate",
+    "Reported": "Kashlinsky et al., 2008",
+    "Claim": "Bulk flow of clusters toward a preferred direction",
+    "Would imply": "Structure beyond the observable universe",
+    "Reanalysis": "Planck and later catalogues: not confirmed",
+    "Sensitivity": "Catalogue selection; CMB dipole subtraction"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dark_flow",
+     "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+     "https://en.wikipedia.org/wiki/Cosmological_principle",
+     "https://en.wikipedia.org/wiki/Peculiar_velocity"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2975,6 +3068,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "google-effect",
+   "url": "google-effect.html",
+   "title": "The Google Effect",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "People remember where to find information rather than the information itself. The 2011 paper that named it is famous; the replications are mixed, which is the honest state of the finding.",
+   "facts": {
+    "Status": "Documented",
+    "Published": "Sparrow, Liu and Wegner, Science, 2011",
+    "Finding": "Location remembered better than content",
+    "Replications": "Mixed; weaker than the original",
+    "Framing": "Transactive memory, not decline",
+    "Not established": "Any loss of ability"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Google_effect",
+     "https://en.wikipedia.org/wiki/Transactive_memory",
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://en.wikipedia.org/wiki/External_memory_(psychology)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "grail-bloodline",
    "url": "grail-bloodline.html",
    "title": "The Grail Bloodline",
@@ -3155,6 +3279,37 @@
      "https://en.wikipedia.org/wiki/William_of_Newburgh",
      "https://en.wikipedia.org/wiki/Ralph_of_Coggeshall",
      "https://en.wikipedia.org/wiki/Changeling"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "grey-goo",
+   "url": "grey-goo.html",
+   "title": "Grey Goo",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Self-replicating nanobots that consume the biosphere. It comes from a 1986 book about molecular manufacturing, and the physics of building it has never been demonstrated.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Source": "Drexler, Engines of Creation, 1986",
+    "Requires": "A general molecular assembler",
+    "Demonstrated": "No",
+    "Key objection": "Mechanosynthesis does not work in wet, warm conditions",
+    "Drexler's own view": "Unlikely; a distraction from real risks"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Grey_goo",
+     "https://en.wikipedia.org/wiki/Molecular_nanotechnology",
+     "https://en.wikipedia.org/wiki/Mechanosynthesis",
+     "https://en.wikipedia.org/wiki/Molecular_assembler"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3829,6 +3984,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "loop-quantum-gravity",
+   "url": "loop-quantum-gravity.html",
+   "title": "Loop Quantum Gravity",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A theory in which space itself is quantised into a network of finite loops. It is mathematically developed, predicts almost nothing measurable, and is one of the two main attempts at quantum gravity.",
+   "facts": {
+    "Status": "Live debate",
+    "Developed": "From the late 1980s",
+    "Core idea": "Quantised geometry; background independence",
+    "Scale": "Planck length, ~10⁻³⁵ m",
+    "Predictions": "Weak; none confirmed",
+    "Rival": "String theory"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Loop_quantum_gravity",
+     "https://en.wikipedia.org/wiki/Quantum_gravity",
+     "https://en.wikipedia.org/wiki/Spin_network",
+     "https://en.wikipedia.org/wiki/Planck_length"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lost-continents",
    "url": "lost-continents.html",
    "title": "Lost Continents",
@@ -4195,6 +4381,37 @@
      "https://doi.org/10.1086/256633",
      "https://en.wikipedia.org/wiki/McKelvey%E2%80%93Schofield_chaos_theorem",
      "https://en.wikipedia.org/wiki/Political_polarization"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mind-uploading",
+   "url": "mind-uploading.html",
+   "title": "Mind Uploading",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Scan a brain at sufficient resolution, run the simulation, and the person continues in software. The proposal has a serious engineering roadmap and no working example, and the philosophical problem is not the engineering.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Roadmap": "Sandberg and Bostrom, 2008",
+    "Mapped connectomes": "Nematode (302 neurons); fly in progress",
+    "Human scale": "~86 billion neurons, ~100 trillion synapses",
+    "Achieved": "No mammalian whole-brain scan at that resolution",
+    "Open": "Whether the emulation is the person"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mind_uploading",
+     "https://en.wikipedia.org/wiki/Connectome",
+     "https://en.wikipedia.org/wiki/Whole_brain_emulation",
+     "https://en.wikipedia.org/wiki/Transhumanism"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4864,6 +5081,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "paperclip-maximiser",
+   "url": "paperclip-maximiser.html",
+   "title": "The Paperclip Maximiser",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "An AI told to make paperclips, and nothing else, would turn the planet into paperclips. It is a thought experiment about goal specification, and it is quoted as though it were a prediction.",
+   "facts": {
+    "Status": "Live debate",
+    "Introduced": "Nick Bostrom, 2003",
+    "Components": "Orthogonality thesis; instrumental convergence",
+    "About": "Goal specification, not malice",
+    "Current systems": "Do not have this structure",
+    "Contested": "Whether the problem is solvable, and when"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Instrumental_convergence",
+     "https://en.wikipedia.org/wiki/AI_safety",
+     "https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies",
+     "https://en.wikipedia.org/wiki/Intelligent_agent"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "paul-is-dead",
    "url": "paul-is-dead.html",
    "title": "Paul Is Dead",
@@ -4983,6 +5231,37 @@
      "https://en.wikipedia.org/wiki/Dendrochronology",
      "https://eclipse.gsfc.nasa.gov/eclipse.html",
      "https://www.historytoday.com/archive/history-matters/charlemagne"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "phantom-vibration",
+   "url": "phantom-vibration.html",
+   "title": "Phantom Vibration Syndrome",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The phone buzzes in a pocket that has no phone in it. Most people who carry one have felt it, and it is a textbook case of a learned association misfiring.",
+   "facts": {
+    "Status": "Documented",
+    "Reported by": "60–90% of phone users",
+    "Mechanism": "Learned expectation plus ambiguous sensation",
+    "Occurs with": "Phones off, airplane mode",
+    "Not": "A hallucination, or radiation sensitivity",
+    "Related": "Hearing your name in noise"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Phantom_vibration_syndrome",
+     "https://en.wikipedia.org/wiki/Pareidolia",
+     "https://en.wikipedia.org/wiki/Classical_conditioning",
+     "https://en.wikipedia.org/wiki/Electromagnetic_hypersensitivity"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5200,6 +5479,37 @@
      "https://doi.org/10.1056/NEJM200105243442106",
      "https://doi.org/10.1371/journal.pone.0015591",
      "https://doi.org/10.1126/science.1072873"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "planet-nine-black-hole",
+   "url": "planet-nine-black-hole.html",
+   "title": "Planet Nine as a Black Hole",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Something is perturbing distant solar system objects. One proposal is a planet; another is a primordial black hole of a few Earth masses. Both are inference from orbits, and neither has been seen.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Anomaly": "Clustering of extreme trans-Neptunian orbits",
+    "Planet Nine": "Batygin and Brown, 2016",
+    "Black hole version": "Scholtz and Unwin, 2019",
+    "Detected": "Neither",
+    "Clustering": "Contested in larger surveys"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Planet_Nine",
+     "https://en.wikipedia.org/wiki/Primordial_black_hole",
+     "https://en.wikipedia.org/wiki/Extreme_trans-Neptunian_object",
+     "https://en.wikipedia.org/wiki/Kuiper_belt"
     ]
    },
    "last_reviewed": "2026-11-20",
