@@ -21,6 +21,11 @@ for p in pages:
         problems.append(f"{p}: no skip link")
     if p != "support.html" and 'class="support-band"' not in h:
         problems.append(f"{p}: no support band")
+    for a, b in re.findall(r'<div class="pager"><a href="([^"]+)">.*?</a><a href="([^"]+)">', h):
+        for t in (a, b):
+            path = t.split("#")[0]
+            if not path.endswith(".html") or not os.path.exists(path):
+                problems.append(f"{p}: pager points at {t}")
     if 'src=""' in h:
         problems.append(f"{p}: empty image src")
     for t in re.findall(r'href="([^"#:?]+\.html)[^"]*"', h):
