@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 162,
+ "count": 168,
  "claims": [
   {
    "slug": "ai-risk",
@@ -223,6 +223,68 @@
      "https://theconversation.com/why-some-people-still-believe-that-aliens-shaped-ancient-civilisations-277993",
      "https://prop.ub.uni-heidelberg.de/journals/aegyp/article/download/40164/33823",
      "https://www.discoveryuk.com/mysteries/legend-to-launchpad-the-ancient-astronaut-theory/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "anthropocene",
+   "url": "anthropocene.html",
+   "title": "The Anthropocene",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Humans have changed the rock record. Whether that deserves a place in the geological timescale was put to a vote in 2024 and lost — and the vote is more interesting than the answer.",
+   "facts": {
+    "Status": "Documented",
+    "Term": "Crutzen and Stoermer, 2000",
+    "Working group": "2009–2024",
+    "Voted start": "Mid-twentieth century, plutonium marker",
+    "IUGS decision": "Rejected as a formal epoch, March 2024",
+    "Current proposal": "An event, not an epoch"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Anthropocene",
+     "http://www.igbp.net/download/18.316f18321323470177580001401/1376383088452/NL41.pdf",
+     "https://en.wikipedia.org/wiki/Great_Acceleration",
+     "https://en.wikipedia.org/wiki/International_Union_of_Geological_Sciences"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "aphantasia",
+   "url": "aphantasia.html",
+   "title": "Aphantasia",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Some people close their eyes and see nothing. The condition was described in 1880, named in 2015, and is now the best-studied example of how differently ordinary minds are furnished.",
+   "facts": {
+    "Status": "Documented",
+    "Described": "Galton, 1880; named by Zeman's group, 2015",
+    "Prevalence": "Roughly 1–4%",
+    "Instrument": "Vividness of Visual Imagery Questionnaire",
+    "Objective markers": "Reduced imagery priming in binocular rivalry; weaker frontal–visual coupling",
+    "Opposite": "Hyperphantasia: unusually vivid imagery"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Aphantasia",
+     "https://doi.org/10.1016/j.cortex.2015.05.019",
+     "https://doi.org/10.1016/j.tics.2019.07.004",
+     "https://en.wikipedia.org/wiki/Mental_image"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -531,6 +593,37 @@
      "https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/",
      "https://doi.org/10.1086/505458",
      "https://en.wikipedia.org/wiki/Floyd_v._City_of_New_York"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cambrian-explosion",
+   "url": "cambrian-explosion.html",
+   "title": "The Cambrian Explosion",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Almost every major animal group appears in the fossil record within about twenty million years. Whether that is an explosion of life or an explosion of fossils is the argument, and it has been running since Darwin apologised for it.",
+   "facts": {
+    "Status": "Live debate",
+    "Began": "About 539 million years ago",
+    "Duration": "Roughly 20–25 million years",
+    "Key sites": "Burgess Shale (1909); Chengjiang; Emu Bay Shale",
+    "What appeared": "Most major animal phyla, in mineralised form",
+    "The argument": "A real radiation, or a real radiation plus a better record"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cambrian_explosion",
+     "https://en.wikipedia.org/wiki/Burgess_Shale",
+     "https://en.wikipedia.org/wiki/Ediacaran_biota",
+     "https://en.wikipedia.org/wiki/On_the_Origin_of_Species"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1116,6 +1209,37 @@
      "https://en.wikipedia.org/wiki/Tabby%27s_Star",
      "https://en.wikipedia.org/wiki/Kardashev_scale",
      "https://wise2.ipac.caltech.edu/docs/release/allwise/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "earthquake-prediction",
+   "url": "earthquake-prediction.html",
+   "title": "Earthquake Prediction",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Nobody can say where and when a large earthquake will happen. A great deal of money and a long list of methods have gone into trying, and the failures are more instructive than the successes.",
+   "facts": {
+    "Status": "Live debate",
+    "Reliable prediction": "None",
+    "What works": "Aftershock statistics, hazard maps, early warning",
+    "Parkfield": "Instrumented 1985; ruptured 2004, unpredicted",
+    "Haicheng / Tangshan": "1975 warned, 1976 not — the same country, one year apart",
+    "Key obstacle": "Rare events, unscoreable claims"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Earthquake_prediction",
+     "https://en.wikipedia.org/wiki/Parkfield_earthquake",
+     "https://earthquake.usgs.gov/",
+     "https://en.wikipedia.org/wiki/Earthquake_early_warning_system"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2739,6 +2863,37 @@
      "https://irds.ieee.org/",
      "https://doi.org/10.1145/3282307",
      "https://en.wikipedia.org/wiki/Dennard_scaling"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "multiple-intelligences",
+   "url": "multiple-intelligences.html",
+   "title": "Multiple Intelligences",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that intelligence comes in eight or nine independent kinds reshaped classrooms worldwide. As a description of how abilities are organised it does not survive the data, and the theory was never built to be tested.",
+   "facts": {
+    "Status": "Debunked",
+    "Proposed": "Howard Gardner, 1983",
+    "Original list": "Seven; naturalistic added later",
+    "Psychometric evidence": "A general factor plus narrower abilities, not eight independents",
+    "Testability": "The taxonomy was not derived from data and makes no failing prediction",
+    "What survives": "Uneven ability; multi-modal teaching"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences",
+     "https://en.wikipedia.org/wiki/G_factor_(psychometrics)",
+     "https://doi.org/10.1207/s15326985ep4104_1",
+     "https://en.wikipedia.org/wiki/Learning_styles"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4545,6 +4700,37 @@
      "https://doi.org/10.1093/mnras/stw2180",
      "https://doi.org/10.3847/2041-8213/aaa405",
      "https://en.wikipedia.org/wiki/KIC_8462852"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "tardigrades",
+   "url": "tardigrades.html",
+   "title": "Tardigrades Between Planets",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A millimetre-long animal that survives vacuum, radiation and decades without water is real. The claim built on top of it — that life travels between planets — is a different proposition, and the experiments that get quoted do not support it.",
+   "facts": {
+    "Status": "Documented",
+    "Described": "J. A. E. Goeze, 1773",
+    "Species": "More than 1,000 described",
+    "Tun state": "Metabolism below measurement; DNA repaired on rehydration",
+    "Space test": "2007, low Earth orbit, ten days, survivors",
+    "Panspermia": "Not demonstrated; the transit dose is the problem"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tardigrade",
+     "https://doi.org/10.1016/j.cub.2008.06.048",
+     "https://en.wikipedia.org/wiki/Cryptobiosis",
+     "https://doi.org/10.1073/pnas.1521077113"
     ]
    },
    "last_reviewed": "2026-11-20",

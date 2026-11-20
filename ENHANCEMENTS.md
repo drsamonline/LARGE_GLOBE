@@ -142,6 +142,21 @@ Deliberately deferred: `compare.html` still takes two dossiers, not three. Exten
 | 3 | **CI runs `--check`** | The page and the ledger can no longer disagree without failing the build. |
 | 4 | **The caption and the thinnest-dossier sentence are generated too** | Prose is where stale numbers survive longest: the chart was regenerated, and the sentence beneath it still said 150. |
 
+## 0m. Shipped in the thirteenth pass — 20 November 2026
+
+Six dossiers written from the topic register, each with a credited Commons photograph, the full page furniture (breadcrumbs, citation block, related strip, on-this-page rail, share card) and four sources.
+
+| # | Dossier | Label | Why it earns a page |
+|---|---|---|---|
+| 1 | **Tardigrades Between Planets** | Documented | The animal is real and extraordinary; the panspermia inference attached to it is neither, and the 2015 genome claim was retracted. |
+| 2 | **The Cambrian Explosion** | Live debate | Twenty million years of body plans, and a century and a half of argument about whether the explosion is in the animals or in the fossil record. |
+| 3 | **Earthquake Prediction** | Live debate | The cleanest case in the archive of a field where failure is the evidence: Parkfield, Haicheng, Tangshan, and no scoreable protocol. |
+| 4 | **Aphantasia** | Documented | The counterweight to every page that treats the mind as one thing with a standard setting. |
+| 5 | **Multiple Intelligences** | Debunked | Eight independent intelligences, forty years of curricula, and no psychometric support for the structure. |
+| 6 | **The Anthropocene** | Documented | The contested part is the label, not the evidence — and the proposers lost the vote and accepted it. |
+
+Downstream, in one pass: theme shelves (6 rows), print edition (170 parts), search index and `search-index.json` (168 dossiers), `data/claims.json`, `charts.html`, sitemap (192 URLs), PDF (554 pages), EPUB (170 chapters), six share cards, six 480 px hero variants, and the register retargeted so those six rows now point at pages instead of collections. 194 pages, 0 problems.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
