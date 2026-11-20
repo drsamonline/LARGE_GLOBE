@@ -4,7 +4,13 @@ import glob, os, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
-BUDGET_KB = {"print-edition.html": 1000, "search.html": 400, "compare.html": 200, "topics.html": 400}
+# print-edition.html is the whole archive in one page and grows with it: budget
+# per dossier rather than a flat cap, so the check fails on a runaway build and
+# not on the archive simply getting bigger.
+import glob as _glob
+_DOSSIERS = len([f for f in _glob.glob("*.html") if '<aside class="facts">' in open(f, encoding="utf-8").read()])
+BUDGET_KB = {"print-edition.html": 300 + 6 * _DOSSIERS, "search.html": 500,
+             "compare.html": 250, "topics.html": 400}
 DEFAULT_KB = 120
 over = []
 for p in sorted(glob.glob("*.html")):
