@@ -176,6 +176,21 @@ Six more from the register, and a publisher that makes the next six cheaper.
 | 2 | **Pages are now born complete** — breadcrumbs, citation block, related strip, rail, citation meta, share card, scripts | The last batch had to be finished in a second pass because the builder did not know about them. |
 | 3 | **Result** | 174 dossiers, 802 sources, 208 images, 200 pages, PDF 571 pages, EPUB 176 chapters, sitemap 198 URLs, 0 problems. |
 
+## 0o. Shipped in the fifteenth pass — 20 November 2026
+
+Six more, all from the biology and deep-time end of the register — the part of the archive that was thinnest.
+
+| # | Dossier | Label | Why |
+|---|---|---|---|
+| 1 | **Why Zebras Have Stripes** | Live debate | Five hypotheses, and the one with the experiment behind it is flies, not majesty. |
+| 2 | **The Giraffe's Neck** | Live debate | The most-quoted Lamarckian example is not Lamarckian, and the real anatomy is stranger. |
+| 3 | **Whale Strandings** | Live debate | Two documented causes, a large fringe literature, and a necropsy that separates them. |
+| 4 | **Abiogenic Petroleum** | Fringe claim | A real scientific alternative that fails on molecules that could only have come from living things. |
+| 5 | **The Great Oxidation Event** | Documented | The largest biological change to the planet's chemistry, written in sulphur isotopes. |
+| 6 | **The Inner Core's Spin** | Live debate | A disagreement entirely about measurement, where both sides say so. |
+
+The publisher ran it end to end in one command: 180 dossiers, 826 sources, 214 images, 206 pages, PDF 589 pages, EPUB 182 chapters, sitemap 204 URLs, 0 problems.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

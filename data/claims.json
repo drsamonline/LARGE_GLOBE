@@ -2,8 +2,39 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 174,
+ "count": 180,
  "claims": [
+  {
+   "slug": "abiogenic-petroleum",
+   "url": "abiogenic-petroleum.html",
+   "title": "Abiogenic Petroleum",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Oil is not made from fossils in the way schoolbooks imply — but it is organic. The claim that it forms abiotically in the mantle has been tested for a century and has produced no commercial field.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Nineteenth century; Kudryavtsev; Gold, 1999",
+    "Decisive evidence": "Biomarkers, optical activity, carbon isotopes",
+    "Where oil is found": "Sedimentary basins, in the oil window",
+    "True part": "Abiotic methane from serpentinisation exists",
+    "Commercial fields": "None from abiotic predictions"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Abiogenic_petroleum_origin",
+     "https://en.wikipedia.org/wiki/Petroleum",
+     "https://en.wikipedia.org/wiki/Biomarker_(petroleum)",
+     "https://en.wikipedia.org/wiki/Serpentinization"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
   {
    "slug": "ai-risk",
    "url": "ai-risk.html",
@@ -1857,6 +1888,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "giraffe-neck",
+   "url": "giraffe-neck.html",
+   "title": "The Giraffe's Neck",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Lamarck's favourite example is not a Lamarckian one. The neck has seven vertebrae, like yours, and the best explanation is not that giraffes stretched.",
+   "facts": {
+    "Status": "Live debate",
+    "Cervical vertebrae": "Seven — the mammalian norm",
+    "Lamarck's claim": "Stretching, inherited. Not supported",
+    "Leading hypothesis": "Sexual selection, with feeding as a secondary pressure",
+    "Fossil record": "Intermediate necks in Samotherium and relatives",
+    "Open question": "Why the count stays at seven"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Giraffe",
+     "https://doi.org/10.1086/285924",
+     "https://en.wikipedia.org/wiki/Lamarckism",
+     "https://en.wikipedia.org/wiki/Cervical_vertebrae"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "gobekli-tepe",
    "url": "gobekli-tepe.html",
    "title": "Göbekli Tepe",
@@ -1915,6 +1977,37 @@
      "https://en.wikipedia.org/wiki/Great_Filter",
      "https://astrobiology.nasa.gov/",
      "https://en.wikipedia.org/wiki/Fermi_paradox"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "great-oxidation-event",
+   "url": "great-oxidation-event.html",
+   "title": "The Great Oxidation Event",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "About 2.4 billion years ago the atmosphere filled with oxygen, the planet froze, and most of the life then living died. The evidence is in rocks that record the moment the air changed.",
+   "facts": {
+    "Status": "Documented",
+    "Date": "About 2.45–2.32 billion years ago",
+    "Key evidence": "Loss of mass-independent sulphur fractionation",
+    "Cause": "Cyanobacterial photosynthesis, sinks saturated",
+    "Consequence": "Huronian glaciations; a mass poisoning",
+    "Open": "How high oxygen actually rose, and for how long"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+     "https://doi.org/10.1126/science.289.5480.756",
+     "https://en.wikipedia.org/wiki/Banded_iron_formation",
+     "https://en.wikipedia.org/wiki/Huronian_glaciation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2268,6 +2361,37 @@
      "https://doi.org/10.1103/PhysRevD.23.347",
      "https://arxiv.org/abs/1807.06209",
      "https://www.scientificamerican.com/article/pop-goes-the-universe/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "inner-core-spin",
+   "url": "inner-core-spin.html",
+   "title": "The Inner Core's Spin",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The solid iron ball at the centre of the planet may rotate slightly differently from the rest of it. The claim rests on subtle differences between earthquake waves recorded decades apart, and the disagreement is about the data as much as the physics.",
+   "facts": {
+    "Status": "Live debate",
+    "Diameter": "About 1,220 km",
+    "First claimed": "Song and Richards, 1996",
+    "Method": "Repeating earthquakes, travel-time differences",
+    "2023 finding": "Rotation may have slowed or paused",
+    "Obstacle": "Signal at the limit of resolution"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Earth%27s_inner_core",
+     "https://en.wikipedia.org/wiki/Seismology",
+     "https://en.wikipedia.org/wiki/Structure_of_the_Earth",
+     "https://en.wikipedia.org/wiki/Core%E2%80%93mantle_boundary"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5441,6 +5565,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "whale-strandings",
+   "url": "whale-strandings.html",
+   "title": "Whale Strandings",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Hundreds of whales beach themselves together, and the explanations on offer range from sonar to solar storms. Some of them have been demonstrated. Most have not.",
+   "facts": {
+    "Status": "Live debate",
+    "Commonest species": "Pilot whales, sperm whales, beaked whales",
+    "Social mechanism": "Pod cohesion: one animal's error becomes the group's",
+    "Documented cause": "Mid-frequency naval sonar (Bahamas, 2000)",
+    "Unproven": "Geomagnetic anomalies, solar storms, pollutants",
+    "Key evidence": "Necropsy: gas-bubble lesions in exposed beaked whales"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cetacean_stranding",
+     "https://en.wikipedia.org/wiki/Beaked_whale",
+     "https://en.wikipedia.org/wiki/Marine_mammal_and_sonar",
+     "https://en.wikipedia.org/wiki/Pilot_whale"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "white-hole",
    "url": "white-hole.html",
    "title": "White Holes",
@@ -5497,6 +5652,37 @@
      "https://doi.org/10.1073/pnas.1507146112",
      "https://doi.org/10.1016/j.earscirev.2023.104502",
      "https://en.wikipedia.org/wiki/Younger_Dryas"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "zebra-stripes",
+   "url": "zebra-stripes.html",
+   "title": "Why Zebras Have Stripes",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Camouflage, confusion, cooling and social signalling have all been proposed. The hypothesis with the best experimental support is the least romantic one: flies.",
+   "facts": {
+    "Status": "Live debate",
+    "Candidates": "Camouflage, confusion, cooling, signalling, flies",
+    "Best predictor": "Range of biting flies",
+    "Experiment": "Striped horse coats, 2019 and 2023: fewer landings",
+    "Thermoregulation": "Measurable, small",
+    "Consensus": "Probably several mechanisms, with flies first"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Zebra",
+     "https://doi.org/10.1038/ncomms4532",
+     "https://en.wikipedia.org/wiki/Tabanidae",
+     "https://en.wikipedia.org/wiki/Disruptive_coloration"
     ]
    },
    "last_reviewed": "2026-11-20",
