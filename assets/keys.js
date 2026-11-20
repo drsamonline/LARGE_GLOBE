@@ -6,7 +6,7 @@
     d.innerHTML = '<div class="keys-inner"><h3>Keyboard</h3><dl>' +
       '<dt>j</dt><dd>next dossier</dd><dt>k</dt><dd>previous dossier</dd>' +
       '<dt>/</dt><dd>focus search</dd><dt>t</dt><dd>switch theme</dd>' +
-      '<dt>?</dt><dd>this sheet</dd><dt>Esc</dt><dd>close</dd></dl></div>';
+      '<dt>⌘K</dt><dd>search anything</dd><dt>?</dt><dd>this sheet</dd><dt>Esc</dt><dd>close</dd></dl></div>';
     d.addEventListener('click', function (e) { if (e.target === d) close(); });
     document.body.appendChild(d);
     return d;

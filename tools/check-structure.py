@@ -54,6 +54,33 @@ for p in pages:
         if 'citation_title' not in h:
             problems.append(f"{p}: dossier without citation meta")
 
+# nav consistency: every page must carry the same top-level nav links as the index,
+# except the two pages that deliberately use the short "focus" nav.
+FOCUS = {"charts.html", "themes.html"}
+def nav_links(h):
+    m = re.search(r'<nav class="site-nav">(.*?)</nav>', h, re.S)
+    return set(re.findall(r'href="([^"]+)"', m.group(1))) if m else set()
+
+base_nav = nav_links(open("index.html", encoding="utf-8").read())
+for p in pages:
+    if p in FOCUS or p in NOINDEX:
+        continue
+    have = nav_links(open(p, encoding="utf-8").read())
+    missing = base_nav - have
+    if missing:
+        problems.append(f"{p}: nav links missing -> {sorted(missing)}")
+
+# the palette index must match the inline index on the search page
+import json
+try:
+    inline = json.loads(re.search(r'<script id="data" type="application/json">(.*?)</script>',
+                                  open("search.html", encoding="utf-8").read(), re.S).group(1))
+    onfile = json.load(open("search-index.json", encoding="utf-8"))
+    if len(inline["d"]) != len(onfile["d"]) or len(inline["e"]) != len(onfile["e"]):
+        problems.append("search-index.json is out of step with search.html — regenerate it")
+except FileNotFoundError:
+    problems.append("search-index.json is missing")
+
 for p in problems:
     print(p)
 print(f"\n{len(pages)} pages checked, {len(problems)} problems")

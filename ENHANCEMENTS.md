@@ -85,6 +85,16 @@ Deliberately deferred: `compare.html` still takes two dossiers, not three. Exten
 | 4 | **Intrinsic `width`/`height` on every hero** while doing it, with duplicate attributes collapsed | CLS was already low because the CSS fixes the box, but the attributes make the reservation explicit. |
 | 5 | **CI extended** — `offline.html` is exempt from the page invariants, and everything else still has to pass | 187 pages, 0 problems. |
 
+## 0g. Shipped in the seventh pass — 20 November 2026
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **A ⌘K / Ctrl-K command palette** on all 187 pages — searches 992 records, arrow keys, Enter to open, Esc to close | The "More" menu is a 100-item column that is unusable on a phone and slow on a desktop. The palette answers the question people actually have: *where is the thing I half remember?* |
+| 2 | **`search-index.json`**, fetched on first open rather than inlined | Inlining 233 KB into 187 pages would have cost more than the palette is worth; lazy-fetching it costs one request, once. |
+| 3 | **A graceful failure** — if the index cannot load (a `file://` copy, or no connection), the palette says so and links the search page | A palette that spins forever is worse than no palette. |
+| 4 | **Nav consistency in CI** — every page must carry the same top-level links as the index, with two documented exceptions | It immediately found `master-list.html` missing the Topic register link, which had been true since that page was written. |
+| 5 | **Index-drift check in CI** — `search-index.json` must match the inline index on the search page | Two copies of the same data is a promise to forget one of them. |
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
@@ -144,7 +154,7 @@ These were gaps found in the audit and closed without touching a single sentence
 
 21. **A generated PDF and EPUB of the print edition.** `print-edition.html` is 813 KB of HTML designed for `Ctrl-P`. A real typeset PDF with running heads, page numbers and a TOC with folios, plus an EPUB for e-readers, turns the archive into something that can be read on a train — and puts it one step from the KDP pipeline the other repositories already have.
 22. **A static build step, or none at all.** The nav, footer and palette are duplicated across 170 files; one change means 170 edits (this pass touched all of them with a script). Either accept a 60-line generator that assembles pages from partials, or add a CI check that fails when two pages' nav blocks disagree. The second is cheaper and keeps the "clone and open `index.html`" property.
-23. **A searchable command palette instead of the "More" menu.** The nav panel holds 100+ links in one column. `Ctrl-K` with fuzzy matching over the same 980-record index would replace it, and would make the mobile header usable.
+23. ~~**A searchable command palette instead of the "More" menu.**~~ **Palette done — see 0g. The menu itself remains.** The nav panel holds 100+ links in one column. `Ctrl-K` with fuzzy matching over the same 980-record index would replace it, and would make the mobile header usable.
 24. ~~**Keyboard-first reading.**~~ **Done — see 0e.** `j`/`k` to move between dossiers in reading order, `s` to open search, `?` for the shortcut sheet. The reading guide already defines an order; nothing walks it.
 25. ~~**An offline service worker.**~~ **Done — see 0f.** The site works from `file://` but not from a flaky connection. A 30-line SW caching the shell plus visited pages would make "readable offline" literally true from the URL as well.
 26. **An audio edition.** Every dossier is 700–2,000 words of prose, which is exactly what a TTS pipeline handles well (Sarvam Bulbul, or any local model), with an `<audio>` element per page and a podcast feed of the same. This is the single largest reach multiplier available to a text archive.
