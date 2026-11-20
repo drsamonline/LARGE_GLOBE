@@ -31,6 +31,15 @@ src_counts = [(c["title"], c["sources"]["count"]) for c in CLAIMS]
 total_sources = sum(s for _, s in src_counts)
 avg_sources = total_sources / max(len(CLAIMS), 1)
 
+# the master list has its own four-verdict tally, over a different population
+ml = open("master-list.html", encoding="utf-8").read()
+VERDICTS = [("doc", "Documented", "#7fae7a"), ("deb", "Live debate", "#7d9ec4"),
+            ("fri", "Fringe", "#d3a95f"), ("deb2", "Debunked", "#c96a5a")]
+verdict_counts = Counter()
+for code, _, _c in VERDICTS:
+    verdict_counts[code] = len(re.findall(r'<td class="v %s">' % code, ml))
+claims_total = sum(verdict_counts.values())
+
 # licences, from the credits page
 credits = open("credits.html", encoding="utf-8").read()
 lic = Counter()
@@ -57,6 +66,29 @@ def bar_chart(rows, colour, label_x, bar_x, max_w, aria):
         out.append(f'<rect x="{bar_x}" y="{y}.0" width="{w}" height="16" fill="{colour}" opacity=".85"/>')
         out.append(f'<text x="{bar_x + w + 10}" y="{y + 13:.1f}" font-size="12" fill="#8b8477" '
                    f'font-family="{MONO}">{value}</text>')
+    out.append("</svg>")
+    return "\n".join(out)
+
+
+def stacked_bar(counts, order, total_label):
+    segs = [(name, counts.get(k, 0), col) for k, name, col in order if counts.get(k, 0)]
+    total = sum(v for _, v, _ in segs) or 1
+    out = [f'<svg viewBox="0 0 760 64" role="img" aria-label="{total_label}">', "<g>"]
+    x = 0.0
+    for _, value, col in segs:
+        w = 760 * value / total
+        out.append(f'<rect x="{x:.1f}" y="8" width="{w:.1f}" height="34" fill="{col}"/>')
+        out.append(f'<text x="{x + w / 2:.0f}" y="32" text-anchor="middle" font-size="13" '
+                   f'fill="#0b0e14" font-family="{FONT}">{value}</text>')
+        x += w
+    out.append("</g>")
+    lx = 16
+    for k, name, col in order:
+        if not counts.get(k):
+            continue
+        out.append(f'<g transform="translate({lx},48)"><rect width="9" height="9" fill="{col}" y="2"/>'
+                   f'<text x="15" y="10" font-size="11.5" fill="#8b8477" font-family="{FONT}">{name}</text></g>')
+        lx += 26 + 6.6 * len(name)
     out.append("</svg>")
     return "\n".join(out)
 
@@ -102,22 +134,33 @@ def main():
     for k, v in glance.items():
         page = re.sub(rf"(<dt>{re.escape(k)}</dt><dd>)[^<]*(</dd>)", rf"\g<1>{v}\g<2>", page)
 
-    # 2. label distribution
-    page = re.sub(r'<svg viewBox="0 0 760 64" role="img" aria-label="Distribution.*?</svg>',
-                  stacked_labels(), page, flags=re.S)
-
-    # 2b. the sentence under the label bar
-    bits = ", ".join(f"{lab_counts[k]} {name.lower()}" for k, name, _ in LABEL_ORDER if lab_counts.get(k))
-    page = re.sub(r"<figcaption>\d+ claims:.*?</figcaption>",
-                  f'<figcaption>{len(CLAIMS)} dossiers: {bits}. Filter them on the '
-                  f'<a href="master-list.html">master list</a>.</figcaption>', page, flags=re.S)
-
     # 3. theme sizes
     themes = [(name, theme_counts.get(tid, 0)) for tid, name in THEMES]
     themes = [(n, v) for n, v in themes if v]
     page = re.sub(r'<svg viewBox="0 0 760 \d+" role="img" aria-label="A bar chart titled">\s*<text x="158"[^>]*>Earth</text>.*?</svg>',
                   bar_chart(themes, "#d3a95f", 158, 170, 504,
                             "Dossiers per theme"), page, flags=re.S)
+
+    # 3b. the label section: two populations, two charts, regenerated whole
+    doss_bits = ", ".join(f"{lab_counts[k]} {name.lower()}" for k, name, _ in LABEL_ORDER if lab_counts.get(k))
+    claim_bits = ", ".join(f"{verdict_counts[k]} {name.lower()}" for k, name, _ in VERDICTS if verdict_counts.get(k))
+    section = (
+        '<h2>Where the archive lands</h2>\n'
+        '<p class="section-intro">Two populations, two charts, and they are not supposed to agree. '
+        f'The <a href="master-list.html">master list</a> catalogues {claims_total} claims; the archive holds '
+        f'{len(CLAIMS)} dossiers. A claim can be catalogued as fringe and written up as a live debate once the '
+        'argument turns out to be closer than it looked, and the reverse happens too. The point of both charts is '
+        'not that most claims fail — it is that the labels are used at all, including on comfortable claims.</p>\n'
+        f'<h3>The {claims_total} claims in the master list, by verdict</h3>\n'
+        '<figure class="fig">\n' + stacked_bar(verdict_counts, VERDICTS, f"Distribution of the {claims_total} catalogued claims across four verdicts") + '\n'
+        f'<figcaption>{claims_total} claims: {claim_bits}. Filter them on the '
+        '<a href="master-list.html">master list</a>.</figcaption>\n</figure>\n'
+        f'<h3>The {len(CLAIMS)} dossiers, by their evidence label</h3>\n'
+        '<figure class="fig">\n' + stacked_bar(lab_counts, LABEL_ORDER, f"Distribution of the {len(CLAIMS)} dossiers across the evidence labels") + '\n'
+        f'<figcaption>{len(CLAIMS)} dossiers: {doss_bits}. A dossier label is set when the page is written, so it '
+        'can be narrower than the catalogue verdict.</figcaption>\n</figure>'
+    )
+    page = re.sub(r'<h2>Where the archive lands</h2>.*?(?=</section>)', section + "\n", page, flags=re.S)
 
     # 4. licence sizes
     lics = lic.most_common(8)

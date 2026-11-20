@@ -137,8 +137,8 @@ Deliberately deferred: `compare.html` still takes two dossiers, not three. Exten
 
 | # | Change | Why it mattered |
 |---|---|---|
-| 1 | **`tools/rebuild-charts.py`** — every number on `charts.html` rebuilt from `data/claims.json` and the credits page: the label distribution, the theme sizes, the licence split, the longest and thinnest source lists, the caption under each chart, and the generated date | The page claimed "nothing here is typed by hand" while showing 150 dossiers, 706 sources, 167 images and a label split of 47/39/32/32. The true split is 23 documented, 107 live debate, 14 fringe, 16 debunked, 2 open — the old numbers were wrong by a factor of two on the debate/fringe axis. |
-| 2 | **The distribution chart now shows all five labels in use**, not four | Fiction and open-problem claims existed in the archive and were invisible in its own numbers. |
+| 1 | **`tools/rebuild-charts.py`** — every number on `charts.html` rebuilt from `data/claims.json`, `master-list.html` and the credits page: both label charts, the theme sizes, the licence split, the longest and thinnest source lists, the captions, and the generated date | The page claimed "nothing here is typed by hand" while carrying 150 dossiers, 706 sources and 167 images, all stale. |
+| 2 | **A correction to this pass, recorded rather than buried** — my first version replaced the 47/39/32/32 bar with a 23/107/14/16/2 bar and called the old numbers wrong. They were not: that bar counted the 150 catalogued claims, and I had swapped in the 162 dossiers. The page now shows both, each labelled with its population, and the prose says why they need not agree | Two different populations measured by two different methods is the kind of error that looks like a fix. It was caught by checking where the original 47/39/32/32 came from before defending its replacement. |
 | 3 | **CI runs `--check`** | The page and the ledger can no longer disagree without failing the build. |
 | 4 | **The caption and the thinnest-dossier sentence are generated too** | Prose is where stale numbers survive longest: the chart was regenerated, and the sentence beneath it still said 150. |
 
