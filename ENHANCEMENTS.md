@@ -157,6 +157,25 @@ Six dossiers written from the topic register, each with a credited Commons photo
 
 Downstream, in one pass: theme shelves (6 rows), print edition (170 parts), search index and `search-index.json` (168 dossiers), `data/claims.json`, `charts.html`, sitemap (192 URLs), PDF (554 pages), EPUB (170 chapters), six share cards, six 480 px hero variants, and the register retargeted so those six rows now point at pages instead of collections. 194 pages, 0 problems.
 
+## 0n. Shipped in the fourteenth pass — 20 November 2026
+
+Six more from the register, and a publisher that makes the next six cheaper.
+
+| # | Dossier | Label | Why |
+|---|---|---|---|
+| 1 | **Synesthesia** | Documented | The counter-example: an extraordinary-sounding claim a lab can check in an afternoon. |
+| 2 | **Lucid Dreaming** | Documented | Verified by eye-movement signals in REM in 1980 — a dream claim with a receipt. |
+| 3 | **Near-Death Experiences** | Live debate | Documented phenomenon, undocumented interpretation, and the AWARE study's missing hit. |
+| 4 | **The Mpemba Effect** | Live debate | Five different definitions of "freezes faster", and no agreed experiment. |
+| 5 | **Ball Lightning** | Live debate | Four centuries of consistent reports, one spectroscopic measurement, no mechanism. |
+| 6 | **The Flynn Effect** | Documented | The fact that makes every IQ argument harder: the measure moved a standard deviation in a century. |
+
+| # | Infrastructure | Why it matters |
+|---|---|---|
+| 1 | **`publish_batch.py`** — one command takes a content module and a photo manifest and publishes everything: pages with all furniture, 480 px variants, theme rows, print parts, search index and JSON, ledger, charts, sitemap, six share cards, PDF, EPUB, then runs the checks | The previous batch took six separate scripts and a hand-sequenced order. This one took one command and one review. |
+| 2 | **Pages are now born complete** — breadcrumbs, citation block, related strip, rail, citation meta, share card, scripts | The last batch had to be finished in a second pass because the builder did not know about them. |
+| 3 | **Result** | 174 dossiers, 802 sources, 208 images, 200 pages, PDF 571 pages, EPUB 176 chapters, sitemap 198 URLs, 0 problems. |
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 168,
+ "count": 174,
  "claims": [
   {
    "slug": "ai-risk",
@@ -377,6 +377,37 @@
      "https://en.wikipedia.org/wiki/The_Backrooms",
      "https://knowyourmeme.com/memes/the-backrooms",
      "https://www.youtube.com/@KanePixels"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ball-lightning",
+   "url": "ball-lightning.html",
+   "title": "Ball Lightning",
+   "theme": "Anomalies, fringe science and the unexplained",
+   "theme_id": "anomalies",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Glowing spheres that drift through rooms during thunderstorms have been reported for four centuries, filmed once, and measured spectroscopically in a handful of cases. The reports are too consistent to dismiss and too rare to pin down.",
+   "facts": {
+    "Status": "Live debate",
+    "Reported since": "Seventeenth century",
+    "Typical size": "10–30 cm",
+    "Typical duration": "A few seconds",
+    "Best measurement": "Spectroscopic record, China, 2012–2014",
+    "Leading model": "Vaporised soil condensing into glowing nanoparticles"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ball_lightning",
+     "https://en.wikipedia.org/wiki/Lightning",
+     "https://doi.org/10.1038/35014142",
+     "https://en.wikipedia.org/wiki/Plasma_(physics)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1570,6 +1601,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "flynn-effect",
+   "url": "flynn-effect.html",
+   "title": "The Flynn Effect",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Measured intelligence rose by about three points a decade through the twentieth century, in every country with good data. Then, in several of them, it stopped. Both halves of that sentence are strange.",
+   "facts": {
+    "Status": "Documented",
+    "Named for": "James Flynn, who described it in 1984",
+    "Size": "About 3 IQ points a decade; ~15–20 over the century",
+    "Where the gain sits": "Abstract reasoning, not vocabulary or arithmetic",
+    "Reversal": "Reported since the 1990s in several rich countries",
+    "Cause": "Unsettled; environmental by default"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Flynn_effect",
+     "https://en.wikipedia.org/wiki/Intelligence_quotient",
+     "https://en.wikipedia.org/wiki/Heritability_of_IQ",
+     "https://en.wikipedia.org/wiki/G_factor_(psychometrics)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "free-energy-principle",
    "url": "free-energy-principle.html",
    "title": "The Free Energy Principle",
@@ -2468,6 +2530,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "lucid-dreaming",
+   "url": "lucid-dreaming.html",
+   "title": "Lucid Dreaming",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "People can know they are dreaming while asleep, and say so from inside the dream. That was verified with eye movements in 1980, which makes it one of the few dream claims with a laboratory receipt.",
+   "facts": {
+    "Status": "Documented",
+    "Verified": "LaBerge et al., 1980, by eye-movement signals in REM",
+    "Prevalence": "About half have one; roughly a fifth monthly",
+    "Induction": "MILD, WBTB, reality testing — modest, replicated effects",
+    "Distinct from": "Dream control, which is much less reliable",
+    "Clinical use": "Promising for nightmares; weak elsewhere"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lucid_dream",
+     "https://doi.org/10.2466/pms.1981.52.3.727",
+     "https://doi.org/10.1016/j.concog.2012.01.002",
+     "https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "mad-stability",
    "url": "mad-stability.html",
    "title": "MAD Stability",
@@ -2870,6 +2963,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "mpemba-effect",
+   "url": "mpemba-effect.html",
+   "title": "The Mpemba Effect",
+   "theme": "Anomalies, fringe science and the unexplained",
+   "theme_id": "anomalies",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Hot water sometimes freezes faster than cold. It was reported by a Tanzanian schoolboy in 1963, dismissed by his teacher, and is still argued about by physicists with better equipment and no agreement on what would count as an answer.",
+   "facts": {
+    "Status": "Live debate",
+    "Reported": "Erasto Mpemba, 1963; published with Osborne, 1969",
+    "The problem": "Five different definitions of 'freezes faster'",
+    "Candidate causes": "Evaporation, convection, dissolved gas, supercooling",
+    "Robustness": "Disappears under standardised protocols",
+    "What would settle it": "One definition, one protocol, many labs"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mpemba_effect",
+     "https://doi.org/10.1088/0031-9120/4/3/312",
+     "https://en.wikipedia.org/wiki/Supercooling",
+     "https://en.wikipedia.org/wiki/Nucleation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "multiple-intelligences",
    "url": "multiple-intelligences.html",
    "title": "Multiple Intelligences",
@@ -2995,6 +3119,37 @@
      "https://www.livescience.com/archaeology/why-were-the-nazca-lines-built",
      "https://www.nationalgeographic.com/history/article/nasca-lines",
      "https://www.history.com/articles/nazca-lines"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "near-death-experience",
+   "url": "near-death-experience.html",
+   "title": "Near-Death Experiences",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "People brought back from cardiac arrest report tunnels, light, life review and calm. The reports are real and consistent enough to study. What they mean about death is the part that is not.",
+   "facts": {
+    "Status": "Live debate",
+    "Reported by": "10–20% of cardiac-arrest survivors",
+    "Core features": "Peace, tunnel, light, life review, figures, a boundary",
+    "Key test": "AWARE study: hidden targets, no confirmed hit",
+    "Leading accounts": "Hypoxia, reperfusion, temporal lobe, REM intrusion",
+    "What would settle it": "Verified perception from a position the body could not occupy"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Near-death_experience",
+     "https://en.wikipedia.org/wiki/AWARE_study",
+     "https://doi.org/10.1016/j.resuscitation.2014.09.004",
+     "https://en.wikipedia.org/wiki/Cardiac_arrest"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4669,6 +4824,37 @@
      "https://twiki.cern.ch/twiki/bin/view/AtlasPublic/SupersymmetryPublicResults",
      "https://en.wikipedia.org/wiki/Hierarchy_problem",
      "https://en.wikipedia.org/wiki/Dark_matter"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "synesthesia",
+   "url": "synesthesia.html",
+   "title": "Synesthesia",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "For some people, letters have colours and sounds have tastes, consistently, for a lifetime. It is one of the few claims in this archive that a laboratory can check in an afternoon.",
+   "facts": {
+    "Status": "Documented",
+    "Prevalence": "Estimated 1–4%",
+    "Commonest form": "Grapheme–colour",
+    "Key test": "Consistency over months, plus interference",
+    "Heritability": "Familial; the pairings are individual",
+    "Mechanism": "Contested; reduced neonatal pruning is the leading account"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Synesthesia",
+     "https://en.wikipedia.org/wiki/Grapheme%E2%80%93color_synesthesia",
+     "https://en.wikipedia.org/wiki/Stroop_effect",
+     "https://en.wikipedia.org/wiki/Ideasthesia"
     ]
    },
    "last_reviewed": "2026-11-20",
