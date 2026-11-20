@@ -1,0 +1,37 @@
+name: check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "0 4 * * 1"   # Mondays, 04:00 UTC
+
+jobs:
+  structure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Internal links, images, and page invariants
+        run: python tools/check-structure.py
+      - name: Size budget
+        run: python tools/check-size.py
+
+  external-links:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Every cited URL still answers
+        run: python tools/check-links.py --report dead-links.md
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: dead-links
+          path: dead-links.md

@@ -26,6 +26,20 @@ The audit found that the five collections name **830 topics** while the archive 
 
 What this pass deliberately did **not** do: no photographs were added to the twelve new dossiers, because the archive cannot licence what it cannot credit, and a diagram it drew itself is honest about its provenance. Sourcing photographs for them is item 1 of the next list.
 
+## 0b. Shipped in the second pass — 20 November 2026
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **Twelve credited photographs** for the new dossiers, sourced from Wikimedia Commons with licence and author recorded per file | The archive's pattern is a credited photograph at the top and a diagram in the body. The new pages had inverted it. Cold fusion now opens on a vial of palladium pellets; Snowball Earth on the Elatina tillite; the dinosaur extinction on the Stevns Klint boundary; magnetoreception on a robin. |
+| 2 | **The diagrams moved into the body** as inline figures, so each page carries both | Nothing was discarded: the twelve SVGs are now the second figure on their own page. |
+| 3 | **`citation_*` meta tags** on all 162 dossiers — title, author, publication and online date, abstract URL | This is what Google Scholar reads. A reference library that Scholar cannot see is a blog. |
+| 4 | **`random.html`**, linked from every footer | A 162-page archive is navigated by wandering, and there was no way in except the index. |
+| 5 | **Keyboard navigation in search** — ↓/↑ through results, Esc to clear | The best tool on the site was mouse-only. |
+| 6 | **`rel="noopener"` on all 2,841 external links**, not just the support band | Cheap hardening on every outbound citation. |
+| 7 | **CI gate** — `tools/check-structure.py`, `check-size.py`, `check-links.py`, wired to `.github/workflows/check.yml` | 184 pages, 0 problems at the time of writing. Internal links, assets, one `h1` per page, canonical present, no empty `src`, and a per-page size budget now fail the build instead of shipping. |
+| 8 | **Weekly dead-link sweep** against every cited URL, uploading a report artifact | Closes the gap this session left: the 48 new DOIs were never machine-checked. |
+| 9 | **Credits page extended** to 178 photographs with author, licence and source for each | Every image on the site now has a line on that page. |
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
@@ -53,25 +67,25 @@ These were gaps found in the audit and closed without touching a single sentence
 
 ## 2. Quick wins — under an hour each, high return
 
-0. **Photographs for the twelve new dossiers.** Each currently leads with a diagram. The archive's visual language is a credited historical photograph at the top and diagrams in the body; the new pages invert that. One Commons search per topic, one credit line each, and the pattern is restored.
+0. ~~**Photographs for the twelve new dossiers.**~~ **Done — see 0b.** Each currently leads with a diagram. The archive's visual language is a credited historical photograph at the top and diagrams in the body; the new pages invert that. One Commons search per topic, one credit line each, and the pattern is restored.
 0b. **A claim stub for every register row.** The 726 rows carry a title, a label and one sentence. Promoting 20 of them per month, in the order the register lists them, closes the gap in about three years — and the register makes that pace visible instead of aspirational.
 
 1. **Per-dossier share cards.** Render `assets/og/<slug>.png` for all 150 dossiers from the same HTML template as the site card (title, label, hero crop). 150 headless renders, one script, no design work. Every shared dossier then carries its own claim and label.
-2. **`citation_*` meta tags** (Highwire/Dublin Core: `citation_title`, `citation_author`, `citation_publication_date`, `citation_pdf_url`) on every dossier. This is what Google Scholar reads; without it a reference library is invisible to the one index that matters to researchers.
+2. ~~**`citation_*` meta tags**~~ **Done — see 0b.** (Highwire/Dublin Core: `citation_title`, `citation_author`, `citation_publication_date`, `citation_pdf_url`) on every dossier. This is what Google Scholar reads; without it a reference library is invisible to the one index that matters to researchers.
 3. **A "Cite this page" box** at the foot of each dossier — APA, MLA, Chicago and BibTeX, generated from the page's own title, author and date, with a copy button. Nothing else would do more to make the archive quotable.
 4. **`lastmod` from git history.** `sitemap.xml` currently stamps all 169 URLs with the build date; deriving it from `git log -1 --format=%cI -- <page>` is a one-line change per URL and is the signal crawlers actually trust.
-5. **A random-dossier button** in the header (`?random` → redirect to a random page). A 150-page archive is navigated by wandering; there is currently no way in except the index.
-6. **`/` to focus search, `Esc` to clear, ↑/↓/Enter to walk results** in `search.html`, plus a `aria-live="polite"` on the result count. The search box is the archive's best tool and it is mouse-only.
+5. ~~**A random-dossier button**~~ **Done — see 0b.** in the header (`?random` → redirect to a random page). A 150-page archive is navigated by wandering; there is currently no way in except the index.
+6. ~~**`/` to focus search, `Esc` to clear, ↑/↓/Enter to walk results**~~ **Done — see 0b.** in `search.html`, plus a `aria-live="polite"` on the result count. The search box is the archive's best tool and it is mouse-only.
 7. **A "related dossiers" strip** at the foot of each page — 4 links computed from shared theme and label. 150 pages currently link outward to each other only through the nav.
-8. **`rel="noopener"` on every external link**, not just the new support links (682 of 2,841 currently carry it). Cheap hardening, no visual change.
+8. ~~**`rel="noopener"` on every external link**~~ **Done — see 0b.**, not just the new support links (682 of 2,841 currently carry it). Cheap hardening, no visual change.
 9. **A `humans.txt` and a `.well-known/security.txt`.** Two small files, both expected of a site that takes its own claims about privacy seriously.
 10. **Intrinsic image dimensions, done safely.** 589 images carry no `width`/`height`, so every page reflows as it loads. The blanket fix (`img{height:auto}`) breaks the front-page hero and the dossier figures, both of which are absolutely positioned — the fix is per-figure: give `.fig`/`.hero-band` an `aspect-ratio`, then add the attributes. Worth ~0.05 of CLS on a slow connection.
 11. **Breadcrumbs** on every dossier: `Archive › <theme> › <dossier>`, as both a visible strip and `BreadcrumbList` JSON-LD.
 
 ## 3. Medium — a day each, changes how the archive is used
 
-11. **A CI gate with four checks.** HTML validation (`vnu`), link check over the 916 external URLs, an accessibility pass (`pa11y` or axe), and a per-page size budget. The archive is 170 hand-generated files; one bad regeneration currently ships silently.
-12. **A scheduled dead-link sweep.** Weekly Action that re-checks all 916 URLs, queries the Wayback Machine availability API for anything that 404s, and opens one issue listing what broke with a snapshot link for each. Dead citations are the archive's slowest decay.
+11. ~~**A CI gate with four checks.**~~ **Done — see 0b.** HTML validation (`vnu`), link check over the 916 external URLs, an accessibility pass (`pa11y` or axe), and a per-page size budget. The archive is 170 hand-generated files; one bad regeneration currently ships silently.
+12. ~~**A scheduled dead-link sweep.**~~ **Done — see 0b.** Weekly Action that re-checks all 916 URLs, queries the Wayback Machine availability API for anything that 404s, and opens one issue listing what broke with a snapshot link for each. Dead citations are the archive's slowest decay.
 13. **Sticky per-page table of contents.** Dossiers run 700–2,000 words with 5–7 headed sections and no jump list. A right-hand "on this page" rail (desktop) and a collapsible summary (mobile) would cut the scroll cost of every page.
 14. **Responsive images.** `srcset` at 480/960/1440 for every AVIF plus a WebP `<picture>` fallback, so a phone stops downloading 900×1020 crops. Expect roughly 60% off mobile image bytes.
 15. **A light theme and a reading-size control.** The archive is dark-only, at 18px serif. Both are preference toggles stored in `localStorage`, ~40 lines, and both materially widen who can read a long page.

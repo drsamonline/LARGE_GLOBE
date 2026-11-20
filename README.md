@@ -12,7 +12,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 [![dossiers](https://img.shields.io/badge/dossiers-162-A8823F?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/master-list.html)
 [![sources](https://img.shields.io/badge/linked%20sources-754-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sources.html)
 [![citations](https://img.shields.io/badge/citations-3%2C220%20across%20299%20domains-2C3548?style=flat-square)](#what-a-source-link-means-here)
-[![images](https://img.shields.io/badge/figures-185%20(166%20photos%20%C2%B7%2019%20drawn)-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
+[![images](https://img.shields.io/badge/images-196%20(178%20photos%20%C2%B7%2018%20drawn)-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
 [![words](https://img.shields.io/badge/writing-~117%2C000%20words-2C3548?style=flat-square)](#what-this-is)
 [![pages](https://img.shields.io/badge/pages-183%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
 [![labels](https://img.shields.io/badge/labels-documented%20%C2%B7%20debate%20%C2%B7%20fringe%20%C2%B7%20debunked-6E6553?style=flat-square)](#the-four-labels)
@@ -33,7 +33,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 
 A hidden-world claim usually arrives in one of two shapes: a screenshot with no author, or a ninety-minute video with no citations. Both are impossible to check. This archive rebuilds each idea from the bottom up — who said it first, what they actually wrote, who repeated it, and what the measurement said afterwards.
 
-**162 dossiers. About 117,000 words. 754 linked sources, spread over 3,220 citations to 299 domains. 185 figures — 166 credited photographs and 19 original diagrams. No account, no tracking, no paywall.**
+**162 dossiers. About 117,000 words. 754 linked sources, spread over 3,220 citations to 299 domains. 196 images — 178 credited photographs and 18 original diagrams. No account, no tracking, no paywall.**
 
 Every dossier follows the same shape, so you always know where you are in it:
 
@@ -66,7 +66,7 @@ Inclusion is not endorsement, and a debunked label is not a verdict on the reade
 - **150 dossiers** — the larger globe, flat earth, hollow earth, ice wall, inner sun, Tartarus, giants, dragons, cryptids, Tartaria, ancient astronauts, aliens, secret societies, flood myths, urban legends, the deep web, mutants, plus frontier science (the Hubble tension, MOND, muon g−2, the firewall paradox), mind and behaviour (ego depletion, readiness potentials, screen time), economics (minimum wage, MMT, Jevons, secular stagnation) and AI (stochastic parrots, scaling laws, open weights, algorithmic fairness).
 - **Five numbered collections** — [the Frontier 200](https://drsamonline.github.io/LARGE_GLOBE/frontier-index.html), [the Ancient 200](https://drsamonline.github.io/LARGE_GLOBE/ancient-index.html), [the Modern 200](https://drsamonline.github.io/LARGE_GLOBE/modern-index.html), [the 200 Sources](https://drsamonline.github.io/LARGE_GLOBE/mega-index.html) and [Open Problems](https://drsamonline.github.io/LARGE_GLOBE/open-problems.html) — 830 rows, each with a label and a one-line summary.
 - **Tools that work without a server** — [search](https://drsamonline.github.io/LARGE_GLOBE/search.html) over all 980 records with deep-linkable queries, a [side-by-side comparison](https://drsamonline.github.io/LARGE_GLOBE/compare.html) of any two dossiers, [charts](https://drsamonline.github.io/LARGE_GLOBE/charts.html), [themes](https://drsamonline.github.io/LARGE_GLOBE/themes.html), a [claim register](https://drsamonline.github.io/LARGE_GLOBE/claims-index.html), [the full bibliography](https://drsamonline.github.io/LARGE_GLOBE/sources.html) and a [single-volume edition](https://drsamonline.github.io/LARGE_GLOBE/print-edition.html) of the whole archive in one page.
-- **Twelve dossiers added in November 2026** — cold fusion, the placebo effect, learning styles, growth mindset, the aquatic ape, Snowball Earth, the dinosaur extinction, panpsychism, the free energy principle, polyvagal theory, fast radio bursts and magnetoreception. Each carries an original diagram rather than a stock photograph.
+- **Twelve dossiers added in November 2026** — cold fusion, the placebo effect, learning styles, growth mindset, the aquatic ape, Snowball Earth, the dinosaur extinction, panpsychism, the free energy principle, polyvagal theory, fast radio bursts and magnetoreception. Each carries a credited Commons photograph and an original diagram.
 - **The topic register** — [726 topics](https://drsamonline.github.io/LARGE_GLOBE/topics.html) that the five collections name, label and summarise but that have no dossier yet. It is the work queue, and it is the map that stops the archive writing the same page twice.
 - **A reading guide**, because a 162-dossier archive is useless if you do not know where to start.
 
@@ -95,8 +95,9 @@ Plain static HTML, one stylesheet, one page of JavaScript. There is no build ste
 
 - **183 pages, 5.1 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
 - **No runtime dependencies.** The only script on the site is the search index on one page — inline JSON, no fetch, so it works from `file://` and offline.
-- **AVIF images**, lazily loaded below the fold, 166 photographs totalling 8.6 MB, plus 18 vector figures drawn for this archive. Every one is credited with its licence and host on the [credits page](https://drsamonline.github.io/LARGE_GLOBE/credits.html).
+- **AVIF images**, lazily loaded below the fold, 178 credited photographs, plus 18 vector figures drawn for this archive. Every one is credited with its licence and host on the [credits page](https://drsamonline.github.io/LARGE_GLOBE/credits.html).
 - **Accessible by default**: a skip link, one `<h1>` per page, landmarks, `aria-current` on the active nav item, alt text on every image and an `aria-label` on every figure, visible focus rings, and a print stylesheet that expands every citation into a readable URL.
+- **Checked in CI.** Every push runs three checks: internal links and assets resolve, each page keeps its invariants (one `h1`, a canonical URL, a skip link, no empty `src`), and no page exceeds its size budget. A weekly job re-checks every cited URL and uploads the dead ones as an artifact.
 - **Deployable anywhere.** GitHub Pages serves it from the repository root; there is no `_config.yml`, no Jekyll, no Node in CI.
 
 ## Running it locally
@@ -128,13 +129,16 @@ Nothing else is required. There is no `npm install`, no lockfile, no toolchain.
 ├── credits.html            every image, its licence and its host
 ├── print-edition.html      the whole archive as one printable page
 ├── topics.html             the 726 topics named but not yet written
+├── random.html             one dossier, at random
 ├── support.html            how to support it, and what it does not buy
 ├── 404.html                served by Pages for anything off the map
 ├── assets/
 │   ├── style.css           the only stylesheet
 │   └── img/                166 AVIF photographs and 18 SVG figures
 ├── docs/screenshots/       the images in this README
-├── sitemap.xml             all 182 URLs
+├── sitemap.xml             all 184 URLs
+├── tools/                  the three checks CI runs
+├── .github/workflows/      structure, size budget, weekly link check
 └── robots.txt
 ```
 
