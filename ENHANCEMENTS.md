@@ -40,6 +40,19 @@ What this pass deliberately did **not** do: no photographs were added to the twe
 | 8 | **Weekly dead-link sweep** against every cited URL, uploading a report artifact | Closes the gap this session left: the 48 new DOIs were never machine-checked. |
 | 9 | **Credits page extended** to 178 photographs with author, licence and source for each | Every image on the site now has a line on that page. |
 
+## 0c. Shipped in the third pass — 20 November 2026
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **162 per-dossier share cards** (`assets/og/<slug>.jpg`, 1200×630, 32 KB average) and `og:image` repointed per page | Every dossier previously shared as the same generic card. Now a link to Cold Fusion shows Cold Fusion, its label and its first sentence. |
+| 2 | **Breadcrumbs on every dossier**, visible and as `BreadcrumbList` JSON-LD | Index › theme › dossier, which is how the site is actually navigated and how a crawler learns the hierarchy. |
+| 3 | **A citation block** — APA, MLA, Chicago and BibTeX, each with a copy button, plus the last-reviewed date and a link to the corrections policy | A reference work that cannot be cited in a footnote is only half a reference work. |
+| 4 | **A related strip** — four neighbours, preferring the same label inside the same theme | 162 pages that previously linked to each other only through the 100-item nav. |
+| 5 | **`corrections.html`** — five kinds of error ranked by seriousness, how to report one, and the annotate-first rule | The archive asks to be trusted on its attributions; it now states what happens when one is wrong. |
+| 6 | **Atom feed** (`feed.xml`, 162 entries) linked from every page | Nothing announced that the archive grew. |
+| 7 | **`lastmod` from git history** in the sitemap, not the build date | The one crawl signal that is actually earned. |
+| 8 | **CI extended** — every dossier must keep its breadcrumbs, citation block, related strip and a share card that exists on disk | 185 pages, 0 problems. The invariants now fail the build rather than drifting. |
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
@@ -70,13 +83,13 @@ These were gaps found in the audit and closed without touching a single sentence
 0. ~~**Photographs for the twelve new dossiers.**~~ **Done — see 0b.** Each currently leads with a diagram. The archive's visual language is a credited historical photograph at the top and diagrams in the body; the new pages invert that. One Commons search per topic, one credit line each, and the pattern is restored.
 0b. **A claim stub for every register row.** The 726 rows carry a title, a label and one sentence. Promoting 20 of them per month, in the order the register lists them, closes the gap in about three years — and the register makes that pace visible instead of aspirational.
 
-1. **Per-dossier share cards.** Render `assets/og/<slug>.png` for all 150 dossiers from the same HTML template as the site card (title, label, hero crop). 150 headless renders, one script, no design work. Every shared dossier then carries its own claim and label.
+1. ~~**Per-dossier share cards.**~~ **Done — see 0c.** Render `assets/og/<slug>.png` for all 150 dossiers from the same HTML template as the site card (title, label, hero crop). 150 headless renders, one script, no design work. Every shared dossier then carries its own claim and label.
 2. ~~**`citation_*` meta tags**~~ **Done — see 0b.** (Highwire/Dublin Core: `citation_title`, `citation_author`, `citation_publication_date`, `citation_pdf_url`) on every dossier. This is what Google Scholar reads; without it a reference library is invisible to the one index that matters to researchers.
-3. **A "Cite this page" box** at the foot of each dossier — APA, MLA, Chicago and BibTeX, generated from the page's own title, author and date, with a copy button. Nothing else would do more to make the archive quotable.
-4. **`lastmod` from git history.** `sitemap.xml` currently stamps all 169 URLs with the build date; deriving it from `git log -1 --format=%cI -- <page>` is a one-line change per URL and is the signal crawlers actually trust.
+3. ~~**A "Cite this page" box**~~ **Done — see 0c.** at the foot of each dossier — APA, MLA, Chicago and BibTeX, generated from the page's own title, author and date, with a copy button. Nothing else would do more to make the archive quotable.
+4. ~~**`lastmod` from git history.**~~ **Done — see 0c.** `sitemap.xml` currently stamps all 169 URLs with the build date; deriving it from `git log -1 --format=%cI -- <page>` is a one-line change per URL and is the signal crawlers actually trust.
 5. ~~**A random-dossier button**~~ **Done — see 0b.** in the header (`?random` → redirect to a random page). A 150-page archive is navigated by wandering; there is currently no way in except the index.
 6. ~~**`/` to focus search, `Esc` to clear, ↑/↓/Enter to walk results**~~ **Done — see 0b.** in `search.html`, plus a `aria-live="polite"` on the result count. The search box is the archive's best tool and it is mouse-only.
-7. **A "related dossiers" strip** at the foot of each page — 4 links computed from shared theme and label. 150 pages currently link outward to each other only through the nav.
+7. ~~**A "related dossiers" strip**~~ **Done — see 0c.** at the foot of each page — 4 links computed from shared theme and label. 150 pages currently link outward to each other only through the nav.
 8. ~~**`rel="noopener"` on every external link**~~ **Done — see 0b.**, not just the new support links (682 of 2,841 currently carry it). Cheap hardening, no visual change.
 9. **A `humans.txt` and a `.well-known/security.txt`.** Two small files, both expected of a site that takes its own claims about privacy seriously.
 10. **Intrinsic image dimensions, done safely.** 589 images carry no `width`/`height`, so every page reflows as it loads. The blanket fix (`img{height:auto}`) breaks the front-page hero and the dossier figures, both of which are absolutely positioned — the fix is per-figure: give `.fig`/`.hero-band` an `aspect-ratio`, then add the attributes. Worth ~0.05 of CLS on a slow connection.
@@ -89,8 +102,8 @@ These were gaps found in the audit and closed without touching a single sentence
 13. **Sticky per-page table of contents.** Dossiers run 700–2,000 words with 5–7 headed sections and no jump list. A right-hand "on this page" rail (desktop) and a collapsible summary (mobile) would cut the scroll cost of every page.
 14. **Responsive images.** `srcset` at 480/960/1440 for every AVIF plus a WebP `<picture>` fallback, so a phone stops downloading 900×1020 crops. Expect roughly 60% off mobile image bytes.
 15. **A light theme and a reading-size control.** The archive is dark-only, at 18px serif. Both are preference toggles stored in `localStorage`, ~40 lines, and both materially widen who can read a long page.
-16. **An RSS/Atom feed** of new and revised dossiers, plus a JSON Feed. Nothing announces that the archive grew; a feed is the cheapest way to be followed.
-17. **A corrections policy page and a visible "last reviewed" line** on every dossier. The archive's authority rests on being checkable; it should say when each page was last checked, and what happens when a claim is overturned.
+16. ~~**An RSS/Atom feed**~~ **Done — see 0c.** of new and revised dossiers, plus a JSON Feed. Nothing announces that the archive grew; a feed is the cheapest way to be followed.
+17. ~~**A corrections policy page and a visible "last reviewed" line**~~ **Done — see 0c.** on every dossier. The archive's authority rests on being checkable; it should say when each page was last checked, and what happens when a claim is overturned.
 18. **A glossary.** *Firmament*, *ice wall*, *Tartarus*, *concave Earth*, *aether*, *hollow shell*, *expanding Earth*, *Silurian hypothesis* — recurring terms, currently explained 150 separate times in 150 separate voices.
 19. **Extend `compare.html`.** Today it compares two dossiers; make it three, and put the pair in the URL (`?a=flat-earth&b=ice-wall`) so a comparison can be linked, shared and cited.
 20. **A "how to read a dossier" page.** The four labels are explained on the index and again in a key on each page, but the method itself — how a claim was traced, what counts as evidence here — has no permanent home.

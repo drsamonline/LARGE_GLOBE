@@ -5,6 +5,10 @@ import glob, os, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 pages = sorted(glob.glob("*.html"))
+UTILITY = {"index.html","reading-guide.html","themes.html","charts.html","master-list.html","search.html",
+           "compare.html","collections.html","links.html","sources.html","credits.html","claims-index.html",
+           "print-edition.html","open-problems.html","ancient-index.html","frontier-index.html","modern-index.html",
+           "mega-index.html","support.html","404.html","topics.html","random.html","corrections.html"}
 problems = []
 
 for p in pages:
@@ -25,6 +29,16 @@ for p in pages:
     for s in re.findall(r'src="([^":]+\.(?:avif|svg|png|webp|jpg))"', h):
         if not os.path.exists(s):
             problems.append(f"{p}: missing asset -> {s}")
+    og = re.search(r'property="og:image" content="[^"]*LARGE_GLOBE/([^"]+)"', h)
+    if og and not os.path.exists(og.group(1)):
+        problems.append(f"{p}: og:image not in the repo -> {og.group(1)}")
+    if p not in UTILITY and '<aside class="facts">' in h:
+        for marker, name in (('class="crumbs"', 'breadcrumbs'), ('class="cite"', 'citation block'),
+                             ('class="related"', 'related strip')):
+            if marker not in h:
+                problems.append(f"{p}: dossier without {name}")
+        if 'citation_title' not in h:
+            problems.append(f"{p}: dossier without citation meta")
 
 for p in problems:
     print(p)
