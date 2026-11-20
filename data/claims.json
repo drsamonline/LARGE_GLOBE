@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 180,
+ "count": 186,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -408,6 +408,37 @@
      "https://en.wikipedia.org/wiki/The_Backrooms",
      "https://knowyourmeme.com/memes/the-backrooms",
      "https://www.youtube.com/@KanePixels"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "baghdad-battery",
+   "url": "baghdad-battery.html",
+   "title": "The Baghdad Battery",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A clay jar with a copper cylinder and an iron rod will produce a voltage if you fill it with vinegar. Whether anyone in Parthian Iraq did that is a different question, and the answer is almost certainly no.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "Khujut Rabu, near Baghdad, 1936",
+    "Described as a cell": "Wilhelm König, 1938",
+    "Voltage of replicas": "About 0.5–2 V",
+    "Missing evidence": "Wires, electrolyte residue, plated objects",
+    "Better explanation": "A scroll container, a known Parthian type"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Baghdad_Battery",
+     "https://en.wikipedia.org/wiki/Galvanic_cell",
+     "https://en.wikipedia.org/wiki/Electroplating",
+     "https://en.wikipedia.org/wiki/Parthian_Empire"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -853,6 +884,37 @@
      "https://www.discovermagazine.com/the-hunt-for-the-loch-ness-monster-sightings-and-theories-you-need-to-know-45804",
      "https://www.snexplores.org/article/bigfoot-loch-ness-monster-cryptid-statistics",
      "https://www.nationalgeographic.com/adventure/article/130907-cryptid-crytozoology-bigfoot-loch-yeti-monster-abominable-science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "crystal-skulls",
+   "url": "crystal-skulls.html",
+   "title": "The Crystal Skulls",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A dozen quartz skulls were said to be pre-Columbian, and one was said to be the work of aliens or Atlanteans. Microscopy found nineteenth-century lapidary tools on every one that has been examined.",
+   "facts": {
+    "Status": "Debunked",
+    "Known skulls": "About a dozen large quartz examples",
+    "Examined": "British Museum, 1996; Smithsonian, 2005",
+    "Material": "Brazilian quartz, not Mesoamerican",
+    "Tool marks": "Rotary wheel and abrasive — nineteenth-century",
+    "The unexamined one": "Mitchell-Hedges, no provenance before the 1920s"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Crystal_skull",
+     "https://en.wikipedia.org/wiki/British_Museum",
+     "https://en.wikipedia.org/wiki/Lapidary",
+     "https://en.wikipedia.org/wiki/Quartz"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2461,6 +2523,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "kensington-runestone",
+   "url": "kensington-runestone.html",
+   "title": "The Kensington Runestone",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A Minnesota farmer found a stone in 1898 claiming a Norse expedition reached the American interior in 1362. Runologists have been unanimous for a century that the inscription is nineteenth-century Swedish.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "Kensington, Minnesota, 1898",
+    "Claimed date": "1362",
+    "Language": "Nineteenth-century Swedish forms, not fourteenth-century Norse",
+    "Found by": "Olof Öhman, a Swedish immigrant farmer",
+    "Scholarly position": "Unanimous forgery; no peer-reviewed defence"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kensington_Runestone",
+     "https://en.wikipedia.org/wiki/Runestone",
+     "https://en.wikipedia.org/wiki/Dalecarlian_runes",
+     "https://en.wikipedia.org/wiki/Norse_colonization_of_North_America"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "larger-globe",
    "url": "larger-globe.html",
    "title": "The Larger Globe",
@@ -3657,6 +3750,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "philadelphia-experiment",
+   "url": "philadelphia-experiment.html",
+   "title": "The Philadelphia Experiment",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A destroyer escort is said to have vanished from a Philadelphia shipyard in 1943 and reappeared in Norfolk. The story comes from letters written by one man in 1955, and the ship's own deck logs contradict it.",
+   "facts": {
+    "Status": "Debunked",
+    "Ship": "USS Eldridge, DE-173, a destroyer escort",
+    "Claimed date": "October 1943",
+    "Only source": "Letters from Carl Allen to Morris Jessup, 1955",
+    "Contradicted by": "The ship's deck logs and war diary",
+    "Real kernel": "Degaussing, and radar countermeasures"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Philadelphia_Experiment",
+     "https://en.wikipedia.org/wiki/USS_Eldridge",
+     "https://en.wikipedia.org/wiki/Degaussing",
+     "https://en.wikipedia.org/wiki/Morris_Jessup"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "phosphine-venus",
    "url": "phosphine-venus.html",
    "title": "Phosphine on Venus",
@@ -3713,6 +3837,37 @@
      "https://doi.org/10.1103/PhysRev.85.166",
      "https://plato.stanford.edu/entries/qm-bohm/",
      "https://en.wikipedia.org/wiki/Bell%27s_theorem"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "piri-reis-map",
+   "url": "piri-reis-map.html",
+   "title": "The Piri Reis Map",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A 1513 Ottoman map of the Atlantic is genuinely remarkable. The claim that it shows an ice-free Antarctica surveyed by an unknown civilisation rests on a misreading of one coastline.",
+   "facts": {
+    "Status": "Debunked",
+    "Drawn": "1513, by Piri Reis",
+    "Medium": "Gazelle skin; survives as a fragment",
+    "Declared sources": "Columbus charts, Portuguese and Spanish maps",
+    "The Antarctica claim": "Hapgood, 1966",
+    "Why it fails": "The southern land is continuous with South America; no match to subglacial topography"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Piri_Reis_map",
+     "https://en.wikipedia.org/wiki/Piri_Reis",
+     "https://en.wikipedia.org/wiki/Charles_Hapgood",
+     "https://en.wikipedia.org/wiki/Terra_Australis"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4759,6 +4914,37 @@
      "https://archive.org/details/foodofgodssearch00mcke",
      "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens",
      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5459462/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "stonehenge-acoustics",
+   "url": "stonehenge-acoustics.html",
+   "title": "Stonehenge Acoustics",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A replica of Stonehenge has been built and measured. The stones do affect sound in ways that would matter for speech, music and drumming — and the site is a ruin, which is the problem with every claim about how it sounded.",
+   "facts": {
+    "Status": "Live debate",
+    "Key study": "Watson &amp; Keating, half-scale replica, 1999",
+    "Full-scale replica": "University of Salford, 2012",
+    "What is measurable": "Reverberation, reflection, speech intelligibility",
+    "The problem": "The site is a ruin; reconstructions differ",
+    "Unresolved": "Whether any acoustic effect was intended"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Stonehenge",
+     "https://en.wikipedia.org/wiki/Archaeoacoustics",
+     "https://en.wikipedia.org/wiki/Reverberation",
+     "https://en.wikipedia.org/wiki/Acoustic_ecology"
     ]
    },
    "last_reviewed": "2026-11-20",

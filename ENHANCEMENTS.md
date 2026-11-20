@@ -191,6 +191,21 @@ Six more, all from the biology and deep-time end of the register — the part of
 
 The publisher ran it end to end in one command: 180 dossiers, 826 sources, 214 images, 206 pages, PDF 589 pages, EPUB 182 chapters, sitemap 204 URLs, 0 problems.
 
+## 0p. Shipped in the sixteenth pass — 20 November 2026
+
+Six from the artefact end of the register — the claims that made this archive's reputation, and the ones where the debunking is a microscope or a grammar book rather than a paper.
+
+| # | Dossier | Label | Why |
+|---|---|---|---|
+| 1 | **The Baghdad Battery** | Debunked | a real jar, real electrochemistry, and no wires, no residue, no plated objects |
+| 2 | **The Piri Reis Map** | Debunked | a fine 1513 compilation whose own marginal notes explain what it contains |
+| 3 | **The Kensington Runestone** | Debunked | nineteenth-century Swedish grammar on a stone claiming 1362 |
+| 4 | **The Philadelphia Experiment** | Debunked | one correspondent, no records, and a ship's logs that place it elsewhere |
+| 5 | **The Crystal Skulls** | Debunked | rotary tool marks and Brazilian quartz on every skull examined |
+| 6 | **Stonehenge Acoustics** | Live debate | real measurement, real replicas, and a ruin that cannot settle intent |
+
+186 dossiers, 850 sources, 220 images, 212 pages, PDF 604 pages, EPUB 188 chapters, sitemap 210 URLs, 0 problems.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
