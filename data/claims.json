@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 236,
+ "count": 246,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -36,6 +36,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "aestivation-hypothesis",
+   "url": "aestivation-hypothesis.html",
+   "title": "The Aestivation Hypothesis",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Advanced civilisations may be asleep, waiting for the universe to cool so their computers run more efficiently. It explains the absence of aliens by predicting it, which is either elegant or unfalsifiable.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Sandberg, Armstrong and Ćirković, 2017",
+    "Premise": "Colder background, cheaper computation",
+    "Objection": "Stars burn out sooner than the background cools",
+    "Testability": "Predicts absence; indistinguishable from rivals",
+    "Published": "Peer-reviewed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Aestivation_hypothesis",
+     "https://en.wikipedia.org/wiki/Fermi_paradox",
+     "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+     "https://en.wikipedia.org/wiki/Landauer%27s_principle"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ai-risk",
    "url": "ai-risk.html",
    "title": "AI Existential Risk",
@@ -60,6 +91,37 @@
      "https://arxiv.org/abs/2401.02843",
      "https://global.oup.com/academic/product/superintelligence-9780199678112",
      "https://en.wikipedia.org/wiki/AI_safety"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "akashic-records",
+   "url": "akashic-records.html",
+   "title": "The Akashic Records",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A compendium of everything that has ever happened, said to be readable by the trained. It is a claim with no evidence, no mechanism and no test — and it shaped a great deal of modern spiritual writing.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Origin": "Theosophy, 1880s",
+    "Claim": "A universal record, readable by the trained",
+    "Medium": "None proposed that can be examined",
+    "Test": "None — errors are attributed to the reader",
+    "Label reason": "Unfalsifiable, not disproved"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Akashic_records",
+     "https://en.wikipedia.org/wiki/Theosophy",
+     "https://en.wikipedia.org/wiki/Falsifiability",
+     "https://en.wikipedia.org/wiki/Cold_reading"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1582,6 +1644,68 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "deja-reve",
+   "url": "deja-reve.html",
+   "title": "Déjà Rêvé",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The sense that this moment was dreamed before. It is distinct from déjà vu, it is common, and the tempting explanation — that the dream predicted the event — is the one the evidence does not support.",
+   "facts": {
+    "Status": "Live debate",
+    "Experience": "A present moment felt to have been dreamed",
+    "Distinct from": "Déjà vu, which has no dream attribution",
+    "Common in": "Young adults",
+    "Likely mechanism": "Memory reconstruction at the moment of the event",
+    "Precognition": "No evidence under controlled tests"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu",
+     "https://en.wikipedia.org/wiki/Dream",
+     "https://en.wikipedia.org/wiki/False_memory",
+     "https://en.wikipedia.org/wiki/Precognition"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "deja-vu",
+   "url": "deja-vu.html",
+   "title": "Déjà Vu",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The feeling that this has happened before, with no memory of when. Most people have it, nobody has a settled explanation, and the one thing it is not is evidence of a previous life.",
+   "facts": {
+    "Status": "Live debate",
+    "Reported by": "Around two-thirds of people",
+    "Peak age": "Teens and twenties",
+    "Duration": "Seconds",
+    "Clinical anchor": "Temporal-lobe epilepsy",
+    "Mechanism": "Contested; memory-based accounts lead"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu",
+     "https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy",
+     "https://en.wikipedia.org/wiki/Familiarity_(psychology)",
+     "https://en.wikipedia.org/wiki/Past_life_regression"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "democratic-peace",
    "url": "democratic-peace.html",
    "title": "Democratic Peace",
@@ -1829,6 +1953,37 @@
      "https://www.nature.com/articles/s43247-020-00081-8",
      "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident",
      "https://actu.epfl.ch/news/using-science-to-solve-the-dyatlov-pass-mystery/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dyson-spheres",
+   "url": "dyson-spheres.html",
+   "title": "Dyson Spheres",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A civilisation that captured all its star's light would be visible from far away, as an excess of infrared and a deficit of visible light. Astronomers have looked, and found candidates that turned out to be dust.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "Freeman Dyson, 1960",
+    "Signature": "Infrared excess, visible-light deficit",
+    "Confounders": "Dust, debris discs",
+    "Famous case": "Tabby's star — resolved as dust",
+    "2024 search": "Five million sources, seven candidates"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dyson_sphere",
+     "https://en.wikipedia.org/wiki/Tabby%27s_Star",
+     "https://en.wikipedia.org/wiki/Infrared_excess",
+     "https://en.wikipedia.org/wiki/Circumstellar_dust"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2813,6 +2968,37 @@
      "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
      "https://en.wikipedia.org/wiki/Karahan_Tepe",
      "https://www.kulturportali.gov.tr/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "grail-bloodline",
+   "url": "grail-bloodline.html",
+   "title": "The Grail Bloodline",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that the Holy Grail is not a cup but a bloodline, descending from Jesus, and that a secret society has guarded it. The society was invented in 1956, and its documents were forgeries.",
+   "facts": {
+    "Status": "Debunked",
+    "Book": "Baigent, Leigh and Lincoln, 1982",
+    "Secret society": "Registered 1956 by Pierre Plantard",
+    "Documents": "Dossiers Secrets — forged",
+    "Admission": "Plantard, under oath, 1993",
+    "The Grail": "A twelfth-century literary object"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Holy_Blood_and_the_Holy_Grail",
+     "https://en.wikipedia.org/wiki/Priory_of_Sion",
+     "https://en.wikipedia.org/wiki/Pierre_Plantard",
+     "https://en.wikipedia.org/wiki/Holy_Grail"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3947,6 +4133,37 @@
      "https://www.bps.org.uk/psychologist/dancing-plagues-and-mass-hysteria",
      "https://www.history.com/articles/mysterious-illnesses-mass-hysteria",
      "https://www.degruyterbrill.com/document/doi/10.1515/HUMOR.2007.003/html"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "matrioshka-brains",
+   "url": "matrioshka-brains.html",
+   "title": "Matrioshka Brains",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A computer the size of a solar system, built in nested shells that each use the waste heat of the one inside. It is a thought experiment about thermodynamics, and nothing in the sky looks like one.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Robert Bradbury, 1997",
+    "Principle": "Nested shells running on waste heat",
+    "Physics": "Ordinary thermodynamics; Landauer limit",
+    "Observed": "Nothing resembling one",
+    "Status of the claim": "A thought experiment, not an observation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Matrioshka_brain",
+     "https://en.wikipedia.org/wiki/Landauer%27s_principle",
+     "https://en.wikipedia.org/wiki/Megastructure",
+     "https://en.wikipedia.org/wiki/Limits_of_computation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5780,6 +5997,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "shared-dreaming",
+   "url": "shared-dreaming.html",
+   "title": "Shared Dreaming",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Two people report the same dream on the same night. It is one of the most compelling experiences a person can have and one of the hardest claims to test, because dreams are private and reports are not.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Claim": "Two or more people experience the same dream",
+    "Classic work": "Maimonides dream-telepathy experiments, 1960s–70s",
+    "Replication": "Failed; methodology criticised",
+    "Obstacle": "Dreams are known only through post-waking reports",
+    "Current evidence": "Anecdotal"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dream_telepathy",
+     "https://en.wikipedia.org/wiki/Dream",
+     "https://en.wikipedia.org/wiki/Lucid_dream",
+     "https://en.wikipedia.org/wiki/Replication_crisis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "shroud-radiation",
    "url": "shroud-radiation.html",
    "title": "The Shroud as a Radiation Flash",
@@ -5835,6 +6083,37 @@
      "https://arxiv.org/abs/1804.03748",
      "https://www.giss.nasa.gov/staff/gschmidt/",
      "https://en.wikipedia.org/wiki/Silurian_hypothesis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "simian-line",
+   "url": "simian-line.html",
+   "title": "The Simian Line and Palmistry",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "One crease across the palm instead of two is a real anatomical variant, more common in some conditions. The claim that it reveals character, destiny or 'simian' ancestry is where it stops being anatomy.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Feature": "Single transverse palmar crease",
+    "Frequency": "A few per cent; normal variant",
+    "Associated with": "Down syndrome and some developmental conditions",
+    "Origin": "Fetal hand movement, first trimester",
+    "Personality link": "None; palm reading tests at chance"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Simian_crease",
+     "https://en.wikipedia.org/wiki/Palmistry",
+     "https://en.wikipedia.org/wiki/Dermatoglyphics",
+     "https://en.wikipedia.org/wiki/Down_syndrome"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6154,6 +6433,37 @@
      "https://en.wikipedia.org/wiki/Archaeoacoustics",
      "https://en.wikipedia.org/wiki/Reverberation",
      "https://en.wikipedia.org/wiki/Acoustic_ecology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "stonehenge-computer",
+   "url": "stonehenge-computer.html",
+   "title": "Stonehenge as a Computer",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "In 1963 an astronomer argued that Stonehenge was a machine for predicting eclipses. The alignments are real; the machine is the part that did not survive scrutiny.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "Gerald Hawkins, 1963",
+    "Claim": "An observatory and an eclipse predictor",
+    "Supported": "The solstice alignment",
+    "Not supported": "Eclipse prediction; the statistics fail",
+    "Problem": "165 points produce thousands of chance alignments"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Stonehenge",
+     "https://en.wikipedia.org/wiki/Gerald_Hawkins",
+     "https://en.wikipedia.org/wiki/Archaeoastronomy",
+     "https://en.wikipedia.org/wiki/Multiple_comparisons_problem"
     ]
    },
    "last_reviewed": "2026-11-20",

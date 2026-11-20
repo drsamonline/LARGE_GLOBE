@@ -321,6 +321,27 @@ Ten more: four ancient, three cosmos, three mind. Published in 44 seconds.
 
 Two of these are the same error in different centuries — the Dendera relief read as a light bulb, and the Gateway report read as a finding — and the pair is worth having adjacent on the shelf. Three are claims with hard dates or hard objects (2012, the copper inventory, the Philippine tunnels), which is the easiest kind of claim to settle and the kind this archive is best at.
 
+## 0v. Shipped in the twenty-second pass — 20 November 2026
+
+Ten more: megastructures, dream claims, and two famous grails.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | Dyson Spheres | Live debate |
+| 2 | Matrioshka Brains | Fringe claim |
+| 3 | The Aestivation Hypothesis | Fringe claim |
+| 4 | The Akashic Records | Fringe claim |
+| 5 | Shared Dreaming | Fringe claim |
+| 6 | The Simian Line and Palmistry | Fringe claim |
+| 7 | Déjà Rêvé | Live debate |
+| 8 | Stonehenge as a Computer | Live debate |
+| 9 | The Grail Bloodline | Debunked |
+| 10 | Déjà Vu | Live debate |
+
+246 dossiers, 1,090 sources, 280 images, 272 pages, PDF 724 pages, EPUB 248 chapters, sitemap 270 URLs, 0 problems.
+
+Four of these are the same structural case — a real observation with an unevidenced inference bolted on (Dyson's infrared excess, the palmar crease, the dream report, the solstice alignment). Filing them together makes the archive's central distinction legible in one shelf.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
