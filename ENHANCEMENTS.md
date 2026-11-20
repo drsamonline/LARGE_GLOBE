@@ -133,6 +133,15 @@ Deliberately deferred: `compare.html` still takes two dossiers, not three. Exten
 | 3 | **CI runs the check** | Drift is caught at push, not discovered three passes later. |
 | 4 | **A CSS bug found by the shell work** — the citation block carried 52 px of padding above its heading, inherited from the global `section{padding:52px 0}` | It had been visible on all 162 dossiers since the citation block shipped, and nobody had looked at the bottom of a page closely enough. |
 
+## 0l. Shipped in the twelfth pass — 20 November 2026
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **`tools/rebuild-charts.py`** — every number on `charts.html` rebuilt from `data/claims.json` and the credits page: the label distribution, the theme sizes, the licence split, the longest and thinnest source lists, the caption under each chart, and the generated date | The page claimed "nothing here is typed by hand" while showing 150 dossiers, 706 sources, 167 images and a label split of 47/39/32/32. The true split is 23 documented, 107 live debate, 14 fringe, 16 debunked, 2 open — the old numbers were wrong by a factor of two on the debate/fringe axis. |
+| 2 | **The distribution chart now shows all five labels in use**, not four | Fiction and open-problem claims existed in the archive and were invisible in its own numbers. |
+| 3 | **CI runs `--check`** | The page and the ledger can no longer disagree without failing the build. |
+| 4 | **The caption and the thinnest-dossier sentence are generated too** | Prose is where stale numbers survive longest: the chart was regenerated, and the sentence beneath it still said 150. |
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

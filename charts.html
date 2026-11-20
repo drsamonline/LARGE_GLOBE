@@ -47,20 +47,20 @@
 <div class="article-grid">
 <article>
 <h3>What this page is for</h3>
-<p>Numbers are a fast honesty check on a publication. These four charts are generated from the archive's own content every time the site is rebuilt: the verdicts come from the master list, the sourcing counts from each page's source list, the theme sizes from the taxonomy, and the licences from the image metadata. Nothing here is typed by hand.</p>
+<p>Numbers are a fast honesty check on a publication. These four charts are generated from the archive's own content every time the site is rebuilt: the verdicts, themes and source counts come from `data/claims.json`, and the licences from the credits page. The generator is `tools/rebuild-charts.py`, and CI fails if this page drifts from either. Nothing here is typed by hand.</p>
 <p>They also show the limits. This is an editorial collection, not a survey: the labels are judgements about evidence, made by one archive, and the counts describe what has been written so far rather than what exists.</p>
 </article>
 <aside class="facts">
 <h4>At a glance</h4>
 <dl>
-<dt>Dossiers</dt><dd>150</dd>
+<dt>Dossiers</dt><dd>162</dd>
 <dt>Claims in the master list</dt><dd>150</dd>
-<dt>Source entries</dt><dd>706</dd>
-<dt>Credited images</dt><dd>167</dd>
+<dt>Source entries</dt><dd>754</dd>
+<dt>Credited images</dt><dd>178</dd>
 <dt>Average sources per dossier</dt><dd>4.7</dd>
 </dl>
 <hr class="rule" style="margin:20px 0">
-<p>Generated 18 November 2026 — rebuilt with the site.</p>
+<p>Generated 20 November 2026 from data/claims.json and credits.html — rebuilt with the site.</p>
 </aside>
 </div>
 <section>
@@ -111,71 +111,63 @@
 <h2>Where the archive lands</h2>
 <p class="section-intro">Every claim in the <a href="master-list.html">master list</a>, by its evidence label. The point is not that most claims fail — it is that the labels are used at all, including on comfortable claims.</p>
 <figure class="fig">
-<svg viewBox="0 0 760 64" role="img" aria-label="Distribution of the 150 claims across the four evidence labels">
+<svg viewBox="0 0 760 64" role="img" aria-label="Distribution of the 162 dossiers across the evidence labels">
 <g>
-<rect x="0.0" y="8" width="236.1" height="34" fill="#7fae7a"/>
-<text x="119" y="32" text-anchor="middle" font-size="13" fill="#0b0e14" font-family="ui-sans-serif,system-ui,sans-serif">47</text>
-<rect x="238.1" y="8" width="195.6" height="34" fill="#7d9ec4"/>
-<text x="337" y="32" text-anchor="middle" font-size="13" fill="#0b0e14" font-family="ui-sans-serif,system-ui,sans-serif">39</text>
-<rect x="435.7" y="8" width="160.1" height="34" fill="#d3a95f"/>
-<text x="517" y="32" text-anchor="middle" font-size="13" fill="#0b0e14" font-family="ui-sans-serif,system-ui,sans-serif">32</text>
-<rect x="597.9" y="8" width="160.1" height="34" fill="#c96a5a"/>
-<text x="679" y="32" text-anchor="middle" font-size="13" fill="#0b0e14" font-family="ui-sans-serif,system-ui,sans-serif">32</text></g>
+<rect x="0.0" y="8" width="107.9" height="34" fill="#7fae7a"/>
+<text x="54" y="32" text-anchor="middle" font-size="13" fill="#0b0e14" font-family="ui-sans-serif,system-ui,sans-serif">23</text>
+<rect x="107.9" y="8" width="502.0" height="34" fill="#7d9ec4"/>
+<text x="359" y="32" text-anchor="middle" font-size="13" fill="#0b0e14" font-family="ui-sans-serif,system-ui,sans-serif">107</text>
+<rect x="609.9" y="8" width="65.7" height="34" fill="#d3a95f"/>
+<text x="643" y="32" text-anchor="middle" font-size="13" fill="#0b0e14" font-family="ui-sans-serif,system-ui,sans-serif">14</text>
+<rect x="675.6" y="8" width="75.1" height="34" fill="#c96a5a"/>
+<text x="713" y="32" text-anchor="middle" font-size="13" fill="#0b0e14" font-family="ui-sans-serif,system-ui,sans-serif">16</text>
+<rect x="750.6" y="8" width="9.4" height="34" fill="#8b8477"/>
+<text x="755" y="32" text-anchor="middle" font-size="13" fill="#0b0e14" font-family="ui-sans-serif,system-ui,sans-serif">2</text>
+</g>
 <g transform="translate(16,48)"><rect width="9" height="9" fill="#7fae7a" y="2"/><text x="15" y="10" font-size="11.5" fill="#8b8477" font-family="ui-sans-serif,system-ui,sans-serif">Documented</text></g>
-<g transform="translate(188,48)"><rect width="9" height="9" fill="#7d9ec4" y="2"/><text x="15" y="10" font-size="11.5" fill="#8b8477" font-family="ui-sans-serif,system-ui,sans-serif">Live debate</text></g>
-<g transform="translate(360,48)"><rect width="9" height="9" fill="#d3a95f" y="2"/><text x="15" y="10" font-size="11.5" fill="#8b8477" font-family="ui-sans-serif,system-ui,sans-serif">Fringe</text></g>
-<g transform="translate(532,48)"><rect width="9" height="9" fill="#c96a5a" y="2"/><text x="15" y="10" font-size="11.5" fill="#8b8477" font-family="ui-sans-serif,system-ui,sans-serif">Debunked</text></g>
+<g transform="translate(108.0,48)"><rect width="9" height="9" fill="#7d9ec4" y="2"/><text x="15" y="10" font-size="11.5" fill="#8b8477" font-family="ui-sans-serif,system-ui,sans-serif">Live debate</text></g>
+<g transform="translate(206.6,48)"><rect width="9" height="9" fill="#d3a95f" y="2"/><text x="15" y="10" font-size="11.5" fill="#8b8477" font-family="ui-sans-serif,system-ui,sans-serif">Fringe</text></g>
+<g transform="translate(272.2,48)"><rect width="9" height="9" fill="#c96a5a" y="2"/><text x="15" y="10" font-size="11.5" fill="#8b8477" font-family="ui-sans-serif,system-ui,sans-serif">Debunked</text></g>
+<g transform="translate(351.0,48)"><rect width="9" height="9" fill="#8b8477" y="2"/><text x="15" y="10" font-size="11.5" fill="#8b8477" font-family="ui-sans-serif,system-ui,sans-serif">Open problem</text></g>
 </svg>
-<figcaption>150 claims: 47 documented, 39 in live debate, 32 fringe, 32 debunked. Filter them on the <a href="master-list.html">master list</a>.</figcaption>
+<figcaption>162 dossiers: 23 documented, 107 live debate, 14 fringe, 16 debunked, 2 open problem. Filter them on the <a href="master-list.html">master list</a>.</figcaption>
 </figure>
 </section>
 <section>
 <h2>How much sourcing stands behind each dossier</h2>
-<p class="section-intro">Source entries per page. The thinnest dossiers are The Backrooms (3); The Pixar Theory (3); The Mandela Effect (2). A short list is not automatically a weak page — some claims have one decisive source — but it is the first thing to check.</p>
+<p class="section-intro">Source entries per page. The thinnest dossiers are The Mandela Effect (2); Did Anastasia Survive? (3); The Backrooms (3). A short list is not automatically a weak page — some claims have one decisive source — but it is the first thing to check.</p>
 <figure class="fig">
-<svg viewBox="0 0 760 460" role="img" aria-label="A bar chart titled">
+<svg viewBox="0 0 760 346" role="img" aria-label="The ten dossiers with the longest source lists">
 <text x="238" y="27.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Secret Societies</text>
 <rect x="250" y="14.0" width="424" height="16" fill="#d3a95f" opacity=".85"/>
 <text x="684" y="27.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">11</text>
 <text x="238" y="59.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">The Simpsons Predictions</text>
 <rect x="250" y="46.0" width="424" height="16" fill="#d3a95f" opacity=".85"/>
 <text x="684" y="59.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">11</text>
-<text x="238" y="91.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Flat Earth &amp; the Firmament</text>
+<text x="238" y="91.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Creationism and the Alternati…</text>
 <rect x="250" y="78.0" width="385" height="16" fill="#d3a95f" opacity=".85"/>
 <text x="645" y="91.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">10</text>
-<text x="238" y="123.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Creationism and the Alternati…</text>
+<text x="238" y="123.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Flat Earth &amp; the Firmament</text>
 <rect x="250" y="110.0" width="385" height="16" fill="#d3a95f" opacity=".85"/>
 <text x="645" y="123.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">10</text>
-<text x="238" y="155.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Hollow Earth &amp; the Inner Sun</text>
+<text x="238" y="155.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Cryptids</text>
 <rect x="250" y="142.0" width="347" height="16" fill="#d3a95f" opacity=".85"/>
 <text x="607" y="155.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">9</text>
-<text x="238" y="187.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Noah, Gilgamesh &amp; the Great F…</text>
+<text x="238" y="187.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Noah, Gilgamesh &amp; the Gre…</text>
 <rect x="250" y="174.0" width="347" height="16" fill="#d3a95f" opacity=".85"/>
 <text x="607" y="187.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">9</text>
-<text x="238" y="219.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Tartaria &amp; the Mud Flood</text>
+<text x="238" y="219.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Hollow Earth &amp; the Inner …</text>
 <rect x="250" y="206.0" width="347" height="16" fill="#d3a95f" opacity=".85"/>
 <text x="607" y="219.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">9</text>
-<text x="238" y="251.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Cryptids</text>
+<text x="238" y="251.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Tartaria &amp; the Mud Flood</text>
 <rect x="250" y="238.0" width="347" height="16" fill="#d3a95f" opacity=".85"/>
 <text x="607" y="251.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">9</text>
-<text x="238" y="283.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">The Larger Globe</text>
+<text x="238" y="283.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Aliens, Area 51 &amp; the UFO…</text>
 <rect x="250" y="270.0" width="308" height="16" fill="#d3a95f" opacity=".85"/>
 <text x="568" y="283.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">8</text>
-<text x="238" y="315.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Aliens, Area 51 &amp; the UFO Fil…</text>
+<text x="238" y="315.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Curses</text>
 <rect x="250" y="302.0" width="308" height="16" fill="#d3a95f" opacity=".85"/>
 <text x="568" y="315.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">8</text>
-<text x="238" y="347.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Dragons &amp; Dinosaurs</text>
-<rect x="250" y="334.0" width="308" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="568" y="347.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">8</text>
-<text x="238" y="379.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Curses</text>
-<rect x="250" y="366.0" width="308" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="568" y="379.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">8</text>
-<text x="238" y="411.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Mutants &amp; “Superpowers”</text>
-<rect x="250" y="398.0" width="308" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="568" y="411.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">8</text>
-<text x="238" y="443.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Unexplained Phenomena</text>
-<rect x="250" y="430.0" width="308" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="568" y="443.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">8</text>
 </svg>
 <figcaption>The fourteen most-sourced dossiers. Average across all 150: 4.7 entries. The full table is in the <a href="sources.html">source audit</a>.</figcaption>
 </figure>
@@ -184,28 +176,28 @@
 <h2>The shelf by theme</h2>
 <p class="section-intro">Where the archive's weight sits. The distribution is uneven by design: some shelves simply have more claims worth documenting.</p>
 <figure class="fig">
-<svg viewBox="0 0 760 236" role="img" aria-label="A bar chart titled">
+<svg viewBox="0 0 760 250" role="img" aria-label="Dossiers per theme">
 <text x="158" y="27.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Earth</text>
-<rect x="170" y="14.0" width="199" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="379" y="27.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">17</text>
+<rect x="170" y="14.0" width="241" height="16" fill="#d3a95f" opacity=".85"/>
+<text x="421" y="27.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">21</text>
 <text x="158" y="59.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Cosmos</text>
 <rect x="170" y="46.0" width="504" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="684" y="59.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">43</text>
+<text x="684" y="59.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">44</text>
 <text x="158" y="91.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Ancient world</text>
-<rect x="170" y="78.0" width="129" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="309" y="91.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">11</text>
+<rect x="170" y="78.0" width="126" height="16" fill="#d3a95f" opacity=".85"/>
+<text x="306" y="91.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">11</text>
 <text x="158" y="123.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Mind</text>
-<rect x="170" y="110.0" width="234" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="414" y="123.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">20</text>
+<rect x="170" y="110.0" width="298" height="16" fill="#d3a95f" opacity=".85"/>
+<text x="478" y="123.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">26</text>
 <text x="158" y="155.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Anomalies</text>
-<rect x="170" y="142.0" width="94" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="274" y="155.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">8</text>
+<rect x="170" y="142.0" width="103" height="16" fill="#d3a95f" opacity=".85"/>
+<text x="283" y="155.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">9</text>
 <text x="158" y="187.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">States</text>
-<rect x="170" y="174.0" width="375" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="555" y="187.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">32</text>
+<rect x="170" y="174.0" width="367" height="16" fill="#d3a95f" opacity=".85"/>
+<text x="547" y="187.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">32</text>
 <text x="158" y="219.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Internet</text>
-<rect x="170" y="206.0" width="223" height="16" fill="#d3a95f" opacity=".85"/>
-<text x="403" y="219.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">19</text>
+<rect x="170" y="206.0" width="218" height="16" fill="#d3a95f" opacity=".85"/>
+<text x="398" y="219.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">19</text>
 </svg>
 <figcaption>162 dossiers in seven themes — see <a href="themes.html">the taxonomy</a>.</figcaption>
 </figure>
@@ -214,22 +206,31 @@
 <h2>Picture rights</h2>
 <p class="section-intro">Every image is hosted locally and used under a free licence, credited on the page and in the <a href="credits.html">credits</a>.</p>
 <figure class="fig">
-<svg viewBox="0 0 760 172" role="img" aria-label="A bar chart titled">
-<text x="158" y="27.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">CC BY-SA</text>
+<svg viewBox="0 0 760 282" role="img" aria-label="Images by licence">
+<text x="158" y="27.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Public domain</text>
 <rect x="170" y="14.0" width="504" height="16" fill="#7d9ec4" opacity=".85"/>
-<text x="684" y="27.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">63</text>
-<text x="158" y="59.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Public domain</text>
-<rect x="170" y="46.0" width="440" height="16" fill="#7d9ec4" opacity=".85"/>
-<text x="620" y="59.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">55</text>
-<text x="158" y="91.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">CC BY</text>
-<rect x="170" y="78.0" width="288" height="16" fill="#7d9ec4" opacity=".85"/>
-<text x="468" y="91.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">36</text>
-<text x="158" y="123.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">CC0</text>
-<rect x="170" y="110.0" width="64" height="16" fill="#7d9ec4" opacity=".85"/>
-<text x="244" y="123.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">8</text>
-<text x="158" y="155.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">Other / see source</text>
-<rect x="170" y="142.0" width="40" height="16" fill="#7d9ec4" opacity=".85"/>
-<text x="220" y="155.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">5</text>
+<text x="684" y="27.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">56</text>
+<text x="158" y="59.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">CC BY-SA 4.0</text>
+<rect x="170" y="46.0" width="324" height="16" fill="#7d9ec4" opacity=".85"/>
+<text x="504" y="59.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">36</text>
+<text x="158" y="91.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">CC BY-SA 3.0</text>
+<rect x="170" y="78.0" width="207" height="16" fill="#7d9ec4" opacity=".85"/>
+<text x="387" y="91.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">23</text>
+<text x="158" y="123.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">CC BY 4.0</text>
+<rect x="170" y="110.0" width="198" height="16" fill="#7d9ec4" opacity=".85"/>
+<text x="378" y="123.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">22</text>
+<text x="158" y="155.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">CC BY 2.0</text>
+<rect x="170" y="142.0" width="126" height="16" fill="#7d9ec4" opacity=".85"/>
+<text x="306" y="155.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">14</text>
+<text x="158" y="187.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">CC0</text>
+<rect x="170" y="174.0" width="72" height="16" fill="#7d9ec4" opacity=".85"/>
+<text x="252" y="187.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">8</text>
+<text x="158" y="219.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">CC BY-SA 2.0</text>
+<rect x="170" y="206.0" width="54" height="16" fill="#7d9ec4" opacity=".85"/>
+<text x="234" y="219.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">6</text>
+<text x="158" y="251.0" text-anchor="end" font-size="12.5" fill="#b9b2a2" font-family="ui-sans-serif,system-ui,sans-serif">No restrictions</text>
+<rect x="170" y="238.0" width="45" height="16" fill="#7d9ec4" opacity=".85"/>
+<text x="225" y="251.0" font-size="12" fill="#8b8477" font-family="ui-monospace,Menlo,monospace">5</text>
 </svg>
 <figcaption>196 images by licence type, from the archive's image metadata.</figcaption>
 </figure>
