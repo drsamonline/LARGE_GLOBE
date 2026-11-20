@@ -237,6 +237,27 @@ Ten dossiers in one run, after a speed replan. The bottleneck was never the writ
 
 196 dossiers, 890 sources, 230 images, 222 pages, PDF 624 pages, EPUB 198 chapters, sitemap 220 URLs, 0 problems.
 
+## 0r. Shipped in the eighteenth pass — 20 November 2026
+
+Ten more, split between the cosmos and the mind. Same pipeline, and this time it ran in **43 seconds** — the first batch through the optimised path with everything warm.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | The Wow! Signal | Live debate |
+| 2 | The Face on Mars | Debunked |
+| 3 | The Phobos Monolith | Debunked |
+| 4 | Tired Light | Debunked |
+| 5 | The Boötes Void | Documented |
+| 6 | The Ganzfeld Effect | Documented |
+| 7 | The Tetris Effect | Documented |
+| 8 | Chronostasis | Documented |
+| 9 | Alien Hand Syndrome | Documented |
+| 10 | The Green Children of Woolpit | Live debate |
+
+206 dossiers, 930 sources, 240 images, 232 pages, PDF 644 pages, EPUB 208 chapters, sitemap 230 URLs, 0 problems.
+
+**On the auto-picked photographs:** four of the ten came back wrong on the first pass — a magazine page for the ganzfeld, a keyboard for alien hand syndrome, a German temple for Woolpit. The contact sheet caught them, the terms were tightened, and the second pass was correct. The check is not optional; it is the whole reason the pipeline is fast rather than careless.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

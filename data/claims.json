@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 196,
+ "count": 206,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -91,6 +91,37 @@
      "https://arxiv.org/abs/1609.05807",
      "https://doi.org/10.1089/big.2016.0047",
      "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "alien-hand-syndrome",
+   "url": "alien-hand-syndrome.html",
+   "title": "Alien Hand Syndrome",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A hand that acts on its own — unbuttoning a shirt, grabbing a tool, resisting the other hand — is a real consequence of damage to the connections between the hemispheres.",
+   "facts": {
+    "Status": "Documented",
+    "First described": "Early twentieth century",
+    "Common causes": "Callosotomy; medial frontal stroke",
+    "Behaviour": "Purposeful, unintended, unsuppressible movement",
+    "Agency": "Intact sense that the hand is theirs, not that they control it",
+    "Not": "Possession, or a second self"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Alien_hand_syndrome",
+     "https://en.wikipedia.org/wiki/Corpus_callosum",
+     "https://en.wikipedia.org/wiki/Split-brain",
+     "https://en.wikipedia.org/wiki/Sense_of_agency"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -694,6 +725,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "bootes-void",
+   "url": "bootes-void.html",
+   "title": "The Boötes Void",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A region of sky about 330 million light years across contains far fewer galaxies than it should. It is real, it is not empty, and it is not evidence of anything stranger than large-scale structure.",
+   "facts": {
+    "Status": "Documented",
+    "Reported": "Kirshner et al., 1981",
+    "Diameter": "About 330 million light years",
+    "Contents": "Galaxies, at well below average density",
+    "Explanation": "Large-scale structure formation",
+    "Not supported": "That it is empty, or artificial"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bo%C3%B6tes_Void",
+     "https://en.wikipedia.org/wiki/Void_(astronomy)",
+     "https://en.wikipedia.org/wiki/Observable_universe",
+     "https://en.wikipedia.org/wiki/Galaxy_filament"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "bosnian-pyramids",
    "url": "bosnian-pyramids.html",
    "title": "The Bosnian Pyramids",
@@ -810,6 +872,37 @@
      "https://doi.org/10.1017/S0140525X00005756",
      "https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)",
      "https://en.wikipedia.org/wiki/Symbol_grounding_problem"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "chronostasis",
+   "url": "chronostasis.html",
+   "title": "Chronostasis",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Glance at a clock and the first second seems to last longer. The clock is fine; your brain is filling a gap it never recorded.",
+   "facts": {
+    "Status": "Documented",
+    "Named": "Yarrow et al., 2001",
+    "Cause": "Saccadic suppression, then backfilling",
+    "Magnitude": "Hundreds of milliseconds",
+    "What it shows": "Perceived duration is constructed",
+    "Not to be confused with": "Claims that time itself slows"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Chronostasis",
+     "https://en.wikipedia.org/wiki/Saccade",
+     "https://en.wikipedia.org/wiki/Time_perception",
+     "https://en.wikipedia.org/wiki/Saccadic_suppression_of_image_displacement"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1652,6 +1745,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "face-on-mars",
+   "url": "face-on-mars.html",
+   "title": "The Face on Mars",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A mesa in the Cydonia region looked like a face at Viking resolution. Higher-resolution images, taken twenty-two years later, show a mesa. The interesting part is why the first image looked the way it did.",
+   "facts": {
+    "Status": "Debunked",
+    "First image": "Viking 1, 1976, ~43 m/pixel",
+    "Re-imaged": "Mars Global Surveyor, 1998, ~1.5 m/pixel",
+    "Feature": "An eroded mesa in Cydonia",
+    "Mechanism": "Pareidolia plus low resolution and low sun",
+    "Concealment claim": "No — the other frames were released"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cydonia_(Mars)",
+     "https://en.wikipedia.org/wiki/Pareidolia",
+     "https://en.wikipedia.org/wiki/Viking_1",
+     "https://en.wikipedia.org/wiki/Mars_Global_Surveyor"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "fast-radio-bursts",
    "url": "fast-radio-bursts.html",
    "title": "Fast Radio Bursts",
@@ -1975,6 +2099,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "ganzfeld-effect",
+   "url": "ganzfeld-effect.html",
+   "title": "The Ganzfeld Effect",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Put half ping-pong balls over someone's eyes, play white noise, and within minutes most people start to hallucinate. The effect is real; the parapsychology built on top of it is not.",
+   "facts": {
+    "Status": "Documented",
+    "Setup": "Uniform light field, white noise",
+    "Onset": "Vivid imagery within minutes for most people",
+    "Cause": "Removal of structure from sensory input",
+    "Psi use": "Telepathy tests from the 1970s",
+    "Psi status": "Small, contested, not independently replicated"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ganzfeld_effect",
+     "https://en.wikipedia.org/wiki/Ganzfeld_experiment",
+     "https://en.wikipedia.org/wiki/Sensory_deprivation",
+     "https://en.wikipedia.org/wiki/Hallucination"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "geographic-determinism",
    "url": "geographic-determinism.html",
    "title": "Geographic Determinism",
@@ -2256,6 +2411,37 @@
      "https://press.princeton.edu/books/hardcover/9780691147727/the-rise-and-fall-of-american-growth",
      "https://doi.org/10.1257/aer.20180338",
      "https://en.wikipedia.org/wiki/Productivity_paradox"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "green-children-woolpit",
+   "url": "green-children-woolpit.html",
+   "title": "The Green Children of Woolpit",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Two children with green skin and an unknown language appeared in a Suffolk village in the twelfth century. The story is in two chronicles, and the explanations on offer are all more ordinary than the story.",
+   "facts": {
+    "Status": "Live debate",
+    "Sources": "William of Newburgh; Ralph of Coggeshall",
+    "Place": "Woolpit, Suffolk",
+    "Date": "Twelfth century",
+    "Leading explanations": "Malnutrition/anaemia; Flemish immigrants; changeling folklore",
+    "Physical evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Green_children_of_Woolpit",
+     "https://en.wikipedia.org/wiki/William_of_Newburgh",
+     "https://en.wikipedia.org/wiki/Ralph_of_Coggeshall",
+     "https://en.wikipedia.org/wiki/Changeling"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3967,6 +4153,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "phobos-monolith",
+   "url": "phobos-monolith.html",
+   "title": "The Phobos Monolith",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A boulder casting a long shadow on the Martian moon was described by a former astronaut as a 'monolith'. It is a boulder, about 85 metres across, on a moon covered in boulders.",
+   "facts": {
+    "Status": "Debunked",
+    "Imaged": "Mars Global Surveyor, 1998",
+    "Size": "About 85 metres across",
+    "Moon": "Phobos, ~22 km across",
+    "Shape": "A blocky boulder in a cratered field",
+    "The 'monolith' quote": "Aldrin describing a boulder, not a structure"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Phobos_(moon)",
+     "https://en.wikipedia.org/wiki/Phobos_monolith",
+     "https://en.wikipedia.org/wiki/Mars_Global_Surveyor",
+     "https://en.wikipedia.org/wiki/Pareidolia"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "phosphine-venus",
    "url": "phosphine-venus.html",
    "title": "Phosphine on Venus",
@@ -5583,6 +5800,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "tetris-effect",
+   "url": "tetris-effect.html",
+   "title": "The Tetris Effect",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Play Tetris for hours and the falling blocks follow you into sleep and into the shower. The effect is real, it has a name, and it turned out to be a window on how memory consolidates.",
+   "facts": {
+    "Status": "Documented",
+    "Named": "Jeffrey Goldsmith, 1994",
+    "Studied": "Stickgold et al., from 2000",
+    "Finding": "Imagery at sleep onset, in most intensive players",
+    "Key result": "Also occurs in amnesic patients",
+    "Broader category": "Game transfer phenomena"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tetris_effect",
+     "https://en.wikipedia.org/wiki/Memory_consolidation",
+     "https://en.wikipedia.org/wiki/Tetris",
+     "https://en.wikipedia.org/wiki/Hypnagogia"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "theranos",
    "url": "theranos.html",
    "title": "Theranos",
@@ -5703,6 +5951,37 @@
      "https://en.wikipedia.org/wiki/Novikov_self-consistency_principle",
      "https://en.wikipedia.org/wiki/White_hole",
      "https://plato.stanford.edu/entries/time-travel/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "tired-light",
+   "url": "tired-light.html",
+   "title": "Tired Light",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Redshift could be caused by photons losing energy on the way, rather than by the expansion of space. It was a serious alternative for sixty years, and three measurements have closed it.",
+   "facts": {
+    "Status": "Debunked",
+    "Proposed": "Fritz Zwicky, 1929",
+    "Claim": "Redshift is photon energy loss in transit",
+    "Killed by": "Time dilation, the CMB, surface brightness",
+    "Time dilation": "Supernova light curves stretch by (1+z)",
+    "Why it persists": "It would remove the Big Bang"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tired_light",
+     "https://en.wikipedia.org/wiki/Redshift",
+     "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+     "https://en.wikipedia.org/wiki/Time_dilation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6117,6 +6396,37 @@
      "https://en.wikipedia.org/wiki/Schwarzschild_metric",
      "https://science.nasa.gov/universe/gamma-ray-bursts-harness-the-power-of-the-big-bang/",
      "https://arxiv.org/abs/1801.08120"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "wow-signal",
+   "url": "wow-signal.html",
+   "title": "The Wow! Signal",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Seventy-two seconds of narrowband radio at the hydrogen frequency, recorded once and never again. It is still the best candidate for a signal from elsewhere, and it is not evidence of one.",
+   "facts": {
+    "Status": "Live debate",
+    "Date": "15 August 1977",
+    "Telescope": "Big Ear, Ohio State University",
+    "Frequency": "1420.456 MHz, near the hydrogen line",
+    "Duration": "72 seconds — one beam crossing",
+    "Repeat": "None, in 48 years"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Wow!_signal",
+     "https://en.wikipedia.org/wiki/Hydrogen_line",
+     "https://en.wikipedia.org/wiki/Big_Ear",
+     "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence"
     ]
    },
    "last_reviewed": "2026-11-20",
