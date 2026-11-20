@@ -89,3 +89,36 @@ figure.fig-inline figcaption .credit{color:#6f6a5f}
 .related li a{font-size:16.5px}
 .related .badge{flex:none}
 @media print{.cite,.related,.crumbs{display:none!important}}
+
+/* ---------- reader preferences: light theme, type size ---------- */
+html[data-theme="light"]{
+  --bg:#f7f3ea;--bg-soft:#f1ece0;--panel:#fffdf8;--ink:#1b1a16;--ink-dim:#423d34;--muted:#6d675b;
+  --amber:#8a6520;--amber-dim:#a8873f;--line:rgba(138,101,32,.28);--line-soft:rgba(27,26,22,.13);
+  --red:#a3402e;--green:#3d6b38;--blue:#33587d;
+}
+html[data-theme="light"] body{background:radial-gradient(1200px 600px at 80% -10%,rgba(211,169,95,.16),transparent 60%),radial-gradient(900px 500px at 0% 20%,rgba(125,158,196,.10),transparent 55%),var(--bg)}
+html[data-theme="light"] .site-head{background:rgba(247,243,234,.9)}
+html[data-theme="light"] .hero-band:after{background:linear-gradient(180deg,rgba(247,243,234,.35) 0%,rgba(247,243,234,.80) 55%,var(--bg) 100%)}
+html[data-theme="light"] figure.hero-fig.fig-svg{background:var(--bg-soft)}
+html[data-theme="light"] .tax-row img[src$=".svg"]{background:var(--bg-soft)}
+html[data-theme="light"] .cite-row code{color:var(--ink)}
+html[data-theme="light"] .crumbs span.sep{color:#a89f8c}
+html[data-theme="light"] .answer{background:rgba(138,101,32,.05)}
+html[data-theme="light"] .badge{background:transparent}
+
+html[data-size="lg"] body{font-size:20.5px}
+html[data-size="sm"] body{font-size:16px}
+html[data-size="lg"] .article-grid article p,html[data-size="lg"] .article-grid article li{line-height:1.68}
+
+.prefs{display:flex;gap:6px;align-items:center;margin-left:auto}
+.prefs button{font-family:var(--sans);font-size:10px;letter-spacing:1.3px;text-transform:uppercase;background:transparent;border:1px solid var(--line-soft);color:var(--muted);padding:5px 8px;cursor:pointer;border-radius:2px;line-height:1}
+.prefs button:hover{border-color:var(--line);color:var(--ink)}
+.prefs button[aria-pressed="true"]{border-color:var(--amber);color:var(--amber)}
+@media print{.prefs{display:none!important}}
+@media (max-width:640px){.prefs{margin-left:0}}
+
+/* ---------- glossary ---------- */
+.glossary{margin:8px 0 34px;display:grid;grid-template-columns:190px minmax(0,1fr);gap:10px 22px;align-items:baseline}
+.glossary dt{font-family:var(--sans);font-size:11.5px;letter-spacing:1.4px;text-transform:uppercase;color:var(--amber);padding-top:4px}
+.glossary dd{margin:0;font-size:16px;line-height:1.55;color:var(--ink-dim);border-bottom:1px solid var(--line-soft);padding-bottom:9px}
+@media (max-width:720px){.glossary{grid-template-columns:1fr;gap:2px}.glossary dd{margin-bottom:12px}}

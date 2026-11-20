@@ -53,6 +53,18 @@ What this pass deliberately did **not** do: no photographs were added to the twe
 | 7 | **`lastmod` from git history** in the sitemap, not the build date | The one crawl signal that is actually earned. |
 | 8 | **CI extended** — every dossier must keep its breadcrumbs, citation block, related strip and a share card that exists on disk | 185 pages, 0 problems. The invariants now fail the build rather than drifting. |
 
+## 0d. Shipped in the fourth pass — 20 November 2026
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **A light theme** — warm paper palette, applied through the existing design tokens, with the header, hero band and panels re-tuned | The archive was dark-only at 18px serif. Half of the people who would read a 2,000-word dossier on palaeomagnetism are not going to do it on a black screen at night. |
+| 2 | **A type-size control** — three steps, remembered per browser | 18px is a compromise; it is too small for some readers and too large for others. |
+| 3 | **No flash on load** — a 3-line inline script applies the stored preference before first paint | The usual failure of a theme toggle is a white flash on every navigation. |
+| 4 | **`glossary.html` — 40 working definitions** in four groups: geology and the sky, claims and evidence, mind, media | The archive uses *firmament*, *tillite*, *base rate*, *steelman* and *Markov blanket* in a specific sense on 162 pages and had never defined any of them in one place. |
+| 5 | **CI extended** — every page must keep its reader-preference controls | 186 pages, 0 problems. |
+
+Deliberately deferred: `compare.html` still takes two dossiers, not three. Extending it means rewriting its render function, and the two-way version is not broken — it is just less than it could be.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
@@ -104,7 +116,7 @@ These were gaps found in the audit and closed without touching a single sentence
 15. **A light theme and a reading-size control.** The archive is dark-only, at 18px serif. Both are preference toggles stored in `localStorage`, ~40 lines, and both materially widen who can read a long page.
 16. ~~**An RSS/Atom feed**~~ **Done — see 0c.** of new and revised dossiers, plus a JSON Feed. Nothing announces that the archive grew; a feed is the cheapest way to be followed.
 17. ~~**A corrections policy page and a visible "last reviewed" line**~~ **Done — see 0c.** on every dossier. The archive's authority rests on being checkable; it should say when each page was last checked, and what happens when a claim is overturned.
-18. **A glossary.** *Firmament*, *ice wall*, *Tartarus*, *concave Earth*, *aether*, *hollow shell*, *expanding Earth*, *Silurian hypothesis* — recurring terms, currently explained 150 separate times in 150 separate voices.
+18. ~~**A glossary.**~~ **Done — see 0d.** *Firmament*, *ice wall*, *Tartarus*, *concave Earth*, *aether*, *hollow shell*, *expanding Earth*, *Silurian hypothesis* — recurring terms, currently explained 150 separate times in 150 separate voices.
 19. **Extend `compare.html`.** Today it compares two dossiers; make it three, and put the pair in the URL (`?a=flat-earth&b=ice-wall`) so a comparison can be linked, shared and cited.
 20. **A "how to read a dossier" page.** The four labels are explained on the index and again in a key on each page, but the method itself — how a claim was traced, what counts as evidence here — has no permanent home.
 

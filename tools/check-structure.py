@@ -8,7 +8,7 @@ pages = sorted(glob.glob("*.html"))
 UTILITY = {"index.html","reading-guide.html","themes.html","charts.html","master-list.html","search.html",
            "compare.html","collections.html","links.html","sources.html","credits.html","claims-index.html",
            "print-edition.html","open-problems.html","ancient-index.html","frontier-index.html","modern-index.html",
-           "mega-index.html","support.html","404.html","topics.html","random.html","corrections.html"}
+           "mega-index.html","support.html","404.html","topics.html","random.html","corrections.html","glossary.html"}
 problems = []
 
 for p in pages:
@@ -26,6 +26,8 @@ for p in pages:
             path = t.split("#")[0]
             if not path.endswith(".html") or not os.path.exists(path):
                 problems.append(f"{p}: pager points at {t}")
+    if 'data-pref="theme"' not in h:
+        problems.append(f"{p}: no reader-preference controls")
     if 'src=""' in h:
         problems.append(f"{p}: empty image src")
     for t in re.findall(r'href="([^"#:?]+\.html)[^"]*"', h):
