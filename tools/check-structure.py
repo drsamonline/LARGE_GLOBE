@@ -9,7 +9,7 @@ UTILITY = {"index.html","reading-guide.html","themes.html","charts.html","master
            "compare.html","collections.html","links.html","sources.html","credits.html","claims-index.html",
            "print-edition.html","open-problems.html","ancient-index.html","frontier-index.html","modern-index.html",
            "mega-index.html","support.html","404.html","topics.html","random.html","corrections.html",
-           "glossary.html","offline.html"}
+           "glossary.html","offline.html","how-to-read.html"}
 problems = []
 
 NOINDEX = {"offline.html"}

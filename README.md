@@ -14,7 +14,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 [![citations](https://img.shields.io/badge/citations-3%2C220%20across%20299%20domains-2C3548?style=flat-square)](#what-a-source-link-means-here)
 [![images](https://img.shields.io/badge/images-196%20(178%20photos%20%C2%B7%2018%20drawn)-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
 [![words](https://img.shields.io/badge/writing-~117%2C000%20words-2C3548?style=flat-square)](#what-this-is)
-[![pages](https://img.shields.io/badge/pages-187%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
+[![pages](https://img.shields.io/badge/pages-188%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
 [![labels](https://img.shields.io/badge/labels-documented%20%C2%B7%20debate%20%C2%B7%20fringe%20%C2%B7%20debunked-6E6553?style=flat-square)](#the-four-labels)
 [![dependencies](https://img.shields.io/badge/runtime%20dependencies-0-2ea44f?style=flat-square)](#how-it-is-built)
 [![tracking](https://img.shields.io/badge/tracking%20%2F%20cookies-none-2ea44f?style=flat-square)](#privacy)
@@ -93,10 +93,10 @@ Inclusion is not endorsement, and a debunked label is not a verdict on the reade
 
 Plain static HTML, one stylesheet, one page of JavaScript. There is no build step, no framework, no CDN and nothing to install — `git clone` and open `index.html`. That is the whole pipeline, and it is why the archive will still open in ten years.
 
-- **187 pages, 6.2 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
+- **188 pages, 6.2 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
 - **No runtime dependencies.** The only script on the site is the search index on one page — inline JSON, no fetch, so it works from `file://` and offline.
 - **AVIF images**, lazily loaded below the fold, 178 credited photographs, plus 18 vector figures drawn for this archive. Every one is credited with its licence and host on the [credits page](https://drsamonline.github.io/LARGE_GLOBE/credits.html).
-- **The whole archive as a book.** A [536-page PDF, A5](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.pdf) and a [388 KB EPUB](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.epub), both generated from the print edition: 164 parts, no images, sources kept, links flattened to plain text.
+- **The whole archive as a book.** A [536-page PDF, A5](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.pdf) and a [496 KB EPUB with a cover](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.epub), both generated from the print edition: 164 parts, no images, sources kept, links flattened to plain text.
 - **A provenance ledger.** `data/claims.json` holds every claim with its theme, its label, its at-a-glance facts and its source URLs, generated from the pages by `tools/build-ledger.py`.
 - **Offline reading.** A service worker keeps the shell and every page you have opened, so a dossier read once stays readable with no connection. A page you have never opened falls back to `offline.html` rather than the browser's dinosaur.
 - **An on-this-page rail** on every dossier with more than one section, sticky beside the text and highlighting the section you are reading.
@@ -139,6 +139,7 @@ Nothing else is required. There is no `npm install`, no lockfile, no toolchain.
 ├── print-edition.html      the whole archive as one printable page
 ├── topics.html             the 726 topics named but not yet written
 ├── corrections.html        what counts as an error, and what happens next
+├── how-to-read.html        the shape of a dossier, and the three ways in
 ├── glossary.html           40 working definitions, grouped by field
 ├── sw.js                   the service worker
 ├── offline.html            what a cold page shows with no connection
@@ -149,7 +150,8 @@ Nothing else is required. There is no `npm install`, no lockfile, no toolchain.
 ├── assets/
 │   ├── style.css           the only stylesheet
 │   ├── larger-world-archive.pdf   the archive as a 536-page A5 book
-│   ├── larger-world-archive.epub  the same 164 parts, reflowable
+│   ├── larger-world-archive.epub  the same 164 parts, reflowable, with a cover
+│   ├── cover.jpg           the book cover, 1600×2400
 │   ├── og/                 162 per-dossier share cards
 │   ├── cite.js             the copy-to-clipboard for the citation block
 │   ├── prefs.js            the light-theme and type-size controls

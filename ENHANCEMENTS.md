@@ -115,6 +115,15 @@ Deliberately deferred: `compare.html` still takes two dossiers, not three. Exten
 | 2 | **Structure verified** — mimetype stored first and uncompressed, container → OPF → spine all resolving, 167 manifest items all present, 165 nav links all valid, no remote resources in any chapter | An EPUB that a reader refuses to open is worse than no EPUB. `epubcheck` is not available here, so the checks are the ones that matter mechanically. |
 | 3 | **Both downloads on the print edition page**, side by side | The PDF had a button; the EPUB needed to sit next to it or nobody would find it. |
 
+## 0j. Shipped in the tenth pass — 20 November 2026
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **A cover for the EPUB** — 1600×2400, the site's own palette and ring mark, declared as `cover-image` and placed first in the spine | Without one, every library view shows a grey rectangle with the title in Helvetica. |
+| 2 | **`how-to-read.html`** — the label scale, the five parts of a page, the three ways in, what to do when you disagree, and what the archive will not do | 162 dossiers in a fixed shape, and nothing that explained the shape. The reading guide sequences the material; this explains the furniture. |
+| 3 | **Linked from the reading guide and the glossary**, and from every footer | A page nobody can reach is a page that does not exist. |
+| 4 | **Sitemap and CI** — 186 indexable URLs; the new page is in the utility list and carries the same invariants as the rest | 188 pages, 0 problems. |
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
