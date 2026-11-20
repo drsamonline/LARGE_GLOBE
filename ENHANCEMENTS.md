@@ -300,6 +300,27 @@ Ten more: four cosmos, three mind, three history. Published in 41 seconds; PDF a
 
 The archive crossed a thousand source entries with this batch. Two of the ten are the mechanism pages the rest of the collection depends on — the frequency illusion and collective effervescence — and both are filed as documented, because the mechanism is measured even when the claims it explains are not.
 
+## 0u. Shipped in the twenty-first pass — 20 November 2026
+
+Ten more: four ancient, three cosmos, three mind. Published in 44 seconds.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | The Dendera Light | Debunked |
+| 2 | The Giza Power Plant | Fringe claim |
+| 3 | The Copper Scroll | Live debate |
+| 4 | Arthur as a Roman Commander | Live debate |
+| 5 | Yamashita's Gold | Fringe claim |
+| 6 | The Lunar Wave | Debunked |
+| 7 | Earth Was Terraformed | Fringe claim |
+| 8 | The Gateway Process | Fringe claim |
+| 9 | Timewave Zero | Debunked |
+| 10 | Quantum Healing | Debunked |
+
+236 dossiers, 1,050 sources, 270 images, 262 pages, PDF 704 pages, EPUB 238 chapters, sitemap 260 URLs, 0 problems.
+
+Two of these are the same error in different centuries — the Dendera relief read as a light bulb, and the Gateway report read as a finding — and the pair is worth having adjacent on the shelf. Three are claims with hard dates or hard objects (2012, the copper inventory, the Philippine tunnels), which is the easiest kind of claim to settle and the kind this archive is best at.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

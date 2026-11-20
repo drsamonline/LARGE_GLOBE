@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 226,
+ "count": 236,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -440,6 +440,37 @@
      "https://plato.stanford.edu/entries/time-thermo/",
      "https://arxiv.org/abs/hep-th/0410270",
      "https://en.wikipedia.org/wiki/Loschmidt%27s_paradox"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "arthur-roman",
+   "url": "arthur-roman.html",
+   "title": "Arthur as a Roman Commander",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The earliest mention of Arthur is a battle list written three centuries after he supposedly lived. The claim that he was a Roman officer is a modern attempt to fill the gap.",
+   "facts": {
+    "Status": "Live debate",
+    "Earliest mention": "Historia Brittonum, 9th century",
+    "Contemporary sources": "None",
+    "Gildas": "Names Badon, not Arthur",
+    "Roman candidate": "Lucius Artorius Castus, 2nd century",
+    "Chronology problem": "Three centuries too early"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/King_Arthur",
+     "https://en.wikipedia.org/wiki/Historia_Brittonum",
+     "https://en.wikipedia.org/wiki/Lucius_Artorius_Castus",
+     "https://en.wikipedia.org/wiki/Sub-Roman_Britain"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1190,6 +1221,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "copper-scroll",
+   "url": "copper-scroll.html",
+   "title": "The Copper Scroll",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "One Dead Sea Scroll is not a text but a treasure map: sixty-four locations, quantities of gold and silver, and no treasure ever found. It is the only scroll in the collection that reads like an inventory.",
+   "facts": {
+    "Status": "Live debate",
+    "Found": "Cave 3, Qumran, 1952",
+    "Material": "Two rolled copper sheets",
+    "Opened": "Cut into strips, Manchester, 1956",
+    "Entries": "Sixty-four locations and quantities",
+    "Treasure found": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Copper_Scroll",
+     "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+     "https://en.wikipedia.org/wiki/Second_Temple",
+     "https://en.wikipedia.org/wiki/Qumran"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "cosmic-censorship",
    "url": "cosmic-censorship.html",
    "title": "Cosmic Censorship",
@@ -1544,6 +1606,37 @@
      "https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch",
      "https://doi.org/10.1017/S0003055403000893",
      "https://doi.org/10.2307/2539177"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dendera-light",
+   "url": "dendera-light.html",
+   "title": "The Dendera Light",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A relief at Dendera shows a bulb-shaped object with a snake inside it. The claim that it depicts an electric lamp ignores the rest of the scene, which explains it.",
+   "facts": {
+    "Status": "Debunked",
+    "Location": "Hathor temple, Dendera",
+    "The 'bulb'": "A lotus flower",
+    "The 'filament'": "A serpent, a creation motif",
+    "The 'cable'": "The lotus stem",
+    "Missing": "Glass, electrodes, wires, a power source"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dendera_Temple_complex",
+     "https://en.wikipedia.org/wiki/Dendera_light",
+     "https://en.wikipedia.org/wiki/Lotus_(mythology)",
+     "https://en.wikipedia.org/wiki/Crookes_tube"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2440,6 +2533,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "gateway-process",
+   "url": "gateway-process.html",
+   "title": "The Gateway Process",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A 1983 CIA report describes consciousness as a hologram and out-of-body travel as a change in brainwave frequency. It is a literature review written by one officer, and it is cited as though it were a finding.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Written": "1983, for the US Army",
+    "Declassified": "2003",
+    "Type": "Literature review and speculative model",
+    "Programme": "Remote viewing ('Stargate'), closed 1995",
+    "Evaluation": "No actionable results"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Stargate_Project",
+     "https://en.wikipedia.org/wiki/Remote_viewing",
+     "https://en.wikipedia.org/wiki/Hemi-Sync",
+     "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "geographic-determinism",
    "url": "geographic-determinism.html",
    "title": "Geographic Determinism",
@@ -2594,6 +2718,37 @@
      "https://doi.org/10.1086/285924",
      "https://en.wikipedia.org/wiki/Lamarckism",
      "https://en.wikipedia.org/wiki/Cervical_vertebrae"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "giza-power-plant",
+   "url": "giza-power-plant.html",
+   "title": "The Giza Power Plant",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that the Great Pyramid was a machine for generating electricity, with the King's Chamber as a resonant cavity. It is an engineering hypothesis with no artefact of any machine in it.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Christopher Dunn, 1998",
+    "Claim": "The pyramid generated and transmitted power",
+    "Required": "Coils, conductors, insulators, a working fluid",
+    "Found": "None of the above",
+    "The real precision": "Explained by surveying and long practice"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+     "https://en.wikipedia.org/wiki/Piezoelectricity",
+     "https://en.wikipedia.org/wiki/King%27s_Chamber",
+     "https://en.wikipedia.org/wiki/Egyptian_pyramid_construction_techniques"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3546,6 +3701,37 @@
      "https://doi.org/10.2466/pms.1981.52.3.727",
      "https://doi.org/10.1016/j.concog.2012.01.002",
      "https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "lunar-wave",
+   "url": "lunar-wave.html",
+   "title": "The Lunar Wave",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Videos show a ripple crossing the Moon's face. The claim is a hologram or a projection. The explanation is the atmosphere, the camera, and the way a bright edge behaves in a turbulent sky.",
+   "facts": {
+    "Status": "Debunked",
+    "First circulated": "2016",
+    "Claim": "The Moon is a projection; the wave is a refresh",
+    "Cause": "Atmospheric turbulence at high magnification",
+    "Depends on": "Seeing, elevation, exposure",
+    "Reproduced": "On other bright objects"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Astronomical_seeing",
+     "https://en.wikipedia.org/wiki/Moon",
+     "https://en.wikipedia.org/wiki/Adaptive_optics",
+     "https://en.wikipedia.org/wiki/Mirage"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5059,6 +5245,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "quantum-healing",
+   "url": "quantum-healing.html",
+   "title": "Quantum Healing",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that consciousness can direct quantum processes to heal the body. It uses the vocabulary of quantum mechanics, and every one of its central assertions contradicts what quantum mechanics says about warm, wet tissue.",
+   "facts": {
+    "Status": "Debunked",
+    "Published": "Chopra, 1989",
+    "Claim": "Consciousness directs quantum processes to heal",
+    "Obstacle": "Decoherence in ~10⁻²⁰ s in warm tissue",
+    "Real effects": "Placebo, stress physiology, expectation",
+    "Real quantum biology": "Photosynthesis, enzyme tunnelling — not healing"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Quantum_healing",
+     "https://en.wikipedia.org/wiki/Quantum_decoherence",
+     "https://en.wikipedia.org/wiki/Quantum_biology",
+     "https://en.wikipedia.org/wiki/Placebo"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "quantum-oddities",
    "url": "quantum-oddities.html",
    "title": "Quantum Oddities",
@@ -6358,6 +6575,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "terraformed-earth",
+   "url": "terraformed-earth.html",
+   "title": "Earth Was Terraformed",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that Earth was engineered for life — by an earlier civilisation, or by design. It borrows the language of a real scientific debate about fine-tuning and rare Earth, and then adds an agent nobody has evidence for.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Claim": "Earth was engineered for life",
+    "Real part": "Unusual habitability conditions",
+    "Scientific neighbours": "Rare Earth; fine-tuning",
+    "Missing": "Any evidence of an agent",
+    "Testability": "None in its usual form"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Rare_Earth_hypothesis",
+     "https://en.wikipedia.org/wiki/Fine-tuned_universe",
+     "https://en.wikipedia.org/wiki/Terraforming",
+     "https://en.wikipedia.org/wiki/Anthropic_principle"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "tetris-effect",
    "url": "tetris-effect.html",
    "title": "The Tetris Effect",
@@ -6509,6 +6757,37 @@
      "https://en.wikipedia.org/wiki/Novikov_self-consistency_principle",
      "https://en.wikipedia.org/wiki/White_hole",
      "https://plato.stanford.edu/entries/time-travel/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "timewave-zero",
+   "url": "timewave-zero.html",
+   "title": "Timewave Zero",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A curve derived from the I Ching, claimed to map the novelty of the universe and to end in 2012. The date passed; the curve was fitted, not derived.",
+   "facts": {
+    "Status": "Debunked",
+    "Developed": "Terence McKenna, from 1975",
+    "Basis": "The King Wen sequence of the I Ching",
+    "Predicted": "21 December 2012",
+    "Outcome": "No event; no revision into a testable claim",
+    "Method": "A curve with free parameters, fitted to history"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Timewave_zero",
+     "https://en.wikipedia.org/wiki/Terence_McKenna",
+     "https://en.wikipedia.org/wiki/2012_phenomenon",
+     "https://en.wikipedia.org/wiki/I_Ching"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7047,6 +7326,37 @@
      "https://en.wikipedia.org/wiki/Hydrogen_line",
      "https://en.wikipedia.org/wiki/Big_Ear",
      "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "yamashita-gold",
+   "url": "yamashita-gold.html",
+   "title": "Yamashita's Gold",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that the Japanese army buried billions in looted treasure in the Philippines at the end of the war. Seventy years of digging has produced plaques, tunnels and lawsuits, and no gold.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Attributed to": "General Yamashita, 1945",
+    "Claim": "Billions in looted treasure buried in the Philippines",
+    "Documented": "Wartime tunnels; looting; a lawsuit",
+    "Not documented": "The hoard, its size, the maps",
+    "Found": "Nothing verified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Yamashita%27s_gold",
+     "https://en.wikipedia.org/wiki/Tomoyuki_Yamashita",
+     "https://en.wikipedia.org/wiki/Corregidor",
+     "https://en.wikipedia.org/wiki/Treasure_hunting"
     ]
    },
    "last_reviewed": "2026-11-20",
