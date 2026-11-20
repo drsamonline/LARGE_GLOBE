@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 186,
+ "count": 196,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -385,6 +385,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "baalbek-giants",
+   "url": "baalbek-giants.html",
+   "title": "Baalbek and the Giants",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The Roman temple platform at Baalbek contains three stones of about 800 tonnes each. They were quarried, moved and set by Roman engineers, and the claim that only giants could have done it is an argument from incredulity with a documented answer.",
+   "facts": {
+    "Status": "Debunked",
+    "Largest blocks": "About 800 tonnes each in the trilithon",
+    "Still in the quarry": "The Stone of the Pregnant Woman, ~1,000 t",
+    "Quarry": "Adjacent; local limestone; marks intact",
+    "Period": "Roman, on an earlier sanctuary site",
+    "Evidence for giants": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Baalbek",
+     "https://en.wikipedia.org/wiki/Trilithon",
+     "https://en.wikipedia.org/wiki/Roman_engineering",
+     "https://en.wikipedia.org/wiki/Argument_from_incredulity"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "backrooms",
    "url": "backrooms.html",
    "title": "The Backrooms",
@@ -470,6 +501,37 @@
      "https://en.wikipedia.org/wiki/Lightning",
      "https://doi.org/10.1038/35014142",
      "https://en.wikipedia.org/wiki/Plasma_(physics)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "bermuda-triangle",
+   "url": "bermuda-triangle.html",
+   "title": "The Bermuda Triangle",
+   "theme": "Anomalies, fringe science and the unexplained",
+   "theme_id": "anomalies",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Ships and aircraft have been lost in the western Atlantic, as they have been lost everywhere. The triangle was assembled from a handful of famous cases, a bestseller, and an absence of denominator.",
+   "facts": {
+    "Status": "Debunked",
+    "Region": "Miami, Bermuda, Puerto Rico",
+    "Founding case": "Flight 19, 1945",
+    "Key study": "Lawrence Kusche, 1975",
+    "Insurers": "Lloyd's: no unusual loss rate",
+    "The error": "No denominator — a busy region has more losses"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bermuda_Triangle",
+     "https://en.wikipedia.org/wiki/Flight_19",
+     "https://en.wikipedia.org/wiki/Gulf_Stream",
+     "https://en.wikipedia.org/wiki/Selection_bias"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -810,6 +872,37 @@
      "https://doi.org/10.1037/0022-3514.90.5.751",
      "https://doi.org/10.1037/0003-066X.60.7.697",
      "https://en.wikipedia.org/wiki/Intergroup_contact_hypothesis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cottingley-fairies",
+   "url": "cottingley-fairies.html",
+   "title": "The Cottingley Fairies",
+   "theme": "Anomalies, fringe science and the unexplained",
+   "theme_id": "anomalies",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Two girls photographed fairies in a Yorkshire garden, and Sherlock Holmes's creator believed them. Sixty years later they admitted the fairies were paper cut-outs pinned to a bush.",
+   "facts": {
+    "Status": "Debunked",
+    "Taken": "1917, Cottingley, Yorkshire",
+    "Published as real": "The Strand, 1920, by Conan Doyle",
+    "Admitted": "1983 — paper cut-outs and hatpins",
+    "Remaining puzzle": "The fifth photograph",
+    "The real lesson": "Credentials are not evidence"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cottingley_Fairies",
+     "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+     "https://en.wikipedia.org/wiki/Spiritualism",
+     "https://en.wikipedia.org/wiki/Photograph_manipulation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1590,6 +1683,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "feejee-mermaid",
+   "url": "feejee-mermaid.html",
+   "title": "The Feejee Mermaid",
+   "theme": "Anomalies, fringe science and the unexplained",
+   "theme_id": "anomalies",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A mermaid exhibited by P. T. Barnum was a monkey's torso sewn to a fish's tail. It made money, started a genre, and is still in a museum drawer with the stitching visible.",
+   "facts": {
+    "Status": "Debunked",
+    "Exhibited": "New York, 1842, by P. T. Barnum",
+    "Construction": "Monkey torso, fish tail, joined and dried",
+    "Survives": "Peabody Museum, Harvard",
+    "The innovation": "Manufactured controversy as marketing",
+    "Modern descendant": "Every exhibit that invites disbelief as proof"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Fiji_mermaid",
+     "https://en.wikipedia.org/wiki/P._T._Barnum",
+     "https://en.wikipedia.org/wiki/Peabody_Museum_of_Archaeology_and_Ethnology",
+     "https://en.wikipedia.org/wiki/Hoax"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "firewall-paradox",
    "url": "firewall-paradox.html",
    "title": "The Firewall Paradox",
@@ -1875,6 +1999,37 @@
      "https://doi.org/10.1257/aer.91.5.1369",
      "https://en.wikipedia.org/wiki/Why_Nations_Fail",
      "https://en.wikipedia.org/wiki/Environmental_determinism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "geopolymer-pyramids",
+   "url": "geopolymer-pyramids.html",
+   "title": "Geopolymer Pyramids",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A French chemist proposed that the pyramid's blocks were cast from a limestone geopolymer rather than quarried. The idea explains some odd features and is contradicted by others, and the argument has been running for forty years.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "Joseph Davidovits, from 1978",
+    "Claim": "Blocks cast from limestone geopolymer",
+    "Evidence against": "Quarry marks, tool marks, continuous sedimentary fabric",
+    "Evidence cited for": "Block regularity, thin inter-course layers",
+    "What is not in dispute": "Builders, date, purpose"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+     "https://en.wikipedia.org/wiki/Geopolymer",
+     "https://en.wikipedia.org/wiki/Egyptian_pyramid_construction_techniques",
+     "https://en.wikipedia.org/wiki/Petrography"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2706,6 +2861,37 @@
      "https://doi.org/10.2307/2525486",
      "https://en.wikipedia.org/wiki/Antifragile",
      "https://en.wikipedia.org/wiki/Survival_analysis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "loch-ness-eel",
+   "url": "loch-ness-eel.html",
+   "title": "Nessie as a Giant Eel",
+   "theme": "Anomalies, fringe science and the unexplained",
+   "theme_id": "anomalies",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Environmental DNA sampling of Loch Ness found eel DNA in most samples and no reptilian DNA at all. The eel hypothesis is the most parsimonious one on offer, which is not the same as evidence for a giant eel.",
+   "facts": {
+    "Status": "Live debate",
+    "Study": "Gemmell et al., eDNA survey, 2019",
+    "Found": "Eel DNA at nearly every site; no reptile DNA",
+    "What it cannot say": "Anything about size",
+    "What it argues against": "A breeding population of large reptiles",
+    "Method limit": "Rare animals shed too little DNA to detect"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Loch_Ness_Monster",
+     "https://en.wikipedia.org/wiki/Environmental_DNA",
+     "https://en.wikipedia.org/wiki/European_eel",
+     "https://en.wikipedia.org/wiki/Loch_Ness"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4633,6 +4819,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "shroud-radiation",
+   "url": "shroud-radiation.html",
+   "title": "The Shroud as a Radiation Flash",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The Shroud of Turin is a fourteenth-century linen cloth. The claim that its image was burned in by a burst of radiation at the resurrection explains the image and contradicts the dating, which is the wrong way round.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Radiocarbon date": "1260–1390, three labs, 1988–89",
+    "Published": "Nature, 1989",
+    "Image character": "Surface layer; painting-like; anatomical errors",
+    "Radiation mechanism": "Modelled, never demonstrated",
+    "The circularity": "The date is 'reset' by the event the date is used against"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "https://doi.org/10.1038/337611a0",
+     "https://en.wikipedia.org/wiki/Radiocarbon_dating",
+     "https://en.wikipedia.org/wiki/Image_analysis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "silurian-hypothesis",
    "url": "silurian-hypothesis.html",
    "title": "The Silurian Hypothesis",
@@ -4852,6 +5069,37 @@
      "https://www.niac.usra.edu/files/studies/final_report/472Edwards.pdf",
      "https://en.wikipedia.org/wiki/Specific_strength",
      "https://en.wikipedia.org/wiki/Carbon_nanotube"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "sphinx-erosion",
+   "url": "sphinx-erosion.html",
+   "title": "Water Erosion on the Sphinx",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The Sphinx's enclosure shows deep vertical weathering. Whether that pattern is rain, salt, wind or groundwater decides how old the monument is, and the argument has been running since 1979.",
+   "facts": {
+    "Status": "Live debate",
+    "Claim published": "Robert Schoch, 1979",
+    "Claim": "Rainfall erosion implies an older date",
+    "Mainstream reading": "Salt exfoliation, wind, groundwater, joint-controlled fissures",
+    "Complication": "Centuries of burial, excavation and repair",
+    "What would settle it": "A survey separating original surface from repairs"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza",
+     "https://en.wikipedia.org/wiki/Robert_Schoch",
+     "https://en.wikipedia.org/wiki/Weathering",
+     "https://en.wikipedia.org/wiki/Salt_weathering"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5525,6 +5773,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "tutankhamun-dagger",
+   "url": "tutankhamun-dagger.html",
+   "title": "Tutankhamun's Meteorite Dagger",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A dagger buried with Tutankhamun was made of iron that fell from the sky. It took ninety years and an X-ray fluorescence spectrometer to prove what the nickel content had hinted at.",
+   "facts": {
+    "Status": "Documented",
+    "Found": "On the mummy, Howard Carter, 1925",
+    "Blade": "Meteoritic iron, confirmed 2016 by XRF",
+    "Handle": "Gold, with a rock-crystal pommel",
+    "Method": "Low-temperature working, not smelting",
+    "Significance": "Iron before the Iron Age came from meteorites"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tutankhamun%27s_meteoric_iron_dagger",
+     "https://en.wikipedia.org/wiki/Meteoric_iron",
+     "https://en.wikipedia.org/wiki/Tutankhamun",
+     "https://en.wikipedia.org/wiki/X-ray_fluorescence"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "underwater",
    "url": "underwater.html",
    "title": "Underwater Worlds",
@@ -5650,6 +5929,37 @@
      "https://www.theatlantic.com/technology/2014/06/a-brief-history-of-slenderman/372109",
      "https://journal.equinoxpub.com/JASR/article/view/21100",
      "https://www.nytimes.com/1991/09/10/world/2-jovial-con-men-demystify-those-crop-circles-in-britain.html"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "vinland-map",
+   "url": "vinland-map.html",
+   "title": "The Vinland Map",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A fifteenth-century map showing Vinland looked like proof that the Norse reached America before Columbus. The ink turned out to contain a pigment that was not manufactured until the 1920s.",
+   "facts": {
+    "Status": "Debunked",
+    "Surfaced": "1957; published by Yale, 1965",
+    "Decisive finding": "Anatase (TiO₂) in the industrial form, in the ink",
+    "Announced": "Yale, 2021",
+    "Parchment": "Medieval; the ink is not",
+    "Norse contact": "Still established — by L'Anse aux Meadows"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Vinland_Map",
+     "https://en.wikipedia.org/wiki/Anatase",
+     "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows",
+     "https://en.wikipedia.org/wiki/Forgery"
     ]
    },
    "last_reviewed": "2026-11-20",

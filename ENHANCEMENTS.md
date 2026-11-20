@@ -206,6 +206,37 @@ Six from the artefact end of the register — the claims that made this archive'
 
 186 dossiers, 850 sources, 220 images, 212 pages, PDF 604 pages, EPUB 188 chapters, sitemap 210 URLs, 0 problems.
 
+## 0q. Shipped in the seventeenth pass — 20 November 2026
+
+Ten dossiers in one run, after a speed replan. The bottleneck was never the writing; it was the per-batch overhead.
+
+**What changed in the pipeline**
+
+| # | Change | Effect |
+|---|---|---|
+| 1 | **`publish_batch.py` no longer rebuilds the PDF and EPUB by default** — `--heavy` does that | the 30-second PDF/EPUB step was running after every six dossiers for no benefit |
+| 2 | **`autophoto.py`** — parallel Commons search with a licence whitelist, landscape preference and a 900 px floor, four threads | photo sourcing went from a manual search-and-review per dossier to one command and one contact sheet for ten |
+| 3 | **Bigger batches** — ten dossiers per run instead of six | the fixed cost (indexes, cards, checks, sitemap) is paid once instead of twice |
+| 4 | **Compact dossier form** — four sections, ~450–550 words, same furniture | roughly a third less writing per page with no loss of the claim-evidence-verdict structure |
+| 5 | **Timed** | ten dossiers: 1 m 35 s to publish, 31 s for the PDF and EPUB afterwards |
+
+**The ten**
+
+| Dossier | Label |
+|---|---|
+| The Shroud as a Radiation Flash | Fringe claim |
+| Nessie as a Giant Eel | Live debate |
+| Baalbek and the Giants | Debunked |
+| Geopolymer Pyramids | Live debate |
+| Tutankhamun's Meteorite Dagger | Documented |
+| Water Erosion on the Sphinx | Live debate |
+| The Vinland Map | Debunked |
+| The Cottingley Fairies | Debunked |
+| The Feejee Mermaid | Debunked |
+| The Bermuda Triangle | Debunked |
+
+196 dossiers, 890 sources, 230 images, 222 pages, PDF 624 pages, EPUB 198 chapters, sitemap 220 URLs, 0 problems.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
