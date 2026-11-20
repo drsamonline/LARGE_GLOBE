@@ -81,6 +81,14 @@ try:
 except FileNotFoundError:
     problems.append("search-index.json is missing")
 
+try:
+    ledger = json.load(open("data/claims.json", encoding="utf-8"))
+    dossiers = [p for p in pages if p not in UTILITY and '<aside class="facts">' in open(p, encoding="utf-8").read()]
+    if ledger["count"] != len(dossiers):
+        problems.append(f"data/claims.json has {ledger['count']} claims, the site has {len(dossiers)} dossiers — regenerate")
+except FileNotFoundError:
+    problems.append("data/claims.json is missing")
+
 for p in problems:
     print(p)
 print(f"\n{len(pages)} pages checked, {len(problems)} problems")

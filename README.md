@@ -96,6 +96,8 @@ Plain static HTML, one stylesheet, one page of JavaScript. There is no build ste
 - **187 pages, 6.2 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
 - **No runtime dependencies.** The only script on the site is the search index on one page — inline JSON, no fetch, so it works from `file://` and offline.
 - **AVIF images**, lazily loaded below the fold, 178 credited photographs, plus 18 vector figures drawn for this archive. Every one is credited with its licence and host on the [credits page](https://drsamonline.github.io/LARGE_GLOBE/credits.html).
+- **The whole archive as a PDF.** [536 pages, A5](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.pdf), set for reading rather than for screen — generated from the print edition, no images, one part per page-opening.
+- **A provenance ledger.** `data/claims.json` holds every claim with its theme, its label, its at-a-glance facts and its source URLs, generated from the pages by `tools/build-ledger.py`.
 - **Offline reading.** A service worker keeps the shell and every page you have opened, so a dossier read once stays readable with no connection. A page you have never opened falls back to `offline.html` rather than the browser's dinosaur.
 - **An on-this-page rail** on every dossier with more than one section, sticky beside the text and highlighting the section you are reading.
 - **A command palette** — `⌘K` or `Ctrl-K` anywhere on the site, searching all 992 records without leaving the page you are reading. The index is fetched on first use, not inlined on 187 pages.
@@ -130,6 +132,7 @@ Nothing else is required. There is no `npm install`, no lockfile, no toolchain.
 ├── master-list.html        all 150 claims, one table
 ├── search.html             the client-side index (992 records)
 ├── search-index.json       the same index, fetched by the palette
+├── data/claims.json        the provenance ledger: 162 claims, labels, facts, sources
 ├── compare.html            any two dossiers side by side
 ├── sources.html            the bibliography, grouped by field
 ├── credits.html            every image, its licence and its host
@@ -145,6 +148,7 @@ Nothing else is required. There is no `npm install`, no lockfile, no toolchain.
 ├── 404.html                served by Pages for anything off the map
 ├── assets/
 │   ├── style.css           the only stylesheet
+│   ├── larger-world-archive.pdf   the archive as a 536-page A5 book
 │   ├── og/                 162 per-dossier share cards
 │   ├── cite.js             the copy-to-clipboard for the citation block
 │   ├── prefs.js            the light-theme and type-size controls
