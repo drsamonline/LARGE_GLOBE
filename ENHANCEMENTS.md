@@ -384,6 +384,27 @@ Ten more, all from the artefact shelf: four out-of-place objects and six pieces 
 
 **The fix for the silent-default bug.** `publish_batch.py` now refuses to publish a dossier with a missing field, a placeholder value (`"General"`, `"1900s – present"`) or fewer than three sources. The two bugs that reached the pages in the last batch — eight dossiers with `"General"` as their field — would have failed this check at the door.
 
+## 0y. Shipped in the twenty-fifth pass — 21 November 2026
+
+Ten from the internet-and-mind shelf, the newest material in the archive.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | The Singularity | Fringe claim |
+| 2 | The AI Box Experiment | Fringe claim |
+| 3 | Consciousness in the Machine | Fringe claim |
+| 4 | Parasocial AI Relationships | Live debate |
+| 5 | Technofeudalism | Live debate |
+| 6 | The Interface Theory of Perception | Live debate |
+| 7 | Algorithmic Radicalisation | Live debate |
+| 8 | The Liar's Dividend | Documented |
+| 9 | Harvest Now, Decrypt Later | Documented |
+| 10 | The Splinternet | Documented |
+
+276 dossiers, 1,210 sources, 310 images, 302 pages, PDF 784 pages, EPUB 278 chapters, sitemap 300 URLs, 0 problems.
+
+**The publisher's validator caught the batch, not me.** Nine of the ten were written without their `field`/`years` pair, and the new pre-flight check refused to publish until each was filled with a real value. That is the difference between this batch and the one that shipped eight `"General"` fields: the failure now happens at the door, before a page is written, and the fix has to be a real field rather than a default.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

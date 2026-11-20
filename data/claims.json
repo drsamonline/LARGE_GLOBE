@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 266,
+ "count": 276,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -60,6 +60,37 @@
      "https://en.wikipedia.org/wiki/Fermi_paradox",
      "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
      "https://en.wikipedia.org/wiki/Landauer%27s_principle"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ai-box-experiment",
+   "url": "ai-box-experiment.html",
+   "title": "The AI Box Experiment",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A person role-plays an AI locked in a text-only box and tries to persuade a gatekeeper to release it. Two claimed successes are cited as evidence that containment would fail. They are anecdotes, not experiments.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Eliezer Yudkowsky, 2002",
+    "Setup": "Text-only channel, human gatekeeper",
+    "Reported": "Two successes, self-reported",
+    "Controls": "None",
+    "What it would need": "Blinding, pre-registration, a machine"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/AI_box",
+     "https://en.wikipedia.org/wiki/AI_safety",
+     "https://en.wikipedia.org/wiki/Anecdotal_evidence",
+     "https://en.wikipedia.org/wiki/Blinded_experiment"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -153,6 +184,37 @@
      "https://arxiv.org/abs/1609.05807",
      "https://doi.org/10.1089/big.2016.0047",
      "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "algorithmic-radicalisation",
+   "url": "algorithmic-radicalisation.html",
+   "title": "Algorithmic Radicalisation",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that recommendation systems push people toward extremes. The mechanism is plausible, the evidence is thinner than the headlines, and the platform data that would settle it is not available.",
+   "facts": {
+    "Status": "Live debate",
+    "Mechanism": "Engagement-optimised ranking",
+    "Documented": "Emotional content travels further",
+    "Contested": "Average effect size; causal direction",
+    "Unavailable": "The counterfactual data",
+    "Who holds it": "The platforms"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Recommender_system",
+     "https://en.wikipedia.org/wiki/Filter_bubble",
+     "https://en.wikipedia.org/wiki/Echo_chamber_(media)",
+     "https://en.wikipedia.org/wiki/Algorithmic_curation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3473,6 +3535,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "harvest-now-decrypt-later",
+   "url": "harvest-now-decrypt-later.html",
+   "title": "Harvest Now, Decrypt Later",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Encrypted traffic is being recorded today so it can be read when quantum computers are able to break the encryption. It is not a theory about the future; it is guidance from the agencies, and a migration that is already under way.",
+   "facts": {
+    "Status": "Documented",
+    "Threat": "Store now, decrypt later",
+    "Basis": "Shor's algorithm against public-key crypto",
+    "Guidance": "Agency advisories; NIST process",
+    "Standards": "First post-quantum standards, 2024",
+    "Unknown": "When a relevant machine exists"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Post-quantum_cryptography",
+     "https://en.wikipedia.org/wiki/Shor%27s_algorithm",
+     "https://en.wikipedia.org/wiki/Public-key_cryptography",
+     "https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "hitler-escape",
    "url": "hitler-escape.html",
    "title": "Did Hitler Escape?",
@@ -3763,6 +3856,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "interface-theory-perception",
+   "url": "interface-theory-perception.html",
+   "title": "The Interface Theory of Perception",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that perception is a desktop interface, useful but not true, and that evolution optimises for fitness rather than accuracy. It is a serious argument in the philosophy of perception with an empirical claim that has been contested.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed by": "Donald Hoffman",
+    "Claim": "Perception is a fitness-tuned interface, not a window",
+    "Evidence": "Evolutionary simulations",
+    "Objection": "Fitness usually requires tracking real features",
+    "Testability": "Poor, in the form usually stated"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Interface_theory_of_perception",
+     "https://en.wikipedia.org/wiki/Perception",
+     "https://en.wikipedia.org/wiki/Direct_and_indirect_realism",
+     "https://en.wikipedia.org/wiki/Evolutionary_epistemology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "iron-pillar-delhi",
    "url": "iron-pillar-delhi.html",
    "title": "The Iron Pillar of Delhi",
@@ -4046,6 +4170,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "liars-dividend",
+   "url": "liars-dividend.html",
+   "title": "The Liar's Dividend",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Deepfakes do not need to fool anyone to do damage. Their existence lets the guilty deny real evidence as fake — and the studies find that it works.",
+   "facts": {
+    "Status": "Documented",
+    "Named": "Chesney and Citron, 2019",
+    "Mechanism": "Plausible deniability created by synthetic media",
+    "Demonstrated": "In experiments, repeatedly",
+    "Larger for": "Motivated disbelief",
+    "Hard to measure": "Real-world magnitude"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Liar%27s_dividend",
+     "https://en.wikipedia.org/wiki/Deepfake",
+     "https://en.wikipedia.org/wiki/Denialism",
+     "https://en.wikipedia.org/wiki/Misinformation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lindy-effect",
    "url": "lindy-effect.html",
    "title": "The Lindy Effect",
@@ -4290,6 +4445,37 @@
      "https://en.wikipedia.org/wiki/Surface_plasmon_resonance",
      "https://en.wikipedia.org/wiki/Dichroic_glass",
      "https://en.wikipedia.org/wiki/Roman_glass"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "machine-consciousness",
+   "url": "machine-consciousness.html",
+   "title": "Consciousness in the Machine",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Whether a system can be conscious is not a question anyone can currently answer, and that is the finding: the tests measure behaviour, and behaviour is compatible with no inner life at all.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Behavioural tests": "Measure output, not experience",
+    "Theoretical tests": "Depend on a contested theory",
+    "Current systems": "No evidence either way",
+    "The obstacle": "The hard problem is unsolved for brains",
+    "Real work": "Conditions for belief; moral risk"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Artificial_consciousness",
+     "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+     "https://en.wikipedia.org/wiki/Integrated_information_theory",
+     "https://en.wikipedia.org/wiki/Turing_test"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5322,6 +5508,37 @@
      "https://en.wikipedia.org/wiki/AI_safety",
      "https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies",
      "https://en.wikipedia.org/wiki/Intelligent_agent"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "parasocial-ai",
+   "url": "parasocial-ai.html",
+   "title": "Parasocial AI Relationships",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Millions of people talk to chatbots as companions. The attachment is real and measurable; whether it is good for them is genuinely unsettled, and the companies selling it are not running the trials.",
+   "facts": {
+    "Status": "Live debate",
+    "Term": "Parasocial, Horton and Wohl, 1956",
+    "New variable": "The figure responds",
+    "Documented": "Attachment; distress at product changes",
+    "Missing": "Controlled trials of wellbeing",
+    "Risks": "Dependency, displacement, exploitation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Parasocial_interaction",
+     "https://en.wikipedia.org/wiki/Companion_chatbot",
+     "https://en.wikipedia.org/wiki/Replika",
+     "https://en.wikipedia.org/wiki/Loneliness"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6811,6 +7028,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "singularity",
+   "url": "singularity.html",
+   "title": "The Singularity",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that machine intelligence will improve itself in a runaway loop, and that the curve becomes vertical at some point. It rests on an argument about recursive self-improvement that has never been demonstrated.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Intelligence explosion": "I. J. Good, 1965",
+    "Named": "Vernor Vinge, 1993",
+    "Mechanism claimed": "Recursive self-improvement",
+    "Demonstrated": "No",
+    "Dated predictions": "Failed or failing"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Technological_singularity",
+     "https://en.wikipedia.org/wiki/Intelligence_explosion",
+     "https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies",
+     "https://en.wikipedia.org/wiki/Neural_scaling_law"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "snowball-earth",
    "url": "snowball-earth.html",
    "title": "Snowball Earth",
@@ -6960,6 +7208,37 @@
      "https://en.wikipedia.org/wiki/Robert_Schoch",
      "https://en.wikipedia.org/wiki/Weathering",
      "https://en.wikipedia.org/wiki/Salt_weathering"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "splinternet",
+   "url": "splinternet.html",
+   "title": "The Splinternet",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The internet is fragmenting into national and regional blocs, with different rules, different infrastructure and different content. It is measurable, and the measurement is the interesting part.",
+   "facts": {
+    "Status": "Documented",
+    "Term": "In use since the 2010s",
+    "Evidence": "Filtering, localisation laws, route anomalies",
+    "Measured": "Uneven fragmentation",
+    "Shared": "Core protocols and undersea cables",
+    "Contested": "How far it will go"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Splinternet",
+     "https://en.wikipedia.org/wiki/Internet_censorship",
+     "https://en.wikipedia.org/wiki/Data_localization",
+     "https://en.wikipedia.org/wiki/Border_Gateway_Protocol"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7467,6 +7746,37 @@
      "https://classics.domains.skidmore.edu/lit-campus-only/primary/translations/Hesiod%20Th%20Caldwell.pdf",
      "https://www.clintburnett.com/wp-content/uploads/2017/04/Burnett-Going-Through-Hell-.pdf",
      "https://open.maricopa.edu/worldmythologyvolume1godsandcreation/chapter/from-hesiods-theogony"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "technofeudalism",
+   "url": "technofeudalism.html",
+   "title": "Technofeudalism",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that cloud platforms have replaced markets with rents, and that capitalism has been succeeded by something older in structure. It is a thesis about political economy, argued from data that is contested.",
+   "facts": {
+    "Status": "Live debate",
+    "Thesis": "Varoufakis, 2023",
+    "Claim": "Cloud platforms extract rent; capitalism has been succeeded",
+    "Supported": "Concentration, dependency, unilateral terms",
+    "Contested": "Rent versus profit as the description",
+    "Missing": "Evidence that a new mode of production exists"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Technofeudalism",
+     "https://en.wikipedia.org/wiki/Rentier_capitalism",
+     "https://en.wikipedia.org/wiki/Platform_economy",
+     "https://en.wikipedia.org/wiki/Yanis_Varoufakis"
     ]
    },
    "last_reviewed": "2026-11-20",
