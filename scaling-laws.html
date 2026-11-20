@@ -233,11 +233,11 @@
 </figure>
 <div class="article-grid">
 <article>
-<h3>What the laws say</h3>
+<h3 id="what-the-laws-say">What the laws say</h3>
 <p>Work from OpenAI in 2020 showed that language-model loss follows a power law in parameter count, dataset size and compute, with smooth curves across an enormous range. That made it possible to predict the performance of a large model from small, cheap experiments.</p>
 <p>The Chinchilla result in 2022 corrected the recipe: for a fixed compute budget, models were badly undertrained. Given the same compute, a smaller model on more data beats a larger model on less. Most of the industry's subsequent training runs follow that arithmetic.</p>
 <p>More recently the same logic has been applied to inference: spending more compute at generation time — sampling many candidates, or letting a model think longer — improves results on reasoning benchmarks along a similar curve.</p>
-<h3>Where it gets murky</h3>
+<h3 id="where-it-gets-murky">Where it gets murky</h3>
 <p><strong>Loss is not capability.</strong> The laws predict cross-entropy on held-out text, not whether a model can do arithmetic, follow instructions or avoid fabricating citations.</p>
 <p><strong>Emergence is contested.</strong> Claims that abilities appear suddenly at certain scales were challenged in 2023 by work showing that with better metrics many 'emergent' jumps become smooth curves. Some discontinuities are real; the methodological dispute is not settled.</p>
 <p><strong>The curves have limits.</strong> Data quality, data exhaustion, and the returns from reinforcement learning and tool use are not captured by the original three-variable fits.</p>
@@ -248,7 +248,7 @@
 <p><strong>Often misreported:</strong> 'scaling will solve it' is a bet, not a law. The laws are empirical regularities with measured exponents, not a mechanism.</p>
 <p>The archive labels this live debate because the regularity is documented and the interpretation — how far it takes you — is genuinely disputed.</p>
 </div>
-<h3>Why it is in the archive</h3>
+<h3 id="why-it-is-in-the-archive">Why it is in the archive</h3>
 <p>Because scaling is the central empirical fact of the current AI era, and because it is routinely cited as if it were a theory of intelligence.</p>
 <p>Related: <a href="stochastic-parrots.html">what models learn</a>, <a href="ai-risk.html">AI risk</a>.</p>
 <h4>Sources for this page</h4>
@@ -284,7 +284,8 @@
 <dt>What is predicted</dt><dd>Held-out loss, not capability</dd>
 <dt>Contested</dt><dd>Emergent abilities and their measurement</dd>
 <dt>Limits</dt><dd>Data quality, data exhaustion, post-training</dd>
-</dl>
+</dl><nav class="toc" aria-label="On this page"><h4>On this page</h4><ol><li><a href="#what-the-laws-say">What the laws say</a></li><li><a href="#where-it-gets-murky">Where it gets murky</a></li><li><a href="#why-it-is-in-the-archive">Why it is in the archive</a></li></ol></nav>
+
 </aside>
 </div>
 </main>
@@ -315,5 +316,6 @@
 </footer>
 <script src="assets/cite.js" defer></script>
 <script src="assets/prefs.js" defer></script>
+<script src="assets/keys.js" defer></script>
 </body>
 </html>

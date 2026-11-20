@@ -26,6 +26,8 @@ for p in pages:
             path = t.split("#")[0]
             if not path.endswith(".html") or not os.path.exists(path):
                 problems.append(f"{p}: pager points at {t}")
+    if p not in UTILITY and '<aside class="facts">' in h and h.count("<h3>") >= 2 and 'class="toc"' not in h:
+        problems.append(f"{p}: dossier with sections but no on-this-page rail")
     if 'data-pref="theme"' not in h:
         problems.append(f"{p}: no reader-preference controls")
     if 'src=""' in h:

@@ -65,6 +65,16 @@ What this pass deliberately did **not** do: no photographs were added to the twe
 
 Deliberately deferred: `compare.html` still takes two dossiers, not three. Extending it means rewriting its render function, and the two-way version is not broken — it is just less than it could be.
 
+## 0e. Shipped in the fifth pass — 20 November 2026
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **An on-this-page rail** on 162 dossiers, sticky inside the aside, with the current section highlighted by an IntersectionObserver | Dossiers run 700–2,000 words across five to seven sections with no jump list. The rail also gives every heading a permanent anchor, so a specific section can be linked and cited. |
+| 2 | **Sixty more rails** added on a second pass, for pages whose headings already carried manual ids or whose aside had content after the facts list | The first pass silently skipped them; the CI check found the gap. |
+| 3 | **Keyboard reading** — `j` / `k` move along the pager chain, `/` focuses search, `t` flips the theme, `?` opens a shortcut sheet, `Esc` closes it | The archive is 162 pages of prose read in sequence; it now supports reading in sequence. |
+| 4 | **`compare.html` takes three dossiers**, with the selection carried in `?a=&b=&c=` and a three-column grid above 760 px | Two is the minimum that makes a point; three is where you can see a pattern across labels. Comparisons are now linkable and citable. |
+| 5 | **CI extended** — a dossier with sections must keep its rail, and every rail anchor must resolve | 186 pages, 0 problems; 0 broken anchors. |
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
@@ -125,7 +135,7 @@ These were gaps found in the audit and closed without touching a single sentence
 21. **A generated PDF and EPUB of the print edition.** `print-edition.html` is 813 KB of HTML designed for `Ctrl-P`. A real typeset PDF with running heads, page numbers and a TOC with folios, plus an EPUB for e-readers, turns the archive into something that can be read on a train — and puts it one step from the KDP pipeline the other repositories already have.
 22. **A static build step, or none at all.** The nav, footer and palette are duplicated across 170 files; one change means 170 edits (this pass touched all of them with a script). Either accept a 60-line generator that assembles pages from partials, or add a CI check that fails when two pages' nav blocks disagree. The second is cheaper and keeps the "clone and open `index.html`" property.
 23. **A searchable command palette instead of the "More" menu.** The nav panel holds 100+ links in one column. `Ctrl-K` with fuzzy matching over the same 980-record index would replace it, and would make the mobile header usable.
-24. **Keyboard-first reading.** `j`/`k` to move between dossiers in reading order, `s` to open search, `?` for the shortcut sheet. The reading guide already defines an order; nothing walks it.
+24. ~~**Keyboard-first reading.**~~ **Done — see 0e.** `j`/`k` to move between dossiers in reading order, `s` to open search, `?` for the shortcut sheet. The reading guide already defines an order; nothing walks it.
 25. **An offline service worker.** The site works from `file://` but not from a flaky connection. A 30-line SW caching the shell plus visited pages would make "readable offline" literally true from the URL as well.
 26. **An audio edition.** Every dossier is 700–2,000 words of prose, which is exactly what a TTS pipeline handles well (Sarvam Bulbul, or any local model), with an `<audio>` element per page and a podcast feed of the same. This is the single largest reach multiplier available to a text archive.
 27. **A Hindi edition of the reading guide and the twelve door pages.** The audience for this material in India is large and served almost entirely by English-language YouTube. Translating the entry points, not the whole archive, is the cheap version of that.
