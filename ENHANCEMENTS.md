@@ -75,6 +75,16 @@ Deliberately deferred: `compare.html` still takes two dossiers, not three. Exten
 | 4 | **`compare.html` takes three dossiers**, with the selection carried in `?a=&b=&c=` and a three-column grid above 760 px | Two is the minimum that makes a point; three is where you can see a pattern across labels. Comparisons are now linkable and citable. |
 | 5 | **CI extended** — a dossier with sections must keep its rail, and every rail anchor must resolve | 186 pages, 0 problems; 0 broken anchors. |
 
+## 0f. Shipped in the sixth pass — 20 November 2026
+
+| # | Change | Why it mattered |
+|---|---|---|
+| 1 | **A service worker** (`sw.js`) — cache-first for the shell, styles and images; network-first for pages with a cache fallback; versioned cache, cleaned on activate | "Works offline" was true only if you had cloned the repository. A dossier read once now stays readable on a train, and a cold page gets `offline.html` instead of the browser's error page. |
+| 2 | **`offline.html`** — a noindex shell that explains what is cached and what is not | The usual failure of an offline fallback is a blank page or a lie. This one says which is which. |
+| 3 | **480 px WebP hero variants** for all 162 dossiers, wired through `srcset` and `sizes` | The hero is the largest thing on a phone screen and was being sent at 900 px. The mobile hero is now roughly a third of the bytes; desktop still gets the full image. |
+| 4 | **Intrinsic `width`/`height` on every hero** while doing it, with duplicate attributes collapsed | CLS was already low because the CSS fixes the box, but the attributes make the reservation explicit. |
+| 5 | **CI extended** — `offline.html` is exempt from the page invariants, and everything else still has to pass | 187 pages, 0 problems. |
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
@@ -122,7 +132,7 @@ These were gaps found in the audit and closed without touching a single sentence
 11. ~~**A CI gate with four checks.**~~ **Done — see 0b.** HTML validation (`vnu`), link check over the 916 external URLs, an accessibility pass (`pa11y` or axe), and a per-page size budget. The archive is 170 hand-generated files; one bad regeneration currently ships silently.
 12. ~~**A scheduled dead-link sweep.**~~ **Done — see 0b.** Weekly Action that re-checks all 916 URLs, queries the Wayback Machine availability API for anything that 404s, and opens one issue listing what broke with a snapshot link for each. Dead citations are the archive's slowest decay.
 13. **Sticky per-page table of contents.** Dossiers run 700–2,000 words with 5–7 headed sections and no jump list. A right-hand "on this page" rail (desktop) and a collapsible summary (mobile) would cut the scroll cost of every page.
-14. **Responsive images.** `srcset` at 480/960/1440 for every AVIF plus a WebP `<picture>` fallback, so a phone stops downloading 900×1020 crops. Expect roughly 60% off mobile image bytes.
+14. ~~**Responsive images.**~~ **Done — see 0f.** `srcset` at 480/960/1440 for every AVIF plus a WebP `<picture>` fallback, so a phone stops downloading 900×1020 crops. Expect roughly 60% off mobile image bytes.
 15. **A light theme and a reading-size control.** The archive is dark-only, at 18px serif. Both are preference toggles stored in `localStorage`, ~40 lines, and both materially widen who can read a long page.
 16. ~~**An RSS/Atom feed**~~ **Done — see 0c.** of new and revised dossiers, plus a JSON Feed. Nothing announces that the archive grew; a feed is the cheapest way to be followed.
 17. ~~**A corrections policy page and a visible "last reviewed" line**~~ **Done — see 0c.** on every dossier. The archive's authority rests on being checkable; it should say when each page was last checked, and what happens when a claim is overturned.
@@ -136,7 +146,7 @@ These were gaps found in the audit and closed without touching a single sentence
 22. **A static build step, or none at all.** The nav, footer and palette are duplicated across 170 files; one change means 170 edits (this pass touched all of them with a script). Either accept a 60-line generator that assembles pages from partials, or add a CI check that fails when two pages' nav blocks disagree. The second is cheaper and keeps the "clone and open `index.html`" property.
 23. **A searchable command palette instead of the "More" menu.** The nav panel holds 100+ links in one column. `Ctrl-K` with fuzzy matching over the same 980-record index would replace it, and would make the mobile header usable.
 24. ~~**Keyboard-first reading.**~~ **Done — see 0e.** `j`/`k` to move between dossiers in reading order, `s` to open search, `?` for the shortcut sheet. The reading guide already defines an order; nothing walks it.
-25. **An offline service worker.** The site works from `file://` but not from a flaky connection. A 30-line SW caching the shell plus visited pages would make "readable offline" literally true from the URL as well.
+25. ~~**An offline service worker.**~~ **Done — see 0f.** The site works from `file://` but not from a flaky connection. A 30-line SW caching the shell plus visited pages would make "readable offline" literally true from the URL as well.
 26. **An audio edition.** Every dossier is 700–2,000 words of prose, which is exactly what a TTS pipeline handles well (Sarvam Bulbul, or any local model), with an `<audio>` element per page and a podcast feed of the same. This is the single largest reach multiplier available to a text archive.
 27. **A Hindi edition of the reading guide and the twelve door pages.** The audience for this material in India is large and served almost entirely by English-language YouTube. Translating the entry points, not the whole archive, is the cheap version of that.
 28. **A provenance ledger.** One machine-readable file (`data/claims.json`) holding every claim's label, date, author and source IDs — from which the master list, the claim register, the charts and the search index are all generated. Today they are four hand-maintained views of the same facts, which means they can disagree.

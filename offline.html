@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Offline — The Larger World Archive</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="assets/style.css?v=1795000000">
+</head>
+<body>
+<main class="wrap support-page" id="main">
+<section>
+<p class="support-kicker">Offline</p>
+<h1>No connection.</h1>
+<p class="lede">This page has not been read on this device yet, so it is not in the offline cache. Pages you have already opened will still open; the rest need a connection once.</p>
+<p style="margin-top:24px"><a class="btn" href="index.html">Try the index</a> &nbsp; <a class="btn" href="master-list.html">The master list</a></p>
+<p class="small" style="margin-top:26px">The archive is 186 static files with no server behind them. Once a page has been read, the service worker keeps it.</p>
+</section>
+</main>
+<script>if("serviceWorker" in navigator && location.protocol==="https:"){addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){})})}</script>
+</body>
+</html>

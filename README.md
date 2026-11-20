@@ -14,7 +14,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 [![citations](https://img.shields.io/badge/citations-3%2C220%20across%20299%20domains-2C3548?style=flat-square)](#what-a-source-link-means-here)
 [![images](https://img.shields.io/badge/images-196%20(178%20photos%20%C2%B7%2018%20drawn)-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
 [![words](https://img.shields.io/badge/writing-~117%2C000%20words-2C3548?style=flat-square)](#what-this-is)
-[![pages](https://img.shields.io/badge/pages-186%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
+[![pages](https://img.shields.io/badge/pages-187%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
 [![labels](https://img.shields.io/badge/labels-documented%20%C2%B7%20debate%20%C2%B7%20fringe%20%C2%B7%20debunked-6E6553?style=flat-square)](#the-four-labels)
 [![dependencies](https://img.shields.io/badge/runtime%20dependencies-0-2ea44f?style=flat-square)](#how-it-is-built)
 [![tracking](https://img.shields.io/badge/tracking%20%2F%20cookies-none-2ea44f?style=flat-square)](#privacy)
@@ -93,9 +93,10 @@ Inclusion is not endorsement, and a debunked label is not a verdict on the reade
 
 Plain static HTML, one stylesheet, one page of JavaScript. There is no build step, no framework, no CDN and nothing to install — `git clone` and open `index.html`. That is the whole pipeline, and it is why the archive will still open in ten years.
 
-- **186 pages, 6.1 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
+- **187 pages, 6.2 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
 - **No runtime dependencies.** The only script on the site is the search index on one page — inline JSON, no fetch, so it works from `file://` and offline.
 - **AVIF images**, lazily loaded below the fold, 178 credited photographs, plus 18 vector figures drawn for this archive. Every one is credited with its licence and host on the [credits page](https://drsamonline.github.io/LARGE_GLOBE/credits.html).
+- **Offline reading.** A service worker keeps the shell and every page you have opened, so a dossier read once stays readable with no connection. A page you have never opened falls back to `offline.html` rather than the browser's dinosaur.
 - **An on-this-page rail** on every dossier with more than one section, sticky beside the text and highlighting the section you are reading.
 - **Keyboard reading** — `j` and `k` walk to the next and previous dossier, `/` jumps to search, `t` flips the theme, `?` opens the sheet.
 - **Two themes, three type sizes.** A contrast toggle and a text-size control in the header, remembered in `localStorage`, applied before first paint so nothing flashes. The archive was dark-only for its first two years.
@@ -134,6 +135,8 @@ Nothing else is required. There is no `npm install`, no lockfile, no toolchain.
 ├── topics.html             the 726 topics named but not yet written
 ├── corrections.html        what counts as an error, and what happens next
 ├── glossary.html           40 working definitions, grouped by field
+├── sw.js                   the service worker
+├── offline.html            what a cold page shows with no connection
 ├── feed.xml                Atom feed of every dossier
 ├── random.html             one dossier, at random
 ├── support.html            how to support it, and what it does not buy
@@ -144,9 +147,10 @@ Nothing else is required. There is no `npm install`, no lockfile, no toolchain.
 │   ├── cite.js             the copy-to-clipboard for the citation block
 │   ├── prefs.js            the light-theme and type-size controls
 │   ├── keys.js             keyboard reading, shortcut sheet, rail highlighting
+│   ├── img/s/              480px WebP hero variants for phones
 │   └── img/                166 AVIF photographs and 18 SVG figures
 ├── docs/screenshots/       the images in this README
-├── sitemap.xml             all 185 URLs, each with its git date
+├── sitemap.xml             all 185 indexable URLs, each with its git date
 ├── tools/                  the three checks CI runs
 ├── .github/workflows/      structure, size budget, weekly link check
 └── robots.txt

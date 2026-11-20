@@ -8,11 +8,16 @@ pages = sorted(glob.glob("*.html"))
 UTILITY = {"index.html","reading-guide.html","themes.html","charts.html","master-list.html","search.html",
            "compare.html","collections.html","links.html","sources.html","credits.html","claims-index.html",
            "print-edition.html","open-problems.html","ancient-index.html","frontier-index.html","modern-index.html",
-           "mega-index.html","support.html","404.html","topics.html","random.html","corrections.html","glossary.html"}
+           "mega-index.html","support.html","404.html","topics.html","random.html","corrections.html",
+           "glossary.html","offline.html"}
 problems = []
+
+NOINDEX = {"offline.html"}
 
 for p in pages:
     h = open(p, encoding="utf-8").read()
+    if p in NOINDEX:
+        continue
     if h.count('rel="canonical"') != 1:
         problems.append(f"{p}: canonical tag count {h.count('rel=\"canonical\"')}")
     if len(re.findall(r"<h1[ >]", h)) != 1:
