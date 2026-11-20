@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 206,
+ "count": 216,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -632,6 +632,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "black-hole-information",
+   "url": "black-hole-information.html",
+   "title": "The Black Hole Information Paradox",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Hawking radiation carries no information about what fell in. If that is true, quantum mechanics is wrong; if it is false, relativity is. Fifty years of work has produced progress and no experiment.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "Hawking, 1974–76",
+    "Conflict": "Unitarity versus a thermal remnant",
+    "Progress": "Holography; the island formula; the Page curve",
+    "Obstacle": "No full theory of quantum gravity",
+    "Test": "None currently possible"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Black_hole_information_paradox",
+     "https://en.wikipedia.org/wiki/Hawking_radiation",
+     "https://en.wikipedia.org/wiki/Holographic_principle",
+     "https://en.wikipedia.org/wiki/Firewall_(physics)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "black-knight",
    "url": "black-knight.html",
    "title": "The Black Knight",
@@ -817,6 +848,38 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "call-of-the-void",
+   "url": "call-of-the-void.html",
+   "title": "The Call of the Void",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Standing at a height, a small number of people feel a sudden urge to jump. It is not a death wish, it is common, and it has a name in French that predates the research.",
+   "facts": {
+    "Status": "Documented",
+    "Name": "L'appel du vide; 'high-place phenomenon'",
+    "Frequency": "Reported by a substantial minority",
+    "Character": "Intrusive, unwanted, not intent",
+    "Associated with": "Anxiety sensitivity, not depression",
+    "Research base": "Small",
+    "Note": "Not the same as suicidal ideation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Call_of_the_void",
+     "https://en.wikipedia.org/wiki/Intrusive_thought",
+     "https://en.wikipedia.org/wiki/Anxiety_sensitivity",
+     "https://en.wikipedia.org/wiki/Suicidal_ideation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "cambrian-explosion",
    "url": "cambrian-explosion.html",
    "title": "The Cambrian Explosion",
@@ -965,6 +1028,36 @@
      "https://doi.org/10.1037/0022-3514.90.5.751",
      "https://doi.org/10.1037/0003-066X.60.7.697",
      "https://en.wikipedia.org/wiki/Intergroup_contact_hypothesis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cosmic-censorship",
+   "url": "cosmic-censorship.html",
+   "title": "Cosmic Censorship",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "General relativity allows singularities with no event horizon — naked points where physics stops and the universe can be seen to break. Penrose conjectured they cannot form. Nobody has proved it.",
+   "facts": {
+    "Status": "Unproved; Nobel 2020 was for the theorems",
+    "Proposed": "Roger Penrose, 1969",
+    "Weak version": "No naked singularities from collapse",
+    "Strong version": "No observer meets a singularity at all",
+    "Evidence": "Numerical collapse; the Kerr spin limit"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Penrose%E2%80%93Hawking_singularity_theorems",
+     "https://en.wikipedia.org/wiki/Naked_singularity",
+     "https://en.wikipedia.org/wiki/Kerr_metric",
+     "https://en.wikipedia.org/wiki/Roger_Penrose"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2291,6 +2384,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "global-consciousness-project",
+   "url": "global-consciousness-project.html",
+   "title": "The Global Consciousness Project",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A network of random number generators, said to deviate from randomness when large numbers of people are emotionally engaged. The statistics do not survive the way the events were chosen.",
+   "facts": {
+    "Status": "Debunked",
+    "Ran": "From 1998",
+    "Founded by": "Roger Nelson, Princeton",
+    "Apparatus": "Networked hardware random number generators",
+    "Fatal issue": "Post-hoc event selection; multiple comparisons",
+    "Replication": "Fails under a pre-registered protocol"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Global_Consciousness_Project",
+     "https://en.wikipedia.org/wiki/Hardware_random_number_generator",
+     "https://en.wikipedia.org/wiki/Data_dredging",
+     "https://en.wikipedia.org/wiki/Preregistration_(science)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "gobekli-tepe",
    "url": "gobekli-tepe.html",
    "title": "Göbekli Tepe",
@@ -2317,6 +2441,37 @@
      "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
      "https://en.wikipedia.org/wiki/Karahan_Tepe",
      "https://www.kulturportali.gov.tr/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "great-attractor",
+   "url": "great-attractor.html",
+   "title": "The Great Attractor",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Galaxies across a wide region flow toward something in the direction of Centaurus, and for two decades nobody could see what. The answer turned out to be larger than the thing they were looking for.",
+   "facts": {
+    "Status": "Documented",
+    "Found by": "The 'Seven Samurai', 1980s",
+    "Direction": "Centaurus / Norma, behind the galactic plane",
+    "Distance": "About 200 million light years",
+    "Mass": "Order 10¹⁶ solar masses",
+    "Current picture": "Laniakea: a local basin in a larger flow"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Great_Attractor",
+     "https://en.wikipedia.org/wiki/Norma_Cluster",
+     "https://en.wikipedia.org/wiki/Zone_of_Avoidance",
+     "https://en.wikipedia.org/wiki/Laniakea_Supercluster"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2857,6 +3012,37 @@
      "https://en.wikipedia.org/wiki/Kardashev_scale#Original_definitions",
      "https://en.wikipedia.org/wiki/Dyson_sphere",
      "https://arxiv.org/abs/1705.03394"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "kardashev-scale",
+   "url": "kardashev-scale.html",
+   "title": "The Kardashev Scale",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A three-step classification of civilisations by energy use, invented for a Soviet radio astronomy paper. It measures nothing we can observe, and it is used constantly as though it did.",
+   "facts": {
+    "Status": "Documented",
+    "Proposed": "Nikolai Kardashev, 1964",
+    "Type I / II / III": "~4×10¹² / 4×10²⁶ / 4×10³⁷ W",
+    "Humanity": "About 0.73 by interpolation",
+    "What it is": "A classification for SETI thinking",
+    "What it is not": "A measurement, or an observed progression"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kardashev_scale",
+     "https://en.wikipedia.org/wiki/Dyson_sphere",
+     "https://en.wikipedia.org/wiki/World_energy_supply_and_consumption",
+     "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3901,6 +4087,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "oumuamua-solar-sail",
+   "url": "oumuamua-solar-sail.html",
+   "title": "'Oumuamua as a Solar Sail",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The first object known to come from another star was oddly shaped, tumbled, and accelerated slightly more than gravity explains. One astronomer argued it was a light sail. The argument is interesting and the evidence is thin.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Discovered": "19 October 2017, Pan-STARRS",
+    "Observed for": "A few weeks, on the way out",
+    "Shape": "Elongated, tumbling; no image exists",
+    "Anomaly": "Small non-gravitational acceleration, no outgassing",
+    "Alternatives": "Volatile outgassing; nitrogen ice; torques"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/%CA%BBOumuamua",
+     "https://doi.org/10.3847/2041-8213/aab61d",
+     "https://en.wikipedia.org/wiki/Interstellar_object",
+     "https://en.wikipedia.org/wiki/Comet_tail"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "oumuamua",
    "url": "oumuamua.html",
    "title": "‘Oumuamua",
@@ -4811,6 +5028,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "savant-reservoir",
+   "url": "savant-reservoir.html",
+   "title": "The Savant Reservoir",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that everyone carries a hidden savant inside, unlocked by injury or effort. Acquired savant syndrome is real; the reservoir is an inference with nothing behind it.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Real": "Savant syndrome; rare acquired cases",
+    "Typical skills": "Calendar calculation, drawing, music, memory",
+    "Pattern": "Narrow, procedural, practice-linked",
+    "The reservoir claim": "Latent in everyone — no mechanism, no measure",
+    "Testability": "Unfalsifiable in its usual form"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Savant_syndrome",
+     "https://en.wikipedia.org/wiki/Procedural_memory",
+     "https://en.wikipedia.org/wiki/Neuroplasticity",
+     "https://en.wikipedia.org/wiki/Falsifiability"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "scaling-laws",
    "url": "scaling-laws.html",
    "title": "Scaling Laws",
@@ -5606,6 +5854,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "synchronicity",
+   "url": "synchronicity.html",
+   "title": "Jung's Synchronicity",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A meaningful coincidence with no causal connection, offered as an acausal principle of nature. The concept names something people experience; as a claim about the world it cannot be tested, which is the problem.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Introduced": "Jung, 1952, with Wolfgang Pauli",
+    "Definition": "Meaningful coincidence without causal connection",
+    "Testability": "None — meaning is assigned after the fact",
+    "The scarab": "The illustrative case, not evidence",
+    "Base rate": "Coincidences are common; that is arithmetic"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Synchronicity",
+     "https://en.wikipedia.org/wiki/Carl_Jung",
+     "https://en.wikipedia.org/wiki/Coincidence",
+     "https://en.wikipedia.org/wiki/Falsifiability"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "synesthesia",
    "url": "synesthesia.html",
    "title": "Synesthesia",
@@ -5982,6 +6261,37 @@
      "https://en.wikipedia.org/wiki/Redshift",
      "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
      "https://en.wikipedia.org/wiki/Time_dilation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "tulpas",
+   "url": "tulpas.html",
+   "title": "Tulpas",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A practice imported from Tibetan Buddhism and rebuilt on internet forums: deliberately create a second mind in your head, and talk to it. The reports are real; the claim that there is a second mind is not testable.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Term from": "Tibetan sprul-pa, an emanation",
+    "Modern practice": "Forums, from about 2009",
+    "Method": "Sustained attention, traits, dialogue",
+    "Reports": "A voice with its own opinions; sometimes distress",
+    "Evidence": "Self-report only; no peer-reviewed study"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tulpa",
+     "https://en.wikipedia.org/wiki/Imaginary_friend",
+     "https://en.wikipedia.org/wiki/Internal_monologue",
+     "https://en.wikipedia.org/wiki/Dissociative_identity_disorder"
     ]
    },
    "last_reviewed": "2026-11-20",

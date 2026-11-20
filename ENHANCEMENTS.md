@@ -258,6 +258,27 @@ Ten more, split between the cosmos and the mind. Same pipeline, and this time it
 
 **On the auto-picked photographs:** four of the ten came back wrong on the first pass — a magazine page for the ganzfeld, a keyboard for alien hand syndrome, a German temple for Woolpit. The contact sheet caught them, the terms were tightened, and the second pass was correct. The check is not optional; it is the whole reason the pipeline is fast rather than careless.
 
+## 0s. Shipped in the nineteenth pass — 20 November 2026
+
+Ten more, five from the cosmos and five from the mind. Published in **41 seconds**; PDF and EPUB rebuilt afterwards in 31.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | 'Oumuamua as a Solar Sail | Fringe claim |
+| 2 | The Kardashev Scale | Documented |
+| 3 | The Great Attractor | Documented |
+| 4 | Cosmic Censorship | Live debate |
+| 5 | The Black Hole Information Paradox | Live debate |
+| 6 | Jung's Synchronicity | Fringe claim |
+| 7 | Tulpas | Fringe claim |
+| 8 | The Savant Reservoir | Fringe claim |
+| 9 | The Call of the Void | Documented |
+| 10 | The Global Consciousness Project | Debunked |
+
+216 dossiers, 970 sources, 250 images, 242 pages, PDF 664 pages, EPUB 218 chapters, sitemap 240 URLs, 0 problems, every page inside its size budget.
+
+The batch also balances the archive's labels for the first time: fringe is no longer a curiosity at the edges but a category with eleven pages, and the three unfalsifiable claims (synchronicity, tulpas, the savant reservoir) are filed as fringe rather than debunked, which is the distinction the four-label scheme exists to make.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
