@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 868,
+ "count": 886,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -237,6 +237,34 @@
      "https://en.wikipedia.org/wiki/Petroleum",
      "https://en.wikipedia.org/wiki/Biomarker_(petroleum)",
      "https://en.wikipedia.org/wiki/Serpentinization"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "abuela-villain",
+   "url": "abuela-villain.html",
+   "title": "Abuela as the Villain",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that the family matriarch is the film's antagonist. It is an interpretation of a work of animation.",
+   "facts": {
+    "Status": "Interpretation",
+    "Work": "Encanto",
+    "Claim": "The matriarch is the antagonist"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Encanto",
+     "https://en.wikipedia.org/wiki/Antagonist",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Transgenerational_trauma"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -991,6 +1019,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "animal-crossing-after-humans",
+   "url": "animal-crossing-after-humans.html",
+   "title": "Animal Crossing After Humans",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that the game is set after humanity. It is a reading of a fiction, and the game is cheerful.",
+   "facts": {
+    "Status": "Unsupported",
+    "Work": "Animal Crossing",
+    "Claim": "Set after humanity"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Animal_Crossing",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction",
+     "https://en.wikipedia.org/wiki/Video_game_narrative"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "animal-crossing-cult",
    "url": "animal-crossing-cult.html",
    "title": "Animal Crossing Is a Cult",
@@ -1728,19 +1784,19 @@
    "label_text": "Fiction",
    "label_class": "b-fiction",
    "label_canonical": true,
-   "standfirst": "A theory that the story repeats in a loop, with the protagonist trying again. The show's own time mechanics are strange enough to invite it.",
+   "standfirst": "A theory that the story repeats. It is an interpretation of a manga and anime.",
    "facts": {
-    "Status": "Interpretation",
-    "Series": "Attack on Titan, 2013–2023",
-    "Mechanic": "The 'paths'",
-    "Theory": "A repeating loop"
+    "Status": "Fiction",
+    "Work": "Attack on Titan",
+    "Claim": "A repeating timeline",
+    "Canon": "Not a literal loop"
    },
    "sources": {
     "count": 4,
     "urls": [
      "https://en.wikipedia.org/wiki/Attack_on_Titan",
      "https://en.wikipedia.org/wiki/Time_loop",
-     "https://en.wikipedia.org/wiki/Predestination",
+     "https://en.wikipedia.org/wiki/Determinism",
      "https://en.wikipedia.org/wiki/Fan_theory"
     ]
    },
@@ -2138,6 +2194,34 @@
      "https://en.wikipedia.org/wiki/Maurya_Empire",
      "https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika",
      "https://en.wikipedia.org/wiki/Rock-cut_architecture"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "barbie-red-pill",
+   "url": "barbie-red-pill.html",
+   "title": "Barbie's Red Pill",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A reading of a film through a phrase from an unrelated film. It is an interpretation, not a claim.",
+   "facts": {
+    "Status": "Interpretation",
+    "Works": "Barbie; The Matrix",
+    "Reading": "The red-pill metaphor"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Barbie_(film)",
+     "https://en.wikipedia.org/wiki/Red_pill_and_blue_pill",
+     "https://en.wikipedia.org/wiki/The_Matrix",
+     "https://en.wikipedia.org/wiki/Fan_theory"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2676,18 +2760,18 @@
    "label_text": "Fiction",
    "label_class": "b-fiction",
    "label_canonical": true,
-   "standfirst": "A theory that every Black Mirror episode shares a universe, connected by background details. The details are real; the continuity is not.",
+   "standfirst": "A theory that every episode shares a single timeline. It is an interpretation of an anthology series.",
    "facts": {
-    "Status": "Fan theory",
-    "Show": "Black Mirror, 2011–",
-    "Evidence": "Recurring background details",
-    "Creator's view": "Easter eggs, not continuity"
+    "Status": "Fiction",
+    "Work": "Black Mirror",
+    "Claim": "One shared timeline",
+    "Creator": "Easter eggs, not continuity"
    },
    "sources": {
     "count": 4,
     "urls": [
      "https://en.wikipedia.org/wiki/Black_Mirror",
-     "https://en.wikipedia.org/wiki/Charlie_Brooker",
+     "https://en.wikipedia.org/wiki/Anthology_series",
      "https://en.wikipedia.org/wiki/Easter_egg_(media)",
      "https://en.wikipedia.org/wiki/Fan_theory"
     ]
@@ -3023,6 +3107,35 @@
      "https://en.wikipedia.org/wiki/Bosnian_pyramid_claims",
      "https://www.e-a-a.org/",
      "https://www.smithsonianmag.com/arts-culture/the-bosnia-atlantis-connection-135861495/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "bowery-hidden-army",
+   "url": "bowery-hidden-army.html",
+   "title": "The Bowery's Hidden Army",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory about a hidden faction in a game's city. It is an interpretation of a fiction.",
+   "facts": {
+    "Status": "Fiction",
+    "Work": "Marvel's Spider-Man",
+    "Claim": "A cut faction remains in the world",
+    "Evidence": "Unused content"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man_(video_game)",
+     "https://en.wikipedia.org/wiki/Cutting_room_floor",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Video_game_development"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3451,6 +3564,34 @@
      "https://en.wikipedia.org/wiki/The_Hallmarks_of_Cancer",
      "https://en.wikipedia.org/wiki/Peto%27s_paradox",
      "https://en.wikipedia.org/wiki/Somatic_evolution_in_cancer"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "canon-events",
+   "url": "canon-events.html",
+   "title": "Canon Events",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The idea that a story's fixed events must happen, used in a film and discussed as a rule of fiction.",
+   "facts": {
+    "Status": "Fiction",
+    "Work": "Spider-Man: Across the Spider-Verse",
+    "Concept": "Fixed events in a story"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse",
+     "https://en.wikipedia.org/wiki/Canon_(fiction)",
+     "https://en.wikipedia.org/wiki/Continuity_(fiction)",
+     "https://en.wikipedia.org/wiki/Metafiction"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6439,6 +6580,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "doofenshmirtz-phineas-father",
+   "url": "doofenshmirtz-phineas-father.html",
+   "title": "Doofenshmirtz Is Phineas's Father",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that the cartoon villain is the boys' father. It is an interpretation, and the show has not confirmed it.",
+   "facts": {
+    "Status": "Fiction",
+    "Work": "Phineas and Ferb",
+    "Claim": "The villain is the father",
+    "Canon": "Unconfirmed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Phineas_and_Ferb",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Fictional_universe",
+     "https://en.wikipedia.org/wiki/Continuity_(fiction)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "doomsday-argument",
    "url": "doomsday-argument.html",
    "title": "The Doomsday Argument",
@@ -6525,6 +6695,34 @@
      "https://en.wikipedia.org/wiki/Conglomerate_(geology)",
      "https://en.wikipedia.org/wiki/Out-of-place_artifact",
      "https://en.wikipedia.org/wiki/Finial"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dragonborn-shor",
+   "url": "dragonborn-shor.html",
+   "title": "The Dragonborn Is Shor",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory about the player character's identity in a game's mythology. It is an interpretation of a fiction.",
+   "facts": {
+    "Status": "Unconfirmed",
+    "Work": "The Elder Scrolls V: Skyrim",
+    "Claim": "The player is a god"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Fictional_mythology",
+     "https://en.wikipedia.org/wiki/Video_game_narrative"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7055,6 +7253,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "eden-missouri",
+   "url": "eden-missouri.html",
+   "title": "Eden in Missouri",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A claim that the Garden of Eden was in Missouri, with a stone altar to prove it. The stone is real; the garden is not.",
+   "facts": {
+    "Status": "Faith claim",
+    "Place": "Daviess County, Missouri",
+    "Claim": "The Garden of Eden",
+    "Evidence": "A stone altar"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Garden_of_Eden",
+     "https://en.wikipedia.org/wiki/Latter_Day_Saint_movement",
+     "https://en.wikipedia.org/wiki/Daviess_County,_Missouri",
+     "https://en.wikipedia.org/wiki/Biblical_geography"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ediacaran",
    "url": "ediacaran.html",
    "title": "The Ediacaran Organisms",
@@ -7110,6 +7337,35 @@
      "https://en.wikipedia.org/wiki/The_Egg_(short_story)",
      "https://www.youtube.com/watch?v=h6fcK_fRYaI",
      "https://plato.stanford.edu/entries/vedanta/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ego-cottage",
+   "url": "ego-cottage.html",
+   "title": "Ego's Childhood Cottage",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that a planet-sized character's memories are fabrications. It is an interpretation of a film.",
+   "facts": {
+    "Status": "Fiction",
+    "Work": "Guardians of the Galaxy Vol. 2",
+    "Claim": "The memory is fabricated",
+    "Canon": "Unsettled"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2",
+     "https://en.wikipedia.org/wiki/Unreliable_narrator",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Fictional_universe"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13202,6 +13458,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "liminal-spaces-afterlife",
+   "url": "liminal-spaces-afterlife.html",
+   "title": "Liminal Spaces as the Afterlife",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "An aesthetic of empty corridors, read by some as a glimpse of what comes after. The images are real; the reading is fiction.",
+   "facts": {
+    "Status": "Fiction",
+    "Genre": "Liminal-space photography",
+    "Reading": "An afterlife"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)",
+     "https://en.wikipedia.org/wiki/Afterlife",
+     "https://en.wikipedia.org/wiki/Internet_aesthetic",
+     "https://en.wikipedia.org/wiki/Kenosis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lindy-effect",
    "url": "lindy-effect.html",
    "title": "The Lindy Effect",
@@ -13288,6 +13572,34 @@
      "https://en.wikipedia.org/wiki/Linguistic_determinism",
      "https://en.wikipedia.org/wiki/Color_term",
      "https://en.wikipedia.org/wiki/Framing_of_space_in_language"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "linking-the-fire",
+   "url": "linking-the-fire.html",
+   "title": "Linking the Fire",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The choice at the end of a game about cycles. It is a reading of a fiction, and the fiction is about reading.",
+   "facts": {
+    "Status": "Fiction",
+    "Work": "Dark Souls",
+    "Choice": "Link the fire or let it fade"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dark_Souls",
+     "https://en.wikipedia.org/wiki/Cyclic_history",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Video_game_narrative"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -14942,6 +15254,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "miguel-never-came-back",
+   "url": "miguel-never-came-back.html",
+   "title": "Miguel Never Came Back",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that a character's journey ends in death rather than return. It is an interpretation of a film.",
+   "facts": {
+    "Status": "Interpretation",
+    "Work": "Coco",
+    "Claim": "The protagonist does not return"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Coco_(2017_film)",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Afterlife",
+     "https://en.wikipedia.org/wiki/Unreliable_narrator"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "mind-uploading",
    "url": "mind-uploading.html",
    "title": "Mind Uploading",
@@ -15578,6 +15918,34 @@
      "https://doi.org/10.1088/0031-9120/4/3/312",
      "https://en.wikipedia.org/wiki/Supercooling",
      "https://en.wikipedia.org/wiki/Nucleation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mr-blue-eyes",
+   "url": "mr-blue-eyes.html",
+   "title": "Mr Blue Eyes",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A minor character read as the series' hidden controller. It is an interpretation of a game.",
+   "facts": {
+    "Status": "Unexplained",
+    "Work": "Cyberpunk 2077",
+    "Claim": "A hidden controller"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cyberpunk_2077",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Easter_egg_(media)",
+     "https://en.wikipedia.org/wiki/Video_game_narrative"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16810,6 +17178,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "one-piece-all-blue",
+   "url": "one-piece-all-blue.html",
+   "title": "One Piece and the All Blue",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory about where a legendary sea is. It is an interpretation of a long-running manga.",
+   "facts": {
+    "Status": "Open in the fiction",
+    "Work": "One Piece",
+    "Claim": "The All Blue will be created"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/One_Piece",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Fictional_location",
+     "https://en.wikipedia.org/wiki/Manga"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "open-vs-closed-models",
    "url": "open-vs-closed-models.html",
    "title": "Open versus Closed Models",
@@ -17297,6 +17693,34 @@
      "https://en.wikipedia.org/wiki/Palenque",
      "https://en.wikipedia.org/wiki/Maya_mythology",
      "https://en.wikipedia.org/wiki/Ancient_astronauts"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "pale-king-rebirth",
+   "url": "pale-king-rebirth.html",
+   "title": "The Pale King's Rebirth",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory about the fate of a ruler in a game. It is an interpretation of a fiction.",
+   "facts": {
+    "Status": "Ambiguous",
+    "Work": "Hollow Knight",
+    "Claim": "The ruler survives"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hollow_Knight",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Unreliable_narrator",
+     "https://en.wikipedia.org/wiki/Video_game_narrative"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -21261,6 +21685,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "silo-green-screen",
+   "url": "silo-green-screen.html",
+   "title": "The Silo Green Screen",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that the view outside the silo is a screen. It is an interpretation of a television series.",
+   "facts": {
+    "Status": "Fiction",
+    "Work": "Silo",
+    "Claim": "The view is a screen",
+    "Source": "Novels by Hugh Howey"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Silo_(TV_series)",
+     "https://en.wikipedia.org/wiki/Hugh_Howey",
+     "https://en.wikipedia.org/wiki/Dystopia",
+     "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "silurian-hypothesis",
    "url": "silurian-hypothesis.html",
    "title": "The Silurian Hypothesis",
@@ -24818,6 +25271,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "upside-down-time-freeze",
+   "url": "upside-down-time-freeze.html",
+   "title": "The Upside Down Time-Freeze",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that the other dimension in Stranger Things is frozen in 1983. It is an interpretation of a work of fiction.",
+   "facts": {
+    "Status": "Fiction",
+    "Work": "Stranger Things",
+    "Claim": "The dimension is frozen in 1983",
+    "Canon": "Unconfirmed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Stranger_Things",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Canon_(fiction)",
+     "https://en.wikipedia.org/wiki/Parallel_universes_in_fiction"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "urban-legends",
    "url": "urban-legends.html",
    "title": "Urban Legends &amp; Creepypasta",
@@ -25458,6 +25940,35 @@
      "https://en.wikipedia.org/wiki/Electrolysis_of_water",
      "https://en.wikipedia.org/wiki/Hydrogen_vehicle",
      "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "water-shafts-locks",
+   "url": "water-shafts-locks.html",
+   "title": "Water Shafts and Locks",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that the pyramid's shafts were part of a hydraulic system. The shafts are real; the water is not there.",
+   "facts": {
+    "Status": "Fringe",
+    "Claim": "The pyramid was hydraulic",
+    "Passages": "Documented and dry",
+    "Fittings": "None found"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+     "https://en.wikipedia.org/wiki/Hydraulic_engineering",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology",
+     "https://en.wikipedia.org/wiki/Egyptian_pyramid_construction_techniques"
     ]
    },
    "last_reviewed": "2026-11-20",
