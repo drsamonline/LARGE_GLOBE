@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 762,
+ "count": 775,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -659,6 +659,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "amoc-collapse",
+   "url": "amoc-collapse.html",
+   "title": "AMOC Collapse",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The Atlantic overturning circulation may weaken or collapse. The physics is documented; the timing and likelihood are argued.",
+   "facts": {
+    "Status": "Live debate",
+    "System": "Atlantic overturning circulation",
+    "Projected": "Weakening",
+    "Collapse by 2100": "Unlikely, per IPCC",
+    "Risk": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation",
+     "https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change",
+     "https://en.wikipedia.org/wiki/Tipping_points_in_the_climate_system",
+     "https://en.wikipedia.org/wiki/Greenland_ice_sheet"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "amoc",
    "url": "amoc.html",
    "title": "AMOC Tipping",
@@ -1237,6 +1267,35 @@
      "https://en.wikipedia.org/wiki/Radon",
      "https://en.wikipedia.org/wiki/Asbestosis",
      "https://en.wikipedia.org/wiki/Occupational_safety_and_health"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ashvlogs",
+   "url": "ashvlogs.html",
+   "title": "AshVlogs",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A YouTube channel presented as a missing person's video diary. It is fiction, and it was built to be mistaken for real.",
+   "facts": {
+    "Status": "Fiction",
+    "Platform": "YouTube",
+    "Format": "Imitated video diary",
+    "Genre": "Unfiction"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Found_footage_(film_technique)",
+     "https://en.wikipedia.org/wiki/Alternate_reality_game",
+     "https://en.wikipedia.org/wiki/YouTube",
+     "https://en.wikipedia.org/wiki/Web_fiction"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3267,6 +3326,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "chip-chan",
+   "url": "chip-chan.html",
+   "title": "Chip-chan",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A cat that appeared in hundreds of forum images, posted by a user who later explained the story.",
+   "facts": {
+    "Status": "Documented",
+    "Medium": "Forum posts",
+    "Subject": "A cat",
+    "Era": "2000s"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Internet_meme",
+     "https://en.wikipedia.org/wiki/Imageboard",
+     "https://en.wikipedia.org/wiki/Internet_culture",
+     "https://en.wikipedia.org/wiki/Cat"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "chronic-lyme",
    "url": "chronic-lyme.html",
    "title": "Chronic Lyme",
@@ -3812,6 +3900,36 @@
      "https://en.wikipedia.org/wiki/Time-variation_of_fundamental_constants",
      "https://en.wikipedia.org/wiki/Quasar",
      "https://en.wikipedia.org/wiki/Atomic_clock"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "constructor-theory",
+   "url": "constructor-theory.html",
+   "title": "Constructor Theory",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "David Deutsch's proposal to rebuild physics around which transformations are possible, rather than around initial conditions.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "2012",
+    "Author": "David Deutsch",
+    "Claim": "Transformations are fundamental",
+    "New prediction": "None yet"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Constructor_theory",
+     "https://en.wikipedia.org/wiki/David_Deutsch",
+     "https://en.wikipedia.org/wiki/Quantum_information",
+     "https://en.wikipedia.org/wiki/Theory_of_everything"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7442,6 +7560,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "frbs-light-sails",
+   "url": "frbs-light-sails.html",
+   "title": "FRBs as Light Sails",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Fast radio bursts are real and unexplained. The proposal that they are alien light sails is the weakest of the options.",
+   "facts": {
+    "Status": "Not supported",
+    "Bursts": "Millisecond radio flashes",
+    "Leading cause": "Magnetars",
+    "Sail proposal": "2017"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Fast_radio_burst",
+     "https://en.wikipedia.org/wiki/Magnetar",
+     "https://en.wikipedia.org/wiki/Solar_sail",
+     "https://en.wikipedia.org/wiki/Canadian_Hydrogen_Intensity_Mapping_Experiment"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "free-energy-principle",
    "url": "free-energy-principle.html",
    "title": "The Free Energy Principle",
@@ -9732,20 +9879,19 @@
   {
    "slug": "hygiene-hypothesis",
    "url": "hygiene-hypothesis.html",
-   "title": "Hygiene or Old Friends",
+   "title": "The Hygiene Hypothesis",
    "theme": "Mind, belief and memory",
    "theme_id": "mind",
    "label_text": "Live debate",
    "label_class": "b-debate",
    "label_canonical": true,
-   "standfirst": "Allergies and autoimmune disease rose through the twentieth century in rich countries. The explanation is not dirt, and the leading version — that we have lost contact with old microbial companions — has good evidence and no complete mechanism.",
+   "standfirst": "The proposal that too-clean childhoods leave the immune system under-trained. The epidemiology is suggestive and the mechanism is argued.",
    "facts": {
     "Status": "Live debate",
     "Proposed": "Strachan, 1989",
-    "Modern version": "Old friends hypothesis (Rook)",
-    "Strongest evidence": "Farm and household epidemiology",
-    "Mixed": "Helminth therapy trials",
-    "Not the variable": "'Hygiene' in the popular sense"
+    "Claim": "Early exposure protects",
+    "Evidence": "Epidemiological; mixed trials",
+    "Variant": "Old friends hypothesis"
    },
    "sources": {
     "count": 4,
@@ -10531,6 +10677,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "kardashev-civilisations",
+   "url": "kardashev-civilisations.html",
+   "title": "Kardashev IV and Omega",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The scale of civilisations by energy use, extended far past anything observable.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Kardashev, 1964",
+    "Types I–III": "Planet; star; galaxy",
+    "Types IV–V": "Speculative",
+    "Evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kardashev_scale",
+     "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence",
+     "https://en.wikipedia.org/wiki/Dyson_sphere",
+     "https://en.wikipedia.org/wiki/Thought_experiment"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "kardashev-scale",
    "url": "kardashev-scale.html",
    "title": "The Kardashev Scale",
@@ -10555,6 +10731,35 @@
      "https://en.wikipedia.org/wiki/Dyson_sphere",
      "https://en.wikipedia.org/wiki/World_energy_supply_and_consumption",
      "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "karin-waldegrave",
+   "url": "karin-waldegrave.html",
+   "title": "Karin Catherine Waldegrave",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A Wikipedia editor whose article about an invented painter became a real artwork, and a real exhibition.",
+   "facts": {
+    "Status": "Documented",
+    "Platform": "Wikipedia",
+    "Subject": "A fabricated painter",
+    "Outcome": "Exhibited as real"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Wikipedia",
+     "https://en.wikipedia.org/wiki/Hoax",
+     "https://en.wikipedia.org/wiki/Wikipedia:Notability",
+     "https://en.wikipedia.org/wiki/Art_world"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12830,6 +13035,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "meatsleep",
+   "url": "meatsleep.html",
+   "title": "MeatSleep",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A creepypasta told through a series of unsettling videos and posts. It is fiction, and the format is the work.",
+   "facts": {
+    "Status": "Fiction",
+    "Genre": "Creepypasta; analog horror",
+    "Format": "Videos and posts"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Analog_horror",
+     "https://en.wikipedia.org/wiki/Horror_fiction",
+     "https://en.wikipedia.org/wiki/Found_footage_(film_technique)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "median-voter-theorem",
    "url": "median-voter-theorem.html",
    "title": "The Median Voter Theorem",
@@ -14645,6 +14878,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "ocean-worlds",
+   "url": "ocean-worlds.html",
+   "title": "Ocean Worlds Are the Norm",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Europa, Enceladus, Titan, Ganymede, Ceres: subsurface oceans may be common. Whether they are habitable is another question.",
+   "facts": {
+    "Status": "Live debate",
+    "Worlds": "Europa; Enceladus; Titan; Ganymede",
+    "Evidence": "Magnetic; gravity; plumes",
+    "Habitable": "Unknown",
+    "Missions": "Europa Clipper, arriving 2030"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ocean_world",
+     "https://en.wikipedia.org/wiki/Europa_(moon)",
+     "https://en.wikipedia.org/wiki/Enceladus",
+     "https://en.wikipedia.org/wiki/Europa_Clipper"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "odd-perfect-numbers",
    "url": "odd-perfect-numbers.html",
    "title": "Odd Perfect Numbers",
@@ -15008,6 +15271,36 @@
      "https://en.wikipedia.org/wiki/Interstellar_object",
      "https://en.wikipedia.org/wiki/Comet",
      "https://en.wikipedia.org/wiki/Solar_sail"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "oumuamua-hydrogen",
+   "url": "oumuamua-hydrogen.html",
+   "title": "‘Oumuamua as Hydrogen Ice",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "An explanation for the object's odd acceleration: it was a chunk of hydrogen ice. Elegant, and hard to test now that it has gone.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "2023",
+    "Explains": "Acceleration without a coma",
+    "Requires": "Hydrogen ice bodies",
+    "Testable": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/%CA%BBOumuamua",
+     "https://en.wikipedia.org/wiki/Hydrogen_ice",
+     "https://en.wikipedia.org/wiki/Sublimation_(phase_transition)",
+     "https://en.wikipedia.org/wiki/Interstellar_object"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -20701,6 +20994,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "technosignature-pollution",
+   "url": "technosignature-pollution.html",
+   "title": "Technosignature Pollution",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The idea that a civilisation could be detected by its pollution — nitrogen dioxide, chlorofluorocarbons, industrial waste — rather than by its radio.",
+   "facts": {
+    "Status": "Proposed",
+    "Candidates": "NO2; CFCs; aerosols",
+    "Method": "Exoplanet spectroscopy",
+    "Detected": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Technosignature",
+     "https://en.wikipedia.org/wiki/Nitrogen_dioxide",
+     "https://en.wikipedia.org/wiki/Transmission_spectroscopy",
+     "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "technosphere-layer",
    "url": "technosphere-layer.html",
    "title": "The Technosphere Layer",
@@ -20936,6 +21258,36 @@
      "https://en.wikipedia.org/wiki/Alexey_Pajitnov",
      "https://en.wikipedia.org/wiki/Elektronika_60",
      "https://en.wikipedia.org/wiki/Tetris_effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "the-amplituhedron",
+   "url": "the-amplituhedron.html",
+   "title": "The Amplituhedron",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A geometric object whose volume encodes particle-scattering probabilities. It works, and it is not yet physics in the usual sense.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "2013",
+    "Authors": "Arkani-Hamed; Trnka",
+    "Computes": "Scattering probabilities",
+    "Limitation": "Simplified, supersymmetric theory"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Amplituhedron",
+     "https://en.wikipedia.org/wiki/Scattering_amplitude",
+     "https://en.wikipedia.org/wiki/Feynman_diagram",
+     "https://en.wikipedia.org/wiki/Nima_Arkani-Hamed"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -23062,6 +23414,35 @@
      "https://en.wikipedia.org/wiki/Yongle_Emperor",
      "https://en.wikipedia.org/wiki/Stele",
      "https://en.wikipedia.org/wiki/Ming_tombs"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "yayvideogames",
+   "url": "yayvideogames.html",
+   "title": "YAYVIDEOGAMES",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A YouTube channel whose strange, looping videos turned out to be made by a person, not a mystery.",
+   "facts": {
+    "Status": "Documented",
+    "Platform": "YouTube",
+    "Genre": "Unusual videos",
+    "Outcome": "Creator identified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Alternate_reality_game",
+     "https://en.wikipedia.org/wiki/YouTube",
+     "https://en.wikipedia.org/wiki/Internet_mystery",
+     "https://en.wikipedia.org/wiki/Internet_art"
     ]
    },
    "last_reviewed": "2026-11-20",
