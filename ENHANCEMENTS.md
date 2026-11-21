@@ -648,6 +648,40 @@ The batch is built as a paired argument: ten invented conspiracies on one side, 
 
 The largest single batch of `documented` pages in the archive, and the reason is the subject: twenty of these are things that were done, admitted, and prosecuted. The batch exists because an archive of strange claims is only trustworthy if it can also say plainly when the strange claim was right — Fast and Furious, the black sites, the Lavon affair, Gleiwitz. Conspiracy theories thrive where the record is thin; here the record is thick, and it is worse than the theories.
 
+## 0aj. Shipped in the thirty-fifth pass — 21 November 2026: laws, scandals, lore
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | Goodhart's Law | Documented |
+| 2 | The Third Place | Live debate |
+| 3 | Male Loneliness | Documented |
+| 4 | Shrinkflation and Skimpflation | Documented |
+| 5 | The Peltzman Effect | Live debate |
+| 6 | The Streisand Effect | Documented |
+| 7 | Poe's Law | Documented |
+| 8 | Cunningham's Law | Documented |
+| 9 | Brandolini's Law | Documented |
+| 10 | The Truman Show Delusion | Documented |
+| 11 | Room 641A | Documented |
+| 12 | Pegasus Zero-Click | Documented |
+| 13 | Boeing's MCAS | Documented |
+| 14 | Purdue and OxyContin | Documented |
+| 15 | FTX's Backdoor | Documented |
+| 16 | Libor Rigging | Documented |
+| 17 | FIFA Bribes | Documented |
+| 18 | Monopoly's Anti-Monopoly Origin | Documented |
+| 19 | Dune as Anti-Messiah | Documented |
+| 20 | Vault-Tec Started the War | Documented |
+| 21 | GTA's Two Universes | Documented |
+| 22 | Squid Game Card Colours | Debunked |
+| 23 | The Simpsons Time Machine | Debunked |
+| 24 | The Mushroom War | Documented |
+| 25 | Dating-App Elo Gating | Fringe claim |
+
+458 dossiers, 1,938 sources, 492 images, 484 pages, PDF 1,150 pages, EPUB 461 chapters, sitemap 482 URLs, 0 problems.
+
+Five of these are the archive's own operating principles written down as pages: Goodhart on targets, Brandolini on the cost of refutation, Poe on why fiction must be labelled, Cunningham on why wrong claims travel, and the Streisand effect on why suppression fails. The rest are the evidence those laws describe.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

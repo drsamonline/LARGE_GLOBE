@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 433,
+ "count": 458,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -1500,6 +1500,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "boeing-mcas",
+   "url": "boeing-mcas.html",
+   "title": "Boeing's MCAS",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A software system designed to correct a handling characteristic, fed by a single sensor, brought down two aircraft. 346 people died.",
+   "facts": {
+    "Status": "Documented",
+    "System": "MCAS, on the 737 MAX",
+    "Input": "One angle-of-attack sensor",
+    "Crashes": "Lion Air 2018; Ethiopian 2019",
+    "Deaths": "346",
+    "Grounding": "March 2019 – November 2020"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings",
+     "https://en.wikipedia.org/wiki/Maneuvering_Characteristics_Augmentation_System",
+     "https://en.wikipedia.org/wiki/Lion_Air_Flight_610",
+     "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_302"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "boltzmann-brain",
    "url": "boltzmann-brain.html",
    "title": "Boltzmann Brains",
@@ -1616,6 +1647,37 @@
      "https://en.wikipedia.org/wiki/Mahabharata",
      "https://en.wikipedia.org/wiki/Astra_(weapon)",
      "https://en.wikipedia.org/wiki/Ancient_astronauts"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "brandolinis-law",
+   "url": "brandolinis-law.html",
+   "title": "Brandolini's Law",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The energy needed to refute nonsense is an order of magnitude greater than the energy needed to produce it. It is the reason this archive exists in the form it does.",
+   "facts": {
+    "Status": "Documented",
+    "Formulated": "Alberto Brandolini, 2013",
+    "Claim": "Refutation costs an order of magnitude more",
+    "Consequence": "Corrections travel less far",
+    "Not a theorem": "An observation about effort",
+    "Archive response": "Short pages, sources, labels"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Brandolini%27s_law",
+     "https://en.wikipedia.org/wiki/Misinformation",
+     "https://en.wikipedia.org/wiki/Continued_influence_effect",
+     "https://en.wikipedia.org/wiki/Fact-checking"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2564,6 +2626,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "cunninghams-law",
+   "url": "cunninghams-law.html",
+   "title": "Cunningham's Law",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The fastest way to get the right answer online is to post the wrong one. It is a joke about correction culture, and it is accurate often enough to be useful.",
+   "facts": {
+    "Status": "Heuristic",
+    "Attributed to": "Ward Cunningham",
+    "Claim": "Posting a wrong answer gets faster corrections",
+    "Mechanism": "Correction incentives",
+    "Risk": "Corrections can also be wrong"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cunningham%27s_law",
+     "https://en.wikipedia.org/wiki/Ward_Cunningham",
+     "https://en.wikipedia.org/wiki/Lurker",
+     "https://en.wikipedia.org/wiki/Crowdsourcing"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "curses",
    "url": "curses.html",
    "title": "Curses",
@@ -2777,6 +2869,36 @@
      "https://en.wikipedia.org/wiki/Darth_Binks",
      "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace",
      "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dating-elo",
+   "url": "dating-elo.html",
+   "title": "Dating-App Elo Gating",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that dating apps score users and show them only to people of similar scores. One app did use an Elo-style system, and said it stopped.",
+   "facts": {
+    "Status": "Partly true; mostly unverifiable",
+    "Claim": "Hidden attractiveness scores determine matches",
+    "Confirmed": "Tinder used an Elo-style system early on",
+    "Changed": "Company said so in 2019",
+    "Current systems": "Not published"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tinder_(app)",
+     "https://en.wikipedia.org/wiki/Elo_rating_system",
+     "https://en.wikipedia.org/wiki/Recommender_system",
+     "https://en.wikipedia.org/wiki/Algorithmic_transparency"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3470,6 +3592,37 @@
      "https://doi.org/10.1016/0047-2484(92)90081-J",
      "https://doi.org/10.1098/rsbl.2021.0213",
      "https://doi.org/10.1098/rsos.150292"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dune-anti-messiah",
+   "url": "dune-anti-messiah.html",
+   "title": "Dune as Anti-Messiah",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Frank Herbert wrote Dune as a warning about charismatic leaders and the danger of following them. The films and the fandom have often read it as a hero story.",
+   "facts": {
+    "Status": "Documented",
+    "Published": "1965",
+    "Author's stated intent": "A warning about messiahs",
+    "Sequel": "Dune Messiah, 1969",
+    "Contested": "How clear the first book is",
+    "Adaptations": "Take different positions"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dune_(novel)",
+     "https://en.wikipedia.org/wiki/Frank_Herbert",
+     "https://en.wikipedia.org/wiki/Dune_Messiah",
+     "https://en.wikipedia.org/wiki/Hero%27s_journey"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4251,6 +4404,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "fifa-bribes",
+   "url": "fifa-bribes.html",
+   "title": "FIFA Bribes",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Senior football officials were indicted in the United States for racketeering and bribery over media and marketing rights. The president resigned.",
+   "facts": {
+    "Status": "Documented",
+    "Indictments": "May 2015, US Department of Justice",
+    "Charges": "Racketeering, wire fraud, money laundering",
+    "Resignation": "Sepp Blatter, 2015",
+    "Convictions": "Several officials",
+    "Bans": "Eight years, later reduced"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/2015_FIFA_corruption_case",
+     "https://en.wikipedia.org/wiki/FIFA",
+     "https://en.wikipedia.org/wiki/Sepp_Blatter",
+     "https://en.wikipedia.org/wiki/Racket_(crime)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "firewall-paradox",
    "url": "firewall-paradox.html",
    "title": "The Firewall Paradox",
@@ -4472,6 +4656,37 @@
      "https://en.wikipedia.org/wiki/Free_energy_principle",
      "https://en.wikipedia.org/wiki/Predictive_coding",
      "https://plato.stanford.edu/entries/bayes-theorem/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ftx-backdoor",
+   "url": "ftx-backdoor.html",
+   "title": "FTX's Backdoor",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "An exchange took customer deposits and lent them to a related trading firm, using a hidden exemption in its accounting. It collapsed in days.",
+   "facts": {
+    "Status": "Documented",
+    "Collapse": "November 2022",
+    "Mechanism": "Customer funds lent to Alameda",
+    "Key feature": "Accounting exemption in FTX's code",
+    "Conviction": "2023; 25-year sentence",
+    "Recovery": "Partial"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bankruptcy_of_FTX",
+     "https://en.wikipedia.org/wiki/Sam_Bankman-Fried",
+     "https://en.wikipedia.org/wiki/Alameda_Research",
+     "https://en.wikipedia.org/wiki/Commingling"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5046,6 +5261,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "goodharts-law",
+   "url": "goodharts-law.html",
+   "title": "Goodhart's Law",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "When a measure becomes a target, it stops being a good measure. The law is a one-line summary of a century of institutional failure, and it is demonstrated every year.",
+   "facts": {
+    "Status": "Pattern, not theorem",
+    "Formulated": "Charles Goodhart, 1975",
+    "Paraphrase": "Marilyn Strathern, 1997",
+    "Mechanism": "Optimising the proxy instead of the goal",
+    "Examples": "Soviet quotas; Wells Fargo; NHS targets"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Goodhart%27s_law",
+     "https://en.wikipedia.org/wiki/Campbell%27s_law",
+     "https://en.wikipedia.org/wiki/Perverse_incentive",
+     "https://en.wikipedia.org/wiki/Wells_Fargo_account_fraud_scandal"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "google-effect",
    "url": "google-effect.html",
    "title": "The Google Effect",
@@ -5474,6 +5719,37 @@
      "https://doi.org/10.1177/0956797617739704",
      "https://doi.org/10.1038/s41586-019-1466-y",
      "https://en.wikipedia.org/wiki/Replication_crisis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "gta-universes",
+   "url": "gta-universes.html",
+   "title": "GTA's Two Universes",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The Grand Theft Auto games are split into a 3D universe and an HD universe, with separate continuities. Rockstar confirmed it, and it explains why the same city looks different.",
+   "facts": {
+    "Status": "Documented",
+    "3D universe": "GTA III, Vice City, San Andreas",
+    "HD universe": "From GTA IV",
+    "Confirmed by": "Rockstar",
+    "Explains": "Contradictions in cities and characters",
+    "Not supported": "A hidden timeline"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+     "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+     "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV",
+     "https://en.wikipedia.org/wiki/Continuity_(fiction)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6768,6 +7044,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "libor-rigging",
+   "url": "libor-rigging.html",
+   "title": "Libor Rigging",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Traders manipulated the interest rate that underpinned trillions in loans and derivatives, by submitting figures that suited their books.",
+   "facts": {
+    "Status": "Documented",
+    "Benchmark": "London Interbank Offered Rate",
+    "Scale": "Trillions in contracts",
+    "First fine": "Barclays, $450 million, 2012",
+    "Outcome": "Billions in penalties; convictions",
+    "Replaced": "Final settings ended 2023"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Libor_scandal",
+     "https://en.wikipedia.org/wiki/Libor",
+     "https://en.wikipedia.org/wiki/Financial_regulation",
+     "https://en.wikipedia.org/wiki/Benchmark_(interest_rate)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lindy-effect",
    "url": "lindy-effect.html",
    "title": "The Lindy Effect",
@@ -7229,6 +7536,37 @@
      "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation",
      "https://en.wikipedia.org/wiki/Forgery",
      "https://en.wikipedia.org/wiki/Ufology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "male-loneliness",
+   "url": "male-loneliness.html",
+   "title": "Male Loneliness",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Surveys find that a substantial share of men report no close friends and rely on a partner for emotional support. The pattern is documented; the explanations are contested.",
+   "facts": {
+    "Status": "Documented",
+    "Key figure": "About 15% of men report no close friends",
+    "Pattern": "Partner as primary confidant",
+    "Health link": "Isolation associated with higher mortality",
+    "Causes": "Contested",
+    "Measurement": "Self-reported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Loneliness",
+     "https://en.wikipedia.org/wiki/Social_isolation",
+     "https://en.wikipedia.org/wiki/Friendship",
+     "https://en.wikipedia.org/wiki/Epidemiology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7823,6 +8161,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "monopoly-origin",
+   "url": "monopoly-origin.html",
+   "title": "Monopoly's Anti-Monopoly Origin",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The world's most famous property game was invented to teach that land monopolies are unjust. The irony is documented in patents and in the inventor's own words.",
+   "facts": {
+    "Status": "Documented",
+    "Invented": "Elizabeth Magie, 1903",
+    "Original name": "The Landlord's Game",
+    "Purpose": "To teach against land monopoly",
+    "Commercial version": "Parker Brothers, 1935",
+    "Magie's payment": "$500, no royalties"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Monopoly_(game)",
+     "https://en.wikipedia.org/wiki/Elizabeth_Magie",
+     "https://en.wikipedia.org/wiki/Georgism",
+     "https://en.wikipedia.org/wiki/The_Landlord%27s_Game"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "montauk-project",
    "url": "montauk-project.html",
    "title": "The Montauk Project",
@@ -8033,6 +8402,36 @@
      "https://doi.org/10.1103/PhysRevLett.126.141801",
      "https://doi.org/10.1038/s41586-021-03418-1",
      "https://muon-g-2.fnal.gov/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mushroom-war",
+   "url": "mushroom-war.html",
+   "title": "The Mushroom War",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Adventure Time is set a thousand years after a nuclear war, and the show reveals it slowly. The backstory is documented in the episodes, not invented by fans.",
+   "facts": {
+    "Status": "Intended reading",
+    "Series": "Adventure Time, 2010–2018",
+    "Setting": "Earth after a nuclear war",
+    "Interval": "About a thousand years",
+    "Revealed": "Through episodes and the finale"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Adventure_Time",
+     "https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction",
+     "https://en.wikipedia.org/wiki/Worldbuilding",
+     "https://en.wikipedia.org/wiki/Nuclear_warfare"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8980,6 +9379,67 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "pegasus-zero-click",
+   "url": "pegasus-zero-click.html",
+   "title": "Pegasus Zero-Click",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Spyware that infects a phone without any interaction, sold to governments. The 2021 Pegasus Project documented its use against journalists, lawyers and activists.",
+   "facts": {
+    "Status": "Documented",
+    "Maker": "NSO Group, Israel",
+    "Mechanism": "Zero-click exploit",
+    "Leak": "2021, over 50,000 numbers",
+    "Targets": "Journalists, lawyers, activists",
+    "Consequence": "US export blacklist, 2021"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Pegasus_(spyware)",
+     "https://en.wikipedia.org/wiki/NSO_Group",
+     "https://en.wikipedia.org/wiki/Zero-click_attack",
+     "https://en.wikipedia.org/wiki/Surveillance_capitalism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "peltzman-effect",
+   "url": "peltzman-effect.html",
+   "title": "The Peltzman Effect",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that safety features cause people to take more risks, cancelling out the benefit. The mechanism is real; the size of the effect is disputed.",
+   "facts": {
+    "Status": "Partly true; magnitude contested",
+    "Proposed": "Peltzman, 1975",
+    "Mechanism": "Risk compensation",
+    "Documented": "Behavioural adjustment",
+    "Not supported": "Net-neutral seat belts"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Risk_compensation",
+     "https://en.wikipedia.org/wiki/Seat_belt_legislation",
+     "https://en.wikipedia.org/wiki/Road_traffic_safety",
+     "https://en.wikipedia.org/wiki/Moral_hazard"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "petos-paradox",
    "url": "petos-paradox.html",
    "title": "Peto's Paradox",
@@ -9416,6 +9876,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "poes-law",
+   "url": "poes-law.html",
+   "title": "Poe's Law",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Without a clear marker of intent, a parody of extremism is indistinguishable from the real thing. It was formulated on a forum and has been demonstrated repeatedly since.",
+   "facts": {
+    "Status": "Heuristic",
+    "Formulated": "About 2005, by Nathan Poe",
+    "Claim": "Parody and sincerity are indistinguishable without markers",
+    "Demonstrations": "Frequent",
+    "Related": "The archive's insistence on provenance"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Poe%27s_law",
+     "https://en.wikipedia.org/wiki/Satire",
+     "https://en.wikipedia.org/wiki/Birds_Aren%27t_Real",
+     "https://en.wikipedia.org/wiki/Deadpan"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "polyvagal-theory",
    "url": "polyvagal-theory.html",
    "title": "Polyvagal Theory",
@@ -9725,6 +10215,37 @@
      "https://en.wikipedia.org/wiki/Punctuated_equilibrium",
      "https://www.hup.harvard.edu/books/9780674006133",
      "https://en.wikipedia.org/wiki/Phyletic_gradualism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "purdue-oxycontin",
+   "url": "purdue-oxycontin.html",
+   "title": "Purdue and OxyContin",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A company marketed an addictive opioid as low-risk, using a claim about its formulation that was not supported. The consequences are measured in deaths.",
+   "facts": {
+    "Status": "Documented",
+    "Launched": "1996",
+    "Claim": "Addiction risk under 1%",
+    "Pleas": "2007; 2020",
+    "Penalties": "$635 million; $8.3 billion",
+    "Supreme Court": "Settlement rejected, 2024"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Oxycodone",
+     "https://en.wikipedia.org/wiki/Purdue_Pharma",
+     "https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States",
+     "https://en.wikipedia.org/wiki/Sackler_family"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10352,6 +10873,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "room-641a",
+   "url": "room-641a.html",
+   "title": "Room 641A",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A room in an AT&T switching centre in San Francisco, built for the NSA, where internet traffic was copied. A technician's evidence exposed it in 2006.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "611 Folsom Street, San Francisco",
+    "Fitted out": "From 2003",
+    "Exposed": "2006, by Mark Klein",
+    "Litigation": "Dismissed on state secrets grounds",
+    "Later": "Confirmed in outline by the 2013 disclosures"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Room_641A",
+     "https://en.wikipedia.org/wiki/Mark_Klein",
+     "https://en.wikipedia.org/wiki/NSA_warrantless_surveillance_(2001%E2%80%932007)",
+     "https://en.wikipedia.org/wiki/State_secrets_privilege"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "roswell-mogul",
    "url": "roswell-mogul.html",
    "title": "Roswell Was Project Mogul",
@@ -10918,6 +11470,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "shrinkflation",
+   "url": "shrinkflation.html",
+   "title": "Shrinkflation and Skimpflation",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Products get smaller or worse while the price stays the same. Both are documented by statistics agencies, and both are hard for a shopper to see.",
+   "facts": {
+    "Status": "Documented",
+    "Shrinkflation": "Smaller quantity, same price",
+    "Skimpflation": "Lower quality, same price",
+    "Measured by": "National statistics agencies",
+    "Legality": "Legal if labelled",
+    "Harm": "Informational"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Shrinkflation",
+     "https://en.wikipedia.org/wiki/Unit_price",
+     "https://en.wikipedia.org/wiki/Inflation",
+     "https://en.wikipedia.org/wiki/Office_for_National_Statistics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "shroud-radiation",
    "url": "shroud-radiation.html",
    "title": "The Shroud as a Radiation Flash",
@@ -11043,6 +11626,37 @@
      "https://en.wikipedia.org/wiki/Bart_to_the_Future",
      "https://www.bbc.com/culture/article/20150114-where-are-our-flying-cars",
      "https://www.gamesradar.com/movies-that-predicted-the-future"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "simpsons-time-machine",
+   "url": "simpsons-time-machine.html",
+   "title": "The Simpsons Time Machine",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The Simpsons appears to predict events. With nearly 800 episodes over 35 years, some of them will match, and the ones that do are the ones that get posted.",
+   "facts": {
+    "Status": "Debunked",
+    "Episodes": "Around 780 since 1989",
+    "Mechanism": "Selection of matches",
+    "Also used": "Loose matching",
+    "Foresight": "None required",
+    "Related": "Prophecy claims generally"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Simpsons",
+     "https://en.wikipedia.org/wiki/Selection_bias",
+     "https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy",
+     "https://en.wikipedia.org/wiki/List_of_The_Simpsons_episodes"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11423,6 +12037,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "squid-game-cards",
+   "url": "squid-game-cards.html",
+   "title": "Squid Game Card Colours",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A fan theory holds that the red and blue cards in Squid Game encode the choice between the games and the outside world. The show's creator has described the cards more simply.",
+   "facts": {
+    "Status": "Debunked",
+    "Series": "Squid Game, 2021",
+    "Theory": "Colours encode a systematic choice",
+    "Motif": "Real",
+    "Code": "Not established",
+    "Method error": "Selecting instances"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Squid_Game",
+     "https://en.wikipedia.org/wiki/Motif_(narrative)",
+     "https://en.wikipedia.org/wiki/Apophenia",
+     "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "star-jelly",
    "url": "star-jelly.html",
    "title": "Star Jelly",
@@ -11633,6 +12278,37 @@
      "https://en.wikipedia.org/wiki/Gerald_Hawkins",
      "https://en.wikipedia.org/wiki/Archaeoastronomy",
      "https://en.wikipedia.org/wiki/Multiple_comparisons_problem"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "streisand-effect",
+   "url": "streisand-effect.html",
+   "title": "The Streisand Effect",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "An attempt to suppress information draws attention to it. The name comes from a photograph of a house, and the mechanism is now a standard part of online strategy.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2003",
+    "Trigger": "A photograph of a house",
+    "Traffic after the demand": "420,000 visitors in a month",
+    "Named by": "Mike Masnick",
+    "Universality": "Not universal"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Streisand_effect",
+     "https://en.wikipedia.org/wiki/Censorship",
+     "https://en.wikipedia.org/wiki/Notice_and_takedown",
+     "https://en.wikipedia.org/wiki/Attention_economy"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12208,6 +12884,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "the-third-place",
+   "url": "the-third-place.html",
+   "title": "The Third Place",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that cafés, bars, parks and barbers are the places where community actually forms, and that they are disappearing. The concept is well formed; the decline is harder to measure.",
+   "facts": {
+    "Status": "Live debate",
+    "Concept": "Oldenburg, 1989",
+    "Features": "Neutral, levelling, conversational, accessible",
+    "Decline claim": "Contested and category-dependent",
+    "Growth areas": "Cafés, gyms, co-working",
+    "Best-supported claim": "Loss of free, unstructured places"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Third_place",
+     "https://en.wikipedia.org/wiki/Social_capital",
+     "https://en.wikipedia.org/wiki/Bowling_Alone",
+     "https://en.wikipedia.org/wiki/Urban_sociology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "theranos",
    "url": "theranos.html",
    "title": "Theranos",
@@ -12421,6 +13128,36 @@
      "https://en.wikipedia.org/wiki/Redshift",
      "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
      "https://en.wikipedia.org/wiki/Time_dilation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "truman-show-delusion",
+   "url": "truman-show-delusion.html",
+   "title": "The Truman Show Delusion",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A delusion in which the patient believes their life is a television show and everyone around them is acting. It is documented, it is rare, and it is named after a film.",
+   "facts": {
+    "Status": "A description, not a new syndrome",
+    "Described": "Gold and Gold, 2008",
+    "Content": "Life as a broadcast; others as actors",
+    "Underlying diagnoses": "Schizophrenia; bipolar disorder",
+    "Precedents": "Radio, television, cameras"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Truman_Show_delusion",
+     "https://en.wikipedia.org/wiki/Delusion",
+     "https://en.wikipedia.org/wiki/The_Truman_Show",
+     "https://en.wikipedia.org/wiki/Persecutory_delusion"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12739,6 +13476,37 @@
      "https://www.theatlantic.com/technology/2014/06/a-brief-history-of-slenderman/372109",
      "https://journal.equinoxpub.com/JASR/article/view/21100",
      "https://www.nytimes.com/1991/09/10/world/2-jovial-con-men-demystify-those-crop-circles-in-britain.html"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "vault-tec",
+   "url": "vault-tec.html",
+   "title": "Vault-Tec Started the War",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The Fallout games imply that the corporation behind the survival vaults knew the war was coming, and may have caused it. The evidence is inside the games.",
+   "facts": {
+    "Status": "Documented",
+    "Setting": "Fallout, war in 2077",
+    "Company": "Vault-Tec",
+    "Documented": "The vaults as social experiments",
+    "Ambiguous": "Whether the company caused the war",
+    "Medium": "Games; television adaptation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Fallout_(franchise)",
+     "https://en.wikipedia.org/wiki/Fallout_(TV_series)",
+     "https://en.wikipedia.org/wiki/Fallout_(franchise)#Vaults",
+     "https://en.wikipedia.org/wiki/Unreliable_narrator"
     ]
    },
    "last_reviewed": "2026-11-20",
