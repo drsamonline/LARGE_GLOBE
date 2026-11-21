@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 775,
+ "count": 791,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -29,6 +29,64 @@
      "https://en.wikipedia.org/wiki/Alternate_reality_game",
      "https://en.wikipedia.org/wiki/Morse_code",
      "https://en.wikipedia.org/wiki/Steganography"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "15-minute-lockdown",
+   "url": "15-minute-lockdown.html",
+   "title": "The 15-Minute Lockdown",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claim that urban planning proposals are a scheme to confine people. The proposals are real; the confinement is not.",
+   "facts": {
+    "Status": "Debunked",
+    "Concept": "15-minute city",
+    "Author": "Carlos Moreno",
+    "Claim": "A confinement scheme"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/15-minute_city",
+     "https://en.wikipedia.org/wiki/Urban_planning",
+     "https://en.wikipedia.org/wiki/Conspiracy_theory",
+     "https://en.wikipedia.org/wiki/Walkability"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "5g-covid",
+   "url": "5g-covid.html",
+   "title": "5G and COVID-19",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claim that mobile networks caused or spread the disease. It led to attacks on masts and to real harm.",
+   "facts": {
+    "Status": "Debunked",
+    "Period": "2020 onward",
+    "Claim": "5G causes or spreads COVID-19",
+    "Consequence": "Arson attacks on masts"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/5G",
+     "https://en.wikipedia.org/wiki/COVID-19_misinformation",
+     "https://en.wikipedia.org/wiki/Radio_frequency",
+     "https://en.wikipedia.org/wiki/Virus"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2711,6 +2769,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "britney-coded-posts",
+   "url": "britney-coded-posts.html",
+   "title": "Britney's Coded Posts",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that a celebrity's social media posts contain hidden messages. The reading is a community's, and the code is not established.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Claim": "Posts contain coded messages",
+    "Key": "None established",
+    "Confirmed": "No",
+    "Outcome": "Conservatorship ended by court, 2021"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Britney_Spears",
+     "https://en.wikipedia.org/wiki/Britney_Spears_conservatorship_case",
+     "https://en.wikipedia.org/wiki/Steganography",
+     "https://en.wikipedia.org/wiki/Apophenia"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "broken-windows",
    "url": "broken-windows.html",
    "title": "Broken Windows Policing",
@@ -3135,6 +3223,35 @@
      "https://en.wikipedia.org/wiki/Steven_Greer",
      "https://en.wikipedia.org/wiki/Sky_lantern",
      "https://en.wikipedia.org/wiki/Satellite_flare"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "celebrity-vampire-tintypes",
+   "url": "celebrity-vampire-tintypes.html",
+   "title": "Celebrity Vampire Tintypes",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "Photographs said to show famous people as vampires. They are digital composites made to look like old photographs.",
+   "facts": {
+    "Status": "Fiction",
+    "Medium": "Digital composites",
+    "Style": "Tintype; daguerreotype",
+    "Claim": "Celebrities as vampires"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tintype",
+     "https://en.wikipedia.org/wiki/Daguerreotype",
+     "https://en.wikipedia.org/wiki/Photo_manipulation",
+     "https://en.wikipedia.org/wiki/Vampire"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4868,6 +4985,35 @@
      "https://www.livescience.com/technology/internet/what-is-the-dead-internet-theory",
      "https://www.thalesgroup.com/en/markets/digital-identity-and-security/magazine/bad-bot-report",
      "https://www.theverge.com/2024/1/26/24052067/ai-generated-content-web-flood"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dead-mall-anemoia",
+   "url": "dead-mall-anemoia.html",
+   "title": "Dead-Mall Anemoia",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Nostalgia for places and times the person never knew, spread through images of empty shopping centres.",
+   "facts": {
+    "Status": "Cultural description",
+    "Term": "Anemoia",
+    "Aesthetic": "Dead malls; liminal interiors",
+    "Explanation": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Anemoia",
+     "https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)",
+     "https://en.wikipedia.org/wiki/Dead_mall",
+     "https://en.wikipedia.org/wiki/Nostalgia"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9938,6 +10084,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "hypernormalisation",
+   "url": "hypernormalisation.html",
+   "title": "Hypernormalisation",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Adam Curtis's argument that politics has become a managed spectacle. It is a documentary essay, and it is argued as one.",
+   "facts": {
+    "Status": "Contested",
+    "Author": "Adam Curtis",
+    "Released": "2016",
+    "Form": "Documentary essay"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/HyperNormalisation",
+     "https://en.wikipedia.org/wiki/Adam_Curtis",
+     "https://en.wikipedia.org/wiki/Documentary_film",
+     "https://en.wikipedia.org/wiki/Essay_film"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ica-stones",
    "url": "ica-stones.html",
    "title": "The Ica Stones",
@@ -13180,6 +13355,35 @@
      "https://en.wikipedia.org/wiki/Gray_Barker",
      "https://en.wikipedia.org/wiki/Albert_K._Bender",
      "https://en.wikipedia.org/wiki/Ufology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mh370-portal",
+   "url": "mh370-portal.html",
+   "title": "The MH370 Portal Video",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A video said to show the missing aircraft disappearing into a portal. The video is a composite.",
+   "facts": {
+    "Status": "Debunked",
+    "Flight": "MH370, 2014",
+    "Video": "A digital composite",
+    "Search": "Multinational, documented"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370",
+     "https://en.wikipedia.org/wiki/Search_for_Malaysia_Airlines_Flight_370",
+     "https://en.wikipedia.org/wiki/Compositing",
+     "https://en.wikipedia.org/wiki/Disinformation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -20091,6 +20295,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "stevie-wonder-can-see",
+   "url": "stevie-wonder-can-see.html",
+   "title": "Stevie Wonder Can See",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claim that a blind musician is not blind. It is a joke that has been repeated as fact.",
+   "facts": {
+    "Status": "Debunked",
+    "Subject": "Stevie Wonder",
+    "Cause of blindness": "Retinopathy of prematurity",
+    "Evidence for the claim": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Stevie_Wonder",
+     "https://en.wikipedia.org/wiki/Retinopathy_of_prematurity",
+     "https://en.wikipedia.org/wiki/Visual_impairment",
+     "https://en.wikipedia.org/wiki/Disability"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "stochastic-parrots",
    "url": "stochastic-parrots.html",
    "title": "Stochastic Parrots or World Models",
@@ -20932,6 +21165,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "taylor-swift-clone",
+   "url": "taylor-swift-clone.html",
+   "title": "The Taylor Swift Clone",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claim that a celebrity has been replaced by a double. It is the oldest rumour in fandom, applied to a new subject.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "The singer was replaced",
+    "Evidence": "Photographs that differ",
+    "Pattern": "Recurs across fandom"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Taylor_Swift",
+     "https://en.wikipedia.org/wiki/Paul_is_dead",
+     "https://en.wikipedia.org/wiki/Body_double",
+     "https://en.wikipedia.org/wiki/Urban_legend"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "technofeudalism",
    "url": "technofeudalism.html",
    "title": "Technofeudalism",
@@ -21295,6 +21557,65 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "the-elevator-tape",
+   "url": "the-elevator-tape.html",
+   "title": "The Elevator Tape",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A surveillance clip said to show something impossible in a lift. The clip exists; the reading does not follow.",
+   "facts": {
+    "Status": "Unresolved",
+    "Format": "Surveillance-style video",
+    "Source": "Unverified",
+    "Corroboration": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Closed-circuit_television",
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Video_editing",
+     "https://en.wikipedia.org/wiki/Internet_mystery"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "the-overton-window",
+   "url": "the-overton-window.html",
+   "title": "The Overton Window",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The range of policies a public will accept, and how it shifts. It is a description, not a conspiracy.",
+   "facts": {
+    "Status": "Documented",
+    "Named after": "Joseph Overton",
+    "Describes": "The range of acceptable policy",
+    "Type": "Heuristic",
+    "Predictive power": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Overton_window",
+     "https://en.wikipedia.org/wiki/Public_opinion",
+     "https://en.wikipedia.org/wiki/Think_tank",
+     "https://en.wikipedia.org/wiki/Policy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "the-strange-man",
    "url": "the-strange-man.html",
    "title": "The Strange Man",
@@ -21540,6 +21861,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "tiktok-psychological-warfare",
+   "url": "tiktok-psychological-warfare.html",
+   "title": "TikTok as Psychological Warfare",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that a platform is a weapon aimed at a population. The platform is real and its effects are studied; the warfare framing is not established.",
+   "facts": {
+    "Status": "Fringe",
+    "Platform": "TikTok",
+    "Documented": "Recommendation effects; data concerns",
+    "Not established": "A warfare programme"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/TikTok",
+     "https://en.wikipedia.org/wiki/Recommender_system",
+     "https://en.wikipedia.org/wiki/Psychological_warfare",
+     "https://en.wikipedia.org/wiki/Media_regulation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "time-crystals",
    "url": "time-crystals.html",
    "title": "Time Crystals",
@@ -21659,6 +22009,34 @@
      "https://en.wikipedia.org/wiki/Redshift",
      "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
      "https://en.wikipedia.org/wiki/Time_dilation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "titanic-olympic-switch",
+   "url": "titanic-olympic-switch.html",
+   "title": "The Titanic–Olympic Switch",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claim that the Titanic was swapped with its sister ship for the insurance. The ships' records settle it.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Titanic swapped with Olympic",
+    "Evidence against": "Hull numbers; photographs; plans; the wreck"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Titanic_conspiracy_theories",
+     "https://en.wikipedia.org/wiki/RMS_Titanic",
+     "https://en.wikipedia.org/wiki/RMS_Olympic",
+     "https://en.wikipedia.org/wiki/White_Star_Line"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -22183,6 +22561,36 @@
      "https://www.sciencedirect.com/science/article/pii/S0094576510000329",
      "https://journalofscientificexploration.org/index.php/jse/article/download/2171/1433",
      "https://www.britannica.com/story/is-spontaneous-human-combustion-real"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "unfavorable-semicircle",
+   "url": "unfavorable-semicircle.html",
+   "title": "Unfavorable Semicircle",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A YouTube channel that uploaded tens of thousands of silent, cryptic videos. It stopped, and nobody has explained it.",
+   "facts": {
+    "Status": "Live debate",
+    "Platform": "YouTube",
+    "Period": "2015–2016",
+    "Content": "Thousands of silent, cryptic videos",
+    "Purpose": "Unknown"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Unfavorable_Semicircle",
+     "https://en.wikipedia.org/wiki/YouTube",
+     "https://en.wikipedia.org/wiki/Internet_mystery",
+     "https://en.wikipedia.org/wiki/Internet_Archive"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -22932,6 +23340,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "where-is-kate",
+   "url": "where-is-kate.html",
+   "title": "Where Is Kate",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Weeks of speculation about a public figure's absence, ended by an announcement and a diagnosis. A case study in how rumours fill a vacuum.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2024",
+    "Trigger": "Withdrawal from public duties",
+    "Key event": "A manipulated photograph withdrawn",
+    "Outcome": "Cancer diagnosis announced"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Catherine,_Princess_of_Wales",
+     "https://en.wikipedia.org/wiki/Photo_manipulation",
+     "https://en.wikipedia.org/wiki/Information_void",
+     "https://en.wikipedia.org/wiki/Misinformation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "white-dwarf-weapon",
    "url": "white-dwarf-weapon.html",
    "title": "A White Dwarf as a Weapon",
@@ -23505,6 +23943,35 @@
      "https://en.wikipedia.org/wiki/Joint_(geology)",
      "https://en.wikipedia.org/wiki/Bedding_(geology)",
      "https://en.wikipedia.org/wiki/Underwater_archaeology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "you-will-own-nothing",
+   "url": "you-will-own-nothing.html",
+   "title": "You Will Own Nothing",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A phrase from a marketing essay, read as a policy programme. The essay is real; the programme is not.",
+   "facts": {
+    "Status": "Debunked",
+    "Source": "A 2016 WEF essay",
+    "Author": "A guest contributor",
+    "Claim": "A plan to abolish ownership"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/You%27ll_own_nothing_and_you%27ll_be_happy",
+     "https://en.wikipedia.org/wiki/World_Economic_Forum",
+     "https://en.wikipedia.org/wiki/Sharing_economy",
+     "https://en.wikipedia.org/wiki/Conspiracy_theory"
     ]
    },
    "last_reviewed": "2026-11-20",
