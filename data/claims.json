@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 296,
+ "count": 306,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -1887,6 +1887,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "de-extinction",
+   "url": "de-extinction.html",
+   "title": "De-Extinction",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Bringing back the mammoth, the thylacine or the passenger pigeon. The genetics is progressing, the ecology is harder, and no de-extincted animal exists yet.",
+   "facts": {
+    "Status": "Live debate",
+    "Method": "Ancient DNA plus gene editing of a living relative",
+    "Achieved": "Gene edits in cells; no animals",
+    "Closest success": "Cloned ferret from frozen tissue — conservation, not de-extinction",
+    "Main projects": "Mammoth, thylacine, passenger pigeon",
+    "Objections": "Ecology, habitat, conservation priority"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/De-extinction",
+     "https://en.wikipedia.org/wiki/Colossal_Biosciences",
+     "https://en.wikipedia.org/wiki/Ancient_DNA",
+     "https://en.wikipedia.org/wiki/Conservation_biology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dead-internet",
    "url": "dead-internet.html",
    "title": "The Dead Internet Theory",
@@ -2543,6 +2574,37 @@
      "https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power",
      "https://en.wikipedia.org/wiki/Enshittification",
      "https://digital-markets-act.ec.europa.eu/index_en"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "epigenetic-trauma",
+   "url": "epigenetic-trauma.html",
+   "title": "Epigenetic Inheritance of Trauma",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that trauma leaves chemical marks on DNA that pass to children and grandchildren. The human studies are small and confounded; the mechanism is real in animals and unproven in people.",
+   "facts": {
+    "Status": "Live debate",
+    "Mechanism": "DNA methylation; histone modification",
+    "Animal evidence": "Some transgenerational effects",
+    "Human evidence": "Small, confounded, inconsistently replicated",
+    "Obstacle": "Germline reprogramming erases marks",
+    "Key cohorts": "Dutch Hunger Winter; Holocaust descendants"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Transgenerational_epigenetic_inheritance",
+     "https://en.wikipedia.org/wiki/Epigenetics",
+     "https://en.wikipedia.org/wiki/Dutch_famine_of_1944%E2%80%931945",
+     "https://en.wikipedia.org/wiki/DNA_methylation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4197,6 +4259,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "john-titor",
+   "url": "john-titor.html",
+   "title": "John Titor",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A forum poster in 2000 claimed to be a time traveller from 2036. His predictions failed, his physics did not work, and the posts have been traced to a group of people.",
+   "facts": {
+    "Status": "Debunked",
+    "Active": "2000–2001, on forums",
+    "Claim": "A soldier from 2036",
+    "Predictions": "Specific, dated, failed",
+    "Physics": "Not consistent with known physics",
+    "Origin": "Traced to a group of people"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/John_Titor",
+     "https://en.wikipedia.org/wiki/Time_travel",
+     "https://en.wikipedia.org/wiki/Internet_hoax",
+     "https://en.wikipedia.org/wiki/Black_hole"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "kardashev-bottlenecks",
    "url": "kardashev-bottlenecks.html",
    "title": "Kardashev Bottlenecks",
@@ -4283,6 +4376,37 @@
      "https://en.wikipedia.org/wiki/Runestone",
      "https://en.wikipedia.org/wiki/Dalecarlian_runes",
      "https://en.wikipedia.org/wiki/Norse_colonization_of_North_America"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "kessler-syndrome",
+   "url": "kessler-syndrome.html",
+   "title": "Kessler Syndrome",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Enough collisions in low orbit could produce a cascade that makes the region unusable for centuries. The mechanism is real; whether the cascade has started is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "Donald Kessler, 1978",
+    "Mechanism": "Self-sustaining collision cascade",
+    "Key events": "2007 ASAT test; 2009 Iridium–Cosmos",
+    "Mitigation": "Deorbit within 5–25 years",
+    "Contested": "Whether a cascade has started"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kessler_syndrome",
+     "https://en.wikipedia.org/wiki/Space_debris",
+     "https://en.wikipedia.org/wiki/2009_satellite_collision",
+     "https://en.wikipedia.org/wiki/Satellite_constellation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5218,6 +5342,37 @@
      "https://www.levyinstitute.org/publications/modern-money-theory-a-primer-on-macroeconomics",
      "https://www.levyinstitute.org/pubs/wp_908.pdf",
      "https://en.wikipedia.org/wiki/Chartalism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "momo-panic",
+   "url": "momo-panic.html",
+   "title": "The Momo Panic",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A bird-woman image was said to be contacting children on WhatsApp and instructing them to harm themselves. It was a sculpture, a hoax, and a lesson in how a panic travels.",
+   "facts": {
+    "Status": "Debunked",
+    "Year": "2018",
+    "The image": "A sculpture by Keisuke Aiso, 2016",
+    "The claim": "A character contacting children and urging harm",
+    "Verified cases": "None",
+    "Vector": "Official warnings and news coverage"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Momo_Challenge_hoax",
+     "https://en.wikipedia.org/wiki/Moral_panic",
+     "https://en.wikipedia.org/wiki/Blue_Whale_Challenge",
+     "https://en.wikipedia.org/wiki/Hoax"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6733,6 +6888,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "randonautica",
+   "url": "randonautica.html",
+   "title": "Randonautica",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "An app that generates a random coordinate and sends you there, promising 'anomalies'. In 2020 two teenagers following one found a suitcase containing human remains, and the app became famous for the wrong reason.",
+   "facts": {
+    "Status": "Debunked",
+    "Launched": "2020",
+    "Mechanism": "Random coordinates near the user",
+    "Claim": "Intention influences the outcome",
+    "Famous case": "A suitcase found in Washington state, 2020",
+    "Explanation": "Chance plus selective reporting"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Randonautica",
+     "https://en.wikipedia.org/wiki/Random_number_generation",
+     "https://en.wikipedia.org/wiki/Selection_bias",
+     "https://en.wikipedia.org/wiki/Apophenia"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "rational-choice-voting",
    "url": "rational-choice-voting.html",
    "title": "Rational Choice Voting",
@@ -6788,6 +6974,37 @@
      "https://doi.org/10.1093/brain/106.3.623",
      "https://doi.org/10.1073/pnas.1212218109",
      "https://plato.stanford.edu/entries/freewill/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "reality-shifting",
+   "url": "reality-shifting.html",
+   "title": "Reality Shifting",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A practice, spread on TikTok, of moving consciousness to another reality by relaxing into sleep. It is a description of dreaming with a different vocabulary and a stronger claim.",
+   "facts": {
+    "Status": "Debunked",
+    "Spread": "TikTok, from about 2020",
+    "Claim": "Consciousness moves to another reality",
+    "Actual": "Vivid or lucid dreaming",
+    "Evidence for travel": "None",
+    "Testable": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Reality_shifting",
+     "https://en.wikipedia.org/wiki/Lucid_dream",
+     "https://en.wikipedia.org/wiki/Hypnagogia",
+     "https://en.wikipedia.org/wiki/Multiverse"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7548,6 +7765,37 @@
      "https://doi.org/10.1126/science.281.5381.1342",
      "https://en.wikipedia.org/wiki/Cryogenian",
      "https://en.wikipedia.org/wiki/Cap_carbonate"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "solar-geoengineering",
+   "url": "solar-geoengineering.html",
+   "title": "Solar Geoengineering",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Cooling the planet by reflecting sunlight — sulphate aerosols in the stratosphere, or brighter clouds. The physics is understood, the governance is not, and the termination problem is the argument against.",
+   "facts": {
+    "Status": "Live debate",
+    "Main proposal": "Stratospheric sulphate injection",
+    "Natural analogue": "Pinatubo, 1991 — about 0.5 °C for a year",
+    "Cost": "Cheap relative to mitigation",
+    "Key risks": "Termination shock; no effect on acidification",
+    "Deployed": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Solar_geoengineering",
+     "https://en.wikipedia.org/wiki/Stratospheric_aerosol_injection",
+     "https://en.wikipedia.org/wiki/Termination_shock",
+     "https://en.wikipedia.org/wiki/1991_eruption_of_Mount_Pinatubo"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8975,6 +9223,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "wet-bulb-threshold",
+   "url": "wet-bulb-threshold.html",
+   "title": "The Wet-Bulb Threshold",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "At a wet-bulb temperature of about 35 °C, sweat stops cooling the body and a healthy adult dies within hours, even in the shade. It is a hard physical limit, and parts of the world are approaching it.",
+   "facts": {
+    "Status": "Documented",
+    "Threshold": "Wet-bulb ~35 °C",
+    "Equivalent": "~46 °C at 50% humidity",
+    "Mechanism": "Sweat can no longer cool the skin",
+    "Time to death": "Hours, at rest, in shade",
+    "Source": "Sherwood and Huber, 2010"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Wet-bulb_globe_temperature",
+     "https://en.wikipedia.org/wiki/Thermoregulation",
+     "https://en.wikipedia.org/wiki/Heat_wave",
+     "https://en.wikipedia.org/wiki/Effects_of_climate_change#Heat_waves_and_temperature"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "whale-strandings",
    "url": "whale-strandings.html",
    "title": "Whale Strandings",
@@ -9186,6 +9465,36 @@
      "https://en.wikipedia.org/wiki/Hydrogen_line",
      "https://en.wikipedia.org/wiki/Big_Ear",
      "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "xenotransplantation",
+   "url": "xenotransplantation.html",
+   "title": "Xenotransplantation",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Transplanting pig organs into people. The first living recipients survived weeks to months, which is both a real advance and a long way from a treatment.",
+   "facts": {
+    "Status": "Experimental, compassionate use",
+    "Source species": "Pig, gene-edited",
+    "First living recipients": "2022–2024, United States",
+    "Survival": "Weeks to months",
+    "Barrier": "Immune rejection; endogenous retroviruses"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Xenotransplantation",
+     "https://en.wikipedia.org/wiki/Organ_transplantation",
+     "https://en.wikipedia.org/wiki/Porcine_endogenous_retrovirus",
+     "https://en.wikipedia.org/wiki/Immunosuppression"
     ]
    },
    "last_reviewed": "2026-11-20",

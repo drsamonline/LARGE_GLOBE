@@ -447,6 +447,27 @@ Ten from the biology-of-mind shelf, where the questions are ordinary and the ans
 
 This is the batch that best shows the archive's method: eight pages where the honest label is *live debate* because the phenomenon is measured and the explanation is not, one where a real biology has been promoted into a claim (plant neurobiology), and one where the popular version is contradicted by the direct tests while the underlying question stays open (catharsis).
 
+## 0ab. Shipped in the twenty-eighth pass — 21 November 2026
+
+Ten more: five real-world hazards and five internet legends.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | The Wet-Bulb Threshold | Documented |
+| 2 | Kessler Syndrome | Live debate |
+| 3 | Solar Geoengineering | Live debate |
+| 4 | De-Extinction | Live debate |
+| 5 | Xenotransplantation | Documented |
+| 6 | Epigenetic Inheritance of Trauma | Live debate |
+| 7 | The Momo Panic | Debunked |
+| 8 | John Titor | Debunked |
+| 9 | Randonautica | Debunked |
+| 10 | Reality Shifting | Debunked |
+
+306 dossiers, 1,330 sources, 340 images, 332 pages, PDF 844 pages, EPUB 308 chapters, sitemap 330 URLs, 0 problems.
+
+The pairing is the point: the wet-bulb threshold is a physical limit nobody disputes and nobody acts on, while the Momo panic is a threat nobody could find and everybody acted on. Filing them on the same shelf is the archive's argument about what a claim is worth.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
