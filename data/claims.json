@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 286,
+ "count": 296,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -376,6 +376,37 @@
      "https://doi.org/10.1038/s41586-021-03875-8",
      "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/",
      "https://www.rapid.ac.uk/rapidmoc/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "amyloid-alzheimers",
+   "url": "amyloid-alzheimers.html",
+   "title": "Amyloid and Alzheimer's",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The amyloid cascade hypothesis has driven thirty years of Alzheimer's research. Two drugs now remove amyloid and slow decline slightly; whether that vindicates the hypothesis is still argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Hypothesis": "Amyloid cascade, dominant since the 1990s",
+    "Drugs": "Lecanemab (2023), donanemab (2024)",
+    "Effect": "Slowed decline, roughly a quarter to a third on standard scales",
+    "Risks": "Brain swelling and bleeding in a minority",
+    "Contested": "Whether amyloid is cause or marker"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Amyloid_beta",
+     "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+     "https://en.wikipedia.org/wiki/Lecanemab",
+     "https://en.wikipedia.org/wiki/Tau_protein"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1276,6 +1307,68 @@
      "https://en.wikipedia.org/wiki/Burgess_Shale",
      "https://en.wikipedia.org/wiki/Ediacaran_biota",
      "https://en.wikipedia.org/wiki/On_the_Origin_of_Species"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cancer-origin",
+   "url": "cancer-origin.html",
+   "title": "Cancer's Origin",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Cancer is not one disease but a process: cells evolving inside a body, escaping the controls that make multicellular life possible. That framing explains more than any single cause does.",
+   "facts": {
+    "Status": "Live debate",
+    "Framing": "Somatic evolution inside a body",
+    "Hallmarks": "Hanahan and Weinberg, 2000; updated 2011",
+    "Explains": "Heterogeneity, resistance, Peto's paradox",
+    "Risk factors": "Smoking, radiation, infection, inherited variants",
+    "Not established": "A single cause or a general cure"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cancer",
+     "https://en.wikipedia.org/wiki/The_Hallmarks_of_Cancer",
+     "https://en.wikipedia.org/wiki/Peto%27s_paradox",
+     "https://en.wikipedia.org/wiki/Somatic_evolution_in_cancer"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "catharsis",
+   "url": "catharsis.html",
+   "title": "Catharsis",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The idea that venting anger relieves it. The evidence says the opposite: rehearsal makes anger more accessible, and the studies that tested it found venting increases aggression.",
+   "facts": {
+    "Status": "Live debate",
+    "Origin": "Aristotle; Freud and Breuer",
+    "Popular claim": "Venting reduces anger",
+    "Tested": "Punching-bag studies, 2000s",
+    "Result": "Venting increases aggression",
+    "What helps": "Distraction, reappraisal, expressive writing"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Catharsis",
+     "https://en.wikipedia.org/wiki/Anger",
+     "https://en.wikipedia.org/wiki/Expressive_writing",
+     "https://en.wikipedia.org/wiki/Emotional_self-regulation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2551,6 +2644,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "facial-feedback",
+   "url": "facial-feedback.html",
+   "title": "Facial Feedback",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Holding a pen in your teeth makes cartoons funnier, according to a 1988 study. A 17-lab replication failed to find it, and the argument since has been about what that means.",
+   "facts": {
+    "Status": "Live debate",
+    "Original": "Strack, Martin and Stepper, 1988",
+    "Method": "Pen in the teeth versus the lips",
+    "Replication": "17 labs, 2016 — much smaller effect",
+    "Current view": "Small but real, mechanism uncertain",
+    "Lesson": "Famous results shrink"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Facial_feedback_hypothesis",
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://en.wikipedia.org/wiki/Emotion",
+     "https://en.wikipedia.org/wiki/Proprioception"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "fast-radio-bursts",
    "url": "fast-radio-bursts.html",
    "title": "Fast Radio Bursts",
@@ -3309,6 +3433,37 @@
      "https://en.wikipedia.org/wiki/Priory_of_Sion",
      "https://en.wikipedia.org/wiki/Pierre_Plantard",
      "https://en.wikipedia.org/wiki/Holy_Grail"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "grandmother-hypothesis",
+   "url": "grandmother-hypothesis.html",
+   "title": "The Grandmother Hypothesis",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Human females live decades past childbearing, which is rare among mammals. The proposal is that grandmothers helped feed weaned children, and that this is why menopause exists.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "Hawkes and colleagues, 1990s",
+    "Mechanism": "Grandmother provisioning allows earlier weaning",
+    "Field evidence": "Hadza and other populations",
+    "Contested": "Cause versus consequence of longevity",
+    "Mixed": "Cross-cultural results"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Grandmother_hypothesis",
+     "https://en.wikipedia.org/wiki/Menopause",
+     "https://en.wikipedia.org/wiki/Hadza_people",
+     "https://en.wikipedia.org/wiki/Life_history_theory"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4349,6 +4504,37 @@
      "https://doi.org/10.2307/2525486",
      "https://en.wikipedia.org/wiki/Antifragile",
      "https://en.wikipedia.org/wiki/Survival_analysis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "linguistic-relativity",
+   "url": "linguistic-relativity.html",
+   "title": "Linguistic Relativity",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Does the language you speak shape what you can think? The strong version is dead; the weak version has small, replicated effects that are easy to overstate.",
+   "facts": {
+    "Status": "Live debate",
+    "Strong form": "Language limits thought — rejected",
+    "Weak form": "Language influences attention and memory — supported",
+    "Colour": "Small task-dependent effects",
+    "Space": "Absolute versus relative direction systems",
+    "Effect size": "Modest, and easy to overstate"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Linguistic_relativity",
+     "https://en.wikipedia.org/wiki/Linguistic_determinism",
+     "https://en.wikipedia.org/wiki/Color_term",
+     "https://en.wikipedia.org/wiki/Framing_of_space_in_language"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6200,6 +6386,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "plant-neurobiology",
+   "url": "plant-neurobiology.html",
+   "title": "Plant Neurobiology",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Plants signal, remember in a loose sense, and respond to damage. The claim that they have nervous systems, or brains, is where the metaphor stops being useful.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Real": "Action potentials, calcium waves, auxin signalling",
+    "Claimed": "A plant nervous system; a root-apex brain",
+    "Missing": "Neurons, synapses, a central integrator",
+    "Programme named": "2005",
+    "Core objection": "Analogy is not homology"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+     "https://en.wikipedia.org/wiki/Plant_neurobiology",
+     "https://en.wikipedia.org/wiki/Action_potential",
+     "https://en.wikipedia.org/wiki/Auxin"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "polyvagal-theory",
    "url": "polyvagal-theory.html",
    "title": "Polyvagal Theory",
@@ -6478,6 +6695,37 @@
      "https://arxiv.org/abs/quant-ph/9709032",
      "https://en.wikipedia.org/wiki/One-electron_universe",
      "https://www.nobelprize.org/prizes/physics/1965/feynman/lecture/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "quantum-photosynthesis",
+   "url": "quantum-photosynthesis.html",
+   "title": "Quantum Coherence in Photosynthesis",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Light-harvesting complexes were reported to sustain quantum coherence for hundreds of femtoseconds. Whether that coherence helps, or is a by-product, is the argument.",
+   "facts": {
+    "Status": "Live debate",
+    "Reported": "Engel et al., 2007",
+    "Timescale": "Hundreds of femtoseconds, later revised",
+    "Reinterpretation": "Much of the signal is vibrational",
+    "Real": "High efficiency of energy transfer",
+    "Contested": "Whether coherence contributes to it"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Quantum_biology",
+     "https://en.wikipedia.org/wiki/Photosynthetic_reaction_centre",
+     "https://en.wikipedia.org/wiki/Coherence_(physics)",
+     "https://en.wikipedia.org/wiki/F%C3%B6rster_resonance_energy_transfer"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7456,6 +7704,37 @@
      "https://en.wikipedia.org/wiki/Internet_censorship",
      "https://en.wikipedia.org/wiki/Data_localization",
      "https://en.wikipedia.org/wiki/Border_Gateway_Protocol"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "split-brain",
+   "url": "split-brain.html",
+   "title": "Split-Brain Consciousness",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Severing the connection between the hemispheres produced patients whose two halves seemed to know different things. Whether that means two minds is still argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Procedure": "Commissurotomy, from the 1940s",
+    "Studied by": "Sperry and Gazzaniga, from the 1960s",
+    "Finding": "Dissociated processing between hemispheres",
+    "Interpretation": "One interpreter versus two consciousnesses",
+    "Patients' report": "A unified self"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Split-brain",
+     "https://en.wikipedia.org/wiki/Corpus_callosum",
+     "https://en.wikipedia.org/wiki/Roger_Sperry",
+     "https://en.wikipedia.org/wiki/Michael_Gazzaniga"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8752,6 +9031,37 @@
      "https://en.wikipedia.org/wiki/Schwarzschild_metric",
      "https://science.nasa.gov/universe/gamma-ray-bursts-harness-the-power-of-the-big-bang/",
      "https://arxiv.org/abs/1801.08120"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "why-we-age",
+   "url": "why-we-age.html",
+   "title": "Why We Age",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Ageing is not one process. Several mechanisms are well described, no single one explains it, and the interventions that extend lifespan in mice have mostly failed to translate.",
+   "facts": {
+    "Status": "Live debate",
+    "Evolutionary accounts": "Mutation accumulation; antagonistic pleiotropy; disposable soma",
+    "Mechanistic hallmarks": "Nine, including senescence and proteostasis loss",
+    "Interventions": "Caloric restriction, rapamycin, senolytics — under study",
+    "Human lifespan effect": "Not demonstrated",
+    "Translation problem": "Mouse results rarely carry over"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ageing",
+     "https://en.wikipedia.org/wiki/Disposable_soma_theory_of_ageing",
+     "https://en.wikipedia.org/wiki/Hallmarks_of_aging",
+     "https://en.wikipedia.org/wiki/Senolytic"
     ]
    },
    "last_reviewed": "2026-11-20",

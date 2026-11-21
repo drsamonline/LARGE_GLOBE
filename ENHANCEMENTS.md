@@ -426,6 +426,27 @@ Ten from the body-and-mind shelf: the everyday myths and the ordinary open quest
 
 Nine of the ten are `live debate`, which is the honest label for questions where the phenomenon is well measured and the explanation is not: sleep, dreams, yawning, fur, handedness. The two `debunked` pages are the ones where a specific claim was tested and failed, and the two `documented` pages are where a real effect is well measured and the popular version of it is a distortion.
 
+## 0aa. Shipped in the twenty-seventh pass — 21 November 2026
+
+Ten from the biology-of-mind shelf, where the questions are ordinary and the answers are not settled.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | The Grandmother Hypothesis | Live debate |
+| 2 | Why We Age | Live debate |
+| 3 | Cancer's Origin | Live debate |
+| 4 | Amyloid and Alzheimer's | Live debate |
+| 5 | Quantum Coherence in Photosynthesis | Live debate |
+| 6 | Plant Neurobiology | Fringe claim |
+| 7 | Linguistic Relativity | Live debate |
+| 8 | Facial Feedback | Live debate |
+| 9 | Split-Brain Consciousness | Live debate |
+| 10 | Catharsis | Live debate |
+
+296 dossiers, 1,290 sources, 330 images, 322 pages, PDF 824 pages, EPUB 298 chapters, sitemap 320 URLs, 0 problems.
+
+This is the batch that best shows the archive's method: eight pages where the honest label is *live debate* because the phenomenon is measured and the explanation is not, one where a real biology has been promoted into a claim (plant neurobiology), and one where the popular version is contradicted by the direct tests while the underlying question stays open (catharsis).
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
