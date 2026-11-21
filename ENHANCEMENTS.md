@@ -716,6 +716,40 @@ Five of these are the archive's own operating principles written down as pages: 
 
 The shelf this archive has been missing: real lost lands beside the invented ones. Zealandia, Doggerland, Beringia and Sundaland were inhabited, are mapped, and are under water — which is exactly what Atlantis is supposed to be, minus the evidence. Putting them together makes the difference visible in a way no single page could.
 
+## 0al. Shipped in the thirty-seventh pass — 21 November 2026: things that were real
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | Akhenaten's Revolution | Documented |
+| 2 | Hidden Chambers in Tut's Tomb | Debunked |
+| 3 | Cleopatra at Taposiris Magna | Live debate |
+| 4 | Alexander's Lost Tomb | Live debate |
+| 5 | Qin's Mercury Rivers | Live debate |
+| 6 | The Ninth Legion | Live debate |
+| 7 | The Princes in the Tower | Live debate |
+| 8 | Genghis Khan's Burial | Live debate |
+| 9 | Roman Dodecahedrons | Live debate |
+| 10 | Voynich Alien Botany | Debunked |
+| 11 | Nero and the Fire | Debunked |
+| 12 | Caligula's Horse | Live debate |
+| 13 | The Library of Alexandria | Documented |
+| 14 | Salting Carthage | Debunked |
+| 15 | The Bog Bodies | Documented |
+| 16 | Ötzi's Murder | Documented |
+| 17 | Neanderthal Cannibalism | Documented |
+| 18 | Homo floresiensis | Documented |
+| 19 | Troy Was Real | Documented |
+| 20 | The Antikythera Mechanism | Documented |
+| 21 | Eratosthenes Measured the Earth | Documented |
+| 22 | The Maya Tracked Venus | Documented |
+| 23 | Richard III Under a Car Park | Documented |
+| 24 | The Coelacanth | Documented |
+| 25 | Polynesian Navigation | Documented |
+
+508 dossiers, 2,138 sources, 542 images, 534 pages, PDF 1,250 pages, EPUB 511 chapters, sitemap 532 URLs, 0 problems.
+
+The counterweight batch. Twelve pages where the historical claim was doubted, resisted or dismissed and turned out to be true: Troy, the coelacanth, Polynesian navigation, Ötzi's murder, the Antikythera mechanism, Eratosthenes, Richard III. Four where a famous story is false: Nero's fiddle, Caligula's horse as consul, the salting of Carthage, Voynich's alien plants. The two categories belong together, because the archive's four labels are only worth anything if the same method produces both.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 483,
+ "count": 508,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -215,6 +215,68 @@
      "https://en.wikipedia.org/wiki/Theosophy",
      "https://en.wikipedia.org/wiki/Falsifiability",
      "https://en.wikipedia.org/wiki/Cold_reading"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "akhenaten-revolution",
+   "url": "akhenaten-revolution.html",
+   "title": "Akhenaten's Revolution",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "One pharaoh replaced Egypt's gods with a single sun disc, moved the capital, and changed the art. The revolution is documented; why it happened is not.",
+   "facts": {
+    "Status": "Documented",
+    "Reign": "c. 1351–1334 BC",
+    "Capital": "Amarna",
+    "Reversed by": "Tutankhamun",
+    "Evidence": "Amarna excavations; hymns; art",
+    "Motive": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Akhenaten",
+     "https://en.wikipedia.org/wiki/Amarna",
+     "https://en.wikipedia.org/wiki/Aten",
+     "https://en.wikipedia.org/wiki/Atenism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "alexander-lost-tomb",
+   "url": "alexander-lost-tomb.html",
+   "title": "Alexander's Lost Tomb",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Alexander the Great died in Babylon and his body was taken to Egypt. His tomb was visited for centuries, and it has never been found.",
+   "facts": {
+    "Status": "Live debate",
+    "Died": "323 BC, Babylon",
+    "Tomb": "The Soma, Alexandria",
+    "Visited by": "Augustus, Caracalla and others",
+    "Lost": "After antiquity",
+    "Candidates": "Nebi Daniel; Latin cemetery; harbour"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tomb_of_Alexander_the_Great",
+     "https://en.wikipedia.org/wiki/Alexander_the_Great",
+     "https://en.wikipedia.org/wiki/Alexandria",
+     "https://en.wikipedia.org/wiki/Soma_(Alexandria)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -564,6 +626,37 @@
      "http://www.igbp.net/download/18.316f18321323470177580001401/1376383088452/NL41.pdf",
      "https://en.wikipedia.org/wiki/Great_Acceleration",
      "https://en.wikipedia.org/wiki/International_Union_of_Geological_Sciences"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "antikythera-mechanism",
+   "url": "antikythera-mechanism.html",
+   "title": "The Antikythera Mechanism",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A bronze gear mechanism from a Roman-era shipwreck, built to model the heavens. Nothing of comparable complexity appears for a thousand years afterwards.",
+   "facts": {
+    "Status": "Documented",
+    "Found": "1901, Antikythera shipwreck",
+    "Date": "About 2nd century BC",
+    "Gears": "At least thirty surviving",
+    "Function": "Sun, moon, eclipses; planets",
+    "Complexity": "Unmatched for a millennium"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+     "https://en.wikipedia.org/wiki/Antikythera_shipwreck",
+     "https://en.wikipedia.org/wiki/Gear",
+     "https://en.wikipedia.org/wiki/Astronomical_clock"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1686,6 +1779,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "bog-bodies",
+   "url": "bog-bodies.html",
+   "title": "The Bog Bodies",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Hundreds of bodies have been recovered from northern European peat bogs, preserved by the chemistry of the peat. Many were killed deliberately.",
+   "facts": {
+    "Status": "Documented",
+    "Preservation": "Cold, acidic, oxygen-poor peat",
+    "Bodies": "Hundreds across northern Europe",
+    "Dates": "Iron Age and Roman period",
+    "Deaths": "Strangulation, cutting, blows",
+    "Interpretation": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bog_body",
+     "https://en.wikipedia.org/wiki/Tollund_Man",
+     "https://en.wikipedia.org/wiki/Lindow_Man",
+     "https://en.wikipedia.org/wiki/Bog"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "boltzmann-brain",
    "url": "boltzmann-brain.html",
    "title": "Boltzmann Brains",
@@ -1864,6 +1988,37 @@
      "https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/",
      "https://doi.org/10.1086/505458",
      "https://en.wikipedia.org/wiki/Floyd_v._City_of_New_York"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "caligula-horse",
+   "url": "caligula-horse.html",
+   "title": "Caligula's Horse",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The emperor was said to have made his horse a consul. The sources are hostile, and the story is probably a joke about a private plan.",
+   "facts": {
+    "Status": "Live debate",
+    "Source": "Suetonius, c. AD 121",
+    "Claim": "The horse was to be made consul",
+    "Horse": "Incitatus, probably a racehorse",
+    "Official record": "None",
+    "Likely reading": "A joke or threat taken literally"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Caligula",
+     "https://en.wikipedia.org/wiki/Suetonius",
+     "https://en.wikipedia.org/wiki/Incitatus",
+     "https://en.wikipedia.org/wiki/Roman_consul"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2299,6 +2454,68 @@
      "https://en.wikipedia.org/wiki/Abstract_expressionism",
      "https://en.wikipedia.org/wiki/Cultural_Cold_War",
      "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cleopatra-taposiris",
+   "url": "cleopatra-taposiris.html",
+   "title": "Cleopatra at Taposiris Magna",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A temple site west of Alexandria has produced coins and a tunnel, and a claim that it holds Cleopatra's tomb. The excavator believes it; most Egyptologists are cautious.",
+   "facts": {
+    "Status": "Live debate",
+    "Site": "Taposiris Magna, west of Alexandria",
+    "Excavation": "From 2005",
+    "Finds": "Coins, tunnel, necropolis, statues",
+    "Claim": "Cleopatra and Antony's tomb",
+    "Royal burial found": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Taposiris_Magna",
+     "https://en.wikipedia.org/wiki/Cleopatra",
+     "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
+     "https://en.wikipedia.org/wiki/Alexandria"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "coelacanth",
+   "url": "coelacanth.html",
+   "title": "The Coelacanth",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A fish known only from fossils, and thought extinct for 65 million years, was caught off South Africa in 1938. A second population was found in Indonesia in 1997.",
+   "facts": {
+    "Status": "Documented",
+    "First caught": "1938, South Africa",
+    "Identified by": "Marjorie Courtenay-Latimer",
+    "Second population": "Comoros, 1952",
+    "Third": "Indonesia, 1997 — separate species",
+    "Habitat": "Deep water"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Coelacanth",
+     "https://en.wikipedia.org/wiki/Marjorie_Courtenay-Latimer",
+     "https://en.wikipedia.org/wiki/Lazarus_taxon",
+     "https://en.wikipedia.org/wiki/Living_fossil"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4403,6 +4620,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "eratosthenes",
+   "url": "eratosthenes.html",
+   "title": "Eratosthenes Measured the Earth",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A librarian in Alexandria calculated the circumference of the Earth from a shadow and a distance, and got within a few per cent. The method is documented.",
+   "facts": {
+    "Status": "Documented",
+    "Author": "Eratosthenes, 3rd century BC",
+    "Method": "Shadow angle at two locations",
+    "Angle": "About 7.2 degrees",
+    "Result": "Within a few per cent",
+    "Uncertainty": "The length of the stade"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Eratosthenes",
+     "https://en.wikipedia.org/wiki/Earth%27s_circumference",
+     "https://en.wikipedia.org/wiki/Gnomon",
+     "https://en.wikipedia.org/wiki/Alexandria"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "eukaryote-origin",
    "url": "eukaryote-origin.html",
    "title": "The First Eukaryote",
@@ -5185,6 +5433,37 @@
      "https://en.wikipedia.org/wiki/Remote_viewing",
      "https://en.wikipedia.org/wiki/Hemi-Sync",
      "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "genghis-khan-burial",
+   "url": "genghis-khan-burial.html",
+   "title": "Genghis Khan's Burial",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The khan asked to be buried without a mark, and the location has been secret for eight centuries. Searches have been conducted, and the Mongolian government has stopped them.",
+   "facts": {
+    "Status": "Live debate",
+    "Died": "1227",
+    "Burial": "Secret, unmarked",
+    "Searches": "Khentii mountains; Onon valley",
+    "Result": "Nothing found",
+    "Policy": "Searches suspended, 2015"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Genghis_Khan",
+     "https://en.wikipedia.org/wiki/Khentii_Province",
+     "https://en.wikipedia.org/wiki/Burkhan_Khaldun",
+     "https://en.wikipedia.org/wiki/Archaeology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6415,6 +6694,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "homo-floresiensis",
+   "url": "homo-floresiensis.html",
+   "title": "Homo floresiensis",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A metre-tall hominin found on Flores, dated to as recently as 50,000 years ago. The discovery was disputed for a decade and is now accepted.",
+   "facts": {
+    "Status": "Accepted species",
+    "Site": "Liang Bua, Flores, Indonesia",
+    "Found": "2003",
+    "Height": "About 1 metre",
+    "Dates": "Roughly 100,000–50,000 years ago"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Homo_floresiensis",
+     "https://en.wikipedia.org/wiki/Liang_Bua",
+     "https://en.wikipedia.org/wiki/Insular_dwarfism",
+     "https://en.wikipedia.org/wiki/Flores"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "hopi-ant-people",
    "url": "hopi-ant-people.html",
    "title": "The Hopi Ant People",
@@ -7508,6 +7817,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "library-of-alexandria",
+   "url": "library-of-alexandria.html",
+   "title": "The Library of Alexandria",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The greatest library of the ancient world, and the most over-explained destruction in history. It declined over centuries, and no single fire ended it.",
+   "facts": {
+    "Status": "Documented",
+    "Founded": "Early 3rd century BC",
+    "Part of": "The Mouseion",
+    "Damage": "Caesar's fire, 48 BC; later episodes",
+    "Single destruction": "Not established",
+    "Real cause": "Decline over centuries"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+     "https://en.wikipedia.org/wiki/Musaeum",
+     "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+     "https://en.wikipedia.org/wiki/Papyrus"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lindy-effect",
    "url": "lindy-effect.html",
    "title": "The Lindy Effect",
@@ -8314,6 +8654,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "maya-venus",
+   "url": "maya-venus.html",
+   "title": "The Maya Tracked Venus",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Maya astronomers recorded the movements of Venus with an accuracy that took European astronomy centuries to match. The tables survive in the Dresden Codex.",
+   "facts": {
+    "Status": "Documented",
+    "Source": "Dresden Codex",
+    "Cycle": "584 days",
+    "Modern value": "583.92 days",
+    "Method": "Long-term observation and correction",
+    "Purpose": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dresden_Codex",
+     "https://en.wikipedia.org/wiki/Maya_astronomy",
+     "https://en.wikipedia.org/wiki/Venus",
+     "https://en.wikipedia.org/wiki/Maya_civilization"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "median-voter-theorem",
    "url": "median-voter-theorem.html",
    "title": "The Median Voter Theorem",
@@ -9066,6 +9437,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "neanderthal-cannibalism",
+   "url": "neanderthal-cannibalism.html",
+   "title": "Neanderthal Cannibalism",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Bones from several Neanderthal sites carry cut marks and fractures consistent with butchery. The evidence is direct, and the interpretation is not.",
+   "facts": {
+    "Status": "Documented",
+    "Sites": "Krapina, El Sidrón, Moula-Guercy, Goyet",
+    "Evidence": "Cut marks, percussion, burning",
+    "Reading": "Butchery of the dead",
+    "Contested": "The motive",
+    "Period": "Middle Palaeolithic"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Neanderthal",
+     "https://en.wikipedia.org/wiki/Prehistoric_cannibalism",
+     "https://en.wikipedia.org/wiki/El_Sidr%C3%B3n",
+     "https://en.wikipedia.org/wiki/Krapina"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "near-death-experience",
    "url": "near-death-experience.html",
    "title": "Near-Death Experiences",
@@ -9121,6 +9523,37 @@
      "https://en.wikipedia.org/wiki/Genesis_flood_narrative",
      "https://en.wikipedia.org/wiki/Giant_(mythology)",
      "https://en.wikipedia.org/wiki/Book_of_Enoch"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "nero-and-the-fire",
+   "url": "nero-and-the-fire.html",
+   "title": "Nero and the Fire",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Nero was said to have fiddled while Rome burned, and to have started the fire to clear space for his palace. The first is impossible and the second is unlikely.",
+   "facts": {
+    "Status": "Debunked",
+    "Year": "64 AD",
+    "Nero's location": "Antium, at the start",
+    "Fiddle": "Did not exist; anachronism",
+    "Arson": "Reported as rumour by Tacitus",
+    "Best-evidenced part": "The scapegoating of Christians"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+     "https://en.wikipedia.org/wiki/Nero",
+     "https://en.wikipedia.org/wiki/Tacitus",
+     "https://en.wikipedia.org/wiki/Damnatio_memoriae"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9214,6 +9647,37 @@
      "https://en.wikipedia.org/wiki/Coca-Cola",
      "https://en.wikipedia.org/wiki/Marketing",
      "https://en.wikipedia.org/wiki/Streisand_effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ninth-legion",
+   "url": "ninth-legion.html",
+   "title": "The Ninth Legion",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A Roman legion stationed in Britain disappears from the record, and has been sent to Scotland, annihilated, or transferred. The evidence points to the dull answer.",
+   "facts": {
+    "Status": "Live debate",
+    "Unit": "Legio IX Hispana",
+    "In Britain": "First century AD",
+    "Last British record": "c. 120 AD",
+    "Key evidence": "Nijmegen inscription, c. 121 AD",
+    "Popular story": "Destroyed in Scotland — unsupported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Legio_IX_Hispana",
+     "https://en.wikipedia.org/wiki/Roman_Britain",
+     "https://en.wikipedia.org/wiki/Nijmegen",
+     "https://en.wikipedia.org/wiki/Roman_legion"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9616,6 +10080,37 @@
      "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
      "https://en.wikipedia.org/wiki/Archaeoastronomy",
      "https://en.wikipedia.org/wiki/Orion_(constellation)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "otzi-murder",
+   "url": "otzi-murder.html",
+   "title": "Ötzi's Murder",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A man who died in the Alps 5,300 years ago was found in 1991 with an arrowhead in his shoulder. His last days have been reconstructed in detail.",
+   "facts": {
+    "Status": "Documented",
+    "Found": "1991, Ötztal Alps",
+    "Died": "About 3300 BC",
+    "Cause": "Arrowhead in the shoulder",
+    "Also": "Head injury; cuts to the hands",
+    "Equipment": "Copper axe, bow, arrows"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/%C3%96tzi",
+     "https://en.wikipedia.org/wiki/Chalcolithic",
+     "https://en.wikipedia.org/wiki/Forensic_anthropology",
+     "https://en.wikipedia.org/wiki/Alps"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10463,6 +10958,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "polynesian-navigation",
+   "url": "polynesian-navigation.html",
+   "title": "Polynesian Navigation",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Polynesians settled the Pacific without instruments, using stars, swells, birds and clouds. The claim that they did it deliberately was dismissed for centuries and then demonstrated.",
+   "facts": {
+    "Status": "Documented",
+    "Achievement": "Settlement of the Pacific",
+    "Methods": "Stars, swells, birds, clouds",
+    "Demonstration": "Hōkūleʻa, from 1976",
+    "Navigator": "Mau Piailug",
+    "Rejected view": "Accidental drift"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Polynesian_navigation",
+     "https://en.wikipedia.org/wiki/H%C5%8Dk%C5%ABle%CA%BBa",
+     "https://en.wikipedia.org/wiki/Mau_Piailug",
+     "https://en.wikipedia.org/wiki/Polynesia"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "polyvagal-theory",
    "url": "polyvagal-theory.html",
    "title": "Polyvagal Theory",
@@ -10550,6 +11076,37 @@
      "https://arxiv.org/abs/2006.02838",
      "https://ogle.astrouw.edu.pl/",
      "https://www.ligo.org/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "princes-in-tower",
+   "url": "princes-in-tower.html",
+   "title": "The Princes in the Tower",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Two boys disappeared in the Tower of London in 1483, and their uncle took the throne. Bones found in 1674 were never conclusively identified.",
+   "facts": {
+    "Status": "Live debate",
+    "Year": "1483",
+    "Boys": "Edward V and Richard",
+    "Skeletons found": "1674, under a staircase",
+    "Tested": "1933, 1965 — no DNA",
+    "DNA permission": "Refused"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Princes_in_the_Tower",
+     "https://en.wikipedia.org/wiki/Richard_III_of_England",
+     "https://en.wikipedia.org/wiki/Tower_of_London",
+     "https://en.wikipedia.org/wiki/Westminster_Abbey"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10803,6 +11360,37 @@
      "https://en.wikipedia.org/wiki/Purdue_Pharma",
      "https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States",
      "https://en.wikipedia.org/wiki/Sackler_family"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "qin-mercury-rivers",
+   "url": "qin-mercury-rivers.html",
+   "title": "Qin's Mercury Rivers",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The First Emperor's tomb is said to contain rivers of mercury under a ceiling of pearls. The soil around the mound shows elevated mercury, and the tomb has never been opened.",
+   "facts": {
+    "Status": "Live debate",
+    "Source": "Sima Qian, c. 94 BC",
+    "Claim": "Rivers of mercury; pearl ceiling",
+    "Evidence": "Elevated soil mercury",
+    "Tomb": "Unexcavated",
+    "Reason": "Preservation; hazard; policy"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mausoleum_of_the_First_Qin_Emperor",
+     "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+     "https://en.wikipedia.org/wiki/Records_of_the_Grand_Historian",
+     "https://en.wikipedia.org/wiki/Mercury_(element)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11306,6 +11894,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "richard-iii-car-park",
+   "url": "richard-iii-car-park.html",
+   "title": "Richard III Under a Car Park",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The last Plantagenet king was buried in a friary that became a car park. His skeleton was found in 2012, under a marked parking bay.",
+   "facts": {
+    "Status": "Documented",
+    "Died": "1485, Bosworth",
+    "Buried": "Grey Friars, Leicester",
+    "Found": "2012, under a car park",
+    "Confirmed": "Mitochondrial DNA, 2014",
+    "Reinterred": "Leicester Cathedral, 2015"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Exhumation_and_reburial_of_Richard_III_of_England",
+     "https://en.wikipedia.org/wiki/Richard_III_of_England",
+     "https://en.wikipedia.org/wiki/Greyfriars,_Leicester",
+     "https://en.wikipedia.org/wiki/Mitochondrial_DNA"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "riemann-hypothesis",
    "url": "riemann-hypothesis.html",
    "title": "The Riemann Hypothesis",
@@ -11423,6 +12042,37 @@
      "https://en.wikipedia.org/wiki/Pozzolana",
      "https://en.wikipedia.org/wiki/Pantheon,_Rome",
      "https://en.wikipedia.org/wiki/Self-healing_concrete"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "roman-dodecahedrons",
+   "url": "roman-dodecahedrons.html",
+   "title": "Roman Dodecahedrons",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Hollow bronze objects with twelve pentagonal faces and knobs at the corners, found across the northern provinces. Nobody knows what they were for.",
+   "facts": {
+    "Status": "Live debate",
+    "Material": "Bronze",
+    "Faces": "Twelve pentagonal, with circular holes",
+    "Found": "Over a hundred; northern provinces",
+    "Dates": "2nd–4th century AD",
+    "Roman text mentioning them": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Roman_dodecahedron",
+     "https://en.wikipedia.org/wiki/Regular_dodecahedron",
+     "https://en.wikipedia.org/wiki/Roman_metallurgy",
+     "https://en.wikipedia.org/wiki/Roman_Britain"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11578,6 +12228,37 @@
      "https://en.wikipedia.org/wiki/Racetrack_Playa",
      "https://en.wikipedia.org/wiki/Ice_shove",
      "https://en.wikipedia.org/wiki/Death_Valley_National_Park"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "salting-carthage",
+   "url": "salting-carthage.html",
+   "title": "Salting Carthage",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Rome destroyed Carthage in 146 BC, and the story says the ground was sown with salt so nothing would grow. The salt is a modern invention.",
+   "facts": {
+    "Status": "Debunked",
+    "Year": "146 BC",
+    "Documented": "Destruction; enslavement; cursing",
+    "Salt": "Not in any ancient source",
+    "Origin of the story": "19th–20th century histories",
+    "Later": "Roman colony on the site"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Carthage",
+     "https://en.wikipedia.org/wiki/Third_Punic_War",
+     "https://en.wikipedia.org/wiki/Scipio_Aemilianus",
+     "https://en.wikipedia.org/wiki/Salting_the_earth"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13847,6 +14528,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "troy-was-real",
+   "url": "troy-was-real.html",
+   "title": "Troy Was Real",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The city in the Iliad was treated as fiction until a German businessman dug up a mound in Turkey. The site is real; the war is another question.",
+   "facts": {
+    "Status": "Documented",
+    "Site": "Hisarlik, Turkey",
+    "Cities": "Nine, Bronze Age to Roman",
+    "Excavated from": "1871",
+    "War candidate": "Troy VIIa, destroyed c. 1180 BC",
+    "Hittite name": "Wilusa"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Troy",
+     "https://en.wikipedia.org/wiki/Hisarlik",
+     "https://en.wikipedia.org/wiki/Iliad",
+     "https://en.wikipedia.org/wiki/Wilusa"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "truman-show-delusion",
    "url": "truman-show-delusion.html",
    "title": "The Truman Show Delusion",
@@ -13964,6 +14676,36 @@
      "https://doi.org/10.1093/mind/LIX.236.433",
      "https://en.wikipedia.org/wiki/ELIZA_effect",
      "https://en.wikipedia.org/wiki/Loebner_Prize"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "tut-hidden-chambers",
+   "url": "tut-hidden-chambers.html",
+   "title": "Hidden Chambers in Tut's Tomb",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claim that Nefertiti's tomb lies behind the walls of Tutankhamun's burial chamber, based on radar scans. The scans were repeated, and the chambers were not there.",
+   "facts": {
+    "Status": "Rejected",
+    "Proposed": "Reeves, 2015",
+    "Claim": "Hidden chambers; possibly Nefertiti",
+    "Surveys": "Radar 2015, 2016; further 2017–18",
+    "Result": "No chambers found"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tutankhamun",
+     "https://en.wikipedia.org/wiki/Nefertiti",
+     "https://en.wikipedia.org/wiki/Ground-penetrating_radar",
+     "https://en.wikipedia.org/wiki/KV62"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -14313,6 +15055,37 @@
      "https://www.nature.com/articles/nrmicro.2016.171",
      "https://en.wikipedia.org/wiki/Giant_virus",
      "https://ictv.global/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "voynich-alien-botany",
+   "url": "voynich-alien-botany.html",
+   "title": "Voynich Alien Botany",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The Voynich manuscript's plants do not match any known species, which has been read as evidence of an alien or otherworldly origin. The plants are drawings in a medieval herbal tradition.",
+   "facts": {
+    "Status": "Debunked",
+    "Date": "Early 15th century",
+    "Script": "Undeciphered",
+    "Plants": "Stylised, composite, often unidentifiable",
+    "Alien claim": "Not supported",
+    "Real problem": "The text"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Voynich_manuscript",
+     "https://en.wikipedia.org/wiki/Herbal",
+     "https://en.wikipedia.org/wiki/Illuminated_manuscript",
+     "https://en.wikipedia.org/wiki/Undeciphered_writing_systems"
     ]
    },
    "last_reviewed": "2026-11-20",
