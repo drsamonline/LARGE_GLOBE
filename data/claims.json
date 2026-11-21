@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 336,
+ "count": 358,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -571,6 +571,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "apkallu",
+   "url": "apkallu.html",
+   "title": "The Apkallu",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "Assyrian reliefs show fish-cloaked and bird-headed sages who brought the arts to humanity. They are the Mesopotamian originals behind Oannes, and they are mythological advisers, not visitors.",
+   "facts": {
+    "Status": "Fiction",
+    "Tradition": "Seven Mesopotamian sages",
+    "Depicted": "Fish cloak or bird head, with bucket and cone",
+    "Function": "Wisdom, civilisation, protection, purification",
+    "Fringe reading": "Extraterrestrials in suits",
+    "Iconography": "Documented"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Apkallu",
+     "https://en.wikipedia.org/wiki/Assyrian_sculpture",
+     "https://en.wikipedia.org/wiki/Enki",
+     "https://en.wikipedia.org/wiki/Oannes"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "aquatic-ape",
    "url": "aquatic-ape.html",
    "title": "The Aquatic Ape",
@@ -1128,6 +1159,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "bird-compass",
+   "url": "bird-compass.html",
+   "title": "The Quantum Biology of the Bird Compass",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Migratory birds navigate using the Earth's magnetic field, and the leading explanation involves quantum entanglement in a protein in the retina. It is one of the best-supported examples of quantum biology.",
+   "facts": {
+    "Status": "Documented",
+    "Behaviour": "Magnetic orientation in migratory birds",
+    "Light dependence": "Demonstrated in the 1970s",
+    "Protein": "Cryptochrome, in the retina",
+    "Mechanism": "Radical pair, spin entanglement",
+    "Remaining question": "The neural readout"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Magnetoreception",
+     "https://en.wikipedia.org/wiki/Cryptochrome",
+     "https://en.wikipedia.org/wiki/Radical_pair_mechanism",
+     "https://en.wikipedia.org/wiki/Bird_migration"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "bitcoin-digital-gold",
    "url": "bitcoin-digital-gold.html",
    "title": "Bitcoin as Digital Gold",
@@ -1375,6 +1437,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "brahmastra",
+   "url": "brahmastra.html",
+   "title": "The Brahmastra",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The Mahabharata describes celestial weapons of enormous destructive power. They have been read as nuclear bombs. They are literary devices in a poem about dharma.",
+   "facts": {
+    "Status": "Fiction",
+    "Texts": "Mahabharata; Ramayana",
+    "The astras": "Divine weapons invoked by mantra",
+    "Genre": "Epic poetry; hyperbole as instrument",
+    "Nuclear claim": "No archaeological or radiological evidence",
+    "Dating": "Centuries wide"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Brahmastra",
+     "https://en.wikipedia.org/wiki/Mahabharata",
+     "https://en.wikipedia.org/wiki/Astra_(weapon)",
+     "https://en.wikipedia.org/wiki/Ancient_astronauts"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "broken-windows",
    "url": "broken-windows.html",
    "title": "Broken Windows Policing",
@@ -1555,6 +1648,37 @@
      "https://en.wikipedia.org/wiki/Steven_Greer",
      "https://en.wikipedia.org/wiki/Sky_lantern",
      "https://en.wikipedia.org/wiki/Satellite_flare"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "chavin-gods",
+   "url": "chavin-gods.html",
+   "title": "Chavín's Psychedelic Gods",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The stone carvings at Chavín de Huántar show fanged deities, serpents and transformations. The visionary imagery is real, and the argument that the site's rituals used hallucinogens is supported by archaeological finds.",
+   "facts": {
+    "Status": "Documented",
+    "Site": "Chavín de Huántar, Peru",
+    "Occupied from": "c. 900 BC",
+    "Key object": "The Lanzón monolith",
+    "Evidence": "Psychoactive plant remains; engineered galleries",
+    "Reading": "Ritual altered states"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar",
+     "https://en.wikipedia.org/wiki/Chav%C3%ADn_culture",
+     "https://en.wikipedia.org/wiki/Lanz%C3%B3n",
+     "https://en.wikipedia.org/wiki/Echinopsis_pachanoi"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1778,6 +1902,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "cosmic-web-brain",
+   "url": "cosmic-web-brain.html",
+   "title": "The Cosmic Web and the Brain",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A 2020 paper compared the distribution of galaxies to the network of neurons in a brain, and found them quantitatively similar. The comparison is a real result about structure, not about consciousness.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Paper": "Vazza and Feletti, 2020",
+    "Finding": "Similar network statistics",
+    "Explanation": "Similar organising processes",
+    "Not shown": "Function, or consciousness",
+    "The error": "Structure treated as identity"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Observable_universe",
+     "https://en.wikipedia.org/wiki/Galaxy_filament",
+     "https://en.wikipedia.org/wiki/Connectome",
+     "https://en.wikipedia.org/wiki/False_analogy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "coso-artifact",
    "url": "coso-artifact.html",
    "title": "The Coso Artifact",
@@ -1907,6 +2062,37 @@
      "https://www.discovermagazine.com/the-hunt-for-the-loch-ness-monster-sightings-and-theories-you-need-to-know-45804",
      "https://www.snexplores.org/article/bigfoot-loch-ness-monster-cryptid-statistics",
      "https://www.nationalgeographic.com/adventure/article/130907-cryptid-crytozoology-bigfoot-loch-yeti-monster-abominable-science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "crystal-palaces",
+   "url": "crystal-palaces.html",
+   "title": "The Crystal Palaces",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The Crystal Palace was a glass and iron building of unprecedented scale, and the idea of a 'crystal palace' became a utopian image. It has been read as evidence of lost technology rather than of Victorian engineering.",
+   "facts": {
+    "Status": "Fiction",
+    "Built": "1851, Hyde Park",
+    "Designer": "Joseph Paxton",
+    "Materials": "Cast iron and glass",
+    "Destroyed": "1936, by fire",
+    "Fringe reading": "A memory of ancient glass technology"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Crystal_Palace",
+     "https://en.wikipedia.org/wiki/Great_Exhibition",
+     "https://en.wikipedia.org/wiki/Joseph_Paxton",
+     "https://en.wikipedia.org/wiki/Notes_from_Underground"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2921,6 +3107,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "embodied-cognition",
+   "url": "embodied-cognition.html",
+   "title": "Embodied Cognition",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that thinking is shaped by having a body — that concepts are grounded in sensorimotor experience. It is well supported in some domains and over-claimed in others.",
+   "facts": {
+    "Status": "Mainstream in cognitive science",
+    "Claim": "Body and environment shape cognition",
+    "Evidence": "Gesture, posture, action-perception coupling",
+    "Effect sizes": "Modest",
+    "Over-claim": "The body thinks; the brain is not central"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Embodied_cognition",
+     "https://en.wikipedia.org/wiki/Gesture",
+     "https://en.wikipedia.org/wiki/Situated_cognition",
+     "https://en.wikipedia.org/wiki/Cognitive_science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "enshittification",
    "url": "enshittification.html",
    "title": "Enshittification",
@@ -3040,6 +3256,37 @@
      "https://en.wikipedia.org/wiki/Europa_Clipper",
      "https://en.wikipedia.org/wiki/Tidal_heating",
      "https://en.wikipedia.org/wiki/Ocean_world"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "evolutionary-modularity",
+   "url": "evolutionary-modularity.html",
+   "title": "Evolutionary Modularity",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that the mind is a collection of specialised modules shaped by Pleistocene selection. It is productive and contested, and the evidence for specific modules is thinner than the framework.",
+   "facts": {
+    "Status": "Live debate",
+    "Claim": "Many domain-specific modules",
+    "Strong version": "Massive modularity",
+    "Support": "Dissociations; developmental evidence",
+    "Criticism": "Task artefacts; unknown ancestral environment",
+    "Neural evidence": "Scarce"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Modularity_of_mind",
+     "https://en.wikipedia.org/wiki/Evolutionary_psychology",
+     "https://en.wikipedia.org/wiki/Domain_specificity",
+     "https://en.wikipedia.org/wiki/Criticism_of_evolutionary_psychology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3525,6 +3772,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "gate-of-the-sun",
+   "url": "gate-of-the-sun.html",
+   "title": "The Gate of the Sun",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A monolithic gate at Tiwanaku carries a carved figure holding staffs, surrounded by winged attendants. It is a real monument with a documented iconography, and it has been read as a calendar, a portal and a record of visitors.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Site": "Tiwanaku, Bolivia",
+    "Date": "c. 500–950 AD",
+    "Material": "Andesite, single block",
+    "Figure": "The Staff God, with attendants",
+    "Not supported": "Portal or contact readings"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Gate_of_the_Sun",
+     "https://en.wikipedia.org/wiki/Tiwanaku",
+     "https://en.wikipedia.org/wiki/Staff_God",
+     "https://en.wikipedia.org/wiki/Archaeoastronomy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "gateway-process",
    "url": "gateway-process.html",
    "title": "The Gateway Process",
@@ -3611,6 +3889,36 @@
      "https://en.wikipedia.org/wiki/Geopolymer",
      "https://en.wikipedia.org/wiki/Egyptian_pyramid_construction_techniques",
      "https://en.wikipedia.org/wiki/Petrography"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "gesture-first",
+   "url": "gesture-first.html",
+   "title": "Gesture or Voice First",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Did language begin in the hands or the mouth? The evidence is indirect, and the debate has moved with discoveries about mirror systems, sign languages and ape gestures.",
+   "facts": {
+    "Status": "Divided",
+    "Question": "Gesture or speech first",
+    "Gesture evidence": "Ape gestures; sign languages; development",
+    "Voice evidence": "Vocal anatomy; antiquity of control",
+    "Direct evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Origin_of_language",
+     "https://en.wikipedia.org/wiki/Sign_language",
+     "https://en.wikipedia.org/wiki/Gesture",
+     "https://en.wikipedia.org/wiki/Ape_language"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4347,6 +4655,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "holobiont",
+   "url": "holobiont.html",
+   "title": "The Holobiont Human",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "You are a habitat: trillions of microbes, thousands of species, and a genome many times larger than yours. The holobiont concept treats the human and its microbes as one unit, and it is now standard.",
+   "facts": {
+    "Status": "Documented",
+    "Cells": "Roughly one to one microbial to human",
+    "Genes": "Microbial gene count far larger",
+    "Established roles": "Digestion, immunity, C. difficile treatment",
+    "Overreach": "Causal claims for many conditions",
+    "Evidence type": "Mostly correlational outside a few cases"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Human_microbiome",
+     "https://en.wikipedia.org/wiki/Holobiont",
+     "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
+     "https://en.wikipedia.org/wiki/Fecal_microbiota_transplant"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "holographic-principle",
    "url": "holographic-principle.html",
    "title": "The Holographic Principle",
@@ -4372,6 +4711,37 @@
      "https://en.wikipedia.org/wiki/Holographic_principle",
      "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.7.2333",
      "https://en.wikipedia.org/wiki/The_Black_Hole_War"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "hopi-ant-people",
+   "url": "hopi-ant-people.html",
+   "title": "The Hopi Ant People",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "Hopi tradition describes ancestors sheltering underground with the Ant People during a world's destruction. It is a sacred narrative, and the reading that makes it an account of extraterrestrial rescue is an outsider's.",
+   "facts": {
+    "Status": "Fiction",
+    "Tradition": "Hopi emergence narratives",
+    "The Ant People": "Beings who shelter and teach the ancestors",
+    "Fringe reading": "Extraterrestrials and underground bases",
+    "Community response": "Objection to the use of the tradition",
+    "Evidence": "None for the fringe reading"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hopi_mythology",
+     "https://en.wikipedia.org/wiki/Hopi",
+     "https://en.wikipedia.org/wiki/Ancient_astronauts",
+     "https://en.wikipedia.org/wiki/Cultural_appropriation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5721,6 +6091,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "microplastics-hormones",
+   "url": "microplastics-hormones.html",
+   "title": "Microplastics and Hormones",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Microplastics are everywhere, including in blood and placentas. Whether they act as endocrine disruptors in people is a question the exposure data cannot yet answer.",
+   "facts": {
+    "Status": "Live debate",
+    "Found in": "Blood, lung, placenta, water, air",
+    "Chemicals of concern": "Bisphenols, phthalates, additives",
+    "Lab evidence": "Endocrine activity at high doses",
+    "Human effect": "Unknown",
+    "Causal link": "Not established"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Microplastics",
+     "https://en.wikipedia.org/wiki/Endocrine_disruptor",
+     "https://en.wikipedia.org/wiki/Phthalate",
+     "https://en.wikipedia.org/wiki/Bisphenol_A"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "mind-uploading",
    "url": "mind-uploading.html",
    "title": "Mind Uploading",
@@ -6435,6 +6836,37 @@
      "https://arxiv.org/abs/2310.03693",
      "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
      "https://en.wikipedia.org/wiki/AI_safety"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "orch-or",
+   "url": "orch-or.html",
+   "title": "Orch-OR",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that consciousness arises from quantum computation in microtubules inside neurons. It has a testable prediction, one experiment that claimed to support it, and no replication.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Penrose and Hameroff, 1994",
+    "Claim": "Quantum reductions in microtubules",
+    "Main objection": "Decoherence in ~10⁻²⁰ s",
+    "2022 experiment": "Unreplicated; disputed",
+    "Testable": "Yes, in principle"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Orchestrated_objective_reduction",
+     "https://en.wikipedia.org/wiki/Microtubule",
+     "https://en.wikipedia.org/wiki/Quantum_decoherence",
+     "https://en.wikipedia.org/wiki/Consciousness"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7223,6 +7655,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "polyvagal",
+   "url": "polyvagal.html",
+   "title": "Polyvagal Theory",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A theory that the vagus nerve supports three hierarchical states — social engagement, fight-or-flight, shutdown — and that trauma traps people in the lower ones. It is enormously popular in therapy and weakly supported in physiology.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Stephen Porges, 1994",
+    "Claim": "Three hierarchical vagal states",
+    "Criticism": "Comparative anatomy does not support the split",
+    "Clinical use": "Widespread",
+    "Operationalised": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Polyvagal_theory",
+     "https://en.wikipedia.org/wiki/Vagus_nerve",
+     "https://en.wikipedia.org/wiki/Autonomic_nervous_system",
+     "https://en.wikipedia.org/wiki/Trauma_focused_cognitive_behavioral_therapy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "primordial-black-hole",
    "url": "primordial-black-hole.html",
    "title": "Primordial Black Holes",
@@ -7248,6 +7711,37 @@
      "https://arxiv.org/abs/2006.02838",
      "https://ogle.astrouw.edu.pl/",
      "https://www.ligo.org/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "prometheus",
+   "url": "prometheus.html",
+   "title": "Prometheus the Rebel",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A Titan stole fire for humanity and was punished. The story has been read as an account of a visitor who gave technology to humans. It is a myth about knowledge and its cost.",
+   "facts": {
+    "Status": "Fiction",
+    "Sources": "Hesiod; Aeschylus",
+    "The act": "Fire stolen and given to humans",
+    "The punishment": "Bound; the eagle",
+    "Function": "A story about knowledge and its cost",
+    "Visitor claim": "No ancient source describes one"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Prometheus",
+     "https://en.wikipedia.org/wiki/Prometheus_Bound",
+     "https://en.wikipedia.org/wiki/Theogony",
+     "https://en.wikipedia.org/wiki/Etiology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7508,6 +8002,68 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "quantum-smell",
+   "url": "quantum-smell.html",
+   "title": "Quantum Tunnelling in Smell",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that we smell by detecting molecular vibrations through quantum tunnelling, rather than by shape. The evidence is mixed and the debate is live.",
+   "facts": {
+    "Status": "Live debate",
+    "Standard model": "Shape-based receptor fit",
+    "Proposed": "Vibrational tunnelling, Turin, 1996",
+    "Key test": "Deuterated isotopes",
+    "Results": "Mixed, contested both ways",
+    "Consensus": "Shape dominant; vibration possible"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Olfaction",
+     "https://en.wikipedia.org/wiki/Vibration_theory_of_olfaction",
+     "https://en.wikipedia.org/wiki/Quantum_tunnelling",
+     "https://en.wikipedia.org/wiki/Kinetic_isotope_effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "quetzalcoatl-visitor",
+   "url": "quetzalcoatl-visitor.html",
+   "title": "Quetzalcoatl the Visitor",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A feathered serpent god was recast in the twentieth century as a pale-skinned teacher from overseas. The evidence for the visitor is a sixteenth-century text read backwards.",
+   "facts": {
+    "Status": "Debunked",
+    "Deity": "Feathered serpent; wind and learning",
+    "Iconography": "Teotihuacan to the Aztec capital",
+    "Visitor claim": "Based on 16th-century Spanish accounts",
+    "Depiction": "No bearded European figure",
+    "Status of the story": "Partly post-conquest construction"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Quetzalcoatl",
+     "https://en.wikipedia.org/wiki/Feathered_Serpent",
+     "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+     "https://en.wikipedia.org/wiki/Moctezuma_II"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "quimbaya-aeroplanes",
    "url": "quimbaya-aeroplanes.html",
    "title": "The Quimbaya Aeroplanes",
@@ -7656,6 +8212,37 @@
      "https://en.wikipedia.org/wiki/Lucid_dream",
      "https://en.wikipedia.org/wiki/Hypnagogia",
      "https://en.wikipedia.org/wiki/Multiverse"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "repressed-memory",
+   "url": "repressed-memory.html",
+   "title": "Repressed Memory",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that traumatic memories can be pushed out of awareness and recovered later, often in therapy. The evidence for the mechanism is weak, and the recovered memories have produced both convictions and miscarriages of justice.",
+   "facts": {
+    "Status": "Live debate",
+    "Origin": "Freud, 1890s",
+    "Peak use": "1980s–1990s therapy",
+    "Lab finding": "Suggestions can create confident false memories",
+    "Contested": "Repression as a mechanism",
+    "Legal effect": "Convictions overturned"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Repressed_memory",
+     "https://en.wikipedia.org/wiki/False_memory_syndrome",
+     "https://en.wikipedia.org/wiki/Recovered-memory_therapy",
+     "https://en.wikipedia.org/wiki/Elizabeth_Loftus"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9427,6 +10014,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "terror-management",
+   "url": "terror-management.html",
+   "title": "Terror Management Theory",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that awareness of death drives people toward cultural worldviews and self-esteem. It has hundreds of studies behind it, a replication problem, and a large theoretical apparatus.",
+   "facts": {
+    "Status": "Contested",
+    "Proposed": "Greenberg, Pyszczynski and Solomon, 1986",
+    "Manipulation": "Mortality salience",
+    "Original findings": "Worldview defence, in-group bias",
+    "Replications": "Smaller or null in several"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Terror_management_theory",
+     "https://en.wikipedia.org/wiki/Mortality_salience",
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://en.wikipedia.org/wiki/Ernest_Becker"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "tetris-effect",
    "url": "tetris-effect.html",
    "title": "The Tetris Effect",
@@ -9862,6 +10479,36 @@
      "https://www.kela.fi/web/en/basic-income-experiment",
      "https://www.nber.org/papers/w25598",
      "https://www.givedirectly.org/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "universal-grammar",
+   "url": "universal-grammar.html",
+   "title": "Universal Grammar",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that children are born with an innate language faculty that constrains the possible grammars. It reshaped linguistics, and the evidence for the strong version has weakened.",
+   "facts": {
+    "Status": "Contested",
+    "Proposed": "Chomsky, 1957",
+    "Argument": "Poverty of the stimulus",
+    "Objections": "Cross-linguistic variation; usage-based accounts",
+    "Neural basis": "Not identified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Universal_grammar",
+     "https://en.wikipedia.org/wiki/Language_acquisition",
+     "https://en.wikipedia.org/wiki/Poverty_of_the_stimulus",
+     "https://en.wikipedia.org/wiki/Noam_Chomsky"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10456,6 +11103,37 @@
      "https://en.wikipedia.org/wiki/Tomoyuki_Yamashita",
      "https://en.wikipedia.org/wiki/Corregidor",
      "https://en.wikipedia.org/wiki/Treasure_hunting"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "yellow-emperor-dragon",
+   "url": "yellow-emperor-dragon.html",
+   "title": "The Yellow Emperor's Dragon",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The Yellow Emperor is said to have ascended to heaven on a dragon, taking seventy officials with him. It is a foundation myth of Chinese civilisation, and it has been read as a spacecraft.",
+   "facts": {
+    "Status": "Fiction",
+    "Figure": "Huangdi, the Yellow Emperor",
+    "The motif": "Ascent on a dragon at the end of the reign",
+    "Sources": "Shiji and later accounts",
+    "Dragon's role": "Sovereignty, rain, cosmos",
+    "Vehicle claim": "No evidence"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Yellow_Emperor",
+     "https://en.wikipedia.org/wiki/Chinese_dragon",
+     "https://en.wikipedia.org/wiki/Records_of_the_Grand_Historian",
+     "https://en.wikipedia.org/wiki/Culture_hero"
     ]
    },
    "last_reviewed": "2026-11-20",

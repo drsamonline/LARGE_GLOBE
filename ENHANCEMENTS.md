@@ -531,6 +531,21 @@ Ten more: the out-of-place artefact shelf completed, plus three from the mythic 
 
 The out-of-place artefact shelf is now complete as a family, and two of its members — the Coso artifact and the Wolfsegg iron — are the same error in two countries: the age of the container attributed to the contents. Having both on the shelf is worth more than either alone.
 
+## 0af. Replanned — 21 November 2026: batch size 10 → 25
+
+The pass was too slow: 10 dossiers every 45 seconds of build and roughly 40 minutes of writing to clear 738 register rows. The plan changed.
+
+| Lever | Before | After |
+|---|---|---|
+| Dossiers per pass | 10 | 25 |
+| Words per dossier | 420–480 | 280–320 |
+| Photo sourcing | one call per batch | one call for all 25 |
+| Contact sheets | 1 | 2, checked together |
+| PDF/EPUB | every pass | every second pass |
+| Passes to clear the register | ~55 | ~22 |
+
+The first 25-dossier pass produced 22 new pages, because two slugs (`panpsychism`, `free-energy-principle`) already existed and were overwritten, and a third (`amoc-collapse`) duplicated the existing `amoc.html`. All three were reverted: the originals restored from git, the duplicate deleted, the search index, sitemap, themes, related strips and ledger rebuilt without it. That is the anti-duplication rule doing its job — the register check happens before writing, and the `git ls-tree` check should now happen too.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
