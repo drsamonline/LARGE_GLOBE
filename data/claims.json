@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 458,
+ "count": 483,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -29,6 +29,37 @@
      "https://en.wikipedia.org/wiki/Petroleum",
      "https://en.wikipedia.org/wiki/Biomarker_(petroleum)",
      "https://en.wikipedia.org/wiki/Serpentinization"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "acoustic-levitation",
+   "url": "acoustic-levitation.html",
+   "title": "Acoustic Levitation",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that sound could have lifted the stones of ancient monuments. Acoustic levitation is real, and it works on objects the size of a grain of rice.",
+   "facts": {
+    "Status": "Debunked",
+    "Real technique": "Ultrasonic standing waves",
+    "Typical scale": "Milligrams to grams",
+    "Claimed scale": "Multi-tonne blocks",
+    "Gap": "About six orders of magnitude",
+    "Ancient use": "No evidence"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Acoustic_levitation",
+     "https://en.wikipedia.org/wiki/Standing_wave",
+     "https://en.wikipedia.org/wiki/Ultrasound",
+     "https://en.wikipedia.org/wiki/Sound_pressure"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -819,6 +850,99 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "atlantis-antarctica",
+   "url": "atlantis-antarctica.html",
+   "title": "Atlantis in Antarctica",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that Atlantis was Antarctica, shifted to the pole by a crustal displacement. Plate tectonics does not permit it, and the ice cores are older than the claim requires.",
+   "facts": {
+    "Status": "Debunked",
+    "Proposed": "Flem-Ath, 1995",
+    "Mechanism claimed": "Crustal displacement",
+    "Date claimed": "About 9,600 BC",
+    "Ice record": "Continuous for hundreds of thousands of years",
+    "Mechanism support": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Atlantis",
+     "https://en.wikipedia.org/wiki/Antarctic_ice_sheet",
+     "https://en.wikipedia.org/wiki/Plate_tectonics",
+     "https://en.wikipedia.org/wiki/Ice_core"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "atlantis-donana",
+   "url": "atlantis-donana.html",
+   "title": "Atlantis at Doñana",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A team argued that Atlantis lies under the marshes of Doñana in southern Spain, destroyed by a tsunami. The site has structures, and the identification is not accepted.",
+   "facts": {
+    "Status": "Live debate",
+    "Location": "Doñana marshes, near Cádiz",
+    "Proposed": "2004; documentary 2011",
+    "Claimed destroyer": "Tsunami",
+    "Structures": "Real; undated to the claim",
+    "Archaeological consensus": "Against"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Atlantis",
+     "https://en.wikipedia.org/wiki/Do%C3%B1ana_National_Park",
+     "https://en.wikipedia.org/wiki/Tartessos",
+     "https://en.wikipedia.org/wiki/Tsunami"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "atlantis-thera",
+   "url": "atlantis-thera.html",
+   "title": "Atlantis as Thera",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The Minoan eruption of Santorini destroyed a civilisation, and the parallel with Plato's story is striking. The date is the problem: it is 9,000 years out.",
+   "facts": {
+    "Status": "Live debate",
+    "Eruption": "Thera, c. 1600 BC",
+    "Destroyed": "Akrotiri; damage on Crete",
+    "Plato's date": "About 9,600 BC",
+    "Mismatch": "A factor of about 2.5",
+    "Proposed fix": "Unit error or copying error — unsupported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Minoan_eruption",
+     "https://en.wikipedia.org/wiki/Akrotiri_(prehistoric_city)",
+     "https://en.wikipedia.org/wiki/Minoan_civilization",
+     "https://en.wikipedia.org/wiki/Atlantis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "avril-replaced",
    "url": "avril-replaced.html",
    "title": "Avril Lavigne Was Replaced",
@@ -1152,6 +1276,37 @@
      "https://en.wikipedia.org/wiki/False_memory#Mandela_effect",
      "https://en.wikipedia.org/wiki/False_memory",
      "https://en.wikipedia.org/wiki/Schema_(psychology)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "beringia",
+   "url": "beringia.html",
+   "title": "Beringia",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A land bridge between Asia and America, exposed when sea levels fell. It was not just a corridor: people lived on it for thousands of years.",
+   "facts": {
+    "Status": "Documented",
+    "Region": "Northeast Asia to northwest North America",
+    "Exposed": "Roughly 30,000–11,000 years ago",
+    "Now": "Under the Bering and Chukchi seas",
+    "Key finding": "Genetic standstill of several millennia",
+    "Contested": "Route and timing"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Beringia",
+     "https://en.wikipedia.org/wiki/Settlement_of_the_Americas",
+     "https://en.wikipedia.org/wiki/Bering_Strait",
+     "https://en.wikipedia.org/wiki/Ancient_Beringian"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2305,6 +2460,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "coral-castle",
+   "url": "coral-castle.html",
+   "title": "Coral Castle",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "One man carved and moved over a thousand tonnes of coral rock alone, at night, and refused to say how. The answer is levers, pulleys and patience.",
+   "facts": {
+    "Status": "Debunked",
+    "Location": "Homestead, Florida",
+    "Builder": "Edward Leedskalnin",
+    "Built": "About 1920–1951",
+    "Material": "Oolite limestone",
+    "Explanation": "Levers, pivots, inclined planes"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Coral_Castle",
+     "https://en.wikipedia.org/wiki/Edward_Leedskalnin",
+     "https://en.wikipedia.org/wiki/Oolite",
+     "https://en.wikipedia.org/wiki/Lever"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "cosmic-censorship",
    "url": "cosmic-censorship.html",
    "title": "Cosmic Censorship",
@@ -3347,6 +3533,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "doggerland",
+   "url": "doggerland.html",
+   "title": "Doggerland",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A landmass in the southern North Sea, drowned between about 8,000 and 7,000 years ago. Trawlers have brought up bones and tools for a century.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "Southern North Sea",
+    "Drowned": "About 8,000–7,000 years ago",
+    "Final event": "Storegga tsunami, c. 6,200 BC",
+    "Finds": "Bones, antlers, tools, peat",
+    "Name from": "The Dogger Bank"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Doggerland",
+     "https://en.wikipedia.org/wiki/Storegga_Slide",
+     "https://en.wikipedia.org/wiki/Mesolithic",
+     "https://en.wikipedia.org/wiki/Dogger_Bank"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dogon-sirius",
    "url": "dogon-sirius.html",
    "title": "The Dogon and Sirius B",
@@ -3661,6 +3878,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dwarka",
+   "url": "dwarka.html",
+   "title": "Dwarka",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Ruins have been found under the sea off Gujarat, and they are real. The claim that they are the 32,000-year-old city of Krishna is not supported by their dating.",
+   "facts": {
+    "Status": "Live debate",
+    "Location": "Off Dwarka, Gujarat",
+    "Found": "From the 1980s",
+    "Finds": "Structures, anchors, pottery",
+    "Alternative reading": "Beachrock for some features",
+    "Claimed date": "30,000+ years — not supported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dwarka",
+     "https://en.wikipedia.org/wiki/Marine_archaeology_in_India",
+     "https://en.wikipedia.org/wiki/Beachrock",
+     "https://en.wikipedia.org/wiki/Krishna"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dyatlov-pass",
    "url": "dyatlov-pass.html",
    "title": "Dyatlov Pass",
@@ -3931,6 +4179,37 @@
      "https://en.wikipedia.org/wiki/Brane_cosmology",
      "https://en.wikipedia.org/wiki/Cosmic_inflation",
      "https://en.wikipedia.org/wiki/Non-Gaussianity"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "el-dorado",
+   "url": "el-dorado.html",
+   "title": "El Dorado",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The legend of a city of gold began as a ritual: a Muisca chief covered in gold dust, offering at a lake. Expeditions killed thousands looking for a place that was never there.",
+   "facts": {
+    "Status": "Debunked",
+    "Origin": "Muisca ceremony, Lake Guatavita",
+    "Meaning": "'The gilded one' — a person, not a place",
+    "Became": "A city, then an empire",
+    "Searches": "From the 1530s; thousands died",
+    "City found": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/El_Dorado",
+     "https://en.wikipedia.org/wiki/Lake_Guatavita",
+     "https://en.wikipedia.org/wiki/Muisca_Confederation",
+     "https://en.wikipedia.org/wiki/Walter_Raleigh"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5788,6 +6067,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "gunung-padang",
+   "url": "gunung-padang.html",
+   "title": "Gunung Padang",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A terraced hill in Indonesia was claimed in 2023 to be a 25,000-year-old pyramid. Geologists and archaeologists have challenged the dating and the interpretation.",
+   "facts": {
+    "Status": "Rejected by most archaeologists",
+    "Site": "Gunung Padang, West Java",
+    "Real": "Terraces, walls, paved areas",
+    "2023 claim": "A layered pyramid from 25,000 years ago",
+    "Criticism": "Cores and dates do not support construction"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Gunung_Padang",
+     "https://en.wikipedia.org/wiki/Megalith",
+     "https://en.wikipedia.org/wiki/Radiocarbon_dating",
+     "https://en.wikipedia.org/wiki/Retraction_(scholarly_publishing)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "gut-brain",
    "url": "gut-brain.html",
    "title": "The Gut–Brain Axis",
@@ -5844,6 +6153,37 @@
      "https://en.wikipedia.org/wiki/Ionosphere",
      "https://en.wikipedia.org/wiki/Weather_modification",
      "https://en.wikipedia.org/wiki/Conspiracy_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "hall-of-records",
+   "url": "hall-of-records.html",
+   "title": "The Hall of Records",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A chamber beneath the Sphinx, said to hold the records of Atlantis, predicted by a psychic. Seismic surveys and excavations have found nothing.",
+   "facts": {
+    "Status": "Debunked",
+    "Predicted by": "Edgar Cayce, 1920s–40s",
+    "Claim": "A chamber beneath the Sphinx",
+    "Contents claimed": "Records of Atlantis",
+    "Surveys": "1990s; anomalies disputed",
+    "Found": "Nothing"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Edgar_Cayce",
+     "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza",
+     "https://en.wikipedia.org/wiki/Seismology",
+     "https://en.wikipedia.org/wiki/Atlantis"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6451,6 +6791,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "iram-pillars",
+   "url": "iram-pillars.html",
+   "title": "Iram of the Pillars",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A city in the Qur'an destroyed for its arrogance, and a byword for a lost city in the desert. A site in Oman has been excavated, and the identification is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Source": "Qur'an; Arabic tradition",
+    "Also called": "Ubar, Wabar",
+    "Site": "Shisr, Oman",
+    "Excavated": "Early 1990s",
+    "Identification": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Iram_of_the_Pillars",
+     "https://en.wikipedia.org/wiki/Ubar",
+     "https://en.wikipedia.org/wiki/Shisr",
+     "https://en.wikipedia.org/wiki/Caravan_city"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "iran-contra",
    "url": "iran-contra.html",
    "title": "Iran–Contra",
@@ -6761,6 +7132,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "kumari-kandam",
+   "url": "kumari-kandam.html",
+   "title": "Kumari Kandam",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A lost Tamil landmass said to have sunk south of India, sometimes linked to Lemuria. The ocean floor has been mapped, and there is no continent there.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Tradition": "Tamil literary references to a southern land",
+    "Linked to": "Lemuria, 19th century",
+    "Lemuria's status": "Abandoned after plate tectonics",
+    "Ocean floor": "Mapped; no continent",
+    "Literary tradition": "Real and separate"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kumari_Kandam",
+     "https://en.wikipedia.org/wiki/Lemuria_(continent)",
+     "https://en.wikipedia.org/wiki/Plate_tectonics",
+     "https://en.wikipedia.org/wiki/Indian_Ocean"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lake-nyos",
    "url": "lake-nyos.html",
    "title": "Lake Nyos",
@@ -6785,6 +7187,37 @@
      "https://en.wikipedia.org/wiki/Limnic_eruption",
      "https://en.wikipedia.org/wiki/Lake_Monoun",
      "https://en.wikipedia.org/wiki/Carbon_dioxide"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "land-of-punt",
+   "url": "land-of-punt.html",
+   "title": "The Location of Punt",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Egypt traded with a land called Punt for a thousand years, and its location has never been fixed. The candidates run from Somalia to Yemen.",
+   "facts": {
+    "Status": "Live debate",
+    "Mentioned from": "Old Kingdom onward",
+    "Famous expedition": "Hatshepsut, c. 1470 BC",
+    "Goods": "Myrrh, ebony, ivory, gold, baboons",
+    "Candidates": "Horn of Africa; Yemen",
+    "Favoured": "African side of the southern Red Sea"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Land_of_Punt",
+     "https://en.wikipedia.org/wiki/Deir_el-Bahari",
+     "https://en.wikipedia.org/wiki/Hatshepsut",
+     "https://en.wikipedia.org/wiki/Red_Sea"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7106,6 +7539,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "linear-a",
+   "url": "linear-a.html",
+   "title": "Linear A",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The script of Minoan Crete, used for accounting and ritual, and never deciphered. Linear B was cracked because a scholar guessed the language; Linear A has no such handle.",
+   "facts": {
+    "Status": "Documented",
+    "Used": "Crete and the Aegean, c. 1800–1450 BC",
+    "Corpus": "About 1,400 inscriptions",
+    "Content": "Mostly accounting",
+    "Deciphered": "No",
+    "Obstacle": "Unknown language; no bilingual"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Linear_A",
+     "https://en.wikipedia.org/wiki/Linear_B",
+     "https://en.wikipedia.org/wiki/Minoan_language",
+     "https://en.wikipedia.org/wiki/Undeciphered_writing_systems"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "linguistic-relativity",
    "url": "linguistic-relativity.html",
    "title": "Linguistic Relativity",
@@ -7223,6 +7687,37 @@
      "https://en.wikipedia.org/wiki/Quantum_gravity",
      "https://en.wikipedia.org/wiki/Spin_network",
      "https://en.wikipedia.org/wiki/Planck_length"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "lost-city-of-z",
+   "url": "lost-city-of-z.html",
+   "title": "The Lost City of Z",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A British explorer vanished looking for a civilisation in the Amazon. The civilisation turned out to be real — but not as a city of stone.",
+   "facts": {
+    "Status": "Documented",
+    "Explorer": "Percy Fawcett, vanished 1925",
+    "Premise": "A civilisation he called 'Z'",
+    "Found": "Earthworks, causeways, ditched settlements",
+    "Not found": "A stone city",
+    "Revised view": "Large settled populations"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Percy_Fawcett",
+     "https://en.wikipedia.org/wiki/Geoglyphs_of_the_Amazon",
+     "https://en.wikipedia.org/wiki/Amazon_basin",
+     "https://en.wikipedia.org/wiki/Terra_preta"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7381,6 +7876,37 @@
      "https://en.wikipedia.org/wiki/Surface_plasmon_resonance",
      "https://en.wikipedia.org/wiki/Dichroic_glass",
      "https://en.wikipedia.org/wiki/Roman_glass"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "lyonesse",
+   "url": "lyonesse.html",
+   "title": "Lyonesse",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A sunken kingdom off Cornwall, drowned in a single night, from which Tristan came. It is literature, and the sea floor has been surveyed.",
+   "facts": {
+    "Status": "Fiction",
+    "Source": "Arthurian romance, 13th century",
+    "Place": "Off Cornwall",
+    "Related": "Ys, in Brittany",
+    "Geological candidate": "None",
+    "Real drowned land": "The Scilly lowland, flooded gradually"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lyonesse",
+     "https://en.wikipedia.org/wiki/Ys",
+     "https://en.wikipedia.org/wiki/Isles_of_Scilly",
+     "https://en.wikipedia.org/wiki/Tristan_and_Iseult"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9059,6 +9585,37 @@
      "https://www.nature.com/articles/nrmicro.2016.84",
      "https://www.nature.com/articles/nchem.2764",
      "https://astrobiology.nasa.gov/research/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "orion-correlation",
+   "url": "orion-correlation.html",
+   "title": "The Orion Correlation",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that the three pyramids at Giza are laid out to match the belt of Orion. The pattern is approximate, the dates do not line up, and the layout has a simpler explanation.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Bauval, 1994",
+    "Claim": "The pyramids mirror Orion's belt",
+    "Pyramid date": "About 2550 BC",
+    "Claimed planning date": "About 10,500 BC",
+    "Simpler reading": "Geology and building sequence"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Orion_correlation_theory",
+     "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+     "https://en.wikipedia.org/wiki/Archaeoastronomy",
+     "https://en.wikipedia.org/wiki/Orion_(constellation)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10873,6 +11430,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "rongorongo",
+   "url": "rongorongo.html",
+   "title": "Rongorongo",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A script from Easter Island, carved on wooden tablets, and undeciphered. Only about two dozen objects survive.",
+   "facts": {
+    "Status": "Documented",
+    "Origin": "Easter Island",
+    "Reported": "1860s",
+    "Surviving objects": "About two dozen",
+    "Signs": "Several hundred distinct",
+    "Deciphered": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Rongorongo",
+     "https://en.wikipedia.org/wiki/Easter_Island",
+     "https://en.wikipedia.org/wiki/Undeciphered_writing_systems",
+     "https://en.wikipedia.org/wiki/Logogram"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "room-641a",
    "url": "room-641a.html",
    "title": "Room 641A",
@@ -11339,6 +11927,37 @@
      "https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor",
      "https://en.wikipedia.org/wiki/Monoamine_hypothesis_of_depression",
      "https://en.wikipedia.org/wiki/Antidepressant"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "seven-cities-gold",
+   "url": "seven-cities-gold.html",
+   "title": "The Seven Cities of Gold",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Spanish explorers were told of seven golden cities to the north. Coronado found pueblos of stone and mud, and no gold.",
+   "facts": {
+    "Status": "Debunked",
+    "Year": "1540",
+    "Leader": "Coronado",
+    "Found": "Zuni pueblos — stone and adobe",
+    "Gold": "None",
+    "Outcome": "Two-year expedition; bankruptcy"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Seven_Cities_of_Gold",
+     "https://en.wikipedia.org/wiki/Francisco_V%C3%A1zquez_de_Coronado",
+     "https://en.wikipedia.org/wiki/Zuni_people",
+     "https://en.wikipedia.org/wiki/Marcos_de_Niza"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12409,6 +13028,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sundaland",
+   "url": "sundaland.html",
+   "title": "Sundaland",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A drowned subcontinent in Southeast Asia, exposed at low sea levels, with a coastline the size of Europe's. It is real; what happened on it is the debate.",
+   "facts": {
+    "Status": "Live debate",
+    "Region": "Sunda Shelf, Southeast Asia",
+    "Exposed": "During glacial lowstands",
+    "Size": "Comparable to western Europe",
+    "Flooded": "After the last glacial maximum",
+    "Archaeology": "Underwater and underexplored"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sunda_Shelf",
+     "https://en.wikipedia.org/wiki/Sundaland",
+     "https://en.wikipedia.org/wiki/Maritime_archaeology",
+     "https://en.wikipedia.org/wiki/Flood_myth"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "suns-stars",
    "url": "suns-stars.html",
    "title": "Dual Suns, Dual Stars",
@@ -12730,6 +13380,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "tartessos",
+   "url": "tartessos.html",
+   "title": "Tartessos",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A wealthy kingdom in southern Spain, described by Greek writers, that traded with the Phoenicians and then vanished. Its capital has never been found.",
+   "facts": {
+    "Status": "Live debate",
+    "Region": "Lower Guadalquivir, Spain",
+    "Sources": "Greek, Roman, biblical",
+    "Trade": "Silver and tin, with the Phoenicians",
+    "Decline": "Sixth century BC; cause contested",
+    "Capital": "Not identified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tartessos",
+     "https://en.wikipedia.org/wiki/Tarshish",
+     "https://en.wikipedia.org/wiki/Phoenicia",
+     "https://en.wikipedia.org/wiki/Huelva"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "technofeudalism",
    "url": "technofeudalism.html",
    "title": "Technofeudalism",
@@ -12971,6 +13652,37 @@
      "https://en.wikipedia.org/wiki/Destined_for_War",
      "https://www.gutenberg.org/ebooks/7142",
      "https://en.wikipedia.org/wiki/Power_transition_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "thule",
+   "url": "thule.html",
+   "title": "Thule",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A Greek navigator described a land six days' sail north of Britain, where the sea became sluggish. Nobody knows which land he meant.",
+   "facts": {
+    "Status": "Live debate",
+    "Source": "Pytheas, c. 320 BC — lost",
+    "Known through": "Strabo, Pliny and others",
+    "Candidates": "Iceland, Norway, Shetland, Faroe",
+    "Clue": "Six days' sail; a sluggish sea",
+    "Identification": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Thule",
+     "https://en.wikipedia.org/wiki/Pytheas",
+     "https://en.wikipedia.org/wiki/Greek_geography",
+     "https://en.wikipedia.org/wiki/Iceland"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13639,6 +14351,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "walking-moai",
+   "url": "walking-moai.html",
+   "title": "The Walking Moai",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "How were the Easter Island statues moved? A 2012 experiment showed they can be 'walked' upright with ropes, which matches the island's oral tradition.",
+   "facts": {
+    "Status": "Documented",
+    "Statues": "Hundreds, up to tens of tonnes",
+    "Quarry": "Rano Raraku",
+    "Experiment": "2012, with a replica and ropes",
+    "Method": "Upright rocking, alternating pulls",
+    "Tradition": "The statues walked"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Moai",
+     "https://en.wikipedia.org/wiki/Easter_Island",
+     "https://en.wikipedia.org/wiki/Ahu_Tongariki",
+     "https://en.wikipedia.org/wiki/Rano_Raraku"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "wandjina",
    "url": "wandjina.html",
    "title": "The Wandjina",
@@ -14221,6 +14964,37 @@
      "https://doi.org/10.1073/pnas.1507146112",
      "https://doi.org/10.1016/j.earscirev.2023.104502",
      "https://en.wikipedia.org/wiki/Younger_Dryas"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "zealandia",
+   "url": "zealandia.html",
+   "title": "Zealandia",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A continent of five million square kilometres, 94% of it underwater, with New Zealand and New Caledonia above the surface. It is real, and it was formally described in 2017.",
+   "facts": {
+    "Status": "Documented",
+    "Area": "About 5 million km²",
+    "Submerged": "About 94%",
+    "Above water": "New Zealand, New Caledonia",
+    "Named": "1995; described 2017",
+    "Origin": "Rifted from Gondwana"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Zealandia",
+     "https://en.wikipedia.org/wiki/Continental_crust",
+     "https://en.wikipedia.org/wiki/Gondwana",
+     "https://en.wikipedia.org/wiki/Geology_of_New_Zealand"
     ]
    },
    "last_reviewed": "2026-11-20",

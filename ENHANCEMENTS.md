@@ -682,6 +682,40 @@ The largest single batch of `documented` pages in the archive, and the reason is
 
 Five of these are the archive's own operating principles written down as pages: Goodhart on targets, Brandolini on the cost of refutation, Poe on why fiction must be labelled, Cunningham on why wrong claims travel, and the Streisand effect on why suppression fails. The rest are the evidence those laws describe.
 
+## 0ak. Shipped in the thirty-sixth pass — 21 November 2026: lost lands
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | Atlantis in Antarctica | Debunked |
+| 2 | Atlantis at Doñana | Live debate |
+| 3 | Atlantis as Thera | Live debate |
+| 4 | Kumari Kandam | Fringe claim |
+| 5 | Zealandia | Documented |
+| 6 | Doggerland | Documented |
+| 7 | Beringia | Documented |
+| 8 | Sundaland | Live debate |
+| 9 | Tartessos | Live debate |
+| 10 | El Dorado | Debunked |
+| 11 | The Lost City of Z | Documented |
+| 12 | Lyonesse | Fiction |
+| 13 | Dwarka | Live debate |
+| 14 | Thule | Live debate |
+| 15 | The Seven Cities of Gold | Debunked |
+| 16 | Iram of the Pillars | Live debate |
+| 17 | The Location of Punt | Live debate |
+| 18 | Linear A | Documented |
+| 19 | The Orion Correlation | Fringe claim |
+| 20 | Acoustic Levitation | Debunked |
+| 21 | The Hall of Records | Debunked |
+| 22 | The Walking Moai | Documented |
+| 23 | Rongorongo | Documented |
+| 24 | Gunung Padang | Debunked |
+| 25 | Coral Castle | Debunked |
+
+483 dossiers, 2,038 sources, 517 images, 509 pages, PDF 1,200 pages, EPUB 486 chapters, sitemap 507 URLs, 0 problems.
+
+The shelf this archive has been missing: real lost lands beside the invented ones. Zealandia, Doggerland, Beringia and Sundaland were inhabited, are mapped, and are under water — which is exactly what Atlantis is supposed to be, minus the evidence. Putting them together makes the difference visible in a way no single page could.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
