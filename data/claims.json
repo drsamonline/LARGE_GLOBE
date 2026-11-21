@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 811,
+ "count": 839,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -1969,6 +1969,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "basques",
+   "url": "basques.html",
+   "title": "The Basques",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A people with a language unrelated to any other in Europe, and a genetic history that is distinctive without being separate.",
+   "facts": {
+    "Status": "Live debate",
+    "Language": "Basque, an isolate",
+    "Genetics": "Distinctive, not isolated",
+    "Origin": "Contested",
+    "Field": "Linguistics; genetics"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Basque_language",
+     "https://en.wikipedia.org/wiki/Basque_people",
+     "https://en.wikipedia.org/wiki/Language_isolate",
+     "https://en.wikipedia.org/wiki/Genetic_history_of_the_Iberian_Peninsula"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "bat-creek-stone",
    "url": "bat-creek-stone.html",
    "title": "The Bat Creek Stone",
@@ -2552,6 +2582,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "block-universe",
+   "url": "block-universe.html",
+   "title": "Block Universe or Growing Block",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Does time pass, or is the universe a four-dimensional block in which all moments exist? Physics constrains the answer without settling it.",
+   "facts": {
+    "Status": "Metaphysical",
+    "Positions": "Block; growing block; presentism",
+    "Constraint": "Relativity of simultaneity"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time)",
+     "https://en.wikipedia.org/wiki/Presentism_(philosophy_of_time)",
+     "https://en.wikipedia.org/wiki/Philosophy_of_space_and_time",
+     "https://en.wikipedia.org/wiki/Relativity_of_simultaneity"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "blue-light-circadian",
    "url": "blue-light-circadian.html",
    "title": "Blue Light and Circadian Damage",
@@ -2972,6 +3030,36 @@
      "https://en.wikipedia.org/wiki/David_Graeber",
      "https://en.wikipedia.org/wiki/Job_satisfaction",
      "https://en.wikipedia.org/wiki/Sociology_of_work"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "burrows-cave",
+   "url": "burrows-cave.html",
+   "title": "Burrows Cave",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A cave in Illinois said to hold thousands of inscribed stones from lost civilisations. The cave has never been shown to anyone.",
+   "facts": {
+    "Status": "Debunked",
+    "Reported": "1982",
+    "Location": "Southern Illinois",
+    "Cave shown": "Never",
+    "Objects": "Judged modern"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Burrows_Cave",
+     "https://en.wikipedia.org/wiki/Archaeological_forgery",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology",
+     "https://en.wikipedia.org/wiki/Epigraphy"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3438,6 +3526,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "chavin-gold",
+   "url": "chavin-gold.html",
+   "title": "Chavín Gold Plating",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A culture that plated copper with gold using electrochemical methods, or so the claim goes. The objects are real; the method is argued.",
+   "facts": {
+    "Status": "Contested",
+    "Culture": "Chavín",
+    "Objects": "Gilded copper",
+    "Methods": "Depletion gilding; foil; electrochemical"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Chav%C3%ADn_culture",
+     "https://en.wikipedia.org/wiki/Depletion_gilding",
+     "https://en.wikipedia.org/wiki/Gold_plating",
+     "https://en.wikipedia.org/wiki/Metallurgy_in_pre-Columbian_America"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "chemical-imbalance",
    "url": "chemical-imbalance.html",
    "title": "The Chemical Imbalance Critique",
@@ -3830,6 +3947,35 @@
      "https://en.wikipedia.org/wiki/Circleville,_Ohio",
      "https://en.wikipedia.org/wiki/Booby_trap",
      "https://en.wikipedia.org/wiki/Anonymous_letter"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cleopatra-pearl",
+   "url": "cleopatra-pearl.html",
+   "title": "Cleopatra's Pearl",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The story that Cleopatra dissolved a pearl in vinegar to win a bet. The chemistry is doubtful and the source is late.",
+   "facts": {
+    "Status": "Uncorroborated",
+    "Source": "Pliny the Elder",
+    "Claim": "A pearl dissolved in vinegar",
+    "Chemistry": "Too slow"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cleopatra",
+     "https://en.wikipedia.org/wiki/Pliny_the_Elder",
+     "https://en.wikipedia.org/wiki/Pearl",
+     "https://en.wikipedia.org/wiki/Calcium_carbonate"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6863,6 +7009,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "emergent-gravity",
+   "url": "emergent-gravity.html",
+   "title": "Emergent Gravity",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The proposal that gravity is not fundamental but arises from deeper physics, as temperature arises from atoms.",
+   "facts": {
+    "Status": "Incomplete",
+    "Claim": "Gravity is emergent",
+    "Programmes": "Thermodynamic; holographic; entropic"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Entropic_gravity",
+     "https://en.wikipedia.org/wiki/Holographic_principle",
+     "https://en.wikipedia.org/wiki/Gravity",
+     "https://en.wikipedia.org/wiki/Quantum_gravity"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "enron-california",
    "url": "enron-california.html",
    "title": "Enron and California",
@@ -7344,6 +7518,35 @@
      "https://en.wikipedia.org/wiki/Plate_tectonics",
      "https://en.wikipedia.org/wiki/Very-long-baseline_interferometry",
      "https://en.wikipedia.org/wiki/Seafloor_spreading"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "extended-synthesis",
+   "url": "extended-synthesis.html",
+   "title": "The Extended Synthesis",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The proposal that evolutionary theory needs more than the modern synthesis: development, plasticity, inheritance beyond genes.",
+   "facts": {
+    "Status": "Open",
+    "Proposal": "Broaden evolutionary theory",
+    "Elements": "Development; plasticity; niche construction",
+    "Critique": "Already accommodated"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Extended_evolutionary_synthesis",
+     "https://en.wikipedia.org/wiki/Modern_synthesis_(20th_century)",
+     "https://en.wikipedia.org/wiki/Niche_construction",
+     "https://en.wikipedia.org/wiki/Phenotypic_plasticity"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7881,6 +8084,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "flores-ancestry",
+   "url": "flores-ancestry.html",
+   "title": "The Flores Hobbit's Ancestry",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Homo floresiensis is accepted as a species; where it came from is still argued.",
+   "facts": {
+    "Status": "Open",
+    "Species": "Homo floresiensis",
+    "Site": "Liang Bua; Mata Menge",
+    "Ancestor": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Homo_floresiensis",
+     "https://en.wikipedia.org/wiki/Mata_Menge",
+     "https://en.wikipedia.org/wiki/Homo_erectus",
+     "https://en.wikipedia.org/wiki/Insular_dwarfism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "fluoride-pineal",
    "url": "fluoride-pineal.html",
    "title": "Fluoride and the Pineal Gland",
@@ -8271,6 +8503,35 @@
      "https://en.wikipedia.org/wiki/Fan_theory",
      "https://en.wikipedia.org/wiki/Parody",
      "https://en.wikipedia.org/wiki/Formula_fiction"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "gaia-hypothesis",
+   "url": "gaia-hypothesis.html",
+   "title": "Gaia, Weak and Strong",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The proposal that life regulates the planet's conditions. The weak version is mainstream; the strong version is not.",
+   "facts": {
+    "Status": "Debated",
+    "Author": "James Lovelock",
+    "Weak version": "Coupled feedbacks",
+    "Strong version": "Planetary regulation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Gaia_hypothesis",
+     "https://en.wikipedia.org/wiki/James_Lovelock",
+     "https://en.wikipedia.org/wiki/Earth_system_science",
+     "https://en.wikipedia.org/wiki/Climate_feedback"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8833,6 +9094,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "glass-transition",
+   "url": "glass-transition.html",
+   "title": "The Glass Transition",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Liquids cooled into glass never crystallise, and nobody has a complete theory of why. It is a real, everyday unsolved problem.",
+   "facts": {
+    "Status": "Live debate",
+    "Phenomenon": "Liquid to glass without crystallising",
+    "Theory": "Contested",
+    "Field": "Condensed matter"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Glass_transition",
+     "https://en.wikipedia.org/wiki/Glass",
+     "https://en.wikipedia.org/wiki/Condensed_matter_physics",
+     "https://en.wikipedia.org/wiki/Viscosity"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "gleiwitz-incident",
    "url": "gleiwitz-incident.html",
    "title": "The Gleiwitz Incident",
@@ -9195,6 +9485,35 @@
      "https://en.wikipedia.org/wiki/Menopause",
      "https://en.wikipedia.org/wiki/Hadza_people",
      "https://en.wikipedia.org/wiki/Life_history_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "gravity-tabletop",
+   "url": "gravity-tabletop.html",
+   "title": "Gravity in Tabletop Experiments",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Experiments small enough for a laboratory bench now probe gravity itself. The measurements are real and the anomalies are not.",
+   "facts": {
+    "Status": "Ongoing",
+    "Methods": "Torsion balance; atom interferometry",
+    "Looking for": "Deviations from Newton",
+    "Found": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Torsion_spring",
+     "https://en.wikipedia.org/wiki/Atom_interferometer",
+     "https://en.wikipedia.org/wiki/Inverse-square_law",
+     "https://en.wikipedia.org/wiki/Tests_of_general_relativity"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9788,6 +10107,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "handicap-principle",
+   "url": "handicap-principle.html",
+   "title": "The Handicap Principle",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The proposal that costly signals are honest precisely because they are costly. It explains a lot and is hard to test.",
+   "facts": {
+    "Status": "Widely used; scope argued",
+    "Author": "Amotz Zahavi",
+    "Claim": "Costly signals are honest"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Handicap_principle",
+     "https://en.wikipedia.org/wiki/Signalling_theory",
+     "https://en.wikipedia.org/wiki/Sexual_selection",
+     "https://en.wikipedia.org/wiki/Amotz_Zahavi"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "hanging-munchkin",
    "url": "hanging-munchkin.html",
    "title": "The Hanging Munchkin",
@@ -10311,6 +10658,35 @@
      "https://en.wikipedia.org/wiki/Horizon_(IT_system)",
      "https://en.wikipedia.org/wiki/Subpostmaster",
      "https://en.wikipedia.org/wiki/Miscarriage_of_justice"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "how-humans-spread",
+   "url": "how-humans-spread.html",
+   "title": "How Modern Humans Spread",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Out of Africa, with interbreeding and multiple dispersals. The broad picture is settled and the details are not.",
+   "facts": {
+    "Status": "Open in detail",
+    "Origin": "Africa",
+    "Interbreeding": "Neanderthals; Denisovans",
+    "Contested": "Routes and timing"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans",
+     "https://en.wikipedia.org/wiki/Early_human_migrations",
+     "https://en.wikipedia.org/wiki/Archaic_human_admixture_with_modern_humans",
+     "https://en.wikipedia.org/wiki/Ancient_DNA"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10930,6 +11306,34 @@
      "https://en.wikipedia.org/wiki/Isotope_analysis",
      "https://en.wikipedia.org/wiki/Bergen",
      "https://en.wikipedia.org/wiki/Cold_case"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "it-from-bit",
+   "url": "it-from-bit.html",
+   "title": "It from Bit",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Wheeler's proposal that physical reality derives from information. It is a slogan with a programme behind it.",
+   "facts": {
+    "Status": "Programme, not theory",
+    "Author": "John Archibald Wheeler",
+    "Claim": "Reality derives from information"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Digital_physics",
+     "https://en.wikipedia.org/wiki/John_Archibald_Wheeler",
+     "https://en.wikipedia.org/wiki/Quantum_information",
+     "https://en.wikipedia.org/wiki/Holographic_principle"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12119,6 +12523,64 @@
      "https://en.wikipedia.org/wiki/Musaeum",
      "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
      "https://en.wikipedia.org/wiki/Papyrus"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "life-on-mars-first",
+   "url": "life-on-mars-first.html",
+   "title": "Life on Mars First",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that life appeared on Mars before Earth, and came here on a rock. The mechanism is possible; the evidence is not there.",
+   "facts": {
+    "Status": "Open",
+    "Proposal": "Life arose on Mars first",
+    "Route": "Martian meteorites",
+    "Evidence": "None accepted"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Panspermia",
+     "https://en.wikipedia.org/wiki/Allan_Hills_84001",
+     "https://en.wikipedia.org/wiki/Water_on_Mars",
+     "https://en.wikipedia.org/wiki/Abiogenesis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "light-momentum-matter",
+   "url": "light-momentum-matter.html",
+   "title": "Light's Momentum in Matter",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Does a photon's momentum in a medium follow Minkowski's or Abraham's formula? The argument ran for a century.",
+   "facts": {
+    "Status": "Largely resolved",
+    "Formulas": "Abraham; Minkowski",
+    "Dispute": "A century",
+    "Resolution": "Different quantities"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Abraham%E2%80%93Minkowski_controversy",
+     "https://en.wikipedia.org/wiki/Photon",
+     "https://en.wikipedia.org/wiki/Radiation_pressure",
+     "https://en.wikipedia.org/wiki/Refractive_index"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13655,6 +14117,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "medusa",
+   "url": "medusa.html",
+   "title": "Medusa",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The gorgon's head turns viewers to stone. Explanations have included fossils, masks and ritual, and none is established.",
+   "facts": {
+    "Status": "Unproven",
+    "Motif": "The gorgoneion",
+    "Function": "Apotropaic",
+    "Origin": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Medusa",
+     "https://en.wikipedia.org/wiki/Gorgoneion",
+     "https://en.wikipedia.org/wiki/Apotropaic_magic",
+     "https://en.wikipedia.org/wiki/Greek_mythology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "megafauna-extinctions",
    "url": "megafauna-extinctions.html",
    "title": "The Megafauna Extinctions",
@@ -13929,6 +14420,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "minotaur-earthquake",
+   "url": "minotaur-earthquake.html",
+   "title": "The Minotaur as Earthquake",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that the Minotaur myth encodes a memory of the Thera eruption or of Cretan earthquakes. The myth is real; the encoding is a proposal.",
+   "facts": {
+    "Status": "Unproven",
+    "Claim": "The myth encodes a catastrophe",
+    "Real events": "Thera; earthquakes",
+    "Text": "Greek, centuries later"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Minotaur",
+     "https://en.wikipedia.org/wiki/Minoan_eruption",
+     "https://en.wikipedia.org/wiki/Labyrinth",
+     "https://en.wikipedia.org/wiki/Minoan_civilization"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "mirror-matter",
    "url": "mirror-matter.html",
    "title": "Mirror Matter",
@@ -13984,6 +14504,35 @@
      "https://en.wikipedia.org/wiki/Premotor_cortex",
      "https://en.wikipedia.org/wiki/Action_observation",
      "https://en.wikipedia.org/wiki/Empathy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mithras-precession",
+   "url": "mithras-precession.html",
+   "title": "Mithras and Precession",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A claim that Mithraic iconography encodes the precession of the equinoxes. The imagery is real; the astronomy is a reading.",
+   "facts": {
+    "Status": "Contested",
+    "Subject": "The tauroctony",
+    "Claim": "Encodes precession",
+    "Evidence": "Zodiacal imagery"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mithraism",
+     "https://en.wikipedia.org/wiki/Tauroctony",
+     "https://en.wikipedia.org/wiki/Axial_precession",
+     "https://en.wikipedia.org/wiki/Astral_religion"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16424,6 +16973,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "penrose-cycles",
+   "url": "penrose-cycles.html",
+   "title": "Penrose's Cycles",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The proposal that the universe repeats in aeons, with evidence claimed in the cosmic microwave background. The claims have not held.",
+   "facts": {
+    "Status": "Not confirmed",
+    "Author": "Roger Penrose",
+    "Claim": "Cycles of aeons",
+    "Signature": "CMB circles"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology",
+     "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+     "https://en.wikipedia.org/wiki/Roger_Penrose",
+     "https://en.wikipedia.org/wiki/Physical_cosmology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "peopling-of-americas",
    "url": "peopling-of-americas.html",
    "title": "Peopling of the Americas",
@@ -17528,6 +18106,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "prion-spread",
+   "url": "prion-spread.html",
+   "title": "Prion-Like Spread",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Misfolded proteins that propagate through the brain, implicated in several neurodegenerative diseases. The mechanism is documented for prions; its reach is argued.",
+   "facts": {
+    "Status": "Debated",
+    "Established": "Prion diseases",
+    "Extended to": "Tau; alpha-synuclein; amyloid"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Prion",
+     "https://en.wikipedia.org/wiki/Protein_misfolding",
+     "https://en.wikipedia.org/wiki/Tau_protein",
+     "https://en.wikipedia.org/wiki/Neurodegenerative_disease"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "project-112",
    "url": "project-112.html",
    "title": "Project 112 and SHAD",
@@ -17892,6 +18498,35 @@
      "https://en.wikipedia.org/wiki/Thule",
      "https://en.wikipedia.org/wiki/Sea_ice",
      "https://en.wikipedia.org/wiki/Strabo"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "qbism",
+   "url": "qbism.html",
+   "title": "QBism",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "An interpretation in which the quantum state is a person's expectation, not a fact about the world.",
+   "facts": {
+    "Status": "Interpretive",
+    "Claim": "The state is belief",
+    "Predictions": "Same as standard QM",
+    "Criticism": "Subjectivity"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Quantum_Bayesianism",
+     "https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics",
+     "https://en.wikipedia.org/wiki/Born_rule",
+     "https://en.wikipedia.org/wiki/Bayesian_probability"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -18453,6 +19088,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "relational-quantum",
+   "url": "relational-quantum.html",
+   "title": "Relational Quantum Mechanics",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The proposal that quantum states are always relative to an observer, and that there is no observer-independent description.",
+   "facts": {
+    "Status": "Interpretive",
+    "Author": "Carlo Rovelli",
+    "Claim": "States are relational",
+    "Predictions": "Same as standard QM"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Relational_quantum_mechanics",
+     "https://en.wikipedia.org/wiki/Carlo_Rovelli",
+     "https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics",
+     "https://en.wikipedia.org/wiki/Quantum_entanglement"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "repressed-memory",
    "url": "repressed-memory.html",
    "title": "Repressed Memory",
@@ -18508,6 +19172,34 @@
      "https://www.nber.org/papers/w5398",
      "https://doi.org/10.1111/j.1468-0297.2006.01089.x",
      "https://eiti.org/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "retrocausality",
+   "url": "retrocausality.html",
+   "title": "Retrocausality",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The proposal that later events can influence earlier ones. Some interpretations use it; no experiment has shown it.",
+   "facts": {
+    "Status": "Interpretive",
+    "Claim": "Future events constrain the past",
+    "Signalling": "Not possible"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Retrocausality",
+     "https://en.wikipedia.org/wiki/Transactional_interpretation",
+     "https://en.wikipedia.org/wiki/Quantum_entanglement",
+     "https://en.wikipedia.org/wiki/Causality_(physics)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -20829,6 +21521,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sterile-neutrinos",
+   "url": "sterile-neutrinos.html",
+   "title": "Sterile Neutrinos",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A hypothetical neutrino that interacts only through gravity. Several anomalies pointed to it; the experiments have not confirmed it.",
+   "facts": {
+    "Status": "Not confirmed",
+    "Candidate": "A gravitationally interacting neutrino",
+    "Anomalies": "Short-baseline experiments"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sterile_neutrino",
+     "https://en.wikipedia.org/wiki/Neutrino_oscillation",
+     "https://en.wikipedia.org/wiki/MicroBooNE",
+     "https://en.wikipedia.org/wiki/MiniBooNE"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "stevie-wonder-can-see",
    "url": "stevie-wonder-can-see.html",
    "title": "Stevie Wonder Can See",
@@ -22668,6 +23388,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "trojan-horse-ram",
+   "url": "trojan-horse-ram.html",
+   "title": "The Trojan Horse as a Ram",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A proposal that the 'horse' was a siege engine or a ship's figurehead rather than a wooden animal. The poem says horse; the archaeology says siege.",
+   "facts": {
+    "Status": "Unresolved",
+    "Object": "The wooden horse",
+    "Proposals": "Ram; tower; ship; metaphor",
+    "Evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Trojan_Horse",
+     "https://en.wikipedia.org/wiki/Siege_engine",
+     "https://en.wikipedia.org/wiki/Troy_VII",
+     "https://en.wikipedia.org/wiki/Iliad"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "troy-was-real",
    "url": "troy-was-real.html",
    "title": "Troy Was Real",
@@ -23257,6 +24006,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "valhalla-coping",
+   "url": "valhalla-coping.html",
+   "title": "Valhalla as Coping",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that Norse afterlife imagery was a psychological mechanism for warrior societies. The texts are real; the function is a reading.",
+   "facts": {
+    "Status": "Fringe",
+    "Texts": "Icelandic, post-conversion",
+    "Claim": "A coping mechanism",
+    "Testable": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Valhalla",
+     "https://en.wikipedia.org/wiki/Norse_mythology",
+     "https://en.wikipedia.org/wiki/Einherjar",
+     "https://en.wikipedia.org/wiki/Poetic_Edda"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "varsity-blues",
    "url": "varsity-blues.html",
    "title": "Varsity Blues",
@@ -23526,6 +24304,36 @@
      "https://en.wikipedia.org/wiki/Herbal",
      "https://en.wikipedia.org/wiki/Illuminated_manuscript",
      "https://en.wikipedia.org/wiki/Undeciphered_writing_systems"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "voynich-cathar",
+   "url": "voynich-cathar.html",
+   "title": "Voynich as a Cathar Text",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "One of many proposed readings of the Voynich manuscript: that it is a Cathar or heretical text. The manuscript is real; the reading is not established.",
+   "facts": {
+    "Status": "Live debate",
+    "Object": "Voynich manuscript",
+    "Date": "Early 15th century",
+    "Script": "Undeciphered",
+    "Readings": "Many; none accepted"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Voynich_manuscript",
+     "https://en.wikipedia.org/wiki/Catharism",
+     "https://en.wikipedia.org/wiki/Undeciphered_writing_systems",
+     "https://en.wikipedia.org/wiki/Cryptanalysis"
     ]
    },
    "last_reviewed": "2026-11-20",
