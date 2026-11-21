@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 557,
+ "count": 581,
  "claims": [
   {
    "slug": "abc-conjecture",
@@ -2332,6 +2332,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "cattle-mutilations",
+   "url": "cattle-mutilations.html",
+   "title": "Cattle Mutilations",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Cattle found dead with clean cuts and missing organs, said to be the work of something unusual. The forensic explanations are ordinary and varied.",
+   "facts": {
+    "Status": "Live debate",
+    "Period": "From the 1960s; peak in the 1970s",
+    "Wound pattern": "Clean edges; soft tissue removed",
+    "Explanations": "Scavengers; decomposition; humans",
+    "Prosecutions": "A few",
+    "Exotic cause": "None established"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cattle_mutilation",
+     "https://en.wikipedia.org/wiki/Forensic_entomology",
+     "https://en.wikipedia.org/wiki/Decomposition",
+     "https://en.wikipedia.org/wiki/Scavenger"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ce5-contact-protocol",
    "url": "ce5-contact-protocol.html",
    "title": "The CE5 Contact Protocol",
@@ -2728,6 +2759,37 @@
      "https://en.wikipedia.org/wiki/Climate_sensitivity",
      "https://en.wikipedia.org/wiki/Cloud",
      "https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cobb-totem",
+   "url": "cobb-totem.html",
+   "title": "Cobb's Real Totem",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "In Inception, Cobb spins a top to test reality — but the top was Mal's, not his. His actual totem is his wedding ring, which appears only in dreams.",
+   "facts": {
+    "Status": "Fiction",
+    "Film": "Inception, 2010",
+    "Top": "Mal's totem, not Cobb's",
+    "Cobb's totem": "Probably the wedding ring",
+    "Ring appears": "In dreams only",
+    "Director": "Has not confirmed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Inception",
+     "https://en.wikipedia.org/wiki/Christopher_Nolan",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Unreliable_narrator"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3957,6 +4019,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "devils-footprints",
+   "url": "devils-footprints.html",
+   "title": "The Devil's Footprints",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Hoof-like prints appeared across Devon overnight, in a line, over walls and roofs. The snow was real; the explanation is still argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Date": "February 1855",
+    "Place": "Devon, England",
+    "Pattern": "A line of hoof-like prints",
+    "Extent": "Tens of miles",
+    "Explanations": "Animal; distortion; hoax"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Devil%27s_Footprints",
+     "https://en.wikipedia.org/wiki/Folklore",
+     "https://en.wikipedia.org/wiki/Snow",
+     "https://en.wikipedia.org/wiki/Hoax"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "die-glocke",
    "url": "die-glocke.html",
    "title": "Die Glocke",
@@ -4108,6 +4201,37 @@
      "https://en.wikipedia.org/wiki/Sodder_children_disappearance",
      "https://en.wikipedia.org/wiki/MV_Joyita",
      "https://en.wikipedia.org/wiki/Percy_Fawcett"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dmn-ego-death",
+   "url": "dmn-ego-death.html",
+   "title": "The Default Mode Network and Ego Death",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Psychedelics reduce activity in the brain network associated with self-referential thought, and people report the dissolution of the self. The correlation is documented; the interpretation is not.",
+   "facts": {
+    "Status": "Live debate",
+    "Network": "Default mode network",
+    "Finding": "Psilocybin reduces within-network connectivity",
+    "Correlate": "Ego dissolution reports",
+    "Contested": "Causation; DMN function",
+    "Field": "Cognitive neuroscience"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Default_mode_network",
+     "https://en.wikipedia.org/wiki/Psilocybin",
+     "https://en.wikipedia.org/wiki/Ego_death",
+     "https://en.wikipedia.org/wiki/Resting_state_fMRI"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5141,6 +5265,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "expanding-earth",
+   "url": "expanding-earth.html",
+   "title": "Expanding Earth",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that the Earth has grown over time, with the continents fitting together on a smaller globe. Plate tectonics explains the same fit without the growth.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "The Earth's radius has increased",
+    "Superseded by": "Plate tectonics",
+    "Measurement": "No change detected",
+    "Mechanism": "None",
+    "Fit explained by": "Continental drift"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Expanding_Earth",
+     "https://en.wikipedia.org/wiki/Plate_tectonics",
+     "https://en.wikipedia.org/wiki/Very-long-baseline_interferometry",
+     "https://en.wikipedia.org/wiki/Seafloor_spreading"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "face-on-mars",
    "url": "face-on-mars.html",
    "title": "The Face on Mars",
@@ -5426,6 +5581,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "flatwoods-monster",
+   "url": "flatwoods-monster.html",
+   "title": "The Flatwoods Monster",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A group in West Virginia reported a tall figure with a red face and a hood after seeing a light in the sky. The most economical explanation is a meteor and an owl.",
+   "facts": {
+    "Status": "Largely explained",
+    "Date": "September 1952",
+    "Place": "Flatwoods, West Virginia",
+    "Reported": "Tall figure, red face, hissing",
+    "Likely explanation": "Meteor plus barn owl"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Flatwoods_monster",
+     "https://en.wikipedia.org/wiki/Barn_owl",
+     "https://en.wikipedia.org/wiki/Meteoroid",
+     "https://en.wikipedia.org/wiki/Ufology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "flood-myths",
    "url": "flood-myths.html",
    "title": "Noah, Gilgamesh &amp; the Great Flood",
@@ -5579,6 +5764,37 @@
      "https://en.wikipedia.org/wiki/Free_energy_principle",
      "https://en.wikipedia.org/wiki/Predictive_coding",
      "https://plato.stanford.edu/entries/bayes-theorem/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "fresno-nightcrawlers",
+   "url": "fresno-nightcrawlers.html",
+   "title": "The Fresno Nightcrawlers",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A night-vision video showed two pale, walking figures with no arms or head. The best explanation is a deer seen from behind, at night, at an odd angle.",
+   "facts": {
+    "Status": "Debunked",
+    "Footage": "2007, Fresno, California",
+    "Description": "Pale, walking, no visible head or arms",
+    "Proposed explanation": "Deer seen from behind",
+    "Camera": "Night-vision, low resolution",
+    "Fabrication claimed": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Fresno_Nightcrawler",
+     "https://en.wikipedia.org/wiki/Night_vision",
+     "https://en.wikipedia.org/wiki/Pareidolia",
+     "https://en.wikipedia.org/wiki/Deer"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6897,6 +7113,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "hanging-munchkin",
+   "url": "hanging-munchkin.html",
+   "title": "The Hanging Munchkin",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A shadow in The Wizard of Oz is said to be a Munchkin actor who hanged himself on set. It is a bird, and the story has been checked many times.",
+   "facts": {
+    "Status": "Debunked",
+    "Film": "The Wizard of Oz, 1939",
+    "Claim": "A hanging visible in a shot",
+    "Reality": "A large bird used on set",
+    "Deaths on set": "None documented",
+    "Rumour grew": "After home video"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)",
+     "https://en.wikipedia.org/wiki/Urban_legend",
+     "https://en.wikipedia.org/wiki/Munchkin",
+     "https://en.wikipedia.org/wiki/Sound_stage"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "harvest-now-decrypt-later",
    "url": "harvest-now-decrypt-later.html",
    "title": "Harvest Now, Decrypt Later",
@@ -7236,6 +7483,37 @@
      "https://en.wikipedia.org/wiki/Hopi",
      "https://en.wikipedia.org/wiki/Ancient_astronauts",
      "https://en.wikipedia.org/wiki/Cultural_appropriation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "hopkinsville-goblins",
+   "url": "hopkinsville-goblins.html",
+   "title": "The Hopkinsville Goblins",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A family in Kentucky reported a siege by small silver figures after a light in the sky. The case is well documented and the leading explanation is owls.",
+   "facts": {
+    "Status": "Live debate",
+    "Date": "August 1955",
+    "Place": "Kelly, Kentucky",
+    "Reported": "Small figures with glowing eyes",
+    "Likely explanation": "Great horned owls",
+    "Documented": "Police report; bullet holes"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter",
+     "https://en.wikipedia.org/wiki/Great_horned_owl",
+     "https://en.wikipedia.org/wiki/Ufology",
+     "https://en.wikipedia.org/wiki/Mass_psychogenic_illness"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7767,6 +8045,37 @@
      "https://en.wikipedia.org/wiki/Gupta_Empire",
      "https://en.wikipedia.org/wiki/Passivation",
      "https://en.wikipedia.org/wiki/Qutb_complex"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "jersey-devil",
+   "url": "jersey-devil.html",
+   "title": "The Jersey Devil",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A winged creature said to haunt the Pine Barrens of New Jersey, with a legend about a thirteenth child and a wave of sightings in 1909.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Region": "Pine Barrens, New Jersey",
+    "Legend from": "1730s",
+    "Sighting wave": "January 1909",
+    "Specimen": "None",
+    "Explanations": "Misidentified animals"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Jersey_Devil",
+     "https://en.wikipedia.org/wiki/Pine_Barrens_(New_Jersey)",
+     "https://en.wikipedia.org/wiki/Cryptozoology",
+     "https://en.wikipedia.org/wiki/Folklore"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8801,6 +9110,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "lost-cosmonauts",
+   "url": "lost-cosmonauts.html",
+   "title": "Lost Cosmonauts",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that the Soviet Union lost cosmonauts in orbit and covered it up, based on amateur radio recordings. The archives opened, and the crews are accounted for.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Concealed cosmonaut deaths",
+    "Evidence offered": "Amateur radio recordings",
+    "Known fatal missions": "1967; 1971",
+    "Archives": "Opened after 1989",
+    "Concealed crews": "None found"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lost_Cosmonauts",
+     "https://en.wikipedia.org/wiki/Soyuz_1",
+     "https://en.wikipedia.org/wiki/Soyuz_11",
+     "https://en.wikipedia.org/wiki/Soviet_space_program"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lost-dutchman",
    "url": "lost-dutchman.html",
    "title": "The Lost Dutchman Mine",
@@ -9533,6 +9873,37 @@
      "https://en.wikipedia.org/wiki/Overkill_hypothesis",
      "https://en.wikipedia.org/wiki/Pleistocene_megafauna",
      "https://en.wikipedia.org/wiki/Palaeoecology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "megalodon-trench",
+   "url": "megalodon-trench.html",
+   "title": "Megalodon in the Trench",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A giant shark known from teeth, extinct for millions of years, said to survive in the deep ocean. The size of the animal is the argument against it.",
+   "facts": {
+    "Status": "Debunked",
+    "Species": "Otodus megalodon",
+    "Lived": "About 23–3.6 million years ago",
+    "Estimated length": "15–20 m",
+    "Habitat": "Coastal waters",
+    "Recent specimen": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Megalodon",
+     "https://en.wikipedia.org/wiki/Shark_tooth",
+     "https://en.wikipedia.org/wiki/Deep_sea",
+     "https://en.wikipedia.org/wiki/Lazarus_taxon"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10323,6 +10694,68 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "nazca-water-maps",
+   "url": "nazca-water-maps.html",
+   "title": "The Nazca Lines as Water Maps",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The lines may mark routes to water rather than sky gods or runways. The puquios — spiral wells — are real, and the lines' relationship to them is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Site": "Nazca desert, Peru",
+    "Aqueducts": "Puquios, built by the Nazca",
+    "Hypothesis": "Lines mark routes to water",
+    "Contested": "The purpose",
+    "Field": "Archaeology"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Nazca_lines",
+     "https://en.wikipedia.org/wiki/Puquios",
+     "https://en.wikipedia.org/wiki/Nazca_culture",
+     "https://en.wikipedia.org/wiki/Water_resource_management"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "nde-dmt",
+   "url": "nde-dmt.html",
+   "title": "Near-Death Experiences as DMT Release",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that the brain releases DMT at death, producing the tunnel, the light and the life review. The resemblance is real; the release has never been measured.",
+   "facts": {
+    "Status": "Live debate",
+    "Compound": "N,N-dimethyltryptamine",
+    "Found in mammals": "Trace amounts",
+    "Rat study": "2019, after cardiac arrest",
+    "Human measurement": "None",
+    "Other explanations": "Hypoxia; temporal lobe; end-of-life chemistry"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Near-death_experience",
+     "https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine",
+     "https://en.wikipedia.org/wiki/Psychedelic_drug",
+     "https://en.wikipedia.org/wiki/Hypoxia_(medicine)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "neanderthal-cannibalism",
    "url": "neanderthal-cannibalism.html",
    "title": "Neanderthal Cannibalism",
@@ -10533,6 +10966,37 @@
      "https://en.wikipedia.org/wiki/Coca-Cola",
      "https://en.wikipedia.org/wiki/Marketing",
      "https://en.wikipedia.org/wiki/Streisand_effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ningen",
+   "url": "ningen.html",
+   "title": "The Ningen",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A Japanese internet cryptid: a white, humanoid whale said to live in Antarctic waters. It appears to have been invented online.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Origin": "Japanese internet forums, c. 2007",
+    "Description": "Large white humanoid whale",
+    "Habitat claimed": "Southern Ocean",
+    "Images": "Manipulated",
+    "Physical evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ningen_(cryptid)",
+     "https://en.wikipedia.org/wiki/Cryptozoology",
+     "https://en.wikipedia.org/wiki/Southern_Ocean",
+     "https://en.wikipedia.org/wiki/Photo_manipulation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11376,6 +11840,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "patomskiy-crater",
+   "url": "patomskiy-crater.html",
+   "title": "The Patomskiy Crater",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A cone-shaped mound in the Siberian forest, with a ring of smaller mounds around it. It has been attributed to a meteorite, a gas explosion and a volcano.",
+   "facts": {
+    "Status": "Live debate",
+    "Location": "Irkutsk region, Siberia",
+    "Size": "About 70 m high, 160 m across",
+    "Reported": "1949",
+    "Impact ruled out": "No meteoritic material",
+    "Proposals": "Gas; mud volcano; hydrothermal"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Patomskiy_crater",
+     "https://en.wikipedia.org/wiki/Mud_volcano",
+     "https://en.wikipedia.org/wiki/Impact_crater",
+     "https://en.wikipedia.org/wiki/Siberia"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "paul-is-dead",
    "url": "paul-is-dead.html",
    "title": "Paul Is Dead",
@@ -11743,6 +12238,37 @@
      "https://en.wikipedia.org/wiki/Phosphine",
      "https://science.nasa.gov/mission/davinci/",
      "https://www.esa.int/Science_Exploration/Space_Science/EnVision"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "pikachu-tail",
+   "url": "pikachu-tail.html",
+   "title": "Pikachu's Tail",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A generation remembers Pikachu with a black tip on its tail. It has never had one, and the false memory is a textbook case.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Pikachu's tail once had a black tip",
+    "Reality": "Plain yellow, brown at the base",
+    "Source of confusion": "Pichu, and fan art",
+    "Check": "Any official artwork",
+    "Category": "Mandela effect"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Pikachu",
+     "https://en.wikipedia.org/wiki/Pichu",
+     "https://en.wikipedia.org/wiki/False_memory#Mandela_effect",
+     "https://en.wikipedia.org/wiki/False_memory"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12145,6 +12671,67 @@
      "https://en.wikipedia.org/wiki/Vagus_nerve",
      "https://en.wikipedia.org/wiki/Autonomic_nervous_system",
      "https://en.wikipedia.org/wiki/Trauma_focused_cognitive_behavioral_therapy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "portal-half-life",
+   "url": "portal-half-life.html",
+   "title": "Portal and Half-Life Share a Universe",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Two Valve games set in the same world, with a research ship, a shadowy corporation and a shared apocalypse. The connection is documented in the games and confirmed by the studio.",
+   "facts": {
+    "Status": "Canon",
+    "Games": "Portal; Half-Life",
+    "Shared element": "Aperture Science and Black Mesa",
+    "Key object": "The Borealis",
+    "Confirmed by": "Valve"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Portal_(video_game)",
+     "https://en.wikipedia.org/wiki/Half-Life_(series)",
+     "https://en.wikipedia.org/wiki/Aperture_Science",
+     "https://en.wikipedia.org/wiki/Valve_Corporation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "predictive-coding",
+   "url": "predictive-coding.html",
+   "title": "Predictive Coding",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that the brain is a prediction machine, constantly modelling the world and correcting the errors. It explains a lot and has been hard to prove.",
+   "facts": {
+    "Status": "Live debate",
+    "Claim": "The brain minimises prediction error",
+    "Support": "Suppression of predictable stimuli",
+    "Contested": "Laminar evidence; falsifiability",
+    "Related": "Free energy principle; Bayesian brain",
+    "Field": "Cognitive neuroscience"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Predictive_coding",
+     "https://en.wikipedia.org/wiki/Free_energy_principle",
+     "https://en.wikipedia.org/wiki/Bayesian_approaches_to_brain_function",
+     "https://en.wikipedia.org/wiki/Cerebral_cortex"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -14218,6 +14805,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "skinwalker-ranch",
+   "url": "skinwalker-ranch.html",
+   "title": "Skinwalker Ranch",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A ranch in Utah with a reputation for cattle mutilation, strange lights and 'portals'. It was investigated by a defence contractor and by a television series, with no published findings.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Location": "Uintah Basin, Utah",
+    "Book": "1996, the Sherman family",
+    "Investigated by": "Bigelow's company; a research institute",
+    "Peer-reviewed findings": "None",
+    "Afterlife": "Television series"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Skinwalker_Ranch",
+     "https://en.wikipedia.org/wiki/Robert_Bigelow",
+     "https://en.wikipedia.org/wiki/Cattle_mutilation",
+     "https://en.wikipedia.org/wiki/Uinta_Basin"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "snowball-earth",
    "url": "snowball-earth.html",
    "title": "Snowball Earth",
@@ -15617,6 +16235,36 @@
      "https://en.wikipedia.org/wiki/Pytheas",
      "https://en.wikipedia.org/wiki/Greek_geography",
      "https://en.wikipedia.org/wiki/Iceland"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "thunderbirds",
+   "url": "thunderbirds.html",
+   "title": "Thunderbirds",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Giant birds in Native American tradition and in a famous photograph that turned out to be a hoax. The tradition is real; the bird is not.",
+   "facts": {
+    "Status": "Not supported",
+    "Tradition": "Native American storm beings",
+    "Key evidence": "A photograph, since shown to be a hoax",
+    "Specimen": "None",
+    "Largest real birds": "Condors, albatrosses"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Thunderbird_(mythology)",
+     "https://en.wikipedia.org/wiki/Cryptozoology",
+     "https://en.wikipedia.org/wiki/Andean_condor",
+     "https://en.wikipedia.org/wiki/Hoax"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -17327,6 +17975,95 @@
      "https://en.wikipedia.org/wiki/Featured_snippet",
      "https://en.wikipedia.org/wiki/Online_advertising",
      "https://en.wikipedia.org/wiki/Digital_divide"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "zion-another-matrix",
+   "url": "zion-another-matrix.html",
+   "title": "Zion Is Another Matrix",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The theory that the 'real world' in The Matrix is a second layer of simulation. It is an elegant reading, and the filmmakers have described it differently.",
+   "facts": {
+    "Status": "Interpretation, not canon",
+    "Films": "The Matrix, 1999; sequels",
+    "Theory": "Zion is a second simulation",
+    "Filmmakers": "Describe the real world as real"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Matrix",
+     "https://en.wikipedia.org/wiki/Zion_(The_Matrix)",
+     "https://en.wikipedia.org/wiki/Simulation_hypothesis",
+     "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "zodiac-killer",
+   "url": "zodiac-killer.html",
+   "title": "The Zodiac Killer",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Five confirmed murders in California, a set of ciphers sent to newspapers, and a case that has never been closed. Two of the ciphers have been solved.",
+   "facts": {
+    "Status": "Open",
+    "Confirmed murders": "Five",
+    "Ciphers": "408 solved 1969; 340 solved 2020; 13 unsolved",
+    "Prime suspect": "Arthur Leigh Allen — never charged"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Zodiac_Killer",
+     "https://en.wikipedia.org/wiki/Zodiac_Killer_ciphers",
+     "https://en.wikipedia.org/wiki/Arthur_Leigh_Allen",
+     "https://en.wikipedia.org/wiki/Cryptography"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "zone-of-silence",
+   "url": "zone-of-silence.html",
+   "title": "The Zone of Silence",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A patch of desert in Mexico where radios allegedly fail and meteorites fall. The explanation is an absence of transmitters and a lot of empty space.",
+   "facts": {
+    "Status": "Debunked",
+    "Location": "Mapimí, Mexico",
+    "Name from": "A 1960s radio survey",
+    "Meteorite": "One fall, 1969",
+    "Anomalous field": "None established",
+    "Real cause": "Remoteness; no transmitters"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Zone_of_Silence",
+     "https://en.wikipedia.org/wiki/Mapim%C3%AD",
+     "https://en.wikipedia.org/wiki/Radio_propagation",
+     "https://en.wikipedia.org/wiki/Meteorite"
     ]
    },
    "last_reviewed": "2026-11-20",

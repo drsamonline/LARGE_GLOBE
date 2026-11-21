@@ -773,6 +773,14 @@ The five `open problem` pages are the first use of that label in the archive, an
 
 **A working-copy failure worth recording.** This pass began in a pod whose copy of the repository was three commits behind the remote — the lost-lands, things-that-were-real and open-problems batches had been pushed but were not in the local clone. The first publish therefore wrote 25 pages on top of a stale tree and produced a sitemap of 507 URLs where there should have been 581. The fix was `git fetch` and `git reset --hard origin/main` (which preserved the untracked new pages), then re-running the publisher so that the search index, sitemap, charts and ledger were rebuilt against the correct tree. Nothing was lost; the check that caught it was the sitemap count, which should never go down.
 
+## 0ao. Shipped in the fortieth pass — 21 November 2026: cryptids and film lore
+
+24 new dossiers (one, `aphantasia`, was a duplicate of an existing page and was restored from git): nine cryptids and folklore cases, three geology and palaeontology questions, four mind-science debates, four film and game readings, and two debunked memory cases.
+
+581 dossiers, 2,430 sources, 615 images, 607 pages, PDF 1,396 pages, EPUB 584 chapters, sitemap 605 URLs, 0 problems.
+
+The batch pairs the two directions the archive now runs in: pages where a legend was tested and failed (Pikachu's tail, the Fresno nightcrawlers, the hanging Munchkin) and pages where the fan reading turned out to be canon (Portal and Half-Life, Cobb's ring).
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
