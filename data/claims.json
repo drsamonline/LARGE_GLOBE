@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 927,
+ "count": 945,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -543,6 +543,34 @@
      "https://en.wikipedia.org/wiki/Automaton",
      "https://en.wikipedia.org/wiki/Water_clock",
      "https://en.wikipedia.org/wiki/History_of_engineering"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "alcohol-brain-cells",
+   "url": "alcohol-brain-cells.html",
+   "title": "Alcohol Kills Brain Cells",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Heavy drinking damages the brain. The mechanism is not the death of cells in the way the phrase suggests.",
+   "facts": {
+    "Status": "Oversimplified",
+    "Claim": "Alcohol kills brain cells",
+    "Reality": "Damage to dendrites and white matter"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Alcohol_and_the_brain",
+     "https://en.wikipedia.org/wiki/Alcoholism",
+     "https://en.wikipedia.org/wiki/Neurotoxicity",
+     "https://en.wikipedia.org/wiki/Dendrite"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3347,6 +3375,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "brain-training",
+   "url": "brain-training.html",
+   "title": "Brain Training",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Games said to make you smarter. You get better at the games.",
+   "facts": {
+    "Status": "Contested",
+    "Claim": "Games improve cognition",
+    "Found": "Improvement on the games",
+    "Not found": "General transfer"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Brain_training",
+     "https://en.wikipedia.org/wiki/Transfer_of_learning",
+     "https://en.wikipedia.org/wiki/Cognitive_training",
+     "https://en.wikipedia.org/wiki/Neuromyth"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "brandolinis-law",
    "url": "brandolinis-law.html",
    "title": "Brandolini's Law",
@@ -4196,6 +4253,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "chewing-gum-seven-years",
+   "url": "chewing-gum-seven-years.html",
+   "title": "Chewing Gum Takes Seven Years",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Swallowed gum passes through in days. The seven-year figure is folklore.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Seven years in the stomach",
+    "Reality": "Passes within days",
+    "Rare": "Blockage with large amounts"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Chewing_gum",
+     "https://en.wikipedia.org/wiki/Gastrointestinal_tract",
+     "https://en.wikipedia.org/wiki/Bezoar",
+     "https://en.wikipedia.org/wiki/Old_wives%27_tale"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "chimera",
    "url": "chimera.html",
    "title": "The Chimera",
@@ -4218,6 +4304,35 @@
      "https://en.wikipedia.org/wiki/Yanarta%C5%9F",
      "https://en.wikipedia.org/wiki/Lycia",
      "https://en.wikipedia.org/wiki/Composite_creature"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "chinese-crisis-word",
+   "url": "chinese-crisis-word.html",
+   "title": "The Chinese Word for Crisis",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that 'crisis' in Chinese means danger plus opportunity. It does not.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Crisis = danger + opportunity",
+    "Characters": "危機",
+    "Reality": "A compound meaning crisis"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Chinese_word_for_%22crisis%22",
+     "https://en.wikipedia.org/wiki/Chinese_characters",
+     "https://en.wikipedia.org/wiki/Folk_etymology",
+     "https://en.wikipedia.org/wiki/Chinese_language"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5164,6 +5279,35 @@
      "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
      "https://en.wikipedia.org/wiki/Spiritualism",
      "https://en.wikipedia.org/wiki/Photograph_manipulation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cracking-knuckles",
+   "url": "cracking-knuckles.html",
+   "title": "Cracking Knuckles Causes Arthritis",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A doctor cracked the knuckles of one hand for sixty years. The other hand was the control.",
+   "facts": {
+    "Status": "Debunked",
+    "Sound": "Cavitation",
+    "Test": "One hand for 60 years",
+    "Result": "No difference"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cracking_joints",
+     "https://en.wikipedia.org/wiki/Cavitation",
+     "https://en.wikipedia.org/wiki/Osteoarthritis",
+     "https://en.wikipedia.org/wiki/Self-experimentation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6345,6 +6489,35 @@
      "https://en.wikipedia.org/wiki/Cappadocia",
      "https://en.wikipedia.org/wiki/Tuff",
      "https://en.wikipedia.org/wiki/Underground_city"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "detox-foot-pads",
+   "url": "detox-foot-pads.html",
+   "title": "Detox Foot Pads",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Patches that turn brown overnight and are said to draw out toxins. The colour is oxidation.",
+   "facts": {
+    "Status": "Debunked",
+    "Product": "Detox foot pads",
+    "Mechanism claimed": "Drawing out toxins",
+    "Reality": "Oxidation with moisture"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Detoxification_(alternative_medicine)",
+     "https://en.wikipedia.org/wiki/Oxidation",
+     "https://en.wikipedia.org/wiki/Quackery",
+     "https://en.wikipedia.org/wiki/Consumer_protection"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8092,6 +8265,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "eskimo-snow-words",
+   "url": "eskimo-snow-words.html",
+   "title": "Eskimo Snow Words",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that Inuit languages have hundreds of words for snow. The number was invented by a populariser and has been repeated ever since.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Hundreds of words for snow",
+    "Reality": "Rich vocabulary; inflated counts",
+    "Cause": "Polysynthetic word formation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Eskimo_words_for_snow",
+     "https://en.wikipedia.org/wiki/Polysynthetic_language",
+     "https://en.wikipedia.org/wiki/Inuit_languages",
+     "https://en.wikipedia.org/wiki/Linguistic_relativity"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "et-and-star-wars",
    "url": "et-and-star-wars.html",
    "title": "E.T. and Star Wars",
@@ -8751,6 +8953,35 @@
      "https://arxiv.org/abs/1207.3123",
      "https://arxiv.org/abs/1306.0533",
      "https://en.wikipedia.org/wiki/Black_hole_information_paradox"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "five-second-rule",
+   "url": "five-second-rule.html",
+   "title": "The Five-Second Rule",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Food dropped on the floor picks up bacteria immediately. The rule is a joke that got studied.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Safe within five seconds",
+    "Reality": "Transfer is immediate",
+    "Depends on": "Moisture; surface"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Five-second_rule",
+     "https://en.wikipedia.org/wiki/Food_safety",
+     "https://en.wikipedia.org/wiki/Bacteria",
+     "https://en.wikipedia.org/wiki/Fomite"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10233,6 +10464,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "goldfish-memory",
+   "url": "goldfish-memory.html",
+   "title": "The Goldfish Memory Myth",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that fish forget everything in three seconds. Experiments show learning that lasts months.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Three-second memory",
+    "Reality": "Learning retained for months"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Goldfish",
+     "https://en.wikipedia.org/wiki/Animal_cognition",
+     "https://en.wikipedia.org/wiki/Memory",
+     "https://en.wikipedia.org/wiki/Operant_conditioning"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "goodharts-law",
    "url": "goodharts-law.html",
    "title": "Goodhart's Law",
@@ -11082,6 +11341,34 @@
      "https://en.wikipedia.org/wiki/Ionosphere",
      "https://en.wikipedia.org/wiki/Weather_modification",
      "https://en.wikipedia.org/wiki/Conspiracy_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "hair-nails-after-death",
+   "url": "hair-nails-after-death.html",
+   "title": "Hair and Nails After Death",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Hair and nails do not grow after death. The skin recedes and creates the illusion.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Hair and nails grow after death",
+    "Reality": "Skin retracts"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hair",
+     "https://en.wikipedia.org/wiki/Nail_(anatomy)",
+     "https://en.wikipedia.org/wiki/Decomposition",
+     "https://en.wikipedia.org/wiki/Forensic_pathology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13528,6 +13815,34 @@
      "https://doi.org/10.1111/j.1539-6053.2009.01038.x",
      "https://doi.org/10.3389/fpsyg.2012.00429",
      "https://en.wikipedia.org/wiki/Testing_effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "left-brain-right-brain",
+   "url": "left-brain-right-brain.html",
+   "title": "Left Brain, Right Brain",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The idea that people are logical or creative by hemisphere. The hemispheres do differ, and not like that.",
+   "facts": {
+    "Status": "Debunked",
+    "Real": "Hemispheric specialisation",
+    "Not real": "Left/right personality types"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lateralization_of_brain_function",
+     "https://en.wikipedia.org/wiki/Split-brain",
+     "https://en.wikipedia.org/wiki/Neuromyth",
+     "https://en.wikipedia.org/wiki/Corpus_callosum"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -22524,6 +22839,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "shaving-hair-thicker",
+   "url": "shaving-hair-thicker.html",
+   "title": "Shaving Makes Hair Thicker",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Shaving does not change hair growth. The stubble only feels coarser.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Shaving thickens hair",
+    "Tested": "1928",
+    "Reality": "No effect on growth"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Shaving",
+     "https://en.wikipedia.org/wiki/Hair",
+     "https://en.wikipedia.org/wiki/Hair_follicle",
+     "https://en.wikipedia.org/wiki/Old_wives%27_tale"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "short-form-attention",
    "url": "short-form-attention.html",
    "title": "Short-Form Video and Attention",
@@ -22923,6 +23267,35 @@
      "https://en.wikipedia.org/wiki/Navajo",
      "https://en.wikipedia.org/wiki/Cultural_appropriation",
      "https://en.wikipedia.org/wiki/Creepypasta"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "sleepwalking-violence",
+   "url": "sleepwalking-violence.html",
+   "title": "Sleepwalking Violence",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "People have committed violence while asleep, and courts have had to decide what that means.",
+   "facts": {
+    "Status": "Documented",
+    "Condition": "Non-REM parasomnia",
+    "Legal": "Automatism defences",
+    "Evidence": "Sleep studies; history"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sleepwalking",
+     "https://en.wikipedia.org/wiki/Parasomnia",
+     "https://en.wikipedia.org/wiki/Automatism_(law)",
+     "https://en.wikipedia.org/wiki/Sleep_medicine"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -24176,6 +24549,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sugar-hyperactivity",
+   "url": "sugar-hyperactivity.html",
+   "title": "Sugar and Hyperactivity",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Sugar does not make children hyperactive. Parents and blinded observers disagree, and that is the finding.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Sugar causes hyperactivity",
+    "Trials": "No effect",
+    "Explanation": "Observer expectation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sugar_high",
+     "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder",
+     "https://en.wikipedia.org/wiki/Placebo",
+     "https://en.wikipedia.org/wiki/Blinded_experiment"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "sundaland",
    "url": "sundaland.html",
    "title": "Sundaland",
@@ -24418,6 +24820,34 @@
      "https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories",
      "https://en.wikipedia.org/wiki/Polynesian_navigation",
      "https://en.wikipedia.org/wiki/Genetic_history_of_Indigenous_Australians_and_Papuans"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "swimming-after-eating",
+   "url": "swimming-after-eating.html",
+   "title": "Swimming After Eating",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The rule that you must wait an hour after eating before swimming. There is no evidence for it.",
+   "facts": {
+    "Status": "Debunked",
+    "Advice": "Wait an hour",
+    "Evidence": "None for increased risk"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Swimming",
+     "https://en.wikipedia.org/wiki/Drowning",
+     "https://en.wikipedia.org/wiki/Old_wives%27_tale",
+     "https://en.wikipedia.org/wiki/Digestion"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -24910,6 +25340,34 @@
      "https://en.wikipedia.org/wiki/Noise-induced_hearing_loss",
      "https://en.wikipedia.org/wiki/Moral_panic",
      "https://en.wikipedia.org/wiki/History_of_technology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ten-percent-brain",
+   "url": "ten-percent-brain.html",
+   "title": "The Ten Per Cent Brain",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that we use a tenth of our brains. Imaging shows activity throughout.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "We use 10% of the brain",
+    "Reality": "Activity throughout"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth",
+     "https://en.wikipedia.org/wiki/Neuroimaging",
+     "https://en.wikipedia.org/wiki/Human_brain",
+     "https://en.wikipedia.org/wiki/Neuromyth"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -25647,6 +26105,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "tongue-map",
+   "url": "tongue-map.html",
+   "title": "The Tongue Map",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The diagram showing sweetness at the tip and bitterness at the back. It came from a mistranslation and it is wrong.",
+   "facts": {
+    "Status": "Debunked",
+    "Origin": "1901 paper",
+    "Claim": "Regions for each taste",
+    "Reality": "All qualities across the tongue"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tongue_map",
+     "https://en.wikipedia.org/wiki/Taste_bud",
+     "https://en.wikipedia.org/wiki/Taste",
+     "https://en.wikipedia.org/wiki/Textbook"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "toon-force",
    "url": "toon-force.html",
    "title": "Toon Force",
@@ -25819,6 +26306,35 @@
      "https://en.wikipedia.org/wiki/Delusion",
      "https://en.wikipedia.org/wiki/The_Truman_Show",
      "https://en.wikipedia.org/wiki/Persecutory_delusion"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "tryptophan-turkey",
+   "url": "tryptophan-turkey.html",
+   "title": "Tryptophan and Turkey",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that turkey makes you sleepy. Turkey has no more tryptophan than chicken, and the meal is the cause.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Turkey makes you sleepy",
+    "Reality": "Comparable to other meats",
+    "Cause": "Meal size; alcohol; time of day"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tryptophan",
+     "https://en.wikipedia.org/wiki/Turkey_meat",
+     "https://en.wikipedia.org/wiki/Postprandial_somnolence",
+     "https://en.wikipedia.org/wiki/Nutrition"
     ]
    },
    "last_reviewed": "2026-11-20",
