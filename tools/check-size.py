@@ -9,7 +9,7 @@ os.chdir(ROOT)
 # not on the archive simply getting bigger.
 import glob as _glob
 _DOSSIERS = len([f for f in _glob.glob("*.html") if '<aside class="facts">' in open(f, encoding="utf-8").read()])
-BUDGET_KB = {"print-edition.html": 300 + 6 * _DOSSIERS, "themes.html": 200 + 0.5 * _DOSSIERS, "search.html": 500,
+BUDGET_KB = {"print-edition.html": 300 + 6 * _DOSSIERS, "themes.html": 200 + 0.5 * _DOSSIERS, "search.html": 500, "credits.html": 200 + 0.5 * _DOSSIERS,
              "compare.html": 250, "topics.html": 400}
 DEFAULT_KB = 120
 over = []

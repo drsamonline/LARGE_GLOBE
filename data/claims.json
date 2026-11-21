@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 631,
+ "count": 630,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -10182,10 +10182,12 @@
     "Related": "Mass delusion, Legends"
    },
    "sources": {
-    "count": 2,
+    "count": 4,
     "urls": [
      "https://www.britannica.com/science/Mandela-effect",
-     "https://www.britannica.com/science/Why-Is-It-Called-the-Mandela-Effect"
+     "https://www.britannica.com/science/Why-Is-It-Called-the-Mandela-Effect",
+     "https://en.wikipedia.org/wiki/False_memory",
+     "https://en.wikipedia.org/wiki/Confabulation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13588,37 +13590,6 @@
      "https://en.wikipedia.org/wiki/H%C5%8Dk%C5%ABle%CA%BBa",
      "https://en.wikipedia.org/wiki/Mau_Piailug",
      "https://en.wikipedia.org/wiki/Polynesia"
-    ]
-   },
-   "last_reviewed": "2026-11-20",
-   "reviewed_by": "Dr. Sohil Momin",
-   "licence": "CC BY-NC 4.0"
-  },
-  {
-   "slug": "polyvagal-theory",
-   "url": "polyvagal-theory.html",
-   "title": "Polyvagal Theory",
-   "theme": "Mind, belief and memory",
-   "theme_id": "mind",
-   "label_text": "Fringe claim",
-   "label_class": "b-fringe",
-   "label_canonical": true,
-   "standfirst": "A three-state model of the autonomic nervous system is taught in trauma training worldwide and rests on comparative anatomy that specialists say is wrong. It is the clearest case in this archive of a clinical framework outrunning its evidence.",
-   "facts": {
-    "Status": "Fringe claim",
-    "Proposed": "Stephen Porges, 1994–1995",
-    "Core claim": "Three hierarchical autonomic states",
-    "Anatomical status": "Disputed; myelinated vagal fibres are not mammalian-only",
-    "Clinical use": "Widespread in trauma-informed training",
-    "What survives": "Autonomic states, HRV, breathing and safety as therapy"
-   },
-   "sources": {
-    "count": 4,
-    "urls": [
-     "https://en.wikipedia.org/wiki/Polyvagal_theory",
-     "https://doi.org/10.1016/j.biopsycho.2006.11.006",
-     "https://en.wikipedia.org/wiki/Vagus_nerve",
-     "https://en.wikipedia.org/wiki/Heart_rate_variability"
     ]
    },
    "last_reviewed": "2026-11-20",

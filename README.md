@@ -9,12 +9,12 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 [**Read the archive**](https://drsamonline.github.io/LARGE_GLOBE/) · [Feed](https://drsamonline.github.io/LARGE_GLOBE/feed.xml) · [Reading guide](https://drsamonline.github.io/LARGE_GLOBE/reading-guide.html) · [Master list](https://drsamonline.github.io/LARGE_GLOBE/master-list.html) · [Search](https://drsamonline.github.io/LARGE_GLOBE/search.html) · [Single-volume edition](https://drsamonline.github.io/LARGE_GLOBE/print-edition.html)
 
 [![live](https://img.shields.io/badge/live-drsamonline.github.io%2FLARGE__GLOBE-A8823F?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/)
-[![dossiers](https://img.shields.io/badge/dossiers-631-A8823F?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/master-list.html)
-[![sources](https://img.shields.io/badge/linked%20sources-2630-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sources.html)
+[![dossiers](https://img.shields.io/badge/dossiers-630-A8823F?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/master-list.html)
+[![sources](https://img.shields.io/badge/linked%20sources-2628-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sources.html)
 [![citations](https://img.shields.io/badge/citations-3%2C380%20across%20299%20domains-2C3548?style=flat-square)](#what-a-source-link-means-here)
-[![images](https://img.shields.io/badge/images-665%20(647%20photos%20%C2%B7%2018%20drawn)-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
+[![images](https://img.shields.io/badge/images-664%20(646%20photos%20%C2%B7%2018%20drawn)-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
 [![words](https://img.shields.io/badge/writing-~117%2C000%20words-2C3548?style=flat-square)](#what-this-is)
-[![pages](https://img.shields.io/badge/pages-657%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
+[![pages](https://img.shields.io/badge/pages-656%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
 [![labels](https://img.shields.io/badge/labels-documented%20%C2%B7%20debate%20%C2%B7%20fringe%20%C2%B7%20debunked-6E6553?style=flat-square)](#the-four-labels)
 [![dependencies](https://img.shields.io/badge/runtime%20dependencies-0-2ea44f?style=flat-square)](#how-it-is-built)
 [![tracking](https://img.shields.io/badge/tracking%20%2F%20cookies-none-2ea44f?style=flat-square)](#privacy)
@@ -33,7 +33,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 
 A hidden-world claim usually arrives in one of two shapes: a screenshot with no author, or a ninety-minute video with no citations. Both are impossible to check. This archive rebuilds each idea from the bottom up — who said it first, what they actually wrote, who repeated it, and what the measurement said afterwards.
 
-**631 dossiers. About 303,000 words. 2,630 linked sources, spread over 3,220 citations to 299 domains. 665 images — 647 credited photographs and 18 original diagrams. No account, no tracking, no paywall.**
+**630 dossiers. About 303,000 words. 2,628 linked sources, spread over 3,220 citations to 299 domains. 664 images — 646 credited photographs and 18 original diagrams. No account, no tracking, no paywall.**
 
 Every dossier follows the same shape, so you always know where you are in it — breadcrumbs at the top, a citation block with APA, MLA, Chicago and BibTeX at the foot, and four neighbours from the same shelf:
 
@@ -50,7 +50,7 @@ The tone is deliberately flat. The material is interesting on its own: Wegener's
 
 ## The four labels
 
-One rule runs through every page: **a claim and its evidence are different things.** So every claim carries one of four labels, applied the same way across all 150 dossiers — 1,040 times as *live debate*, 525 as *documented*, 345 as *debunked*, 274 as *fringe*.
+One rule runs through every page: **a claim and its evidence are different things.** So every claim carries one of six labels, applied the same way across all 630 dossiers — 232 as *live debate*, 129 as *documented*, 90 as *debunked*, 67 as *fringe claim*, 42 as *fiction*, 17 as *open problem*.
 
 | Label | Means | Example |
 |---|---|---|
@@ -63,7 +63,7 @@ Inclusion is not endorsement, and a debunked label is not a verdict on the reade
 
 ## What's in the box
 
-- **150 dossiers** — the larger globe, flat earth, hollow earth, ice wall, inner sun, Tartarus, giants, dragons, cryptids, Tartaria, ancient astronauts, aliens, secret societies, flood myths, urban legends, the deep web, mutants, plus frontier science (the Hubble tension, MOND, muon g−2, the firewall paradox), mind and behaviour (ego depletion, readiness potentials, screen time), economics (minimum wage, MMT, Jevons, secular stagnation) and AI (stochastic parrots, scaling laws, open weights, algorithmic fairness).
+- **630 dossiers** — the larger globe, flat earth, hollow earth, ice wall, inner sun, Tartarus, giants, dragons, cryptids, Tartaria, ancient astronauts, aliens, secret societies, flood myths, urban legends, the deep web, mutants, plus frontier science (the Hubble tension, MOND, muon g−2, the firewall paradox), mind and behaviour (ego depletion, readiness potentials, screen time), economics (minimum wage, MMT, Jevons, secular stagnation) and AI (stochastic parrots, scaling laws, open weights, algorithmic fairness).
 - **Five numbered collections** — [the Frontier 200](https://drsamonline.github.io/LARGE_GLOBE/frontier-index.html), [the Ancient 200](https://drsamonline.github.io/LARGE_GLOBE/ancient-index.html), [the Modern 200](https://drsamonline.github.io/LARGE_GLOBE/modern-index.html), [the 200 Sources](https://drsamonline.github.io/LARGE_GLOBE/mega-index.html) and [Open Problems](https://drsamonline.github.io/LARGE_GLOBE/open-problems.html) — 830 rows, each with a label and a one-line summary.
 - **Tools that work without a server** — [search](https://drsamonline.github.io/LARGE_GLOBE/search.html) over all 980 records with deep-linkable queries, a [three-way comparison](https://drsamonline.github.io/LARGE_GLOBE/compare.html) of any three dossiers, with the selection in the URL, [charts](https://drsamonline.github.io/LARGE_GLOBE/charts.html), [themes](https://drsamonline.github.io/LARGE_GLOBE/themes.html), a [claim register](https://drsamonline.github.io/LARGE_GLOBE/claims-index.html), [the full bibliography](https://drsamonline.github.io/LARGE_GLOBE/sources.html) and a [single-volume edition](https://drsamonline.github.io/LARGE_GLOBE/print-edition.html) of the whole archive in one page.
 - **Twelve dossiers added in November 2026** — cold fusion, the placebo effect, learning styles, growth mindset, the aquatic ape, Snowball Earth, the dinosaur extinction, panpsychism, the free energy principle, polyvagal theory, fast radio bursts and magnetoreception. Each carries a credited Commons photograph and an original diagram.
@@ -93,7 +93,7 @@ Inclusion is not endorsement, and a debunked label is not a verdict on the reade
 
 Plain static HTML, one stylesheet, one page of JavaScript. There is no build step, no framework, no CDN and nothing to install — `git clone` and open `index.html`. That is the whole pipeline, and it is why the archive will still open in ten years.
 
-- **657 pages, 18.4 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
+- **656 pages, 18.4 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
 - **No runtime dependencies.** The only script on the site is the search index on one page — inline JSON, no fetch, so it works from `file://` and offline.
 - **AVIF images**, lazily loaded below the fold, 178 credited photographs, plus 18 vector figures drawn for this archive. Every one is credited with its licence and host on the [credits page](https://drsamonline.github.io/LARGE_GLOBE/credits.html).
 - **The whole archive as a book.** A [1496-page PDF, A5](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.pdf) and a [1118 KB EPUB with a cover](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.epub), both generated from the print edition: 634 parts, no images, sources kept, links flattened to plain text.

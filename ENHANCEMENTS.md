@@ -797,6 +797,24 @@ The batch pairs the two directions the archive now runs in: pages where a legend
 
 Two pages carry the batch's argument: `saki-sanobashi` (a lost anime that has never been found and probably never existed) sits beside `clockman` (a lost animation that was found). The same search method, two outcomes, and the difference is not the effort but the object.
 
+## 0ar. Audit pass — 21 November 2026: nine defects found and fixed
+
+A full sweep of all 656 pages, every asset, the sitemap, the search index, the ledger and the credits. Nine real defects, all now closed.
+
+| # | Defect | Fix |
+|---|---|---|
+| 1 | Two pages on the same topic (`polyvagal.html`, `polyvagal-theory.html`) | Kept the newer, deleted the older, retargeted 19 links, removed its image, OG card, search entry and sitemap row |
+| 2 | `mandela-effect.html` had 2 sources | Now 4 |
+| 3 | **credits.html listed 178 images; the archive has 632** — a licensing failure, since CC BY requires attribution | Rebuilt from the caption on every page: 632 entries with author, licence and source link |
+| 4 | `charts.html` said "Credited images 178" and, on the same page, "664 images by licence type" | Both now derive from the rebuilt credits and agree |
+| 5 | README claimed "150 dossiers" and label counts (1,040/525/345/274) from the 216-dossier era | Recomputed from the search index: 630 dossiers, six labels, real counts |
+| 6 | "The master list — 150 claims" on four pages; the list has 157 rows | Corrected everywhere |
+| 7 | Four dossiers carried the label `Fringe` instead of `Fringe claim` | Normalised; 53 genuinely bespoke labels left for the editorial decision |
+| 8 | `offline.html` had no canonical link and no meta description | Added |
+| 9 | `credits.html` had a flat 120 KB budget it could no longer meet | Scaled to 200 KB + 0.5 KB per dossier, like the others |
+
+Everything else came back clean: 0 broken internal links, 0 broken asset references, 0 missing OG cards, 0 missing 480px variants, 0 orphan pages, 0 duplicate titles or descriptions, 630 dossiers = 630 search entries = 630 ledger claims, sitemap 654 URLs matching the files on disk.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
