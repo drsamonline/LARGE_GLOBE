@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 907,
+ "count": 927,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -732,6 +732,35 @@
      "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
      "https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter",
      "https://www.archives.gov/news/articles/do-records-show-proof-of-ufos"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "alkaline-diet",
+   "url": "alkaline-diet.html",
+   "title": "The Alkaline Diet",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that food changes blood pH and that acidity causes disease. The body regulates pH within a narrow range.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Food changes blood pH",
+    "Reality": "pH is tightly regulated",
+    "Cancer claims": "Unsupported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Alkaline_diet",
+     "https://en.wikipedia.org/wiki/Acid%E2%80%93base_homeostasis",
+     "https://en.wikipedia.org/wiki/PH",
+     "https://en.wikipedia.org/wiki/List_of_alternative_cancer_treatments"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1622,6 +1651,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "aspartame-cancer",
+   "url": "aspartame-cancer.html",
+   "title": "Aspartame and Cancer",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A sweetener classified as possibly carcinogenic, and the dose that matters.",
+   "facts": {
+    "Status": "Contested in reporting",
+    "Classification": "IARC group 2B, 2023",
+    "Intake limit": "Unchanged",
+    "Evidence": "Limited"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Aspartame",
+     "https://en.wikipedia.org/wiki/IARC_group_2B",
+     "https://en.wikipedia.org/wiki/Acceptable_daily_intake",
+     "https://en.wikipedia.org/wiki/Hazard_vs._risk"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "assembly-theory",
    "url": "assembly-theory.html",
    "title": "Assembly Theory",
@@ -2040,6 +2098,35 @@
      "https://en.wikipedia.org/wiki/Babylonian_mathematics",
      "https://en.wikipedia.org/wiki/Pythagorean_triple",
      "https://en.wikipedia.org/wiki/Trigonometric_functions"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "backmasking",
+   "url": "backmasking.html",
+   "title": "Backmasking",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that rock records contain hidden messages played backwards. The messages are found by the listener, not put there.",
+   "facts": {
+    "Status": "Debunked",
+    "Technique": "Reversed audio",
+    "Claim": "Hidden messages",
+    "Mechanism": "Auditory pareidolia"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Backmasking",
+     "https://en.wikipedia.org/wiki/Pareidolia",
+     "https://en.wikipedia.org/wiki/Moral_panic",
+     "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2870,6 +2957,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "bloodletting",
+   "url": "bloodletting.html",
+   "title": "Bloodletting",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The standard treatment for almost everything, practised for two thousand years, and harmful.",
+   "facts": {
+    "Status": "Harmful; abandoned",
+    "Duration": "Two millennia",
+    "Methods": "Venesection; cupping; leeches"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bloodletting",
+     "https://en.wikipedia.org/wiki/Leech",
+     "https://en.wikipedia.org/wiki/Humorism",
+     "https://en.wikipedia.org/wiki/History_of_medicine"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "blue-light-circadian",
    "url": "blue-light-circadian.html",
    "title": "Blue Light and Circadian Damage",
@@ -2894,6 +3009,35 @@
      "https://en.wikipedia.org/wiki/Melatonin",
      "https://en.wikipedia.org/wiki/Intrinsically_photosensitive_retinal_ganglion_cell",
      "https://en.wikipedia.org/wiki/Blue-light_blocking_glasses"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "blue-whale-challenge",
+   "url": "blue-whale-challenge.html",
+   "title": "The Blue Whale Challenge",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A supposed game that assigned self-harm tasks. No evidence of the game has been found; the panic caused real harm.",
+   "facts": {
+    "Status": "Moral panic",
+    "From": "2016",
+    "Claim": "A suicide game",
+    "Evidence": "None found"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Blue_Whale_Challenge",
+     "https://en.wikipedia.org/wiki/Moral_panic",
+     "https://en.wikipedia.org/wiki/Copycat_crime",
+     "https://en.wikipedia.org/wiki/Media_coverage_of_suicide"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4692,6 +4836,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "comic-book-panic",
+   "url": "comic-book-panic.html",
+   "title": "The Comic Book Panic",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Comic books were blamed for juvenile delinquency, and a Senate subcommittee and an industry code followed.",
+   "facts": {
+    "Status": "Moral panic",
+    "Period": "1948–1956",
+    "Key figure": "Fredric Wertham",
+    "Outcome": "Comics Code"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Seduction_of_the_Innocent",
+     "https://en.wikipedia.org/wiki/Comics_Code_Authority",
+     "https://en.wikipedia.org/wiki/Moral_panic",
+     "https://en.wikipedia.org/wiki/Comic_book"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "conformal-cyclic-cosmology",
    "url": "conformal-cyclic-cosmology.html",
    "title": "Conformal Cyclic Cosmology",
@@ -6458,6 +6631,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dnd-panic",
+   "url": "dnd-panic.html",
+   "title": "The Dungeons & Dragons Panic",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A game blamed for suicides and Satanism. The evidence was never there, and the panic is documented.",
+   "facts": {
+    "Status": "Moral panic",
+    "Period": "1979–1990s",
+    "Claims": "Satanism; suicide; violence",
+    "Evidence": "None found"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_controversies",
+     "https://en.wikipedia.org/wiki/Moral_panic",
+     "https://en.wikipedia.org/wiki/Satanic_panic",
+     "https://en.wikipedia.org/wiki/Role-playing_game"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "doggerland",
    "url": "doggerland.html",
    "title": "Doggerland",
@@ -7337,6 +7539,35 @@
      "https://en.wikipedia.org/wiki/The_Egg_(short_story)",
      "https://www.youtube.com/watch?v=h6fcK_fRYaI",
      "https://plato.stanford.edu/entries/vedanta/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "eggs-cholesterol",
+   "url": "eggs-cholesterol.html",
+   "title": "Eggs and Cholesterol",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Dietary cholesterol was said to raise blood cholesterol and heart risk. The advice has been revised, and the debate continues.",
+   "facts": {
+    "Status": "Revised",
+    "Period": "1970s onward",
+    "Original advice": "Limit cholesterol",
+    "Revision": "Limits dropped in several countries"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cholesterol",
+     "https://en.wikipedia.org/wiki/Egg_as_food",
+     "https://en.wikipedia.org/wiki/Dietary_guideline",
+     "https://en.wikipedia.org/wiki/Saturated_fat_and_cardiovascular_disease"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8901,6 +9132,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "four-humours",
+   "url": "four-humours.html",
+   "title": "The Four Humours",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Two thousand years of medicine built on four bodily fluids. It was wrong, and it was wrong in a way that made sense.",
+   "facts": {
+    "Status": "False",
+    "Origin": "Hippocratic corpus",
+    "Duration": "Two millennia",
+    "Claim": "Four humours in balance"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Humorism",
+     "https://en.wikipedia.org/wiki/Galen",
+     "https://en.wikipedia.org/wiki/Hippocratic_Corpus",
+     "https://en.wikipedia.org/wiki/History_of_medicine"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "frbs-light-sails",
    "url": "frbs-light-sails.html",
    "title": "FRBs as Light Sails",
@@ -8954,6 +9214,35 @@
      "https://en.wikipedia.org/wiki/Free_energy_principle",
      "https://en.wikipedia.org/wiki/Predictive_coding",
      "https://plato.stanford.edu/entries/bayes-theorem/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "french-paradox",
+   "url": "french-paradox.html",
+   "title": "The French Paradox",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A country with high saturated fat and low heart disease. The explanation is still argued.",
+   "facts": {
+    "Status": "Questioned",
+    "Coined": "1980s",
+    "Observation": "Low heart disease despite fat intake",
+    "Explanation": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/French_paradox",
+     "https://en.wikipedia.org/wiki/Epidemiology",
+     "https://en.wikipedia.org/wiki/Red_wine",
+     "https://en.wikipedia.org/wiki/Confounding"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11569,6 +11858,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "hysteria",
+   "url": "hysteria.html",
+   "title": "Hysteria",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A diagnosis applied to women for two thousand years, and removed from the manuals in 1980.",
+   "facts": {
+    "Status": "Not a disease",
+    "Duration": "Two millennia",
+    "Removed": "DSM, 1980",
+    "Successor": "Conversion disorder"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Female_hysteria",
+     "https://en.wikipedia.org/wiki/Jean-Martin_Charcot",
+     "https://en.wikipedia.org/wiki/Conversion_disorder",
+     "https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ica-stones",
    "url": "ica-stones.html",
    "title": "The Ica Stones",
@@ -13688,6 +14006,36 @@
      "https://en.wikipedia.org/wiki/John_B._Watson",
      "https://en.wikipedia.org/wiki/Classical_conditioning",
      "https://en.wikipedia.org/wiki/Research_ethics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "lobotomy",
+   "url": "lobotomy.html",
+   "title": "The Lobotomy",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Tens of thousands of brains operated on with an ice-pick-like instrument. The rise and fall are both documented.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "1935–1970s",
+    "Prize": "Nobel, 1949",
+    "Methods": "Leucotomy; transorbital",
+    "Outcome": "Abandoned"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lobotomy",
+     "https://en.wikipedia.org/wiki/Egas_Moniz",
+     "https://en.wikipedia.org/wiki/Walter_Freeman_(physician)",
+     "https://en.wikipedia.org/wiki/Psychosurgery"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16129,6 +16477,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "msgsyndrome",
+   "url": "msgsyndrome.html",
+   "title": "MSG Syndrome",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A letter to a medical journal created a condition. Blinded trials did not find it.",
+   "facts": {
+    "Status": "Debunked",
+    "Origin": "A 1968 letter",
+    "Substance": "Monosodium glutamate",
+    "Trials": "Blinded; mostly negative"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Glutamate_flavoring",
+     "https://en.wikipedia.org/wiki/Monosodium_glutamate",
+     "https://en.wikipedia.org/wiki/Blinded_experiment",
+     "https://en.wikipedia.org/wiki/Food_scare"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "multiple-intelligences",
    "url": "multiple-intelligences.html",
    "title": "Multiple Intelligences",
@@ -17103,6 +17480,35 @@
      "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office",
      "https://en.wikipedia.org/wiki/Unidentified_flying_object",
      "https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "novel-reading-madness",
+   "url": "novel-reading-madness.html",
+   "title": "Novel Reading and Madness",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Novels were said to corrupt young women and drive them mad. The claim is documented; the evidence never existed.",
+   "facts": {
+    "Status": "Debunked",
+    "Period": "18th–19th century",
+    "Claim": "Novels cause madness",
+    "Evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Novel",
+     "https://en.wikipedia.org/wiki/Moral_panic",
+     "https://en.wikipedia.org/wiki/History_of_mental_disorders",
+     "https://en.wikipedia.org/wiki/Censorship"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -18841,6 +19247,35 @@
      "https://en.wikipedia.org/wiki/Phosphine",
      "https://science.nasa.gov/mission/davinci/",
      "https://www.esa.int/Science_Exploration/Space_Science/EnVision"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "phrenology",
+   "url": "phrenology.html",
+   "title": "Phrenology",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that personality could be read from the shape of the skull. It was wrong, and it seeded real neuroscience.",
+   "facts": {
+    "Status": "Debunked",
+    "Founder": "Franz Joseph Gall",
+    "Claim": "Character from skull shape",
+    "Residue": "Cortical localisation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Phrenology",
+     "https://en.wikipedia.org/wiki/Franz_Joseph_Gall",
+     "https://en.wikipedia.org/wiki/Cortical_homunculus",
+     "https://en.wikipedia.org/wiki/Pseudoscience"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -21520,6 +21955,35 @@
      "https://en.wikipedia.org/wiki/Bitcoin",
      "https://en.wikipedia.org/wiki/Cypherpunk",
      "https://en.wikipedia.org/wiki/Conspiracy_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "saturated-fat",
+   "url": "saturated-fat.html",
+   "title": "Saturated Fat",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The central claim of modern dietary advice, and the subject of a long, documented argument.",
+   "facts": {
+    "Status": "Contested",
+    "Key figure": "Ancel Keys",
+    "Association": "Saturated fat and LDL",
+    "Depends on": "What replaces it"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Saturated_fat",
+     "https://en.wikipedia.org/wiki/Ancel_Keys",
+     "https://en.wikipedia.org/wiki/Lipid_hypothesis",
+     "https://en.wikipedia.org/wiki/Nutrition"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -24424,6 +24888,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "telephone-deafness",
+   "url": "telephone-deafness.html",
+   "title": "The Telephone and Deafness",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Early telephones were said to damage hearing and cause 'telephone deafness'. The claim did not survive measurement.",
+   "facts": {
+    "Status": "Debunked",
+    "Period": "1880s–1900s",
+    "Claim": "Telephones damage hearing",
+    "Evidence": "None found"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Telephone",
+     "https://en.wikipedia.org/wiki/Noise-induced_hearing_loss",
+     "https://en.wikipedia.org/wiki/Moral_panic",
+     "https://en.wikipedia.org/wiki/History_of_technology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "teotihuacan-mercury",
    "url": "teotihuacan-mercury.html",
    "title": "Mercury Under Teotihuacan",
@@ -25176,6 +25669,35 @@
      "https://en.wikipedia.org/wiki/Slapstick",
      "https://en.wikipedia.org/wiki/Trope_(literature)",
      "https://en.wikipedia.org/wiki/Animation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "trepanation",
+   "url": "trepanation.html",
+   "title": "Trepanation",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Boring a hole in a living skull, done for millennia, and sometimes survived.",
+   "facts": {
+    "Status": "Documented",
+    "From": "Neolithic",
+    "Evidence": "Healed bone margins",
+    "Motives": "Medical; ritual"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Trepanning",
+     "https://en.wikipedia.org/wiki/Prehistoric_medicine",
+     "https://en.wikipedia.org/wiki/Skull",
+     "https://en.wikipedia.org/wiki/Paleopathology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -26034,6 +26556,64 @@
      "https://en.wikipedia.org/wiki/Phosphine",
      "https://en.wikipedia.org/wiki/Atmosphere_of_Venus",
      "https://en.wikipedia.org/wiki/Venus"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "vibrator-medical-device",
+   "url": "vibrator-medical-device.html",
+   "title": "The Vibrator as a Medical Device",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "An electric appliance sold to doctors for a diagnosis that no longer exists. The history is documented and often exaggerated.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "1880s onward",
+    "Market": "Physicians, then consumers",
+    "Diagnosis": "Hysteria"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Vibrator_(sex_toy)",
+     "https://en.wikipedia.org/wiki/Female_hysteria",
+     "https://en.wikipedia.org/wiki/Medical_device",
+     "https://en.wikipedia.org/wiki/History_of_technology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "video-nasties",
+   "url": "video-nasties.html",
+   "title": "The Video Nasties",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A list of films prosecuted in Britain, and the moral panic that produced it.",
+   "facts": {
+    "Status": "Moral panic",
+    "Period": "1982–1990s",
+    "Country": "United Kingdom",
+    "Instrument": "Prosecution list; 1984 Act"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Video_nasty",
+     "https://en.wikipedia.org/wiki/Video_Recordings_Act_1984",
+     "https://en.wikipedia.org/wiki/Moral_panic",
+     "https://en.wikipedia.org/wiki/VHS"
     ]
    },
    "last_reviewed": "2026-11-20",
