@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 886,
+ "count": 907,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -10526,6 +10526,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "grievance-studies",
+   "url": "grievance-studies.html",
+   "title": "The Grievance Studies Affair",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A team submitted deliberately absurd papers to humanities journals; several were accepted. The episode is documented and contested.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2018",
+    "Submissions": "Twenty",
+    "Accepted": "Several"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Grievance_studies_affair",
+     "https://en.wikipedia.org/wiki/Academic_publishing",
+     "https://en.wikipedia.org/wiki/Research_ethics",
+     "https://en.wikipedia.org/wiki/Hoax"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "griffin-protoceratops",
    "url": "griffin-protoceratops.html",
    "title": "The Griffin and Protoceratops",
@@ -12634,6 +12663,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "kitty-genovese",
+   "url": "kitty-genovese.html",
+   "title": "Kitty Genovese and the Bystander Effect",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A murder said to have been witnessed by 38 people who did nothing. The number was wrong; the effect is real but smaller.",
+   "facts": {
+    "Status": "Live debate",
+    "Year": "1964",
+    "Claimed witnesses": "38",
+    "Actual": "Far fewer; some called police",
+    "Effect": "Real in labs"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese",
+     "https://en.wikipedia.org/wiki/Bystander_effect",
+     "https://en.wikipedia.org/wiki/Diffusion_of_responsibility",
+     "https://en.wikipedia.org/wiki/Psychology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "klerksdorp-spheres",
    "url": "klerksdorp-spheres.html",
    "title": "The Klerksdorp Spheres",
@@ -13600,6 +13659,35 @@
      "https://en.wikipedia.org/wiki/Cyclic_history",
      "https://en.wikipedia.org/wiki/Fan_theory",
      "https://en.wikipedia.org/wiki/Video_game_narrative"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "little-albert",
+   "url": "little-albert.html",
+   "title": "Little Albert",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A baby conditioned to fear a white rat. The study is famous, the child was never identified, and the ethics were appalling.",
+   "facts": {
+    "Status": "Documented study",
+    "Year": "1920",
+    "Researchers": "Watson; Rayner",
+    "Subject": "Never identified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Little_Albert_experiment",
+     "https://en.wikipedia.org/wiki/John_B._Watson",
+     "https://en.wikipedia.org/wiki/Classical_conditioning",
+     "https://en.wikipedia.org/wiki/Research_ethics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -14682,6 +14770,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "marshmallow-test",
+   "url": "marshmallow-test.html",
+   "title": "The Marshmallow Test",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Children who waited for a second sweet did better later in life. The correlation replicated weakly, and it is mostly about the family.",
+   "facts": {
+    "Status": "Live debate",
+    "Original": "1972",
+    "Replication": "2018",
+    "Effect": "Much weaker",
+    "Explained by": "Family background"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment",
+     "https://en.wikipedia.org/wiki/Self-control",
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://en.wikipedia.org/wiki/Delayed_gratification"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "marvel-doom-pivot",
    "url": "marvel-doom-pivot.html",
    "title": "Marvel's Doom Pivot",
@@ -15104,6 +15222,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "memory-of-water",
+   "url": "memory-of-water.html",
+   "title": "The Memory of Water",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claim that water retains the properties of substances diluted out of existence. The experiment failed a supervised test.",
+   "facts": {
+    "Status": "Debunked",
+    "Year": "1988",
+    "Journal": "Nature",
+    "Test": "Blinded repetition"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Water_memory",
+     "https://en.wikipedia.org/wiki/Jacques_Benveniste",
+     "https://en.wikipedia.org/wiki/Homeopathy",
+     "https://en.wikipedia.org/wiki/Blinding_(medicine)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "men-in-black",
    "url": "men-in-black.html",
    "title": "The Men in Black",
@@ -15275,6 +15422,35 @@
      "https://en.wikipedia.org/wiki/Fan_theory",
      "https://en.wikipedia.org/wiki/Afterlife",
      "https://en.wikipedia.org/wiki/Unreliable_narrator"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "milgram-obedience",
+   "url": "milgram-obedience.html",
+   "title": "Milgram's Obedience Studies",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The experiments that seemed to show ordinary people would follow orders to hurt strangers. The archives complicate the result.",
+   "facts": {
+    "Status": "Contested",
+    "Year": "1961–63",
+    "Place": "Yale",
+    "Complication": "Participants doubted the shocks"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Milgram_experiment",
+     "https://en.wikipedia.org/wiki/Obedience_(human_behavior)",
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://en.wikipedia.org/wiki/Stanley_Milgram"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16223,6 +16399,35 @@
      "https://en.wikipedia.org/wiki/Collaborative_fiction",
      "https://en.wikipedia.org/wiki/Epistolary_novel",
      "https://en.wikipedia.org/wiki/Found_footage_(film_technique)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "n-rays",
+   "url": "n-rays.html",
+   "title": "N-Rays",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A French physicist discovered a new radiation that only he could detect. It did not exist.",
+   "facts": {
+    "Status": "Debunked",
+    "Year": "1903",
+    "Claimant": "René Blondlot",
+    "Test": "Robert Wood removed the prism"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/N-ray",
+     "https://en.wikipedia.org/wiki/Ren%C3%A9_Blondlot",
+     "https://en.wikipedia.org/wiki/Observer-expectancy_effect",
+     "https://en.wikipedia.org/wiki/Pathological_science"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -17577,6 +17782,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "p-hacking",
+   "url": "p-hacking.html",
+   "title": "P-Hacking",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Analysing data in many ways until a result appears, and reporting only that. The practice is documented and measurable.",
+   "facts": {
+    "Status": "Documented",
+    "Practice": "Selective analysis",
+    "Evidence": "P-value clustering",
+    "Reforms": "Pre-registration; multiverse analysis"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Data_dredging",
+     "https://en.wikipedia.org/wiki/P-value",
+     "https://en.wikipedia.org/wiki/Multiple_comparisons_problem",
+     "https://en.wikipedia.org/wiki/Preregistration_(science)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "p-versus-np",
    "url": "p-versus-np.html",
    "title": "P versus NP",
@@ -17821,6 +18055,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "paper-mills",
+   "url": "paper-mills.html",
+   "title": "Paper Mills",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Organisations that sell authorship on fabricated papers. Their output is documented in the published record.",
+   "facts": {
+    "Status": "Documented",
+    "Product": "Fabricated papers",
+    "Detected": "Thousands",
+    "Response": "Retractions; detection tools"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Paper_mill_(academic_publishing)",
+     "https://en.wikipedia.org/wiki/Research_integrity",
+     "https://en.wikipedia.org/wiki/Retraction_in_academic_publishing",
+     "https://en.wikipedia.org/wiki/Scientific_misconduct"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "paperclip-maximiser",
    "url": "paperclip-maximiser.html",
    "title": "The Paperclip Maximiser",
@@ -17969,6 +18232,35 @@
      "https://www.bbc.co.uk/programmes/articles/4t0tW8Z8tWt8t",
      "https://www.thebeatles.com/album/abbey-road",
      "https://www.snopes.com/fact-check/paul-mccartney-death-hoax/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "peer-review-evidence",
+   "url": "peer-review-evidence.html",
+   "title": "Peer Review's Evidence Base",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Peer review is the gatekeeping ritual of science, and the evidence that it works is thinner than most people assume.",
+   "facts": {
+    "Status": "Contested",
+    "Process": "Pre-publication review",
+    "Evidence": "Modest effects; inconsistency",
+    "Alternatives": "Post-publication review"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Peer_review",
+     "https://en.wikipedia.org/wiki/Open_peer_review",
+     "https://en.wikipedia.org/wiki/Scholarly_communication",
+     "https://en.wikipedia.org/wiki/Academic_publishing"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -19077,6 +19369,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "polywater",
+   "url": "polywater.html",
+   "title": "Polywater",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A form of water said to be denser and more viscous, with extraordinary properties. It was contaminated ordinary water.",
+   "facts": {
+    "Status": "Debunked",
+    "Period": "1960s–70s",
+    "Claim": "A polymerised water",
+    "Cause": "Silicate contamination"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Polywater",
+     "https://en.wikipedia.org/wiki/Pathological_science",
+     "https://en.wikipedia.org/wiki/Contamination",
+     "https://en.wikipedia.org/wiki/Water"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "pompeii-herculaneum",
    "url": "pompeii-herculaneum.html",
    "title": "Pompeii and Herculaneum",
@@ -19159,6 +19480,65 @@
      "https://en.wikipedia.org/wiki/Half-Life_(series)",
      "https://en.wikipedia.org/wiki/Aperture_Science",
      "https://en.wikipedia.org/wiki/Valve_Corporation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "power-posing",
+   "url": "power-posing.html",
+   "title": "Power Posing",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Standing confidently was said to change your hormones and your risk appetite. The hormonal claim did not replicate.",
+   "facts": {
+    "Status": "Live debate",
+    "Original": "2010",
+    "Replication": "2015",
+    "Hormones": "No effect",
+    "Felt power": "Small effect"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Power_posing",
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://en.wikipedia.org/wiki/Body_language",
+     "https://en.wikipedia.org/wiki/Preregistration_(science)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "predatory-journals",
+   "url": "predatory-journals.html",
+   "title": "Predatory Journals",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Journals that charge authors and publish without real review. The category is documented and its boundaries are argued.",
+   "facts": {
+    "Status": "Documented",
+    "Practice": "Fee-charging with no real review",
+    "Evidence": "Fabricated papers accepted",
+    "Contested": "The label's boundaries"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Predatory_publishing",
+     "https://en.wikipedia.org/wiki/Open_access",
+     "https://en.wikipedia.org/wiki/Article_processing_charge",
+     "https://en.wikipedia.org/wiki/Academic_journal"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -19529,6 +19909,35 @@
      "https://en.wikipedia.org/wiki/Azhdarchidae",
      "https://en.wikipedia.org/wiki/Bird_flight",
      "https://en.wikipedia.org/wiki/Trackway"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "publication-bias",
+   "url": "publication-bias.html",
+   "title": "Publication Bias",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Studies that find nothing are less likely to be published, so the literature overstates effects. The bias is measured, not suspected.",
+   "facts": {
+    "Status": "Documented",
+    "Bias": "Null results unpublished",
+    "Evidence": "Funnel-plot asymmetry",
+    "Reforms": "Trial registries; registered reports"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Publication_bias",
+     "https://en.wikipedia.org/wiki/Funnel_plot",
+     "https://en.wikipedia.org/wiki/Clinical_trial_registry",
+     "https://en.wikipedia.org/wiki/Meta-analysis"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -20329,6 +20738,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "replication-crisis",
+   "url": "replication-crisis.html",
+   "title": "The Replication Crisis",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Large numbers of published findings in psychology and medicine failed to replicate. The failure is documented, and so are its causes.",
+   "facts": {
+    "Status": "Documented",
+    "First major study": "2011",
+    "Replication rate": "Under half in psychology",
+    "Causes": "Small samples; flexible analysis; publication bias",
+    "Reforms": "Pre-registration; data sharing"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://en.wikipedia.org/wiki/Reproducibility",
+     "https://en.wikipedia.org/wiki/Preregistration_(science)",
+     "https://en.wikipedia.org/wiki/Open_science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "repressed-memory",
    "url": "repressed-memory.html",
    "title": "Repressed Memory",
@@ -20542,6 +20981,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "robbers-cave",
+   "url": "robbers-cave.html",
+   "title": "The Robbers Cave Experiment",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Two groups of boys at a summer camp were set against each other. The conflict and the reconciliation are both documented.",
+   "facts": {
+    "Status": "Live debate",
+    "Year": "1954",
+    "Place": "Robbers Cave State Park",
+    "Key idea": "Superordinate goals",
+    "Problem": "Researcher intervention"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Robbers_Cave_State_Park",
+     "https://en.wikipedia.org/wiki/Muzafer_Sherif",
+     "https://en.wikipedia.org/wiki/Realistic_conflict_theory",
+     "https://en.wikipedia.org/wiki/Ingroups_and_outgroups"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "roko-basilisk",
    "url": "roko-basilisk.html",
    "title": "Roko's Basilisk",
@@ -20719,6 +21188,35 @@
      "https://en.wikipedia.org/wiki/Mark_Klein",
      "https://en.wikipedia.org/wiki/NSA_warrantless_surveillance_(2001%E2%80%932007)",
      "https://en.wikipedia.org/wiki/State_secrets_privilege"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "rosenhan-study",
+   "url": "rosenhan-study.html",
+   "title": "The Rosenhan Study",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Healthy people admitted to psychiatric hospitals and diagnosed. The study reshaped psychiatry and its data have been questioned.",
+   "facts": {
+    "Status": "Contested",
+    "Year": "1973",
+    "Journal": "Science",
+    "Claim": "Pseudo-patients were not detected"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Rosenhan_experiment",
+     "https://en.wikipedia.org/wiki/Psychiatry",
+     "https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders",
+     "https://en.wikipedia.org/wiki/Anti-psychiatry"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -22178,6 +22676,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sokal-hoax",
+   "url": "sokal-hoax.html",
+   "title": "The Sokal Hoax",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A physicist submitted a deliberately absurd paper to a cultural-studies journal, and it was published.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "1996",
+    "Author": "Alan Sokal",
+    "Journal": "Social Text"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sokal_affair",
+     "https://en.wikipedia.org/wiki/Alan_Sokal",
+     "https://en.wikipedia.org/wiki/Science_wars",
+     "https://en.wikipedia.org/wiki/Hoax"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "solar-geoengineering",
    "url": "solar-geoengineering.html",
    "title": "Solar Geoengineering",
@@ -22632,6 +23159,35 @@
      "https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)",
      "https://en.wikipedia.org/wiki/Stairs",
      "https://en.wikipedia.org/wiki/Internet_folklore"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "stanford-prison-experiment",
+   "url": "stanford-prison-experiment.html",
+   "title": "The Stanford Prison Experiment",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The most famous psychology experiment ever run, and the one with the most documented problems.",
+   "facts": {
+    "Status": "Conclusions unsupported",
+    "Year": "1971",
+    "Duration": "Six days",
+    "Problem": "Coaching; no control group"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Stanford_prison_experiment",
+     "https://en.wikipedia.org/wiki/Philip_Zimbardo",
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://en.wikipedia.org/wiki/Research_ethics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -25609,6 +26165,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "vitamin-c-pauling",
+   "url": "vitamin-c-pauling.html",
+   "title": "Vitamin C and Linus Pauling",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A double Nobel laureate claimed high-dose vitamin C treats cancer and colds. The trials did not agree.",
+   "facts": {
+    "Status": "Debunked",
+    "Claimant": "Linus Pauling",
+    "Claims": "Colds; cancer",
+    "Trials": "No cancer benefit"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Linus_Pauling",
+     "https://en.wikipedia.org/wiki/Vitamin_C",
+     "https://en.wikipedia.org/wiki/Orthomolecular_medicine",
+     "https://en.wikipedia.org/wiki/Randomized_controlled_trial"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "voynich-alien-botany",
    "url": "voynich-alien-botany.html",
    "title": "Voynich Alien Botany",
@@ -26519,6 +27104,35 @@
      "https://en.wikipedia.org/wiki/Tempora",
      "https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)",
      "https://en.wikipedia.org/wiki/Edward_Snowden"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "xyy-supermale",
+   "url": "xyy-supermale.html",
+   "title": "The XYY Supermale",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "An extra Y chromosome was said to produce aggressive criminals. The claim collapsed when the sampling was examined.",
+   "facts": {
+    "Status": "Debunked",
+    "Karyotype": "47,XYY",
+    "Claim": "Aggression and criminality",
+    "Problem": "Ascertainment bias"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/XYY_syndrome",
+     "https://en.wikipedia.org/wiki/Selection_bias",
+     "https://en.wikipedia.org/wiki/Karyotype",
+     "https://en.wikipedia.org/wiki/Behavioural_genetics"
     ]
    },
    "last_reviewed": "2026-11-20",
