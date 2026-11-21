@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 945,
+ "count": 963,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -1589,6 +1589,64 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "aryabhata-rotation",
+   "url": "aryabhata-rotation.html",
+   "title": "Aryabhata's Rotation",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A fifth-century astronomer stated that the Earth rotates. The text is real and the claim is in it.",
+   "facts": {
+    "Status": "Documented",
+    "Text": "Aryabhatiya, 499",
+    "Statement": "The Earth rotates",
+    "System": "Geocentric"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Aryabhata",
+     "https://en.wikipedia.org/wiki/Aryabhatiya",
+     "https://en.wikipedia.org/wiki/Indian_astronomy",
+     "https://en.wikipedia.org/wiki/Earth%27s_rotation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "aryan-migration",
+   "url": "aryan-migration.html",
+   "title": "The Aryan Migration",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Who composed the Vedas, and where did they come from? The genetics and the texts are both real, and the argument is political.",
+   "facts": {
+    "Status": "Live debate",
+    "Evidence": "Linguistic; archaeological; ancient DNA",
+    "Mainstream": "Migration in the 2nd millennium BC",
+    "Contested": "Politically"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Indo-Aryan_migrations",
+     "https://en.wikipedia.org/wiki/Sintashta_culture",
+     "https://en.wikipedia.org/wiki/Rigveda",
+     "https://en.wikipedia.org/wiki/Genetics_and_archaeogenetics_of_South_Asia"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "asbestos-radon",
    "url": "asbestos-radon.html",
    "title": "Asbestos and Radon Cover-Ups",
@@ -2613,6 +2671,35 @@
      "https://en.wikipedia.org/wiki/Ball_bearing",
      "https://en.wikipedia.org/wiki/Anomalous_phenomenon",
      "https://en.wikipedia.org/wiki/Ideomotor_phenomenon"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "bhavishya-purana",
+   "url": "bhavishya-purana.html",
+   "title": "The Bhavishya Purana",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A purana cited for prophecies about later figures. Its predictive sections have a documented history of insertion.",
+   "facts": {
+    "Status": "Fringe",
+    "Text": "Bhavishya Purana",
+    "Nature": "Composite; added to over centuries",
+    "Prophecies": "Late insertions"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bhavishya_Purana",
+     "https://en.wikipedia.org/wiki/Puranas",
+     "https://en.wikipedia.org/wiki/Prophecy",
+     "https://en.wikipedia.org/wiki/Textual_criticism"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5163,6 +5250,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "coronil",
+   "url": "coronil.html",
+   "title": "Coronil",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "An ayurvedic preparation launched as a COVID-19 treatment, and the regulatory record around it.",
+   "facts": {
+    "Status": "Documented",
+    "Launched": "2021",
+    "Claim": "A COVID-19 treatment",
+    "Regulator": "Direction to stop advertising as a cure"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Coronil_(medicine)",
+     "https://en.wikipedia.org/wiki/Ayurveda",
+     "https://en.wikipedia.org/wiki/COVID-19_misinformation",
+     "https://en.wikipedia.org/wiki/Clinical_trial"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "cosmic-censorship",
    "url": "cosmic-censorship.html",
    "title": "Cosmic Censorship",
@@ -5279,6 +5395,35 @@
      "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
      "https://en.wikipedia.org/wiki/Spiritualism",
      "https://en.wikipedia.org/wiki/Photograph_manipulation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cow-urine-medicine",
+   "url": "cow-urine-medicine.html",
+   "title": "Cow Urine as Medicine",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A traditional preparation promoted as a cure, and tested. The tests do not support the claims.",
+   "facts": {
+    "Status": "Debunked",
+    "Practice": "Cow urine preparations",
+    "Claims": "Cancer; diabetes; disinfection",
+    "Evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cow_urine",
+     "https://en.wikipedia.org/wiki/Ayurveda",
+     "https://en.wikipedia.org/wiki/Alternative_medicine",
+     "https://en.wikipedia.org/wiki/Evidence-based_medicine"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11842,6 +11987,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "homeopathy-india",
+   "url": "homeopathy-india.html",
+   "title": "Homeopathy in India",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The largest homeopathy market in the world, and the evidence base it rests on.",
+   "facts": {
+    "Status": "Debunked",
+    "Arrived": "1830s",
+    "Practice": "Serial dilution",
+    "Reviews": "No effect beyond placebo"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Homeopathy",
+     "https://en.wikipedia.org/wiki/Water_memory",
+     "https://en.wikipedia.org/wiki/Health_in_India",
+     "https://en.wikipedia.org/wiki/Placebo"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "homo-floresiensis",
    "url": "homo-floresiensis.html",
    "title": "Homo floresiensis",
@@ -12423,6 +12597,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "indian-aryan-genetics",
+   "url": "indian-aryan-genetics.html",
+   "title": "Genetics and Caste",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Ancient DNA and modern genomes show structure, endogamy and steppe ancestry. The findings are documented and often misread.",
+   "facts": {
+    "Status": "Documented",
+    "Fields": "Population genetics; ancient DNA",
+    "Findings": "Mixture; endogamy; ancestry variation",
+    "Not supported": "Claims about ability"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Genetics_and_archaeogenetics_of_South_Asia",
+     "https://en.wikipedia.org/wiki/Endogamy",
+     "https://en.wikipedia.org/wiki/Caste_system_in_India",
+     "https://en.wikipedia.org/wiki/Race_and_genetics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "indus-script",
    "url": "indus-script.html",
    "title": "The Silence of the Indus Script",
@@ -12779,6 +12982,36 @@
      "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series)",
      "https://en.wikipedia.org/wiki/Anachronism",
      "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "jantar-mantar",
+   "url": "jantar-mantar.html",
+   "title": "The Jantar Mantar",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Stone instruments built to measure the sky to a precision that still works.",
+   "facts": {
+    "Status": "Documented",
+    "Built": "1724 onward",
+    "Builder": "Jai Singh II",
+    "Sites": "Jaipur; Delhi; Ujjain; Varanasi; Mathura",
+    "Accuracy": "Seconds of arc"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur",
+     "https://en.wikipedia.org/wiki/Jai_Singh_II",
+     "https://en.wikipedia.org/wiki/Sundial",
+     "https://en.wikipedia.org/wiki/Indian_astronomy"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13172,6 +13405,36 @@
      "https://en.wikipedia.org/wiki/Runestone",
      "https://en.wikipedia.org/wiki/Dalecarlian_runes",
      "https://en.wikipedia.org/wiki/Norse_colonization_of_North_America"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "kerala-school",
+   "url": "kerala-school.html",
+   "title": "The Kerala School",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A school of mathematicians in Kerala who derived infinite series for trigonometric functions centuries before Europe.",
+   "facts": {
+    "Status": "Documented",
+    "Place": "Kerala",
+    "Period": "14th–16th century",
+    "Results": "Infinite series for trigonometric functions",
+    "Transmission": "Unestablished"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kerala_school_of_astronomy_and_mathematics",
+     "https://en.wikipedia.org/wiki/Madhava_of_Sangamagrama",
+     "https://en.wikipedia.org/wiki/Taylor_series",
+     "https://en.wikipedia.org/wiki/Indian_mathematics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16327,6 +16590,36 @@
      "https://www.levyinstitute.org/publications/modern-money-theory-a-primer-on-macroeconomics",
      "https://www.levyinstitute.org/pubs/wp_908.pdf",
      "https://en.wikipedia.org/wiki/Chartalism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mohan-jo-daro-dancing-girl",
+   "url": "mohan-jo-daro-dancing-girl.html",
+   "title": "The Dancing Girl of Mohenjo-daro",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A bronze figurine from the Indus cities, and a name that tells you more about its finders than its subject.",
+   "facts": {
+    "Status": "Documented",
+    "Object": "Bronze figurine",
+    "Site": "Mohenjo-daro",
+    "Date": "c. 2500 BC",
+    "Name": "An interpretation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dancing_Girl_(sculpture)",
+     "https://en.wikipedia.org/wiki/Mohenjo-daro",
+     "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+     "https://en.wikipedia.org/wiki/Lost-wax_casting"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -21248,6 +21541,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "rama-setu",
+   "url": "rama-setu.html",
+   "title": "Rama Setu",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A chain of shoals between India and Sri Lanka, sacred in one account and a natural feature in another.",
+   "facts": {
+    "Status": "Contested politically",
+    "Feature": "Limestone shoals",
+    "Geology": "Natural formation",
+    "Text": "The Ramayana"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Adam%27s_Bridge",
+     "https://en.wikipedia.org/wiki/Rameswaram",
+     "https://en.wikipedia.org/wiki/Ramayana",
+     "https://en.wikipedia.org/wiki/Geology_of_India"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "randonautica",
    "url": "randonautica.html",
    "title": "Randonautica",
@@ -22124,6 +22446,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sai-baba-miracles",
+   "url": "sai-baba-miracles.html",
+   "title": "Sai Baba's Miracles",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A figure credited with materialising objects and knowing the future. The claims are testimony; the demonstrations are not testable.",
+   "facts": {
+    "Status": "Fringe",
+    "Figure": "Sathya Sai Baba",
+    "Claims": "Materialisation; precognition",
+    "Tested": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sathya_Sai_Baba",
+     "https://en.wikipedia.org/wiki/Materialization_(paranormal)",
+     "https://en.wikipedia.org/wiki/Magic_(illusion)",
+     "https://en.wikipedia.org/wiki/Miracle"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "sailing-stones",
    "url": "sailing-stones.html",
    "title": "The Sailing Stones",
@@ -22216,6 +22567,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sanjeevani-plant",
+   "url": "sanjeevani-plant.html",
+   "title": "The Sanjeevani Plant",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A life-restoring herb from the Ramayana, and a long search for its botanical identity.",
+   "facts": {
+    "Status": "Fringe",
+    "Source": "The Ramayana",
+    "Candidates": "Several Himalayan herbs",
+    "Properties": "Not supported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sanjeevani_(plant)",
+     "https://en.wikipedia.org/wiki/Ramayana",
+     "https://en.wikipedia.org/wiki/Selaginella",
+     "https://en.wikipedia.org/wiki/Ethnobotany"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "saqqara-bird",
    "url": "saqqara-bird.html",
    "title": "The Saqqara Bird",
@@ -22240,6 +22620,35 @@
      "https://en.wikipedia.org/wiki/Saqqara",
      "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
      "https://en.wikipedia.org/wiki/Out-of-place_artifact"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "saraswati-river",
+   "url": "saraswati-river.html",
+   "title": "The Saraswati River",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A river praised in the Vedas and identified by some with a dry channel in Haryana. The palaeochannel is real; the identification is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Channel": "Ghaggar-Hakra",
+    "Evidence": "Satellite; sediment",
+    "Identification": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sarasvati_River",
+     "https://en.wikipedia.org/wiki/Ghaggar-Hakra_River",
+     "https://en.wikipedia.org/wiki/Palaeochannel",
+     "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -24125,6 +24534,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "stepwells",
+   "url": "stepwells.html",
+   "title": "Stepwells",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Buildings that descend to the water table, and the engineering that made them work in a monsoon climate.",
+   "facts": {
+    "Status": "Documented",
+    "From": "2nd century",
+    "Region": "Western India",
+    "Function": "Water storage; cooling; social space"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Stepwell",
+     "https://en.wikipedia.org/wiki/Chand_Baori",
+     "https://en.wikipedia.org/wiki/Water_management_in_India",
+     "https://en.wikipedia.org/wiki/Rani_ki_Vav"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "stereotype-threat",
    "url": "stereotype-threat.html",
    "title": "Stereotype Threat",
@@ -24790,6 +25228,35 @@
      "https://twiki.cern.ch/twiki/bin/view/AtlasPublic/SupersymmetryPublicResults",
      "https://en.wikipedia.org/wiki/Hierarchy_problem",
      "https://en.wikipedia.org/wiki/Dark_matter"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "sushruta-surgery",
+   "url": "sushruta-surgery.html",
+   "title": "Sushruta's Surgery",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A Sanskrit surgical text describing operations including rhinoplasty. The text is real and its procedures were performed.",
+   "facts": {
+    "Status": "Documented",
+    "Text": "Sushruta Samhita",
+    "Core date": "Mid-1st millennium BC",
+    "Includes": "Rhinoplasty; cataract surgery"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sushruta_Samhita",
+     "https://en.wikipedia.org/wiki/Sushruta",
+     "https://en.wikipedia.org/wiki/Rhinoplasty",
+     "https://en.wikipedia.org/wiki/History_of_surgery"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -26929,6 +27396,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "vaimanika-shastra",
+   "url": "vaimanika-shastra.html",
+   "title": "The Vaimanika Shastra",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A twentieth-century Sanskrit text describing flying machines. It was written in this century, not in antiquity.",
+   "facts": {
+    "Status": "Debunked",
+    "Text": "Vaimanika Shastra",
+    "Composed": "20th century",
+    "Claim": "Ancient aircraft"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Vaim%C4%81nika_%C5%9A%C4%81stra",
+     "https://en.wikipedia.org/wiki/Ancient_astronauts",
+     "https://en.wikipedia.org/wiki/Sanskrit",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "valhalla-coping",
    "url": "valhalla-coping.html",
    "title": "Valhalla as Coping",
@@ -28654,6 +29150,35 @@
      "https://en.wikipedia.org/wiki/Zero-point_energy",
      "https://en.wikipedia.org/wiki/Perpetual_motion",
      "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "zero-transmission",
+   "url": "zero-transmission.html",
+   "title": "Zero and Its Transmission",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The numeral system with place value and zero travelled from India to the world. The route is documented.",
+   "facts": {
+    "Status": "Documented",
+    "Origin": "India",
+    "Route": "Islamic world; then Europe",
+    "Key text": "al-Khwarizmi's arithmetic"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system",
+     "https://en.wikipedia.org/wiki/0",
+     "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+     "https://en.wikipedia.org/wiki/Indian_mathematics"
     ]
    },
    "last_reviewed": "2026-11-20",
