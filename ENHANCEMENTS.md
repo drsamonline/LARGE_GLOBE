@@ -750,6 +750,21 @@ The shelf this archive has been missing: real lost lands beside the invented one
 
 The counterweight batch. Twelve pages where the historical claim was doubted, resisted or dismissed and turned out to be true: Troy, the coelacanth, Polynesian navigation, Ötzi's murder, the Antikythera mechanism, Eratosthenes, Richard III. Four where a famous story is false: Nero's fiddle, Caligula's horse as consul, the salting of Carthage, Voynich's alien plants. The two categories belong together, because the archive's four labels are only worth anything if the same method produces both.
 
+## 0am. Shipped in the thirty-eighth pass — 21 November 2026: open problems
+
+24 dossiers (one dropped as a duplicate of the existing Snowball Earth page): five open problems in mathematics and computer science, and nineteen contested questions across geology, palaeontology, psychology and medicine.
+
+| Open problems | Contested science |
+|---|---|
+| Goldbach, twin primes, Collatz, P vs NP, Navier–Stokes | Plate tectonics onset, mantle plumes, peopling of the Americas |
+| | Dinosaur metabolism, T. rex, Spinosaurus, megafauna extinctions |
+| | Heritability of IQ, placebo, IAT, stereotype threat, uncanny valley, collective intelligence, illusionism |
+| | Type 3 diabetes, viral trigger for schizophrenia, chronic Lyme, carbohydrate–insulin, seed oils |
+
+532 dossiers, 2,234 sources, 566 images, 558 pages, PDF 1,298 pages, EPUB 535 chapters, sitemap 556 URLs, 0 problems.
+
+The five `open problem` pages are the first use of that label in the archive, and they need it: these are claims with overwhelming computational evidence and no proof, which is a different epistemic state from both "documented" and "live debate".
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 508,
+ "count": 532,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -2151,6 +2151,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "carbohydrate-insulin",
+   "url": "carbohydrate-insulin.html",
+   "title": "The Carbohydrate–Insulin Model",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that obesity is driven by insulin, and that carbohydrate restriction is therefore uniquely effective. The trials find that, matched for protein and calories, the diets perform similarly.",
+   "facts": {
+    "Status": "Contested",
+    "Claim": "Insulin drives fat storage; carbs cause obesity",
+    "Short-term": "Low-carb diets show greater early loss",
+    "Matched feeding": "Similar fat loss",
+    "Prediction": "Insulin resistance should predict response — it does not"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Carbohydrate-insulin_model_of_obesity",
+     "https://en.wikipedia.org/wiki/Low-carbohydrate_diet",
+     "https://en.wikipedia.org/wiki/Insulin",
+     "https://en.wikipedia.org/wiki/Energy_homeostasis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "catharsis",
    "url": "catharsis.html",
    "title": "Catharsis",
@@ -2299,6 +2329,37 @@
      "https://doi.org/10.1017/S0140525X00005756",
      "https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)",
      "https://en.wikipedia.org/wiki/Symbol_grounding_problem"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "chronic-lyme",
+   "url": "chronic-lyme.html",
+   "title": "Chronic Lyme",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Some patients have persistent symptoms after treated Lyme disease. Whether that is an ongoing infection is the argument, and the trials have not supported prolonged antibiotics.",
+   "facts": {
+    "Status": "Live debate",
+    "Recognised": "Post-treatment Lyme disease syndrome",
+    "Prolonged antibiotics": "No sustained benefit; harms",
+    "Testing after treatment": "Unreliable",
+    "Symptoms": "Real and often disabling",
+    "Cause": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lyme_disease",
+     "https://en.wikipedia.org/wiki/Chronic_Lyme_disease",
+     "https://en.wikipedia.org/wiki/Post-treatment_Lyme_disease_syndrome",
+     "https://en.wikipedia.org/wiki/Borrelia_burgdorferi"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2554,6 +2615,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "collatz-conjecture",
+   "url": "collatz-conjecture.html",
+   "title": "The Collatz Conjecture",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "Halve even numbers, triple-and-add-one odd ones, and you always reach 1. Nobody knows why, and Paul Erdős said mathematics is not ready for it.",
+   "facts": {
+    "Status": "Open",
+    "Proposed": "Lothar Collatz, 1937",
+    "Rule": "n/2 if even; 3n+1 if odd",
+    "Verified to": "About 2⁶⁸",
+    "Known cycles": "4-2-1"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Collatz_conjecture",
+     "https://en.wikipedia.org/wiki/Iterated_function",
+     "https://en.wikipedia.org/wiki/Paul_Erd%C5%91s",
+     "https://en.wikipedia.org/wiki/Collatz_conjecture"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "collective-effervescence",
    "url": "collective-effervescence.html",
    "title": "Collective Effervescence",
@@ -2578,6 +2669,36 @@
      "https://en.wikipedia.org/wiki/%C3%89mile_Durkheim",
      "https://en.wikipedia.org/wiki/The_Elementary_Forms_of_Religious_Life",
      "https://en.wikipedia.org/wiki/Entrainment_(biomusicology)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "collective-intelligence",
+   "url": "collective-intelligence.html",
+   "title": "Collective Intelligence",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that groups have a measurable general intelligence, predicting performance across tasks. The original study was striking; the replications are mixed.",
+   "facts": {
+    "Status": "Contested",
+    "Published": "Woolley et al., 2010",
+    "Claim": "A general factor for group performance",
+    "Correlates claimed": "Social sensitivity; proportion of women",
+    "Replications": "Mixed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Collective_intelligence",
+     "https://en.wikipedia.org/wiki/Group_dynamics",
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://en.wikipedia.org/wiki/Factor_analysis"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3709,6 +3830,37 @@
      "https://doi.org/10.1126/science.208.4448.1095",
      "https://doi.org/10.1126/science.1177265",
      "https://en.wikipedia.org/wiki/Chicxulub_crater"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dinosaur-metabolism",
+   "url": "dinosaur-metabolism.html",
+   "title": "Dinosaur Metabolism",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Were the dinosaurs warm-blooded? Bone growth, isotopes and the nasal anatomy point in different directions, and the answer may be neither.",
+   "facts": {
+    "Status": "Live debate",
+    "Evidence": "Bone histology; isotopes; nasal anatomy",
+    "Favoured view": "Mesothermy for many groups",
+    "Old debate": "Warm versus cold blooded",
+    "Contested": "Variation between groups",
+    "Field": "Paleontology"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Physiology_of_dinosaurs",
+     "https://en.wikipedia.org/wiki/Endotherm",
+     "https://en.wikipedia.org/wiki/Mesotherm",
+     "https://en.wikipedia.org/wiki/Histology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5819,6 +5971,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "goldbach-conjecture",
+   "url": "goldbach-conjecture.html",
+   "title": "The Goldbach Conjecture",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "Every even number greater than two is the sum of two primes. It has been checked to four quintillion and proved for nobody.",
+   "facts": {
+    "Status": "Open problem",
+    "Proposed": "Goldbach, 1742",
+    "Statement": "Every even n > 2 is the sum of two primes",
+    "Verified to": "About 4×10¹⁸",
+    "Weak version": "Proved, 2013",
+    "Strong version": "Open"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Goldbach%27s_conjecture",
+     "https://en.wikipedia.org/wiki/Prime_number",
+     "https://en.wikipedia.org/wiki/Goldbach%27s_weak_conjecture",
+     "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "goodharts-law",
    "url": "goodharts-law.html",
    "title": "Goodhart's Law",
@@ -6532,6 +6715,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "heritability-intelligence",
+   "url": "heritability-intelligence.html",
+   "title": "Heritability of Intelligence",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Twin and adoption studies put the heritability of adult IQ high. What that number means, and what it does not, is where the argument lives.",
+   "facts": {
+    "Status": "Live debate",
+    "Childhood heritability": "About 0.4–0.5",
+    "Adult heritability": "About 0.7–0.8",
+    "Method": "Twin and adoption studies",
+    "Not implied": "Immutability; group differences",
+    "Field": "Behaviour genetics"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Heritability_of_IQ",
+     "https://en.wikipedia.org/wiki/Heritability",
+     "https://en.wikipedia.org/wiki/Twin_study",
+     "https://en.wikipedia.org/wiki/Behavioural_genetics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "hitler-escape",
    "url": "hitler-escape.html",
    "title": "Did Hitler Escape?",
@@ -7000,6 +7214,68 @@
      "https://en.wikipedia.org/wiki/Adam_Weishaupt",
      "https://en.wikipedia.org/wiki/Eye_of_Providence",
      "https://en.wikipedia.org/wiki/Conspiracy_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "illusionism-consciousness",
+   "url": "illusionism-consciousness.html",
+   "title": "Illusionism",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that consciousness as people describe it — the felt quality of experience — is an illusion produced by the brain. It is a serious position and it is hard to state without sounding absurd.",
+   "facts": {
+    "Status": "Live debate",
+    "Proponents": "Frankish and others",
+    "Claim": "Phenomenal consciousness is an illusion",
+    "Main objection": "An illusion of experience requires experience",
+    "Testable": "Not currently",
+    "Field": "Philosophy of mind"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Illusionism_(philosophy_of_mind)",
+     "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+     "https://en.wikipedia.org/wiki/Qualia",
+     "https://en.wikipedia.org/wiki/Introspection_illusion"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "implicit-association-test",
+   "url": "implicit-association-test.html",
+   "title": "The Implicit Association Test",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A reaction-time test said to measure unconscious bias. It correlates weakly with behaviour and its test-retest reliability is poor, which is a problem for a measure used in training and policy.",
+   "facts": {
+    "Status": "Live debate",
+    "Published": "1998",
+    "Measures": "Reaction-time associations",
+    "Test-retest": "Low",
+    "Behaviour prediction": "Weak",
+    "Strong claims": "Largely withdrawn"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Implicit-association_test",
+     "https://en.wikipedia.org/wiki/Implicit_stereotype",
+     "https://en.wikipedia.org/wiki/Repeatability",
+     "https://en.wikipedia.org/wiki/Replication_crisis"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8500,6 +8776,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "mantle-plumes",
+   "url": "mantle-plumes.html",
+   "title": "Mantle Plumes",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Hot rock rising from deep in the mantle is the standard explanation for Hawaii and Iceland. The seismic evidence for the plumes is weaker than the theory requires.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "1971",
+    "Standard example": "Hawaii",
+    "Evidence": "Age progression of volcanic chains",
+    "Contested": "Deep versus shallow origin",
+    "Alternatives": "Edge-driven convection; lithospheric cracks"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mantle_plume",
+     "https://en.wikipedia.org/wiki/Hotspot_(geology)",
+     "https://en.wikipedia.org/wiki/Seismic_tomography",
+     "https://en.wikipedia.org/wiki/Hawaii_hotspot"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "many-worlds",
    "url": "many-worlds.html",
    "title": "Many Worlds",
@@ -8709,6 +9016,37 @@
      "https://doi.org/10.1086/256633",
      "https://en.wikipedia.org/wiki/McKelvey%E2%80%93Schofield_chaos_theorem",
      "https://en.wikipedia.org/wiki/Political_polarization"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "megafauna-extinctions",
+   "url": "megafauna-extinctions.html",
+   "title": "The Megafauna Extinctions",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Large animals disappeared from every continent except Africa at the end of the Pleistocene. Climate, humans, or both — and the answer differs by continent.",
+   "facts": {
+    "Status": "Live debate",
+    "Period": "c. 50,000–10,000 years ago",
+    "Affected": "Americas, Australia, Eurasia, islands",
+    "Survived": "Africa's large mammals",
+    "Hypotheses": "Climate; human hunting; both",
+    "Strongest human cases": "Islands and Australia"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Quaternary_extinction_event",
+     "https://en.wikipedia.org/wiki/Overkill_hypothesis",
+     "https://en.wikipedia.org/wiki/Pleistocene_megafauna",
+     "https://en.wikipedia.org/wiki/Palaeoecology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9399,6 +9737,37 @@
      "https://www.livescience.com/archaeology/why-were-the-nazca-lines-built",
      "https://www.nationalgeographic.com/history/article/nasca-lines",
      "https://www.history.com/articles/nazca-lines"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "navier-stokes",
+   "url": "navier-stokes.html",
+   "title": "Navier–Stokes Existence and Smoothness",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "The equations that describe fluid flow are used every day and have never been proved to have solutions that stay smooth. Turbulence is the reason it matters.",
+   "facts": {
+    "Status": "Open problem",
+    "Equations": "Navier–Stokes",
+    "Question": "Smooth solutions for all time in 3D?",
+    "Known": "Solved in two dimensions",
+    "Physical face": "Turbulence",
+    "Prize": "Millennium Prize"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness",
+     "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations",
+     "https://en.wikipedia.org/wiki/Turbulence",
+     "https://en.wikipedia.org/wiki/Millennium_Prize_Problems"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10181,6 +10550,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "p-versus-np",
+   "url": "p-versus-np.html",
+   "title": "P versus NP",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "Is every problem whose answer can be checked quickly also solvable quickly? Almost everyone believes not, and nobody can prove it.",
+   "facts": {
+    "Status": "Open problem",
+    "Formulated": "Cook, 1971",
+    "Question": "Is P equal to NP?",
+    "Consensus": "P ≠ NP",
+    "Barriers": "Relativisation; natural proofs; algebrisation",
+    "Prize": "Millennium Prize"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+     "https://en.wikipedia.org/wiki/Complexity_class",
+     "https://en.wikipedia.org/wiki/Millennium_Prize_Problems",
+     "https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "p2-lodge",
    "url": "p2-lodge.html",
    "title": "The P2 Lodge",
@@ -10485,6 +10885,37 @@
      "https://en.wikipedia.org/wiki/Seat_belt_legislation",
      "https://en.wikipedia.org/wiki/Road_traffic_safety",
      "https://en.wikipedia.org/wiki/Moral_hazard"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "peopling-of-americas",
+   "url": "peopling-of-americas.html",
+   "title": "Peopling of the Americas",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "People reached the Americas before the last glacial maximum or after it, by land or by coast. The dates have been moving earlier for thirty years.",
+   "facts": {
+    "Status": "Live debate",
+    "Old model": "Clovis-first, c. 13,000 years ago",
+    "Key pre-Clovis sites": "Monte Verde; White Sands",
+    "Earliest dates": "23,000–21,000 years ago",
+    "Favoured route": "Pacific coast",
+    "Contested": "The earliest sites"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Peopling_of_the_Americas",
+     "https://en.wikipedia.org/wiki/Clovis_culture",
+     "https://en.wikipedia.org/wiki/Monte_Verde",
+     "https://en.wikipedia.org/wiki/White_Sands_National_Park"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10834,6 +11265,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "placebo-mechanisms",
+   "url": "placebo-mechanisms.html",
+   "title": "Placebo Mechanisms",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The placebo effect is real, and it is not one thing: expectation, conditioning, regression and reporting bias all contribute, and the size depends on the outcome.",
+   "facts": {
+    "Status": "Live debate",
+    "Named": "Beecher, 1955",
+    "Largest effects": "Subjective outcomes: pain, nausea",
+    "Smallest": "Objective outcomes",
+    "Mechanisms": "Expectation; conditioning",
+    "Open-label": "Small benefits; contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Placebo",
+     "https://en.wikipedia.org/wiki/Nocebo",
+     "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+     "https://en.wikipedia.org/wiki/Regression_toward_the_mean"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "planet-nine-black-hole",
    "url": "planet-nine-black-hole.html",
    "title": "Planet Nine as a Black Hole",
@@ -10921,6 +11383,37 @@
      "https://en.wikipedia.org/wiki/Plant_neurobiology",
      "https://en.wikipedia.org/wiki/Action_potential",
      "https://en.wikipedia.org/wiki/Auxin"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "plate-tectonics-began",
+   "url": "plate-tectonics-began.html",
+   "title": "When Plate Tectonics Began",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The Earth's surface moves in plates, and nobody knows when that started. Estimates range from four billion years ago to seven hundred million.",
+   "facts": {
+    "Status": "Live debate",
+    "Estimates": "4.0 Ga to 0.7 Ga",
+    "Evidence": "Zircons; palaeomagnetism; blueschists",
+    "Agreed": "Modern tectonics in the Phanerozoic",
+    "Contested": "The onset and its definition",
+    "Field": "Earth science"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Plate_tectonics",
+     "https://en.wikipedia.org/wiki/Zircon",
+     "https://en.wikipedia.org/wiki/Subduction",
+     "https://en.wikipedia.org/wiki/Geological_history_of_Earth"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12584,6 +13077,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "seed-oils-inflammation",
+   "url": "seed-oils-inflammation.html",
+   "title": "Seed Oils and Inflammation",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that industrial seed oils cause inflammation through omega-6 fatty acids. The biochemistry is real; the clinical evidence does not support the harm.",
+   "facts": {
+    "Status": "Not supported",
+    "Claim": "Seed oils drive inflammation",
+    "Biochemistry": "Linoleic acid to arachidonic acid — real",
+    "Trials": "No increase in inflammatory markers",
+    "Cohort data": "Higher linoleic acid linked to lower risk"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Linoleic_acid",
+     "https://en.wikipedia.org/wiki/Omega-6_fatty_acid",
+     "https://en.wikipedia.org/wiki/Inflammation",
+     "https://en.wikipedia.org/wiki/Seed_oil"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "serotonin-depression",
    "url": "serotonin-depression.html",
    "title": "Serotonin and Depression",
@@ -13275,6 +13798,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "spinosaurus-lifestyle",
+   "url": "spinosaurus-lifestyle.html",
+   "title": "Spinosaurus Lifestyle",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A dinosaur with a sail, a crocodile snout and dense bones, proposed as a swimmer. The 2020 tail find supported it; later work questioned whether it could dive.",
+   "facts": {
+    "Status": "Live debate",
+    "Animal": "Spinosaurus, large theropod",
+    "Key features": "Crocodile snout; sail; dense bones",
+    "2020 find": "Paddle-like tail",
+    "Contested": "Swimming versus wading",
+    "Field": "Paleontology"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Spinosaurus",
+     "https://en.wikipedia.org/wiki/Aquatic_animal",
+     "https://en.wikipedia.org/wiki/Theropoda",
+     "https://en.wikipedia.org/wiki/Kem_Kem_Beds"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "splinternet",
    "url": "splinternet.html",
    "title": "The Splinternet",
@@ -13454,6 +14008,36 @@
      "https://en.wikipedia.org/wiki/Satellite_constellation",
      "https://en.wikipedia.org/wiki/Satellite_flare",
      "https://en.wikipedia.org/wiki/Unidentified_flying_object"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "stereotype-threat",
+   "url": "stereotype-threat.html",
+   "title": "Stereotype Threat",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that reminding people of a negative stereotype about their group impairs their performance. It replicated in small studies and largely failed in large pre-registered ones.",
+   "facts": {
+    "Status": "Contested",
+    "Published": "Steele and Aronson, 1995",
+    "Claim": "Stereotype awareness impairs performance",
+    "Large replication": "2019 — near zero",
+    "Meta-analysis": "Small, variable effects"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Stereotype_threat",
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://en.wikipedia.org/wiki/Claude_Steele",
+     "https://en.wikipedia.org/wiki/Preregistration_(science)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -14528,6 +15112,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "trex-scavenger",
+   "url": "trex-scavenger.html",
+   "title": "T. rex the Scavenger",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that Tyrannosaurus was too slow and too small-eyed to hunt, and lived as a scavenger. The evidence points to an animal that did both.",
+   "facts": {
+    "Status": "Live debate",
+    "Claim": "Horner, 1990s: a scavenger",
+    "Key evidence": "Healed bite marks; embedded tooth",
+    "Bite force": "Among the highest known",
+    "Current view": "Opportunistic predator and scavenger",
+    "Scavenger-only": "Not supported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tyrannosaurus",
+     "https://en.wikipedia.org/wiki/Jack_Horner",
+     "https://en.wikipedia.org/wiki/Bite_force_quotient",
+     "https://en.wikipedia.org/wiki/Scavenger"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "troy-was-real",
    "url": "troy-was-real.html",
    "title": "Troy Was Real",
@@ -14744,6 +15359,67 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "twin-prime-conjecture",
+   "url": "twin-prime-conjecture.html",
+   "title": "The Twin Prime Conjecture",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "There are infinitely many pairs of primes two apart. Nobody can prove it, though we now know there are infinitely many pairs at some fixed distance.",
+   "facts": {
+    "Status": "Open",
+    "Statement": "Infinitely many prime pairs differing by 2",
+    "Key result": "Zhang, 2013 — bounded gaps",
+    "Best bound": "246",
+    "Target": "2"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Twin_prime",
+     "https://en.wikipedia.org/wiki/Yitang_Zhang",
+     "https://en.wikipedia.org/wiki/Polymath_Project",
+     "https://en.wikipedia.org/wiki/Prime_gap"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "type-3-diabetes",
+   "url": "type-3-diabetes.html",
+   "title": "Type 3 Diabetes",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that Alzheimer's is a form of diabetes in the brain, driven by insulin resistance. The mechanism is real; the label is a hypothesis, not a diagnosis.",
+   "facts": {
+    "Status": "Live debate",
+    "Term proposed": "Mid-2000s",
+    "Mechanism": "Brain insulin resistance",
+    "Documented": "Impaired glucose metabolism",
+    "Not established": "A new disease category",
+    "Trials": "Mixed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+     "https://en.wikipedia.org/wiki/Insulin_resistance",
+     "https://en.wikipedia.org/wiki/Diabetes",
+     "https://en.wikipedia.org/wiki/Intranasal_insulin"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ulcers-bacterial",
    "url": "ulcers-bacterial.html",
    "title": "Ulcers Are Bacterial",
@@ -14768,6 +15444,37 @@
      "https://en.wikipedia.org/wiki/Barry_Marshall",
      "https://en.wikipedia.org/wiki/Peptic_ulcer_disease",
      "https://en.wikipedia.org/wiki/Nobel_Prize_in_Physiology_or_Medicine"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "uncanny-valley",
+   "url": "uncanny-valley.html",
+   "title": "The Uncanny Valley",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that near-human figures provoke discomfort before realism is reached. The intuition is widespread; the experimental evidence is mixed.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "Mori, 1970",
+    "Claim": "Discomfort at near-human appearance",
+    "Evidence": "Mixed across studies",
+    "Explanations": "Perceptual mismatch; avoidance",
+    "Original curve": "A sketch, not data"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Uncanny_valley",
+     "https://en.wikipedia.org/wiki/Android_(robot)",
+     "https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction",
+     "https://en.wikipedia.org/wiki/Empirical_aesthetics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -15023,6 +15730,37 @@
      "https://en.wikipedia.org/wiki/Anatase",
      "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows",
      "https://en.wikipedia.org/wiki/Forgery"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "viral-trigger-schizophrenia",
+   "url": "viral-trigger-schizophrenia.html",
+   "title": "The Viral Trigger for Schizophrenia",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Infections in pregnancy are associated with schizophrenia in the child, and the immune system is implicated. The effect is real and small.",
+   "facts": {
+    "Status": "Live debate",
+    "Association": "Prenatal infection; season of birth",
+    "Genetic evidence": "Immune loci, including C4",
+    "Animal models": "Maternal immune activation",
+    "Effect size": "Small",
+    "Single trigger": "None identified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Schizophrenia",
+     "https://en.wikipedia.org/wiki/Maternal_immune_activation",
+     "https://en.wikipedia.org/wiki/Complement_component_4A",
+     "https://en.wikipedia.org/wiki/Epidemiology_of_schizophrenia"
     ]
    },
    "last_reviewed": "2026-11-20",
