@@ -614,6 +614,40 @@ The first full 25-dossier pass, and the mix is deliberate: five cosmology claims
 
 The batch is built as a paired argument: ten invented conspiracies on one side, nine real operations on the other. Roswell is a real cover-up of a balloon; Azorian is a real cover story for a submarine; Crypto AG is a real fifty-year secret that nobody exposed; Rainbow Warrior is a real state bombing that was admitted within weeks. Set beside chemtrails and Majestic 12, the difference is not plausibility — it is paperwork.
 
+## 0ai. Shipped in the thirty-fourth pass — 21 November 2026: documented wrongdoing
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | Batterygate | Documented |
+| 2 | The Ice Cream Machine | Live debate |
+| 3 | New Coke as a Trojan Horse | Fringe claim |
+| 4 | The CIA and Modern Art | Documented |
+| 5 | The Guatemala Syphilis Experiments | Documented |
+| 6 | Operation Fast and Furious | Documented |
+| 7 | Iran–Contra | Documented |
+| 8 | BCCI | Documented |
+| 9 | The Lavon Affair | Documented |
+| 10 | CIA Black Sites | Documented |
+| 11 | Project 112 and SHAD | Documented |
+| 12 | The Green Run | Documented |
+| 13 | The FBI and Martin Luther King | Documented |
+| 14 | The CIA–Mafia Plots Against Castro | Documented |
+| 15 | The Horizon Scandal | Documented |
+| 16 | Dieselgate | Documented |
+| 17 | Enron and California | Documented |
+| 18 | The P2 Lodge | Documented |
+| 19 | The Gleiwitz Incident | Documented |
+| 20 | Asbestos and Radon Cover-Ups | Documented |
+| 21 | Cambridge Analytica | Documented |
+| 22 | Zero-Click Search Extinction | Live debate |
+| 23 | Short-Form Video and Attention | Live debate |
+| 24 | The NPC Theory | Fringe claim |
+| 25 | Avril Lavigne Was Replaced | Debunked |
+
+433 dossiers, 1,838 sources, 467 images, 459 pages, PDF 1,100 pages, EPUB 433 chapters, sitemap 457 URLs, 0 problems.
+
+The largest single batch of `documented` pages in the archive, and the reason is the subject: twenty of these are things that were done, admitted, and prosecuted. The batch exists because an archive of strange claims is only trustworthy if it can also say plainly when the strange claim was right — Fast and Furious, the black sites, the Lavon affair, Gleiwitz. Conspiracy theories thrive where the record is thin; here the record is thick, and it is worse than the theories.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

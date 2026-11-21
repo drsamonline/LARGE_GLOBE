@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 408,
+ "count": 433,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -757,6 +757,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "asbestos-radon",
+   "url": "asbestos-radon.html",
+   "title": "Asbestos and Radon Cover-Ups",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Both asbestos and radon were known hazards long before they were regulated, and in both cases industry documents show the knowledge preceded the action.",
+   "facts": {
+    "Status": "Documented",
+    "Asbestos": "Known hazard from the early 1900s",
+    "Mesothelioma link": "Established by the 1960s",
+    "Radon": "Established from miner studies",
+    "Regulation": "Arrived decades after the evidence",
+    "Evidence": "Internal documents, litigation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Asbestos",
+     "https://en.wikipedia.org/wiki/Radon",
+     "https://en.wikipedia.org/wiki/Asbestosis",
+     "https://en.wikipedia.org/wiki/Occupational_safety_and_health"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "assembly-theory",
    "url": "assembly-theory.html",
    "title": "Assembly Theory",
@@ -781,6 +812,37 @@
      "https://en.wikipedia.org/wiki/Abiogenesis",
      "https://en.wikipedia.org/wiki/Complexity",
      "https://en.wikipedia.org/wiki/Mass_spectrometry"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "avril-replaced",
+   "url": "avril-replaced.html",
+   "title": "Avril Lavigne Was Replaced",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claim that the singer died in 2003 and was replaced by a body double named Melissa. The evidence is photographs, and the photographs are of the same person at different ages.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim since": "About 2005",
+    "Alleged": "Death in 2003; replacement",
+    "Evidence": "Photograph comparison",
+    "Problem": "Normal ageing, weight and styling",
+    "Documentary evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Avril_Lavigne",
+     "https://en.wikipedia.org/wiki/Confirmation_bias",
+     "https://en.wikipedia.org/wiki/Doppelg%C3%A4nger",
+     "https://en.wikipedia.org/wiki/Death_hoax"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -997,6 +1059,68 @@
      "https://en.wikipedia.org/wiki/Lightning",
      "https://doi.org/10.1038/35014142",
      "https://en.wikipedia.org/wiki/Plasma_(physics)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "batterygate",
+   "url": "batterygate.html",
+   "title": "Batterygate",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Apple slowed down older iPhones to stop them shutting down unexpectedly, and did not tell anyone. It was a reasonable engineering decision and a serious communication failure.",
+   "facts": {
+    "Status": "Documented",
+    "Confirmed": "December 2017",
+    "Practice": "Performance throttling on degraded batteries",
+    "Reason": "Prevent unexpected shutdowns",
+    "Disclosure": "None, until discovered",
+    "Response": "Battery health indicator; cheaper replacements"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Batterygate",
+     "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+     "https://en.wikipedia.org/wiki/Planned_obsolescence",
+     "https://en.wikipedia.org/wiki/IOS"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "bcci",
+   "url": "bcci.html",
+   "title": "BCCI",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A bank grew into a global institution by serving dictators, arms dealers and intelligence services, and was closed by regulators in 1991. It is the largest bank fraud prosecuted to that date.",
+   "facts": {
+    "Status": "Documented",
+    "Founded": "1972",
+    "Closed": "1991",
+    "Losses": "Around $10 billion",
+    "Findings": "Systematic fraud; false accounting",
+    "Notable clients": "Intelligence services, including the CIA"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bank_of_Credit_and_Commerce_International",
+     "https://en.wikipedia.org/wiki/Money_laundering",
+     "https://en.wikipedia.org/wiki/Bank_regulation",
+     "https://en.wikipedia.org/wiki/Agha_Hasan_Abedi"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1593,6 +1717,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "cambridge-analytica",
+   "url": "cambridge-analytica.html",
+   "title": "Cambridge Analytica",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A political consulting firm obtained Facebook data on millions of users through a personality quiz app, and used it for targeted advertising. The scandal changed how the platform handled data.",
+   "facts": {
+    "Status": "Documented",
+    "Harvest": "2014, via a quiz app",
+    "Scale": "Tens of millions of profiles",
+    "Exposed": "2018",
+    "Consequences": "Penalties; firm collapsed",
+    "Contested": "Effectiveness of the targeting"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cambridge_Analytica",
+     "https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal",
+     "https://en.wikipedia.org/wiki/Psychographic_targeting",
+     "https://en.wikipedia.org/wiki/Information_privacy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "cancer-origin",
    "url": "cancer-origin.html",
    "title": "Cancer's Origin",
@@ -1834,6 +1989,99 @@
      "https://en.wikipedia.org/wiki/Mange",
      "https://en.wikipedia.org/wiki/Coyote",
      "https://en.wikipedia.org/wiki/Cryptozoology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cia-black-sites",
+   "url": "cia-black-sites.html",
+   "title": "CIA Black Sites",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The CIA ran a network of secret prisons in several countries, where detainees were held and subjected to techniques the US government later acknowledged as torture.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "From 2002",
+    "Operator": "CIA",
+    "Techniques": "Waterboarding, sleep deprivation, confinement",
+    "Exposed": "2005, by journalism",
+    "Senate report": "2014"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Black_site",
+     "https://en.wikipedia.org/wiki/Senate_Intelligence_Committee_report_on_CIA_torture",
+     "https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques",
+     "https://en.wikipedia.org/wiki/Extraordinary_rendition"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cia-mafia-castro",
+   "url": "cia-mafia-castro.html",
+   "title": "The CIA–Mafia Plots Against Castro",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The CIA recruited mafia figures to kill Fidel Castro, using poison pills, exploding cigars and a contaminated diving suit. The schemes failed, and the Church Committee published them.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "1960–1965",
+    "Target": "Fidel Castro",
+    "Methods": "Poison, cigars, contaminated equipment",
+    "Participants": "CIA officers; mafia figures",
+    "Disclosed": "Church Committee, 1975"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Assassination_attempts_on_Fidel_Castro",
+     "https://en.wikipedia.org/wiki/Church_Committee",
+     "https://en.wikipedia.org/wiki/Santo_Trafficante_Jr.",
+     "https://en.wikipedia.org/wiki/Covert_operation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cia-modern-art",
+   "url": "cia-modern-art.html",
+   "title": "The CIA and Modern Art",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The CIA covertly funded abstract expressionist exhibitions and journals during the Cold War, as cultural diplomacy. The paintings were real; the funding was hidden.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "Late 1940s – 1967",
+    "Vehicle": "Congress for Cultural Freedom",
+    "Purpose": "Cultural diplomacy in the Cold War",
+    "Exposed": "1967",
+    "Claim": "That the CIA invented the movement — not supported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Congress_for_Cultural_Freedom",
+     "https://en.wikipedia.org/wiki/Abstract_expressionism",
+     "https://en.wikipedia.org/wiki/Cultural_Cold_War",
+     "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2881,6 +3129,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dieselgate",
+   "url": "dieselgate.html",
+   "title": "Dieselgate",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Volkswagen fitted cars with software that detected emissions tests and switched on full pollution control only when being tested. On the road, the cars emitted many times the limit.",
+   "facts": {
+    "Status": "Documented",
+    "Exposed": "2015, by US regulators",
+    "Mechanism": "Defeat device software",
+    "Emissions": "Up to 40× the limit on the road",
+    "Cost": "More than €30 billion",
+    "Executives": "Charged; two imprisoned in the US"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal",
+     "https://en.wikipedia.org/wiki/Defeat_device",
+     "https://en.wikipedia.org/wiki/Nitrogen_oxide",
+     "https://en.wikipedia.org/wiki/Vehicle_emissions_testing"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dinosaur-extinction",
    "url": "dinosaur-extinction.html",
    "title": "The Dinosaur Extinction",
@@ -3598,6 +3877,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "enron-california",
+   "url": "enron-california.html",
+   "title": "Enron and California",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "California's electricity market was deregulated, and traders found ways to make money by creating scarcity. The state had rolling blackouts, and Enron collapsed.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "2000–2001",
+    "State": "California electricity market",
+    "Strategies": "Congestion, circular scheduling, withholding",
+    "Evidence": "Trading recordings, published 2005",
+    "Outcome": "Blackouts; Enron collapse"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/California_electricity_crisis",
+     "https://en.wikipedia.org/wiki/Enron",
+     "https://en.wikipedia.org/wiki/Deregulation",
+     "https://en.wikipedia.org/wiki/Market_manipulation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "enshittification",
    "url": "enshittification.html",
    "title": "Enshittification",
@@ -3817,6 +4127,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "fast-and-furious",
+   "url": "fast-and-furious.html",
+   "title": "Operation Fast and Furious",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "US agents allowed firearms to be trafficked into Mexico in order to trace them, and lost track of most of them. Two were found at the scene of a Border Patrol agent's killing.",
+   "facts": {
+    "Status": "Documented",
+    "Agency": "ATF",
+    "Period": "2009–2011, Arizona",
+    "Firearms": "About 2,000",
+    "Recovered": "A minority",
+    "Consequence": "Congressional investigation; resignations"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/ATF_gunwalking_scandal",
+     "https://en.wikipedia.org/wiki/Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives",
+     "https://en.wikipedia.org/wiki/Straw_purchase",
+     "https://en.wikipedia.org/wiki/Brian_Terry"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "fast-radio-bursts",
    "url": "fast-radio-bursts.html",
    "title": "Fast Radio Bursts",
@@ -3841,6 +4182,37 @@
      "https://doi.org/10.1126/science.1147532",
      "https://doi.org/10.1038/nature20797",
      "https://www.chime-frb.ca/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "fbi-mlk",
+   "url": "fbi-mlk.html",
+   "title": "The FBI and Martin Luther King",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The FBI wiretapped King, bugged his hotel rooms, and sent him an anonymous letter urging suicide. The campaign is documented in the Bureau's own files.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "Mid-1950s – 1968",
+    "Agency": "FBI, under J. Edgar Hoover",
+    "Methods": "Wiretaps, bugs, files",
+    "Letter": "1964, anonymous, urging suicide",
+    "Disclosed": "Church Committee, 1976"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/COINTELPRO",
+     "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+     "https://en.wikipedia.org/wiki/Church_Committee",
+     "https://en.wikipedia.org/wiki/J._Edgar_Hoover"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4579,6 +4951,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "gleiwitz-incident",
+   "url": "gleiwitz-incident.html",
+   "title": "The Gleiwitz Incident",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "German agents staged an attack on a radio station and blamed Poland, as the pretext for invasion. Prisoners were killed and left as 'casualties'.",
+   "facts": {
+    "Status": "Documented",
+    "Date": "31 August 1939",
+    "Place": "Gleiwitz (Gliwice)",
+    "Operators": "SS, under Alfred Naujocks",
+    "Method": "Staged attack; Polish-language broadcast",
+    "Disclosed": "Nuremberg testimony"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Gleiwitz_incident",
+     "https://en.wikipedia.org/wiki/Alfred_Naujocks",
+     "https://en.wikipedia.org/wiki/False_flag",
+     "https://en.wikipedia.org/wiki/Invasion_of_Poland"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "global-consciousness-project",
    "url": "global-consciousness-project.html",
    "title": "The Global Consciousness Project",
@@ -4985,6 +5388,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "green-run",
+   "url": "green-run.html",
+   "title": "The Green Run",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A secret test released radioactive material over Washington state to see how it would disperse. It was detected 300 km away, and the public was told nothing.",
+   "facts": {
+    "Status": "Documented",
+    "Date": "December 1949",
+    "Site": "Hanford, Washington",
+    "Purpose": "Dispersion study; monitoring calibration",
+    "Detection": "Hundreds of kilometres away",
+    "Disclosed": "Declassified in the 1980s"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Green_Run",
+     "https://en.wikipedia.org/wiki/Hanford_Site",
+     "https://en.wikipedia.org/wiki/Iodine-131",
+     "https://en.wikipedia.org/wiki/Downwinders"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "grey-goo",
    "url": "grey-goo.html",
    "title": "Grey Goo",
@@ -5040,6 +5474,37 @@
      "https://doi.org/10.1177/0956797617739704",
      "https://doi.org/10.1038/s41586-019-1466-y",
      "https://en.wikipedia.org/wiki/Replication_crisis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "guatemala-syphilis",
+   "url": "guatemala-syphilis.html",
+   "title": "The Guatemala Syphilis Experiments",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "US researchers deliberately infected Guatemalan soldiers, prisoners and psychiatric patients with syphilis to test penicillin. The subjects were not told, and the study was hidden for sixty years.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "1946–1948",
+    "Subjects": "About 1,300, without consent",
+    "Purpose": "Study prophylaxis and penicillin treatment",
+    "Disclosed": "2010, by a historian",
+    "Outcome": "Official apology; commission report"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Guatemala_syphilis_experiments",
+     "https://en.wikipedia.org/wiki/Tuskegee_syphilis_experiment",
+     "https://en.wikipedia.org/wiki/Medical_ethics",
+     "https://en.wikipedia.org/wiki/Informed_consent"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5365,6 +5830,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "horizon-scandal",
+   "url": "horizon-scandal.html",
+   "title": "The Horizon Scandal",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A faulty accounting system made subpostmasters look like thieves. Hundreds were prosecuted, some went to prison, and the Post Office fought the victims for twenty years.",
+   "facts": {
+    "Status": "Documented",
+    "System": "Horizon, introduced 1999",
+    "Prosecutions": "Hundreds",
+    "High Court": "2019 — system found faulty",
+    "Inquiry": "From 2022",
+    "Convictions quashed": "More than a hundred by 2024"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/British_Post_Office_scandal",
+     "https://en.wikipedia.org/wiki/Horizon_(IT_system)",
+     "https://en.wikipedia.org/wiki/Subpostmaster",
+     "https://en.wikipedia.org/wiki/Miscarriage_of_justice"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "hubble-tension",
    "url": "hubble-tension.html",
    "title": "The Hubble Tension",
@@ -5452,6 +5948,37 @@
      "https://www.tesla.com/blog/hyperloop",
      "https://en.wikipedia.org/wiki/Virgin_Hyperloop",
      "https://en.wikipedia.org/wiki/Shanghai_maglev_train"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ice-cream-machine",
+   "url": "ice-cream-machine.html",
+   "title": "The Ice Cream Machine",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "McDonald's ice cream machines break constantly, and it is a franchise-wide joke. The machines are made by one company, their error codes are proprietary, and the repair rules are the story.",
+   "facts": {
+    "Status": "Live debate",
+    "Manufacturer": "Taylor",
+    "Common faults": "Cleaning cycles; sensor errors",
+    "Restriction": "Authorised technicians only",
+    "Dispute": "Right to repair, from 2020",
+    "Safety argument": "Real, and contested in scope"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/McDonald%27s_ice_cream_machine",
+     "https://en.wikipedia.org/wiki/Right_to_repair",
+     "https://en.wikipedia.org/wiki/Soft_serve",
+     "https://en.wikipedia.org/wiki/Planned_obsolescence"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5641,6 +6168,37 @@
      "https://en.wikipedia.org/wiki/Perception",
      "https://en.wikipedia.org/wiki/Direct_and_indirect_realism",
      "https://en.wikipedia.org/wiki/Evolutionary_epistemology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "iran-contra",
+   "url": "iran-contra.html",
+   "title": "Iran–Contra",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The US sold arms to Iran and used the proceeds to fund Nicaraguan rebels, in defiance of an embargo and a congressional ban. It was exposed, investigated and pardoned.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "1985–1986",
+    "Components": "Arms to Iran; funds to the Contras",
+    "Violations": "Arms embargo; Boland Amendment",
+    "Exposed": "November 1986",
+    "Outcome": "Convictions; later pardons"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+     "https://en.wikipedia.org/wiki/Boland_Amendment",
+     "https://en.wikipedia.org/wiki/Contras",
+     "https://en.wikipedia.org/wiki/United_States_National_Security_Council"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6017,6 +6575,37 @@
      "https://en.wikipedia.org/wiki/Omphalos_hypothesis",
      "https://www.gutenberg.org/ebooks/2529",
      "https://pubs.usgs.gov/gip/geotime/age.html"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "lavon-affair",
+   "url": "lavon-affair.html",
+   "title": "The Lavon Affair",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Israeli military intelligence recruited Egyptian Jews to bomb Western targets in Egypt, in an attempt to damage relations with the West. The operation was exposed, and the political fallout lasted a decade.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "1954",
+    "Targets": "Western institutions in Egypt",
+    "Network": "Recruited Egyptian Jews",
+    "Outcome": "Trials; two executions",
+    "Political effect": "Israeli scandal to 1963"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lavon_Affair",
+     "https://en.wikipedia.org/wiki/False_flag",
+     "https://en.wikipedia.org/wiki/Aman_(IDF)",
+     "https://en.wikipedia.org/wiki/History_of_Egypt_under_Gamal_Abdel_Nasser"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7676,6 +8265,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "new-coke",
+   "url": "new-coke.html",
+   "title": "New Coke as a Trojan Horse",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Coca-Cola replaced its recipe in 1985, the public revolted, and the original returned in 79 days. The claim is that the whole thing was a planned manoeuvre.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Launched": "April 1985",
+    "Reversed": "July 1985, after 79 days",
+    "Claim": "A planned failure",
+    "Record": "Internal alarm; falling sales",
+    "Verdict": "Not supported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/New_Coke",
+     "https://en.wikipedia.org/wiki/Coca-Cola",
+     "https://en.wikipedia.org/wiki/Marketing",
+     "https://en.wikipedia.org/wiki/Streisand_effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "non-human-biologics",
    "url": "non-human-biologics.html",
    "title": "Non-Human Biologics",
@@ -7700,6 +8320,36 @@
      "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office",
      "https://en.wikipedia.org/wiki/Unidentified_flying_object",
      "https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "npc-theory",
+   "url": "npc-theory.html",
+   "title": "The NPC Theory",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The joke-theory that most people are non-player characters with no inner life. It began as a meme, and a survey found a surprising number of people willing to say they doubted others' consciousness.",
+   "facts": {
+    "Status": "Joke taken literally",
+    "Origin": "Meme, 2016",
+    "Claim": "Some people lack consciousness",
+    "Survey": "2023, substantial minority reported doubt",
+    "Serious ancestor": "Problem of other minds"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Problem_of_other_minds",
+     "https://en.wikipedia.org/wiki/Non-player_character",
+     "https://en.wikipedia.org/wiki/Philosophical_zombie",
+     "https://en.wikipedia.org/wiki/Solipsism"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8073,6 +8723,37 @@
      "https://iopscience.iop.org/article/10.3847/2041-8213/ab4ad8",
      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JE006875",
      "https://en.wikipedia.org/wiki/%CA%BBOumuamua"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "p2-lodge",
+   "url": "p2-lodge.html",
+   "title": "The P2 Lodge",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A Masonic lodge in Italy recruited generals, ministers and intelligence chiefs, and was exposed in 1981. Its members were involved in the decade's political violence.",
+   "facts": {
+    "Status": "Documented",
+    "Lodge": "Propaganda Due, Italy",
+    "Leader": "Licio Gelli",
+    "Membership": "Nearly a thousand, including senior officials",
+    "Exposed": "1981",
+    "Outcome": "Dissolved by law; parliamentary inquiry"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Propaganda_Due",
+     "https://en.wikipedia.org/wiki/Licio_Gelli",
+     "https://en.wikipedia.org/wiki/Bologna_massacre",
+     "https://en.wikipedia.org/wiki/Freemasonry_in_Italy"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8822,6 +9503,37 @@
      "https://arxiv.org/abs/2006.02838",
      "https://ogle.astrouw.edu.pl/",
      "https://www.ligo.org/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "project-112",
+   "url": "project-112.html",
+   "title": "Project 112 and SHAD",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The US military tested biological and chemical agents on ships and in the open, sometimes without informing the personnel involved. The programme was disclosed decades later.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "1962–1973",
+    "Operator": "US Department of Defense",
+    "Sub-programme": "SHAD, shipboard tests",
+    "Disclosed": "Declassified in stages; review in 2002",
+    "Consequence": "Veteran register; contact programme"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Project_112",
+     "https://en.wikipedia.org/wiki/Project_SHAD",
+     "https://en.wikipedia.org/wiki/Biological_warfare",
+     "https://en.wikipedia.org/wiki/Human_experimentation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10168,6 +10880,37 @@
      "https://en.wikipedia.org/wiki/Dream",
      "https://en.wikipedia.org/wiki/Lucid_dream",
      "https://en.wikipedia.org/wiki/Replication_crisis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "short-form-attention",
+   "url": "short-form-attention.html",
+   "title": "Short-Form Video and Attention",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that short-form video has shortened attention spans. The evidence is mixed, the definition of attention is contested, and the platforms measure engagement, not cognition.",
+   "facts": {
+    "Status": "Live debate",
+    "Claim": "Short video shortens attention",
+    "Evidence": "Mixed; correlational",
+    "Direction": "Unclear",
+    "Documented": "Displacement of sleep and study",
+    "Precedent": "The same panic for older media"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Attention_span",
+     "https://en.wikipedia.org/wiki/TikTok",
+     "https://en.wikipedia.org/wiki/Digital_media_use_and_mental_health",
+     "https://en.wikipedia.org/wiki/Moral_panic"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12741,6 +13484,37 @@
      "https://doi.org/10.1038/ncomms4532",
      "https://en.wikipedia.org/wiki/Tabanidae",
      "https://en.wikipedia.org/wiki/Disruptive_coloration"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "zero-click-search",
+   "url": "zero-click-search.html",
+   "title": "Zero-Click Search Extinction",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "More searches now end without a click, because the answer appears on the results page or in an AI summary. Whether that is the death of the open web or an ordinary shift is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Claim": "Search answers replace clicks",
+    "Evidence": "Behaviour studies; publisher reports",
+    "Contested": "Scale and definition",
+    "Withheld": "Platform data",
+    "Stakes": "Funding for independent publishing"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Web_search_engine",
+     "https://en.wikipedia.org/wiki/Featured_snippet",
+     "https://en.wikipedia.org/wiki/Online_advertising",
+     "https://en.wikipedia.org/wiki/Digital_divide"
     ]
    },
    "last_reviewed": "2026-11-20",
