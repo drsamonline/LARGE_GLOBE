@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 326,
+ "count": 336,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -122,6 +122,37 @@
      "https://arxiv.org/abs/2401.02843",
      "https://global.oup.com/academic/product/superintelligence-9780199678112",
      "https://en.wikipedia.org/wiki/AI_safety"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "aiud-wedge",
+   "url": "aiud-wedge.html",
+   "title": "The Aiud Wedge",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "An aluminium wedge was found in Romania in 1973 alongside bones, and was said to be ancient. Aluminium of that kind was not made before the nineteenth century, and the object is probably wartime debris.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "Near Aiud, Romania, 1973",
+    "Material": "Aluminium",
+    "Aluminium first isolated": "1820s; cheap from the 1880s",
+    "Likely origin": "Twentieth-century machinery debris",
+    "Association": "Unverified fossil bones in the same sand"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Aiud_wedge",
+     "https://en.wikipedia.org/wiki/Aluminium",
+     "https://en.wikipedia.org/wiki/Hall%E2%80%93H%C3%A9roult_process",
+     "https://en.wikipedia.org/wiki/Out-of-place_artifact"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1004,6 +1035,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "betz-sphere",
+   "url": "betz-sphere.html",
+   "title": "The Betz Sphere",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A steel sphere found after a forest fire was said to move on its own, hum, and resist investigation. It is a ball bearing from industrial machinery.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "Florida, 1974",
+    "Size": "About 20 cm",
+    "Material": "Stainless steel",
+    "Identification": "Industrial ball bearing",
+    "Mechanism found": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Betz_mystery_sphere",
+     "https://en.wikipedia.org/wiki/Ball_bearing",
+     "https://en.wikipedia.org/wiki/Anomalous_phenomenon",
+     "https://en.wikipedia.org/wiki/Ideomotor_phenomenon"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "bicameral-mind",
    "url": "bicameral-mind.html",
    "title": "The Bicameral Mind",
@@ -1716,6 +1778,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "coso-artifact",
+   "url": "coso-artifact.html",
+   "title": "The Coso Artifact",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A 'geode' from California was found to contain a spark plug. It was said to be half a million years old. It is a 1920s Champion spark plug in a concretion.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "Near Olancha, California, 1961",
+    "Object": "Champion spark plug, 1920s pattern",
+    "Encasing material": "Iron-rich concretion",
+    "Claimed age": "About 500,000 years",
+    "Basis of the age": "The nodule, not the object"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Coso_artifact",
+     "https://en.wikipedia.org/wiki/Spark_plug",
+     "https://en.wikipedia.org/wiki/Concretion",
+     "https://en.wikipedia.org/wiki/Geode"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "cottingley-fairies",
    "url": "cottingley-fairies.html",
    "title": "The Cottingley Fairies",
@@ -2360,6 +2453,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dorchester-pot",
+   "url": "dorchester-pot.html",
+   "title": "The Dorchester Pot",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A brass vessel was found in rock in 1852 and dated to the deep past. It is a nineteenth-century ornament, and the 'rock' is a conglomerate that formed around it.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "Dorchester, Massachusetts, 1852",
+    "Object": "Small brass vessel",
+    "Likely origin": "Nineteenth-century decorative fitting",
+    "Host rock": "Conglomerate",
+    "Re-examined": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dorchester_pot",
+     "https://en.wikipedia.org/wiki/Conglomerate_(geology)",
+     "https://en.wikipedia.org/wiki/Out-of-place_artifact",
+     "https://en.wikipedia.org/wiki/Finial"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dragons",
    "url": "dragons.html",
    "title": "Dragons &amp; Dinosaurs",
@@ -2388,6 +2512,37 @@
      "https://apologeticspress.org/historical-support-for-the-coexistence-of-dinosaurs-and-humans-part-ii-1247/",
      "https://www.gresham.ac.uk/sites/default/files/transcript/2024-02-14-1800_Hutton-T.pdf",
      "http://www.history.com/articles/dragon-myths"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dropa-stones",
+   "url": "dropa-stones.html",
+   "title": "The Dropa Stones",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Stone discs with spiral grooves, said to have been found in a Chinese cave with the remains of a dwarf people, and said to record an alien crash. No museum has them and no archaeologist saw them.",
+   "facts": {
+    "Status": "Debunked",
+    "Claimed find": "1938, Bayan Har mountains",
+    "Claimed objects": "About 700 discs, 30 cm",
+    "Produced for study": "None",
+    "Site record": "None",
+    "Story assembled": "1970s–1980s"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dropa_stones",
+     "https://en.wikipedia.org/wiki/Ancient_astronauts",
+     "https://en.wikipedia.org/wiki/Hoax",
+     "https://en.wikipedia.org/wiki/Archaeology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4693,6 +4848,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "klerksdorp-spheres",
+   "url": "klerksdorp-spheres.html",
+   "title": "The Klerksdorp Spheres",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Grooved stone spheres from a South African mine, three billion years old, were said to be manufactured. They are concretions, and the grooves are where crystals grew.",
+   "facts": {
+    "Status": "Debunked",
+    "Locality": "Ottosdal, South Africa",
+    "Host rock": "Pyrophyllite, ~3 billion years old",
+    "Size": "A few centimetres",
+    "Explanation": "Concretions; crystal grooves",
+    "Manufacture evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Klerksdorp_sphere",
+     "https://en.wikipedia.org/wiki/Concretion",
+     "https://en.wikipedia.org/wiki/Pyrophyllite",
+     "https://en.wikipedia.org/wiki/Out-of-place_artifact"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "kubrick-moon-hoax",
    "url": "kubrick-moon-hoax.html",
    "title": "Kubrick Confessed to the Moon Hoax",
@@ -6040,6 +6226,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "nephilim",
+   "url": "nephilim.html",
+   "title": "The Nephilim",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "Genesis mentions giants called Nephilim in a handful of verses. The enormous literature built on them — bloodlines, hybrids, modern sightings — is later, and the verses are not a description of a species.",
+   "facts": {
+    "Status": "Fiction",
+    "Appearances": "Genesis 6:4; Numbers 13:33",
+    "Meaning": "Disputed; giants in context",
+    "Later development": "1 Enoch, later apocalyptic texts",
+    "Modern layer": "19th-century hoaxes; 20th-century paperbacks",
+    "Physical evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Nephilim",
+     "https://en.wikipedia.org/wiki/Genesis_flood_narrative",
+     "https://en.wikipedia.org/wiki/Giant_(mythology)",
+     "https://en.wikipedia.org/wiki/Book_of_Enoch"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "non-human-biologics",
    "url": "non-human-biologics.html",
    "title": "Non-Human Biologics",
@@ -6094,6 +6311,37 @@
      "https://en.wikipedia.org/wiki/Oak_Island",
      "https://cch.novascotia.ca/",
      "https://www.smithsonianmag.com/history/the-mystery-of-oak-island-180967897/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "oannes",
+   "url": "oannes.html",
+   "title": "Oannes",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A Babylonian priest described a fish-man who came out of the sea and taught civilisation. It is a myth recorded centuries after the fact, and it has become a fixture of the ancient-astronaut literature.",
+   "facts": {
+    "Status": "Fiction",
+    "Source": "Berossus, 3rd century BC",
+    "Figure": "Fish-bodied being who teaches the arts",
+    "Tradition": "The apkallu, seven sages",
+    "Iconography": "Fish-cloaked figures in Assyrian reliefs",
+    "Historical being": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Oannes",
+     "https://en.wikipedia.org/wiki/Apkallu",
+     "https://en.wikipedia.org/wiki/Berossus",
+     "https://en.wikipedia.org/wiki/Ancient_astronauts"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9812,6 +10060,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "watchers-enoch",
+   "url": "watchers-enoch.html",
+   "title": "The Watchers of Enoch",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The Book of Enoch describes 200 angels who descended, taught forbidden knowledge and fathered giants. It is apocalyptic literature, and the reading that makes them extraterrestrials is a twentieth-century one.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Text": "1 Enoch, Second Temple period",
+    "Preserved in": "Ge'ez, complete",
+    "Genre": "Apocalyptic revelation",
+    "The Watchers": "200 angels who descend and teach",
+    "Fringe reading": "Extraterrestrials; technology transfer"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Book_of_Enoch",
+     "https://en.wikipedia.org/wiki/Watcher_(angel)",
+     "https://en.wikipedia.org/wiki/Apocalyptic_literature",
+     "https://en.wikipedia.org/wiki/Second_Temple_period"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "water-origin",
    "url": "water-origin.html",
    "title": "Where Earth&#8217;s Water Came From",
@@ -10054,6 +10333,37 @@
      "https://en.wikipedia.org/wiki/Contagious_yawning",
      "https://en.wikipedia.org/wiki/Thermoregulation",
      "https://en.wikipedia.org/wiki/Empathy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "wolfsegg-iron",
+   "url": "wolfsegg-iron.html",
+   "title": "The Wolfsegg Iron",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "An iron block with a groove was found inside a lignite seam in Austria in 1885 and dated to millions of years. It is a piece of nineteenth-century mining equipment.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "Wolfsegg, Austria, 1885",
+    "Context": "Lignite seam",
+    "Object": "Iron block with a groove",
+    "Likely origin": "Nineteenth-century mining equipment",
+    "Dating error": "The seam's age applied to the object"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Wolfsegg_iron",
+     "https://en.wikipedia.org/wiki/Lignite",
+     "https://en.wikipedia.org/wiki/Out-of-place_artifact",
+     "https://en.wikipedia.org/wiki/Mining"
     ]
    },
    "last_reviewed": "2026-11-20",

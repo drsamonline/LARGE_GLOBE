@@ -510,6 +510,27 @@ Ten more: nine ancient-artefact readings and one Moon-hoax confession.
 
 The Wandjina page is the one that matters most in this batch, and not for the astronomy: the explanation has been available from the Ngarinyin, Wunambal and Worora artists who still paint the figures, which makes the astronaut reading not just wrong but a taking.
 
+## 0ae. Shipped in the thirty-first pass — 21 November 2026
+
+Ten more: the out-of-place artefact shelf completed, plus three from the mythic fringe.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | The Klerksdorp Spheres | Debunked |
+| 2 | The Coso Artifact | Debunked |
+| 3 | The Betz Sphere | Debunked |
+| 4 | The Dorchester Pot | Debunked |
+| 5 | The Aiud Wedge | Debunked |
+| 6 | The Wolfsegg Iron | Debunked |
+| 7 | The Dropa Stones | Debunked |
+| 8 | The Watchers of Enoch | Fringe claim |
+| 9 | The Nephilim | Fiction |
+| 10 | Oannes | Fiction |
+
+336 dossiers, 1,450 sources, 370 images, 362 pages, PDF 904 pages, EPUB 338 chapters, sitemap 360 URLs, 0 problems.
+
+The out-of-place artefact shelf is now complete as a family, and two of its members — the Coso artifact and the Wolfsegg iron — are the same error in two countries: the age of the container attributed to the contents. Having both on the shelf is worth more than either alone.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
