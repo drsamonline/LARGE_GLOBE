@@ -823,6 +823,14 @@ Everything else came back clean: 0 broken internal links, 0 broken asset referen
 
 The audit's credits fix pays off here: the 23 new images are attributed automatically because the credits page is now rebuilt from the captions rather than maintained by hand. That was the defect worth finding.
 
+## 0at. Shipped in the forty-fourth pass — 21 November 2026: screen theories
+
+25 dossiers: three social ideas (capitalist realism, bullshit jobs, the Peter principle), nineteen fan theories from Breaking Bad to Kirby, and three documented scandals (McDonald's Monopoly rigging, Varsity Blues, Marvel's Doom casting).
+
+678 dossiers, 2,820 sources, 712 images, 704 pages, PDF 1,592 pages, EPUB 681 chapters, sitemap 702 URLs, 0 problems.
+
+The batch is mostly `fiction`, which is the label doing its least glamorous and most useful work: twenty pages that say plainly *this is an interpretation of a work of art*, so that the four pages beside them that describe real fraud and real admissions bribery are not diluted.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

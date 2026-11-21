@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 653,
+ "count": 678,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -1187,6 +1187,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "attack-on-titan-loop",
+   "url": "attack-on-titan-loop.html",
+   "title": "Attack on Titan's Time Loop",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that the story repeats in a loop, with the protagonist trying again. The show's own time mechanics are strange enough to invite it.",
+   "facts": {
+    "Status": "Interpretation",
+    "Series": "Attack on Titan, 2013–2023",
+    "Mechanic": "The 'paths'",
+    "Theory": "A repeating loop"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Attack_on_Titan",
+     "https://en.wikipedia.org/wiki/Time_loop",
+     "https://en.wikipedia.org/wiki/Predestination",
+     "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "avril-replaced",
    "url": "avril-replaced.html",
    "title": "Avril Lavigne Was Replaced",
@@ -1897,6 +1926,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "black-mirror-timeline",
+   "url": "black-mirror-timeline.html",
+   "title": "Black Mirror's One Timeline",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that every Black Mirror episode shares a universe, connected by background details. The details are real; the continuity is not.",
+   "facts": {
+    "Status": "Fan theory",
+    "Show": "Black Mirror, 2011–",
+    "Evidence": "Recurring background details",
+    "Creator's view": "Easter eggs, not continuity"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Black_Mirror",
+     "https://en.wikipedia.org/wiki/Charlie_Brooker",
+     "https://en.wikipedia.org/wiki/Easter_egg_(media)",
+     "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "black-swans",
    "url": "black-swans.html",
    "title": "Black Swans",
@@ -2014,6 +2072,35 @@
      "https://en.wikipedia.org/wiki/Tollund_Man",
      "https://en.wikipedia.org/wiki/Lindow_Man",
      "https://en.wikipedia.org/wiki/Bog"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "bojack-drowned",
+   "url": "bojack-drowned.html",
+   "title": "BoJack Drowned",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that the horse died in a swimming pool and the rest of the series is his dying imagination. It is a reading of a show about a character who nearly dies.",
+   "facts": {
+    "Status": "Fan theory",
+    "Show": "BoJack Horseman, 2014–2020",
+    "Theory": "He drowned in season 3",
+    "Later plot": "Trial; prison"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/BoJack_Horseman",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Unreliable_narrator",
+     "https://en.wikipedia.org/wiki/Ambiguity"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2205,6 +2292,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "breaking-bad-walking-dead",
+   "url": "breaking-bad-walking-dead.html",
+   "title": "Breaking Bad and The Walking Dead",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that the two shows share a universe, built on a bag of blue meth and a timeline. It is a joke that got elaborate.",
+   "facts": {
+    "Status": "Fan theory",
+    "Shows": "Breaking Bad; The Walking Dead",
+    "Evidence": "A bag of blue meth",
+    "Status of evidence": "An Easter egg"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Breaking_Bad",
+     "https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)",
+     "https://en.wikipedia.org/wiki/Easter_egg_(media)",
+     "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "broken-windows",
    "url": "broken-windows.html",
    "title": "Broken Windows Policing",
@@ -2229,6 +2345,37 @@
      "https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/",
      "https://doi.org/10.1086/505458",
      "https://en.wikipedia.org/wiki/Floyd_v._City_of_New_York"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "bullshit-jobs",
+   "url": "bullshit-jobs.html",
+   "title": "Bullshit Jobs",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "David Graeber's claim that a large share of jobs are pointless and their holders know it. The essay struck a nerve; the survey evidence is thinner than the argument.",
+   "facts": {
+    "Status": "Live debate",
+    "Author": "David Graeber",
+    "Essay": "2013; book 2018",
+    "Claim": "Many jobs are pointless, and holders know",
+    "Evidence": "Testimony and surveys",
+    "Proportion": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bullshit_Jobs",
+     "https://en.wikipedia.org/wiki/David_Graeber",
+     "https://en.wikipedia.org/wiki/Job_satisfaction",
+     "https://en.wikipedia.org/wiki/Sociology_of_work"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2392,6 +2539,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "capitalist-realism",
+   "url": "capitalist-realism.html",
+   "title": "Capitalist Realism",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Mark Fisher's argument that capitalism has become the horizon of thought, so that alternatives are unimaginable. It is a diagnosis, not a measurement.",
+   "facts": {
+    "Status": "Live debate",
+    "Author": "Mark Fisher",
+    "Published": "2009",
+    "Claim": "Capitalism is the horizon of thought",
+    "Testable": "Not in the usual sense",
+    "Field": "Cultural theory"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Capitalist_realism",
+     "https://en.wikipedia.org/wiki/Mark_Fisher",
+     "https://en.wikipedia.org/wiki/Ideology",
+     "https://en.wikipedia.org/wiki/Cultural_studies"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "carbohydrate-insulin",
    "url": "carbohydrate-insulin.html",
    "title": "The Carbohydrate–Insulin Model",
@@ -2415,6 +2593,35 @@
      "https://en.wikipedia.org/wiki/Low-carbohydrate_diet",
      "https://en.wikipedia.org/wiki/Insulin",
      "https://en.wikipedia.org/wiki/Energy_homeostasis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cars-wiped-humanity",
+   "url": "cars-wiped-humanity.html",
+   "title": "Cars Wiped Out Humanity",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A Pixar shared-universe theory in which the cars inherited a world the humans left. It is a joke, and the films do not say it.",
+   "facts": {
+    "Status": "Fan theory",
+    "Film": "Cars, 2006",
+    "Theory": "Set after humanity",
+    "Endorsed": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cars_(film)",
+     "https://en.wikipedia.org/wiki/Pixar",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Easter_egg_(media)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4033,6 +4240,35 @@
      "https://www.livescience.com/technology/internet/what-is-the-dead-internet-theory",
      "https://www.thalesgroup.com/en/markets/digital-identity-and-security/magazine/bad-bot-report",
      "https://www.theverge.com/2024/1/26/24052067/ai-generated-content-web-flood"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "deadpool-fourth-wall",
+   "url": "deadpool-fourth-wall.html",
+   "title": "Deadpool's Fourth Wall",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The character talks to the reader. The convention is documented; the 'proof' it gives about the character's world is not.",
+   "facts": {
+    "Status": "Metafiction",
+    "Character": "Deadpool",
+    "Convention": "Breaking the fourth wall",
+    "Metaphysics": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Deadpool",
+     "https://en.wikipedia.org/wiki/Fourth_wall",
+     "https://en.wikipedia.org/wiki/Metafiction",
+     "https://en.wikipedia.org/wiki/Comics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5683,6 +5919,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "evangelion-loop",
+   "url": "evangelion-loop.html",
+   "title": "Evangelion's Loop",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that the series repeats, with the same events happening again and again. The show's ending is strange enough to support several readings.",
+   "facts": {
+    "Status": "Interpretation",
+    "Series": "Neon Genesis Evangelion, 1995–96",
+    "Theory": "A repeating loop",
+    "Rebuilds": "Separate continuity"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion",
+     "https://en.wikipedia.org/wiki/The_End_of_Evangelion",
+     "https://en.wikipedia.org/wiki/Time_loop",
+     "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "evil-farming-game",
    "url": "evil-farming-game.html",
    "title": "The Evil Farming Game",
@@ -5706,6 +5971,35 @@
      "https://en.wikipedia.org/wiki/False_memory",
      "https://en.wikipedia.org/wiki/Farming_Simulator",
      "https://en.wikipedia.org/wiki/Reddit"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "evil-morty-curve",
+   "url": "evil-morty-curve.html",
+   "title": "Evil Morty's Curve",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The theory that the show's plot is driven by a statistical curve of Mortys. It is a joke about narrative and it is treated as one.",
+   "facts": {
+    "Status": "Story device",
+    "Show": "Rick and Morty, 2013–",
+    "Object": "The 'curve' in dialogue",
+    "Canon": "Loose"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Rick_and_Morty",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Worldbuilding",
+     "https://en.wikipedia.org/wiki/Fictional_universe"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5861,6 +6155,35 @@
      "https://en.wikipedia.org/wiki/Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives",
      "https://en.wikipedia.org/wiki/Straw_purchase",
      "https://en.wikipedia.org/wiki/Brian_Terry"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "fast-furious-mutation",
+   "url": "fast-furious-mutation.html",
+   "title": "Fast & Furious Mutation",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A joke that the series' characters have become superheroes, and that the films record a mutation. It is a description of escalation, not a plot.",
+   "facts": {
+    "Status": "Joke",
+    "Series": "Fast & Furious, from 2001",
+    "Observation": "Escalation across films",
+    "Theory": "The characters are mutants"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Fast_%26_Furious",
+     "https://en.wikipedia.org/wiki/F9_(film)",
+     "https://en.wikipedia.org/wiki/Climax_(narrative)",
+     "https://en.wikipedia.org/wiki/Fan_theory"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6249,6 +6572,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "fnaf-dream-theory",
+   "url": "fnaf-dream-theory.html",
+   "title": "The FNAF Dream Theory",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The theory that the whole game series is a child's dream. It was popular, it was abandoned by the community, and the creator denied it.",
+   "facts": {
+    "Status": "Contradicted by later games",
+    "Series": "Five Nights at Freddy's, from 2014",
+    "Theory": "It is all a dream",
+    "Era": "2015"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s",
+     "https://en.wikipedia.org/wiki/Scott_Cawthon",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Dream_argument"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "folie-a-deux",
    "url": "folie-a-deux.html",
    "title": "Folie à Deux",
@@ -6582,6 +6934,35 @@
      "https://en.wikipedia.org/wiki/Ganzfeld_experiment",
      "https://en.wikipedia.org/wiki/Sensory_deprivation",
      "https://en.wikipedia.org/wiki/Hallucination"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "gaster-erased",
+   "url": "gaster-erased.html",
+   "title": "Gaster, Erased",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A character in Undertale who exists only in fragments of the game's code and lore. The fragments are real; the character is a designed mystery.",
+   "facts": {
+    "Status": "Designed mystery",
+    "Game": "Undertale, 2015",
+    "Character": "W. D. Gaster",
+    "Appears": "Only in fragments"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Undertale",
+     "https://en.wikipedia.org/wiki/Toby_Fox",
+     "https://en.wikipedia.org/wiki/Data_mining",
+     "https://en.wikipedia.org/wiki/Easter_egg_(media)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9103,6 +9484,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "kirby-cosmic-horror",
+   "url": "kirby-cosmic-horror.html",
+   "title": "Kirby as Cosmic Horror",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The theory that the pink character's games are secretly about an eldritch being. The lore is real; the horror framing is a reading.",
+   "facts": {
+    "Status": "Genre reading",
+    "Series": "Kirby, from 1992",
+    "Theory": "A cosmic horror entity",
+    "Reality": "A platformer with dark lore"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kirby_(series)",
+     "https://en.wikipedia.org/wiki/Lovecraftian_horror",
+     "https://en.wikipedia.org/wiki/Video_game_genre",
+     "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "klerksdorp-spheres",
    "url": "klerksdorp-spheres.html",
    "title": "The Klerksdorp Spheres",
@@ -10127,6 +10537,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "lumon-board-kier",
+   "url": "lumon-board-kier.html",
+   "title": "Lumon's Board Is Kier",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A theory that the mysterious Board in Severance is the company's founder, still directing the firm. It is a reading of the show's theology.",
+   "facts": {
+    "Status": "Interpretation",
+    "Show": "Severance, 2022–",
+    "Theory": "The Board is Kier Eagan",
+    "Confirmed": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Severance_(TV_series)",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Corporate_veil",
+     "https://en.wikipedia.org/wiki/Unreliable_narrator"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lunar-wave",
    "url": "lunar-wave.html",
    "title": "The Lunar Wave",
@@ -10771,6 +11210,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "marvel-doom-pivot",
+   "url": "marvel-doom-pivot.html",
+   "title": "Marvel's Doom Pivot",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Marvel cast Robert Downey Jr. as Doctor Doom after playing Iron Man. The decision is documented; the reasoning is the studio's.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2024",
+    "Actor": "Robert Downey Jr.",
+    "Roles": "Iron Man; Doctor Doom",
+    "Reasoning": "Partly inferred"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Doctor_Doom",
+     "https://en.wikipedia.org/wiki/Robert_Downey_Jr.",
+     "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe",
+     "https://en.wikipedia.org/wiki/Casting_(performing_arts)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "mass-delusion",
    "url": "mass-delusion.html",
    "title": "Mass Hysteria",
@@ -10917,6 +11386,36 @@
      "https://en.wikipedia.org/wiki/Maya_astronomy",
      "https://en.wikipedia.org/wiki/Venus",
      "https://en.wikipedia.org/wiki/Maya_civilization"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mcdonalds-monopoly-rigging",
+   "url": "mcdonalds-monopoly-rigging.html",
+   "title": "McDonald's Monopoly Rigging",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The promotional game was rigged for years by the man who ran its security, who sold the winning pieces. The FBI investigation is documented.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "1989–2001",
+    "Perpetrator": "Jerome Jacobson",
+    "Investigator": "FBI",
+    "Outcome": "Convictions"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/McDonald%27s_Monopoly",
+     "https://en.wikipedia.org/wiki/Jerome_Jacobson",
+     "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation",
+     "https://en.wikipedia.org/wiki/Mail_fraud"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11660,6 +12159,35 @@
      "https://doi.org/10.1103/PhysRevLett.126.141801",
      "https://doi.org/10.1038/s41586-021-03418-1",
      "https://muon-g-2.fnal.gov/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "muppet-citizenship",
+   "url": "muppet-citizenship.html",
+   "title": "Muppet Citizenship",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A joke that the Muppets are legally citizens with rights. It is a joke about puppets, and it is filed as one.",
+   "facts": {
+    "Status": "Joke",
+    "Subject": "The Muppets",
+    "Claim": "They are legal citizens",
+    "Reality": "Puppets are property"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Muppets",
+     "https://en.wikipedia.org/wiki/Legal_person",
+     "https://en.wikipedia.org/wiki/Trademark",
+     "https://en.wikipedia.org/wiki/Puppetry"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12626,6 +13154,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "oppenheimer-chain-reaction",
+   "url": "oppenheimer-chain-reaction.html",
+   "title": "Oppenheimer's Chain Reaction",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The film dramatises a fear that the first test might ignite the atmosphere. The fear was real, the calculation was done, and the answer was no.",
+   "facts": {
+    "Status": "Fiction",
+    "Film": "Oppenheimer, 2023",
+    "Concern": "Atmosphere ignition",
+    "Calculated": "Before Trinity, 1945",
+    "Result": "Not possible"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Oppenheimer_(film)",
+     "https://en.wikipedia.org/wiki/Trinity_(nuclear_test)",
+     "https://en.wikipedia.org/wiki/Edward_Teller",
+     "https://en.wikipedia.org/wiki/Nuclear_fusion"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "orch-or",
    "url": "orch-or.html",
    "title": "Orch-OR",
@@ -13272,6 +13830,37 @@
      "https://en.wikipedia.org/wiki/Clovis_culture",
      "https://en.wikipedia.org/wiki/Monte_Verde",
      "https://en.wikipedia.org/wiki/White_Sands_National_Park"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "peter-principle",
+   "url": "peter-principle.html",
+   "title": "The Peter Principle",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that people rise to their level of incompetence. It is a joke with a testable prediction, and the tests have been mixed.",
+   "facts": {
+    "Status": "Live debate",
+    "Authors": "Peter and Hull",
+    "Published": "1969",
+    "Claim": "People rise to their incompetence",
+    "Evidence": "Mixed",
+    "Field": "Management"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Peter_principle",
+     "https://en.wikipedia.org/wiki/Promotion_(rank)",
+     "https://en.wikipedia.org/wiki/Organizational_behavior",
+     "https://en.wikipedia.org/wiki/Selection_bias"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -17396,6 +17985,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "succession-king-lear",
+   "url": "succession-king-lear.html",
+   "title": "Succession as King Lear",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The comparison between the Roy family and Shakespeare's tragedy is made constantly. It is a useful reading and it is not a hidden source.",
+   "facts": {
+    "Status": "Critical reading",
+    "Show": "Succession, 2018–2023",
+    "Compared to": "King Lear",
+    "Adaptation": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Succession_(TV_series)",
+     "https://en.wikipedia.org/wiki/King_Lear",
+     "https://en.wikipedia.org/wiki/Literary_criticism",
+     "https://en.wikipedia.org/wiki/Tragedy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "sundaland",
    "url": "sundaland.html",
    "title": "Sundaland",
@@ -18023,6 +18641,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "tetris-soviet-weapon",
+   "url": "tetris-soviet-weapon.html",
+   "title": "Tetris as a Soviet Weapon",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A joke that the Soviet Union built Tetris as a psychological weapon. It was written by a programmer in 1984, and it was not.",
+   "facts": {
+    "Status": "Fiction",
+    "Created": "1984",
+    "Author": "Alexey Pajitnov",
+    "Purpose": "A puzzle game",
+    "Weapon programme": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tetris",
+     "https://en.wikipedia.org/wiki/Alexey_Pajitnov",
+     "https://en.wikipedia.org/wiki/Elektronika_60",
+     "https://en.wikipedia.org/wiki/Tetris_effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "the-strange-man",
    "url": "the-strange-man.html",
    "title": "The Strange Man",
@@ -18387,6 +19035,35 @@
      "https://en.wikipedia.org/wiki/Redshift",
      "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
      "https://en.wikipedia.org/wiki/Time_dilation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "toon-force",
+   "url": "toon-force.html",
+   "title": "Toon Force",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The convention that cartoon characters obey comedy rather than physics. It is a description of a genre rule, not a claim about anything.",
+   "facts": {
+    "Status": "Documented convention",
+    "Type": "Genre convention",
+    "Applies to": "Animation and comics",
+    "Function": "Comedy over physics"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cartoon_physics",
+     "https://en.wikipedia.org/wiki/Slapstick",
+     "https://en.wikipedia.org/wiki/Trope_(literature)",
+     "https://en.wikipedia.org/wiki/Animation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -18948,6 +19625,36 @@
      "https://www.theatlantic.com/technology/2014/06/a-brief-history-of-slenderman/372109",
      "https://journal.equinoxpub.com/JASR/article/view/21100",
      "https://www.nytimes.com/1991/09/10/world/2-jovial-con-men-demystify-those-crop-circles-in-britain.html"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "varsity-blues",
+   "url": "varsity-blues.html",
+   "title": "Varsity Blues",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A college admissions scandal in which wealthy parents paid for fraudulent athletic recruitment. The case is documented in indictments and convictions.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2019",
+    "Organiser": "William Singer",
+    "Agency": "US Department of Justice",
+    "Outcome": "Convictions"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/2019_college_admissions_bribery_scandal",
+     "https://en.wikipedia.org/wiki/William_Rick_Singer",
+     "https://en.wikipedia.org/wiki/University_and_college_admission",
+     "https://en.wikipedia.org/wiki/United_States_Department_of_Justice"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -20089,6 +20796,35 @@
      "https://doi.org/10.1038/ncomms4532",
      "https://en.wikipedia.org/wiki/Tabanidae",
      "https://en.wikipedia.org/wiki/Disruptive_coloration"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "zelda-timeline",
+   "url": "zelda-timeline.html",
+   "title": "Zelda's Timeline Convergence",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The Zelda games are officially split into three timelines that later games merge. The split is documented; the convergence is a fan reading.",
+   "facts": {
+    "Status": "Fan reading",
+    "Series": "The Legend of Zelda",
+    "Chronology": "Officially published, three branches",
+    "Convergence": "Not confirmed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Legend_of_Zelda",
+     "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
+     "https://en.wikipedia.org/wiki/Continuity_(fiction)",
+     "https://en.wikipedia.org/wiki/Fan_theory"
     ]
    },
    "last_reviewed": "2026-11-20",
