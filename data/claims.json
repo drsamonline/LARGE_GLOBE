@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 703,
+ "count": 732,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -814,6 +814,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "animal-magnetism",
+   "url": "animal-magnetism.html",
+   "title": "How Animals Sense Magnetism",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Birds, turtles and bacteria navigate by the Earth's field. The mechanism is still argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Species": "Birds; turtles; bacteria",
+    "Mechanisms": "Magnetite; cryptochrome",
+    "Behaviour": "Documented",
+    "Sensor": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Magnetoreception",
+     "https://en.wikipedia.org/wiki/Cryptochrome",
+     "https://en.wikipedia.org/wiki/Magnetotactic_bacteria",
+     "https://en.wikipedia.org/wiki/Animal_navigation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "anthropocene",
    "url": "anthropocene.html",
    "title": "The Anthropocene",
@@ -993,6 +1023,37 @@
      "https://en.wikipedia.org/wiki/Archimedes",
      "https://en.wikipedia.org/wiki/Solar_furnace",
      "https://en.wikipedia.org/wiki/Siege_of_Syracuse_(213%E2%80%93212_BC)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "aristarchus",
+   "url": "aristarchus.html",
+   "title": "Aristarchus Put the Sun at the Centre",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A Greek astronomer proposed a heliocentric system eighteen centuries before Copernicus. The report survives, and the idea was rejected.",
+   "facts": {
+    "Status": "Documented",
+    "Author": "Aristarchus of Samos",
+    "Date": "3rd century BC",
+    "Claim": "The Earth orbits the Sun",
+    "Reported by": "Archimedes",
+    "Reception": "Rejected"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Aristarchus_of_Samos",
+     "https://en.wikipedia.org/wiki/Heliocentrism",
+     "https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_(Aristarchus)",
+     "https://en.wikipedia.org/wiki/The_Sand_Reckoner"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1394,6 +1455,36 @@
      "https://en.wikipedia.org/wiki/Ziggurat",
      "https://en.wikipedia.org/wiki/Etemenanki",
      "https://en.wikipedia.org/wiki/Etiology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "babylonian-trigonometry",
+   "url": "babylonian-trigonometry.html",
+   "title": "Babylonian Trigonometry",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A clay tablet of Pythagorean triples, interpreted in 2017 as the world's oldest trigonometric table.",
+   "facts": {
+    "Status": "Documented",
+    "Tablet": "Plimpton 322",
+    "Date": "c. 1800 BC",
+    "Content": "Pythagorean triples",
+    "Trigonometry claim": "2017; contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Plimpton_322",
+     "https://en.wikipedia.org/wiki/Babylonian_mathematics",
+     "https://en.wikipedia.org/wiki/Pythagorean_triple",
+     "https://en.wikipedia.org/wiki/Trigonometric_functions"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2505,6 +2596,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "cahokia",
+   "url": "cahokia.html",
+   "title": "Cahokia's Emptying",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The largest pre-Columbian city north of Mexico, abandoned within two centuries. Its population and its end are both argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Location": "Illinois",
+    "Peak": "c. 1100",
+    "Emptied": "c. 1350",
+    "Cause": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cahokia",
+     "https://en.wikipedia.org/wiki/Monks_Mound",
+     "https://en.wikipedia.org/wiki/Mississippian_culture",
+     "https://en.wikipedia.org/wiki/Earthworks_(archaeology)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "caligula-horse",
    "url": "caligula-horse.html",
    "title": "Caligula's Horse",
@@ -2844,6 +2965,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "chaco-roads",
+   "url": "chaco-roads.html",
+   "title": "Chaco's Straight Roads",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Hundreds of kilometres of roads radiating from Chaco Canyon, built straight and often ending nowhere.",
+   "facts": {
+    "Status": "Documented",
+    "Region": "Chaco Canyon, New Mexico",
+    "Period": "c. 850–1150",
+    "Extent": "Hundreds of kilometres",
+    "Purpose": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park",
+     "https://en.wikipedia.org/wiki/Chacoan_road_system",
+     "https://en.wikipedia.org/wiki/Ancestral_Puebloans",
+     "https://en.wikipedia.org/wiki/Great_house_(Pueblo)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "chavin-gods",
    "url": "chavin-gods.html",
    "title": "Chavín's Psychedelic Gods",
@@ -2930,6 +3081,36 @@
      "https://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory",
      "https://en.wikipedia.org/wiki/Cirrus_cloud",
      "https://en.wikipedia.org/wiki/Cloud_seeding"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "chinese-gunpowder",
+   "url": "chinese-gunpowder.html",
+   "title": "Chinese Gunpowder Weapons",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Gunpowder was formulated in China for medicine and fireworks, and by the Song dynasty it was a weapon.",
+   "facts": {
+    "Status": "Documented",
+    "First texts": "9th century",
+    "Weapons by": "Song dynasty",
+    "Transmission": "Westward by the 13th century",
+    "Evidence": "Texts; bomb remains"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/History_of_gunpowder",
+     "https://en.wikipedia.org/wiki/Gunpowder",
+     "https://en.wikipedia.org/wiki/Song_dynasty",
+     "https://en.wikipedia.org/wiki/Fire_arrow"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4369,6 +4550,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dead-sea-scrolls",
+   "url": "dead-sea-scrolls.html",
+   "title": "The Dead Sea Scrolls",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Manuscripts hidden in caves near Qumran, including the oldest surviving copies of biblical texts. They were found by Bedouin shepherds.",
+   "facts": {
+    "Status": "Documented",
+    "Found from": "1947",
+    "Site": "Qumran, Dead Sea",
+    "Manuscripts": "About 900",
+    "Dates": "3rd century BC – 1st century AD"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+     "https://en.wikipedia.org/wiki/Qumran",
+     "https://en.wikipedia.org/wiki/Biblical_manuscript",
+     "https://en.wikipedia.org/wiki/Radiocarbon_dating"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "deadpool-fourth-wall",
    "url": "deadpool-fourth-wall.html",
    "title": "Deadpool's Fourth Wall",
@@ -4586,6 +4797,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "democritus-atoms",
+   "url": "democritus-atoms.html",
+   "title": "Democritus and Atoms",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A Greek philosopher argued that matter consists of indivisible particles. He had no evidence, and he was right.",
+   "facts": {
+    "Status": "Documented",
+    "Authors": "Leucippus and Democritus",
+    "Date": "5th century BC",
+    "Claim": "Matter is made of atoms",
+    "Evidence then": "None",
+    "Confirmed": "20th century"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Democritus",
+     "https://en.wikipedia.org/wiki/Atomism",
+     "https://en.wikipedia.org/wiki/De_rerum_natura",
+     "https://en.wikipedia.org/wiki/Atomic_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dendera-light",
    "url": "dendera-light.html",
    "title": "The Dendera Light",
@@ -4610,6 +4852,36 @@
      "https://en.wikipedia.org/wiki/Dendera_light",
      "https://en.wikipedia.org/wiki/Lotus_(mythology)",
      "https://en.wikipedia.org/wiki/Crookes_tube"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "denisovan-inheritance",
+   "url": "denisovan-inheritance.html",
+   "title": "Denisovan Inheritance",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A hominin known from a finger bone, whose genes are in living people from Tibet to Melanesia.",
+   "facts": {
+    "Status": "Documented",
+    "First find": "2010, Denisova Cave",
+    "Material": "Finger bone; teeth; jaw",
+    "Inheritance": "Across Asia and Oceania",
+    "Key gene": "EPAS1, in Tibetans"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Denisovan",
+     "https://en.wikipedia.org/wiki/Denisova_Cave",
+     "https://en.wikipedia.org/wiki/EPAS1",
+     "https://en.wikipedia.org/wiki/Archaic_human_admixture_with_modern_humans"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5611,6 +5883,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "egyptian-surgery",
+   "url": "egyptian-surgery.html",
+   "title": "Egyptian Surgery",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A papyrus describes forty-eight surgical cases with examinations, diagnoses and treatments, including the brain.",
+   "facts": {
+    "Status": "Documented",
+    "Text": "Edwin Smith Papyrus",
+    "Date": "c. 1600 BC",
+    "Cases": "48",
+    "Covers": "Head, neck, spine"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus",
+     "https://en.wikipedia.org/wiki/Ancient_Egyptian_medicine",
+     "https://en.wikipedia.org/wiki/History_of_surgery",
+     "https://en.wikipedia.org/wiki/Papyrus"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ekpyrotic-universe",
    "url": "ekpyrotic-universe.html",
    "title": "The Ekpyrotic Universe",
@@ -6002,6 +6304,36 @@
      "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace",
      "https://en.wikipedia.org/wiki/Easter_egg_(media)",
      "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "etruscans",
+   "url": "etruscans.html",
+   "title": "The Etruscans",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The civilisation that taught Rome its rituals, and whose language is still only partly read. Their origin was argued for centuries and settled by DNA.",
+   "facts": {
+    "Status": "Documented",
+    "Region": "Central Italy",
+    "Peak": "7th–5th century BC",
+    "Language": "Partly understood",
+    "Origin": "Local, per 2021 DNA study"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Etruscan_civilization",
+     "https://en.wikipedia.org/wiki/Etruscan_language",
+     "https://en.wikipedia.org/wiki/Etruscan_origins",
+     "https://en.wikipedia.org/wiki/Ancient_DNA"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7397,6 +7729,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "giant-squid",
+   "url": "giant-squid.html",
+   "title": "The Giant Squid",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A deep-sea animal known from carcasses and beaks for centuries, filmed alive only in 2004.",
+   "facts": {
+    "Status": "Documented",
+    "Species": "Architeuthis dux",
+    "Length": "Over 10 m",
+    "First filmed alive": "2012",
+    "Evidence": "Specimens; beaks in whales"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Giant_squid",
+     "https://en.wikipedia.org/wiki/Architeuthis",
+     "https://en.wikipedia.org/wiki/Sperm_whale",
+     "https://en.wikipedia.org/wiki/Deep_sea"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "giant-trees",
    "url": "giant-trees.html",
    "title": "The Giant Trees",
@@ -7707,6 +8069,35 @@
      "https://en.wikipedia.org/wiki/Transactive_memory",
      "https://en.wikipedia.org/wiki/Replication_crisis",
      "https://en.wikipedia.org/wiki/External_memory_(psychology)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "gorillas",
+   "url": "gorillas.html",
+   "title": "Gorillas",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A great ape described by Western science in 1847, and known to the peoples who lived beside it for far longer.",
+   "facts": {
+    "Status": "Endangered",
+    "Named": "1847",
+    "Region": "Central Africa",
+    "Earlier reports": "Ancient, including Hanno"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Gorilla",
+     "https://en.wikipedia.org/wiki/Hanno_the_Navigator",
+     "https://en.wikipedia.org/wiki/Hominidae",
+     "https://en.wikipedia.org/wiki/Species_description"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8520,6 +8911,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "hittites",
+   "url": "hittites.html",
+   "title": "The Hittites",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "An empire mentioned in the Bible, recovered from a Turkish mound with an archive of cuneiform tablets.",
+   "facts": {
+    "Status": "Documented",
+    "Capital": "Hattusa, Turkey",
+    "Excavated from": "1906",
+    "Archive": "Thousands of tablets",
+    "Language": "Hittite, Indo-European"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hittites",
+     "https://en.wikipedia.org/wiki/Hattusa",
+     "https://en.wikipedia.org/wiki/Hittite_language",
+     "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Hittite_peace_treaty"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "hodge-conjecture",
    "url": "hodge-conjecture.html",
    "title": "The Hodge Conjecture",
@@ -8543,6 +8964,36 @@
      "https://en.wikipedia.org/wiki/Algebraic_geometry",
      "https://en.wikipedia.org/wiki/Hodge_theory",
      "https://en.wikipedia.org/wiki/Millennium_Prize_Problems"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "hohokam-collapse",
+   "url": "hohokam-collapse.html",
+   "title": "The Hohokam Collapse",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A desert society built hundreds of kilometres of canals, then abandoned them. The cause is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Region": "Arizona",
+    "Achievement": "Extensive canal irrigation",
+    "Abandoned": "c. 1450",
+    "Causes": "Drought; flooding; salinisation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hohokam",
+     "https://en.wikipedia.org/wiki/Irrigation",
+     "https://en.wikipedia.org/wiki/Soil_salinity",
+     "https://en.wikipedia.org/wiki/Salt_River_(Arizona)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9812,6 +10263,36 @@
      "https://en.wikipedia.org/wiki/Concretion",
      "https://en.wikipedia.org/wiki/Pyrophyllite",
      "https://en.wikipedia.org/wiki/Out-of-place_artifact"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "knossos",
+   "url": "knossos.html",
+   "title": "Knossos",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The Minoan palace excavated by Arthur Evans, reconstructed in concrete, and argued about ever since.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "Crete",
+    "Excavated from": "1900",
+    "Excavator": "Arthur Evans",
+    "Contested": "The concrete reconstruction"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Knossos",
+     "https://en.wikipedia.org/wiki/Arthur_Evans",
+     "https://en.wikipedia.org/wiki/Minoan_civilization",
+     "https://en.wikipedia.org/wiki/Linear_B"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -14753,6 +15234,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "picts",
+   "url": "picts.html",
+   "title": "The Picts",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The painted people of northern Scotland, known from carved stones and a king-list, whose language left almost nothing.",
+   "facts": {
+    "Status": "Documented",
+    "Region": "Northern Scotland",
+    "Period": "Late Roman to early medieval",
+    "Evidence": "Symbol stones; king-list",
+    "Language": "Fragments only"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Picts",
+     "https://en.wikipedia.org/wiki/Pictish_stone",
+     "https://en.wikipedia.org/wiki/Pictish_language",
+     "https://en.wikipedia.org/wiki/Kingdom_of_Alba"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "pikachu-tail",
    "url": "pikachu-tail.html",
    "title": "Pikachu's Tail",
@@ -15244,6 +15755,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "pompeii-herculaneum",
+   "url": "pompeii-herculaneum.html",
+   "title": "Pompeii and Herculaneum",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Two towns buried by Vesuvius, preserving streets, food, graffiti and a library of carbonised scrolls.",
+   "facts": {
+    "Status": "Documented",
+    "Date": "79 AD",
+    "Volcano": "Vesuvius",
+    "Towns": "Pompeii; Herculaneum",
+    "Key find": "Carbonised scrolls"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Pompeii",
+     "https://en.wikipedia.org/wiki/Herculaneum",
+     "https://en.wikipedia.org/wiki/Mount_Vesuvius",
+     "https://en.wikipedia.org/wiki/Villa_of_the_Papyri"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "poolrooms",
    "url": "poolrooms.html",
    "title": "The Poolrooms",
@@ -15709,6 +16250,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "pytheas-arctic",
+   "url": "pytheas-arctic.html",
+   "title": "Pytheas in the Arctic",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A Greek navigator sailed to Britain, described sea ice and a frozen sea, and was disbelieved for centuries.",
+   "facts": {
+    "Status": "Documented",
+    "Voyager": "Pytheas of Massalia",
+    "Date": "c. 325 BC",
+    "Reached": "Britain and northern waters",
+    "Reception": "Disbelieved by Strabo"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Pytheas",
+     "https://en.wikipedia.org/wiki/Thule",
+     "https://en.wikipedia.org/wiki/Sea_ice",
+     "https://en.wikipedia.org/wiki/Strabo"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "qin-mercury-rivers",
    "url": "qin-mercury-rivers.html",
    "title": "Qin's Mercury Rivers",
@@ -15981,6 +16552,36 @@
      "https://en.wikipedia.org/wiki/Pre-Columbian_art",
      "https://en.wikipedia.org/wiki/Out-of-place_artifact",
      "https://en.wikipedia.org/wiki/Glider_(aircraft)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ragnarok-536",
+   "url": "ragnarok-536.html",
+   "title": "Ragnarök and 536 AD",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A volcanic winter darkened the sun for eighteen months, and Norse legend describes a winter with no summer. The parallel is suggestive.",
+   "facts": {
+    "Status": "Live debate",
+    "Year": "536",
+    "Cause": "Volcanic eruptions",
+    "Effect": "A decade of cold",
+    "Myth": "Fimbulwinter before Ragnarök"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Volcanic_winter_of_536",
+     "https://en.wikipedia.org/wiki/Fimbulwinter",
+     "https://en.wikipedia.org/wiki/Ragnar%C3%B6k",
+     "https://en.wikipedia.org/wiki/Dendroclimatology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16415,6 +17016,36 @@
      "https://en.wikipedia.org/wiki/Regular_dodecahedron",
      "https://en.wikipedia.org/wiki/Roman_metallurgy",
      "https://en.wikipedia.org/wiki/Roman_Britain"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "rome-india-trade",
+   "url": "rome-india-trade.html",
+   "title": "Rome Traded with India",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Roman coins are found in India, and a Roman-era text describes the monsoon route. The trade was large enough to worry Roman writers.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "1st century BC – 3rd century AD",
+    "Goods": "Pepper, textiles, gems; coins, glass",
+    "Ports": "Muziris; Arikamedu",
+    "Source": "The Periplus"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Indo-Roman_trade_relations",
+     "https://en.wikipedia.org/wiki/Periplus_of_the_Erythraean_Sea",
+     "https://en.wikipedia.org/wiki/Muziris",
+     "https://en.wikipedia.org/wiki/Arikamedu"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -17377,6 +18008,36 @@
      "https://doi.org/10.1038/337611a0",
      "https://en.wikipedia.org/wiki/Radiocarbon_dating",
      "https://en.wikipedia.org/wiki/Image_analysis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "silk-road-glass",
+   "url": "silk-road-glass.html",
+   "title": "Silk Road Glass",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Roman and later glass found along Asian trade routes, showing how far goods travelled and how technology spread.",
+   "facts": {
+    "Status": "Documented",
+    "Goods": "Roman and Mediterranean glass",
+    "Found": "Central Asia to Japan",
+    "Method": "Chemical sourcing",
+    "Direction": "Both ways"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Silk_Road",
+     "https://en.wikipedia.org/wiki/Roman_glass",
+     "https://en.wikipedia.org/wiki/Glass_art",
+     "https://en.wikipedia.org/wiki/Trade_route"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -18746,6 +19407,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "superdeterminism",
+   "url": "superdeterminism.html",
+   "title": "Superdeterminism",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The proposal that quantum experiments violate Bell's inequalities because the settings were fixed in advance. It saves locality and gives up free choice.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Claim": "Settings are correlated with hidden variables",
+    "Motivation": "To keep locality",
+    "Problem": "Falsifiability",
+    "Proponents": "A minority, including 't Hooft"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Superdeterminism",
+     "https://en.wikipedia.org/wiki/Bell%27s_theorem",
+     "https://en.wikipedia.org/wiki/Gerard_%27t_Hooft",
+     "https://en.wikipedia.org/wiki/Falsifiability"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "superman-curse",
    "url": "superman-curse.html",
    "title": "The Superman Curse",
@@ -18839,6 +19530,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sweet-potato-pacific",
+   "url": "sweet-potato-pacific.html",
+   "title": "Sweet Potatoes Crossed the Pacific",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A South American crop was being grown in Polynesia before Europeans arrived. Someone crossed the ocean with it.",
+   "facts": {
+    "Status": "Documented",
+    "Crop": "Sweet potato",
+    "Origin": "South America",
+    "In Polynesia": "Before European contact",
+    "Evidence": "Linguistics; genetics"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sweet_potato",
+     "https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories",
+     "https://en.wikipedia.org/wiki/Polynesian_navigation",
+     "https://en.wikipedia.org/wiki/Genetic_history_of_Indigenous_Australians_and_Papuans"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "synchronicity",
    "url": "synchronicity.html",
    "title": "Jung's Synchronicity",
@@ -18925,6 +19646,36 @@
      "https://doi.org/10.1093/mnras/stw2180",
      "https://doi.org/10.3847/2041-8213/aaa405",
      "https://en.wikipedia.org/wiki/KIC_8462852"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "tachyons",
+   "url": "tachyons.html",
+   "title": "Tachyons",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Particles that always travel faster than light. They are mathematically possible and physically absent.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Claim": "Particles always faster than light",
+    "Observed": "None",
+    "Problem": "Causality",
+    "String theory": "A different, unstable field"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tachyon",
+     "https://en.wikipedia.org/wiki/Special_relativity",
+     "https://en.wikipedia.org/wiki/Causality_(physics)",
+     "https://en.wikipedia.org/wiki/Tachyon_condensation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -19209,6 +19960,36 @@
      "https://en.wikipedia.org/wiki/Temple_of_the_Feathered_Serpent,_Teotihuacan",
      "https://en.wikipedia.org/wiki/Mercury_(element)",
      "https://en.wikipedia.org/wiki/Mesoamerican_pyramids"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "terracotta-army",
+   "url": "terracotta-army.html",
+   "title": "The Terracotta Army",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Thousands of life-size soldiers buried with the First Emperor, individually modelled and painted, found by farmers digging a well.",
+   "facts": {
+    "Status": "Documented",
+    "Found": "1974",
+    "Location": "Xi'an, China",
+    "Figures": "Thousands",
+    "Date": "c. 210 BC"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Terracotta_Army",
+     "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+     "https://en.wikipedia.org/wiki/Mausoleum_of_the_First_Qin_Emperor",
+     "https://en.wikipedia.org/wiki/Chinese_ceramics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -19702,6 +20483,36 @@
      "https://en.wikipedia.org/wiki/Redshift",
      "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
      "https://en.wikipedia.org/wiki/Time_dilation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "toba-catastrophe",
+   "url": "toba-catastrophe.html",
+   "title": "The Toba Catastrophe",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A supereruption in Sumatra and a theory that it nearly ended humanity. The eruption is documented; the bottleneck is contested.",
+   "facts": {
+    "Status": "Live debate",
+    "Date": "c. 74,000 years ago",
+    "Site": "Lake Toba, Sumatra",
+    "Bottleneck": "Signal real; cause contested",
+    "Archaeology": "Suggests continuity"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Youngest_Toba_eruption",
+     "https://en.wikipedia.org/wiki/Toba_catastrophe_theory",
+     "https://en.wikipedia.org/wiki/Population_bottleneck",
+     "https://en.wikipedia.org/wiki/Supervolcano"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -21072,6 +21883,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "why-we-stood-up",
+   "url": "why-we-stood-up.html",
+   "title": "Why We Stood Up",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Bipedalism is the oldest human trait and the least explained. Several hypotheses compete and none is settled.",
+   "facts": {
+    "Status": "Live debate",
+    "First appeared": "Over 4 million years ago",
+    "Before": "Large brains; stone tools",
+    "Setting": "Woodland, not savanna",
+    "Driver": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bipedalism",
+     "https://en.wikipedia.org/wiki/Human_evolution",
+     "https://en.wikipedia.org/wiki/Australopithecus",
+     "https://en.wikipedia.org/wiki/Savanna_hypothesis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "why-we-yawn",
    "url": "why-we-yawn.html",
    "title": "Why We Yawn",
@@ -21584,6 +22425,36 @@
      "https://en.wikipedia.org/wiki/Featured_snippet",
      "https://en.wikipedia.org/wiki/Online_advertising",
      "https://en.wikipedia.org/wiki/Digital_divide"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "zero-point-extraction",
+   "url": "zero-point-extraction.html",
+   "title": "Zero-Point Extraction",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that usable energy can be drawn from the quantum vacuum. The vacuum energy is real; the extraction is not.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Real": "Vacuum energy; Casimir effect",
+    "Claim": "Usable energy can be extracted",
+    "Demonstrated": "No",
+    "Constraint": "Thermodynamics"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Casimir_effect",
+     "https://en.wikipedia.org/wiki/Zero-point_energy",
+     "https://en.wikipedia.org/wiki/Perpetual_motion",
+     "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
     ]
    },
    "last_reviewed": "2026-11-20",

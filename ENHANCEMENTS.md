@@ -839,6 +839,14 @@ The batch is mostly `fiction`, which is the label doing its least glamorous and 
 
 This is the shelf where the archive's two halves finally face each other: Kailasa carved downward from a single rock, beside a claim that the pyramids were a pump; Nan Madol's stacked basalt beside ley lines; Barabar's polished granite beside stone softening. Every real page in the batch is more impressive than the claim that replaced it, which is the argument the archive has been making for 700 pages.
 
+## 0av. Shipped in the forty-sixth pass — 21 November 2026: recovered civilisations
+
+29 dossiers (one dropped as a duplicate of the existing zebra page): twenty documented recoveries and discoveries, six open questions, three fringe physics claims.
+
+732 dossiers, 3,036 sources, 766 images, 758 pages, PDF 1,700 pages, EPUB 735 chapters, sitemap 756 URLs, 0 problems.
+
+The batch's theme is that the record keeps turning out to be richer than the legend: Etruscan origins settled by DNA, Denisovan genes in living Tibetans, Roman coins in Indian hoards, a South American crop in Polynesia. The fringe pages here — tachyons, zero-point extraction, superdeterminism — are the ones where the mathematics is real and the world is not.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
