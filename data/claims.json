@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 678,
+ "count": 703,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -121,6 +121,36 @@
      "https://en.wikipedia.org/wiki/Petroleum",
      "https://en.wikipedia.org/wiki/Biomarker_(petroleum)",
      "https://en.wikipedia.org/wiki/Serpentinization"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "acambaro-figurines",
+   "url": "acambaro-figurines.html",
+   "title": "The Acámbaro Figurines",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Thousands of ceramic figures showing humans with dinosaurs, said to be ancient. The dating and the context failed.",
+   "facts": {
+    "Status": "Debunked",
+    "Origin": "Acámbaro, Mexico",
+    "From": "1944",
+    "Dating": "Thermoluminescence: modern",
+    "Excavated context": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ac%C3%A1mbaro_figures",
+     "https://en.wikipedia.org/wiki/Thermoluminescence_dating",
+     "https://en.wikipedia.org/wiki/Archaeological_forgery",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -338,6 +368,37 @@
      "https://en.wikipedia.org/wiki/Amarna",
      "https://en.wikipedia.org/wiki/Aten",
      "https://en.wikipedia.org/wiki/Atenism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "al-jazari-automata",
+   "url": "al-jazari-automata.html",
+   "title": "Al-Jazari's Automata",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A book of machines — clocks, water-raising devices and automata — with drawings clear enough to rebuild. The book survives.",
+   "facts": {
+    "Status": "Documented",
+    "Author": "Ismail al-Jazari",
+    "Completed": "1206",
+    "Machines": "About fifty",
+    "Reconstructions": "Built from the drawings",
+    "Field": "Medieval engineering"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Al-Jazari",
+     "https://en.wikipedia.org/wiki/Automaton",
+     "https://en.wikipedia.org/wiki/Water_clock",
+     "https://en.wikipedia.org/wiki/History_of_engineering"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1456,6 +1517,67 @@
      "https://en.wikipedia.org/wiki/Lightning",
      "https://doi.org/10.1038/35014142",
      "https://en.wikipedia.org/wiki/Plasma_(physics)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "barabar-caves",
+   "url": "barabar-caves.html",
+   "title": "The Barabar Caves",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Caves cut into granite in Bihar with polished surfaces and an echo that lasts for seconds. They were made for an ascetic sect, and the finish is documented.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "Bihar, India",
+    "Date": "3rd century BC",
+    "Patron": "Mauryan empire",
+    "Rock": "Granite",
+    "Feature": "Polished surfaces; long echo"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Barabar_Caves",
+     "https://en.wikipedia.org/wiki/Maurya_Empire",
+     "https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika",
+     "https://en.wikipedia.org/wiki/Rock-cut_architecture"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "bat-creek-stone",
+   "url": "bat-creek-stone.html",
+   "title": "The Bat Creek Stone",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A stone with an inscription said to be Hebrew, found in a Tennessee mound. It is a nineteenth-century inscription, and it is upside down.",
+   "facts": {
+    "Status": "Debunked",
+    "Found": "1889, Tennessee",
+    "Claim": "Ancient Hebrew inscription",
+    "Script": "19th century",
+    "Reading": "Requires inversion"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bat_Creek_stone",
+     "https://en.wikipedia.org/wiki/Epigraphy",
+     "https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories",
+     "https://en.wikipedia.org/wiki/Archaeological_forgery"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4488,6 +4610,37 @@
      "https://en.wikipedia.org/wiki/Dendera_light",
      "https://en.wikipedia.org/wiki/Lotus_(mythology)",
      "https://en.wikipedia.org/wiki/Crookes_tube"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "derinkuyu",
+   "url": "derinkuyu.html",
+   "title": "Derinkuyu",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "An underground city in Cappadocia with rooms, stables, a church and ventilation shafts, deep enough for thousands of people.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "Cappadocia, Turkey",
+    "Depth": "About 85 m",
+    "Rock": "Volcanic tuff",
+    "Key feature": "Ventilation shafts; stone doors",
+    "Use": "Over centuries"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Derinkuyu",
+     "https://en.wikipedia.org/wiki/Cappadocia",
+     "https://en.wikipedia.org/wiki/Tuff",
+     "https://en.wikipedia.org/wiki/Underground_city"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7623,6 +7776,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "grand-canyon-citadel",
+   "url": "grand-canyon-citadel.html",
+   "title": "The Grand Canyon Citadel",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A newspaper story about an ancient citadel in the Grand Canyon, with Egyptian and Tibetan artefacts. It was a hoax.",
+   "facts": {
+    "Status": "Debunked",
+    "Reported": "1909",
+    "Source": "A single newspaper",
+    "Corroboration": "None",
+    "Site": "Never located"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Grand_Canyon",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology",
+     "https://en.wikipedia.org/wiki/Hoax",
+     "https://en.wikipedia.org/wiki/Smithsonian_Institution"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "grandmother-hypothesis",
    "url": "grandmother-hypothesis.html",
    "title": "The Grandmother Hypothesis",
@@ -8275,6 +8458,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "hero-steam-engine",
+   "url": "hero-steam-engine.html",
+   "title": "Hero's Steam Engine",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A sphere turned by steam, described by Hero of Alexandria. It is a real device and it was not used for work.",
+   "facts": {
+    "Status": "Documented",
+    "Author": "Hero of Alexandria",
+    "Date": "1st century AD",
+    "Device": "Aeolipile",
+    "Use": "Demonstration",
+    "Replicas": "Built and working"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Aeolipile",
+     "https://en.wikipedia.org/wiki/Hero_of_Alexandria",
+     "https://en.wikipedia.org/wiki/Steam_turbine",
+     "https://en.wikipedia.org/wiki/History_of_the_steam_engine"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "hitler-escape",
    "url": "hitler-escape.html",
    "title": "Did Hitler Escape?",
@@ -8677,6 +8891,36 @@
      "https://www.tesla.com/blog/hyperloop",
      "https://en.wikipedia.org/wiki/Virgin_Hyperloop",
      "https://en.wikipedia.org/wiki/Shanghai_maglev_train"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ica-stones",
+   "url": "ica-stones.html",
+   "title": "The Ica Stones",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Stones carved with dinosaurs and surgery, said to be ancient. The carver admitted making them.",
+   "facts": {
+    "Status": "Debunked",
+    "Origin": "Ica, Peru",
+    "Promoted from": "1960s",
+    "Maker": "Admitted carving them",
+    "Excavated context": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ica_stones",
+     "https://en.wikipedia.org/wiki/Archaeological_forgery",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology",
+     "https://en.wikipedia.org/wiki/Andesite"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9236,6 +9480,37 @@
      "https://en.wikipedia.org/wiki/Time_travel",
      "https://en.wikipedia.org/wiki/Internet_hoax",
      "https://en.wikipedia.org/wiki/Black_hole"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "kailasa-temple",
+   "url": "kailasa-temple.html",
+   "title": "Kailasa Carved Downward",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A temple cut from the top of a hill downward, removing everything that is not the building. The method is documented by the marks left behind.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "Ellora, Maharashtra",
+    "Date": "8th century",
+    "Dynasty": "Rashtrakuta",
+    "Method": "Carved top-down from one rock",
+    "Rock removed": "Hundreds of thousands of tonnes"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kailasa_Temple,_Ellora",
+     "https://en.wikipedia.org/wiki/Ellora_Caves",
+     "https://en.wikipedia.org/wiki/Rashtrakuta_dynasty",
+     "https://en.wikipedia.org/wiki/Monolithic_architecture"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10009,6 +10284,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "ley-lines",
+   "url": "ley-lines.html",
+   "title": "Ley Lines",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Straight lines drawn between ancient sites, said to be channels of earth energy. They are drawn after the fact.",
+   "facts": {
+    "Status": "Debunked",
+    "Proposed": "Alfred Watkins, 1921",
+    "Claim": "Ancient sites align on straight lines",
+    "Tested": "No excess alignment",
+    "Energy": "Never detected"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ley_line",
+     "https://en.wikipedia.org/wiki/Alfred_Watkins",
+     "https://en.wikipedia.org/wiki/Pareidolia",
+     "https://en.wikipedia.org/wiki/Selection_bias"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "liars-dividend",
    "url": "liars-dividend.html",
    "title": "The Liar's Dividend",
@@ -10348,6 +10653,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "longyou-caves",
+   "url": "longyou-caves.html",
+   "title": "The Longyou Caves",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Twenty-four hand-cut caves in China, with no record of who made them or why. The absence of documentation is the puzzle.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "Zhejiang, China",
+    "Discovered": "1992",
+    "Number": "24 caves",
+    "Method": "Hand-cut in sandstone",
+    "Purpose": "Unknown"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Longyou_Caves",
+     "https://en.wikipedia.org/wiki/Zhejiang",
+     "https://en.wikipedia.org/wiki/Sandstone",
+     "https://en.wikipedia.org/wiki/Quarry"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "loop-quantum-gravity",
    "url": "loop-quantum-gravity.html",
    "title": "Loop Quantum Gravity",
@@ -10372,6 +10708,36 @@
      "https://en.wikipedia.org/wiki/Quantum_gravity",
      "https://en.wikipedia.org/wiki/Spin_network",
      "https://en.wikipedia.org/wiki/Planck_length"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "los-lunas-stone",
+   "url": "los-lunas-stone.html",
+   "title": "The Los Lunas Stone",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A boulder in New Mexico inscribed with the Ten Commandments in Hebrew, said to be ancient. The inscription is modern.",
+   "facts": {
+    "Status": "Debunked",
+    "Location": "Los Lunas, New Mexico",
+    "Content": "Ten Commandments in Hebrew",
+    "Script": "Modern form",
+    "First noted": "1930s"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Los_Lunas_Decalogue_Stone",
+     "https://en.wikipedia.org/wiki/Palaeography",
+     "https://en.wikipedia.org/wiki/Hebrew_alphabet",
+     "https://en.wikipedia.org/wiki/Archaeological_forgery"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11547,6 +11913,65 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "mica-in-pyramids",
+   "url": "mica-in-pyramids.html",
+   "title": "Mica in the Pyramids",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that mica sheets in Egyptian monuments served an electrical purpose. Mica is present; the electrical use is not.",
+   "facts": {
+    "Status": "Fringe",
+    "Material": "Mica",
+    "Present in": "Some Egyptian monuments",
+    "Electrical system": "None found"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mica",
+     "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
+     "https://en.wikipedia.org/wiki/Insulator_(electricity)",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "michigan-relics",
+   "url": "michigan-relics.html",
+   "title": "The Michigan Relics",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Thousands of inscribed objects 'found' in Michigan, said to record ancient migrations. They were made and planted.",
+   "facts": {
+    "Status": "Debunked",
+    "Period": "1890s onward",
+    "Objects": "Thousands",
+    "Origin": "Manufactured and planted",
+    "Believed": "For decades"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Michigan_relics",
+     "https://en.wikipedia.org/wiki/Archaeological_forgery",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology",
+     "https://en.wikipedia.org/wiki/Hoax"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "microplastics-hormones",
    "url": "microplastics-hormones.html",
    "title": "Microplastics and Hormones",
@@ -11726,6 +12151,36 @@
      "https://www.levyinstitute.org/publications/modern-money-theory-a-primer-on-macroeconomics",
      "https://www.levyinstitute.org/pubs/wp_908.pdf",
      "https://en.wikipedia.org/wiki/Chartalism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mohenjo-daro-blast",
+   "url": "mohenjo-daro-blast.html",
+   "title": "The Mohenjo-daro Blast",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claim that an ancient city was destroyed by an atomic blast. The 'evidence' is a scattered set of bones and a misread verse.",
+   "facts": {
+    "Status": "Debunked",
+    "Site": "Mohenjo-daro, Pakistan",
+    "Claim": "Destroyed by an atomic blast",
+    "Crater": "None",
+    "Explanation": "Urban decline; river changes"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mohenjo-daro",
+     "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+     "https://en.wikipedia.org/wiki/Shocked_quartz",
+     "https://en.wikipedia.org/wiki/Trinitite"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12353,6 +12808,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "nan-madol",
+   "url": "nan-madol.html",
+   "title": "Nan Madol",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A city built on artificial islets from stacked basalt columns, in a lagoon in Micronesia. It is real, and it took centuries.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "Pohnpei, Micronesia",
+    "Built": "c. 1200–1600",
+    "Islets": "About 90",
+    "Material": "Stacked basalt columns",
+    "Dynasty": "Saudeleur"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Nan_Madol",
+     "https://en.wikipedia.org/wiki/Pohnpei",
+     "https://en.wikipedia.org/wiki/Basalt",
+     "https://en.wikipedia.org/wiki/Saudeleur"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "navier-stokes",
    "url": "navier-stokes.html",
    "title": "Navier–Stokes Existence and Smoothness",
@@ -12570,6 +13056,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "neolithic-trepanation",
+   "url": "neolithic-trepanation.html",
+   "title": "Neolithic Trepanation",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Skulls with holes cut into them, and bone regrowth showing that some people survived. The surgery is documented; the motive is not.",
+   "facts": {
+    "Status": "Documented",
+    "Earliest": "About 6500 BC",
+    "Technique": "Cutting with stone tools",
+    "Survival": "Shown by bone regrowth",
+    "Motive": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Trepanning",
+     "https://en.wikipedia.org/wiki/Neolithic",
+     "https://en.wikipedia.org/wiki/Bone_healing",
+     "https://en.wikipedia.org/wiki/Prehistoric_medicine"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "nephilim",
    "url": "nephilim.html",
    "title": "The Nephilim",
@@ -12718,6 +13234,67 @@
      "https://en.wikipedia.org/wiki/Coca-Cola",
      "https://en.wikipedia.org/wiki/Marketing",
      "https://en.wikipedia.org/wiki/Streisand_effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "newgrange-solstice",
+   "url": "newgrange-solstice.html",
+   "title": "Newgrange and the Solstice",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A passage tomb in Ireland aligned so that the rising sun at midwinter reaches the chamber floor. The alignment is measured every year.",
+   "facts": {
+    "Status": "Documented",
+    "Built": "About 3200 BC",
+    "Type": "Passage tomb",
+    "Alignment": "Winter solstice sunrise",
+    "Mechanism": "Roof box",
+    "Observed": "Annually"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Newgrange",
+     "https://en.wikipedia.org/wiki/Winter_solstice",
+     "https://en.wikipedia.org/wiki/Archaeoastronomy",
+     "https://en.wikipedia.org/wiki/Br%C3%BA_na_B%C3%B3inne"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "newport-tower",
+   "url": "newport-tower.html",
+   "title": "The Newport Tower",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A stone tower in Rhode Island said to be a medieval Norse church. The mortar dates it to the colonial period.",
+   "facts": {
+    "Status": "Debunked",
+    "Location": "Newport, Rhode Island",
+    "Dating": "17th century",
+    "Method": "Mortar analysis",
+    "Attributions": "Norse; Templar; Portuguese"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Newport_Tower_(Rhode_Island)",
+     "https://en.wikipedia.org/wiki/Mortar_(masonry)",
+     "https://en.wikipedia.org/wiki/Norse_colonization_of_North_America",
+     "https://en.wikipedia.org/wiki/Colonial_history_of_the_United_States"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -15096,6 +15673,35 @@
      "https://en.wikipedia.org/wiki/Purdue_Pharma",
      "https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States",
      "https://en.wikipedia.org/wiki/Sackler_family"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "pyramid-as-pump",
+   "url": "pyramid-as-pump.html",
+   "title": "The Pyramid as a Pump",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that the Great Pyramid was a hydraulic machine. The chambers and shafts are real; the machinery is not.",
+   "facts": {
+    "Status": "Fringe",
+    "Claim": "The pyramid was a water pump",
+    "Features cited": "Chambers; shafts; Grand Gallery",
+    "Machinery found": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+     "https://en.wikipedia.org/wiki/Grand_Gallery",
+     "https://en.wikipedia.org/wiki/Egyptian_pyramid_construction_techniques",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -17738,6 +18344,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "stone-softening-andes",
+   "url": "stone-softening-andes.html",
+   "title": "Stone Softening in the Andes",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that Inca masons softened stone with plant acids to fit it perfectly. The fit is real; the method is not established.",
+   "facts": {
+    "Status": "Fringe",
+    "Claim": "Inca masons softened stone",
+    "Reality": "Shaped by patient working",
+    "Evidence": "Unfinished blocks",
+    "Chemistry": "Not demonstrated"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Inca_architecture",
+     "https://en.wikipedia.org/wiki/Andesite",
+     "https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "stoned-ape",
    "url": "stoned-ape.html",
    "title": "The Stoned Ape",
@@ -18542,6 +19178,37 @@
      "https://en.wikipedia.org/wiki/Creepypasta",
      "https://en.wikipedia.org/wiki/Caving",
      "https://en.wikipedia.org/wiki/Epistolary_novel"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "teotihuacan-mercury",
+   "url": "teotihuacan-mercury.html",
+   "title": "Mercury Under Teotihuacan",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Liquid mercury was found in a tunnel under the Feathered Serpent pyramid. It is documented, and it is not evidence of anything exotic.",
+   "facts": {
+    "Status": "Documented",
+    "Site": "Teotihuacan",
+    "Tunnel sealed": "c. 200 AD",
+    "Found": "2003; excavated from 2009",
+    "Mercury": "Liquid, in a chamber",
+    "Reading": "Ritual representation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Teotihuacan",
+     "https://en.wikipedia.org/wiki/Temple_of_the_Feathered_Serpent,_Teotihuacan",
+     "https://en.wikipedia.org/wiki/Mercury_(element)",
+     "https://en.wikipedia.org/wiki/Mesoamerican_pyramids"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -19724,6 +20391,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "vimanas",
+   "url": "vimanas.html",
+   "title": "Vimanas",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Flying machines described in Sanskrit epics, read as aircraft. The texts describe palaces and chariots, and the reading is modern.",
+   "facts": {
+    "Status": "Debunked",
+    "In the epics": "Divine flying vehicles",
+    "Technical text": "Vaimanika Shastra, 20th century",
+    "Drawings": "Not aeronautical",
+    "Aircraft": "Not established"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Vimana",
+     "https://en.wikipedia.org/wiki/Vaim%C4%81nika_%C5%9A%C4%81stra",
+     "https://en.wikipedia.org/wiki/Indian_epic_poetry",
+     "https://en.wikipedia.org/wiki/Literary_forgery"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "vinland-map",
    "url": "vinland-map.html",
    "title": "The Vinland Map",
@@ -20618,6 +21315,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "yangshan-stele",
+   "url": "yangshan-stele.html",
+   "title": "The Yangshan Stele",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A colossal stone monument left in its quarry, unfinished, still attached at one edge. It is the best evidence of how such monuments were made.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "Yangshan, Nanjing",
+    "Date": "Early 15th century",
+    "Length": "About 60 m",
+    "State": "Unfinished, attached to bedrock",
+    "Purpose": "Imperial tomb stele"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Yangshan_Quarry",
+     "https://en.wikipedia.org/wiki/Yongle_Emperor",
+     "https://en.wikipedia.org/wiki/Stele",
+     "https://en.wikipedia.org/wiki/Ming_tombs"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "yellow-emperor-dragon",
    "url": "yellow-emperor-dragon.html",
    "title": "The Yellow Emperor's Dragon",
@@ -20856,6 +21584,37 @@
      "https://en.wikipedia.org/wiki/Featured_snippet",
      "https://en.wikipedia.org/wiki/Online_advertising",
      "https://en.wikipedia.org/wiki/Digital_divide"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "zhang-heng-seismoscope",
+   "url": "zhang-heng-seismoscope.html",
+   "title": "Zhang Heng's Seismoscope",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A bronze vessel that detected earthquakes and indicated direction. The instrument is described in a text and its principle is understood.",
+   "facts": {
+    "Status": "Documented",
+    "Inventor": "Zhang Heng",
+    "Date": "132 AD",
+    "Form": "Bronze vessel with dragons and toads",
+    "Original": "Lost",
+    "Mechanism": "Reconstructed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Zhang_Heng",
+     "https://en.wikipedia.org/wiki/Seismometer",
+     "https://en.wikipedia.org/wiki/Book_of_the_Later_Han",
+     "https://en.wikipedia.org/wiki/Han_dynasty"
     ]
    },
    "last_reviewed": "2026-11-20",

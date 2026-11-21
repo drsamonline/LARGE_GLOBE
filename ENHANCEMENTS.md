@@ -831,6 +831,14 @@ The audit's credits fix pays off here: the 23 new images are attributed automati
 
 The batch is mostly `fiction`, which is the label doing its least glamorous and most useful work: twenty pages that say plainly *this is an interpretation of a work of art*, so that the four pages beside them that describe real fraud and real admissions bribery are not diluted.
 
+## 0au. Shipped in the forty-fifth pass — 21 November 2026: ancient engineering and forgeries
+
+25 dossiers: twelve real engineering achievements (Newgrange, the Barabar caves, Kailasa, Derinkuyu, Longyou, Yangshan, Nan Madol, Teotihuacan's mercury, Zhang Heng's seismoscope, al-Jazari's automata, Hero's engine, Neolithic trepanation) and thirteen forgeries, misreadings and fringe claims.
+
+703 dossiers, 2,920 sources, 737 images, 729 pages, PDF 1,642 pages, EPUB chapters as per sitemap, 0 problems.
+
+This is the shelf where the archive's two halves finally face each other: Kailasa carved downward from a single rock, beside a claim that the pyramids were a pump; Nan Madol's stacked basalt beside ley lines; Barabar's polished granite beside stone softening. Every real page in the batch is more impressive than the claim that replaced it, which is the argument the archive has been making for 700 pages.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
