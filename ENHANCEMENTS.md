@@ -789,6 +789,14 @@ The batch pairs the two directions the archive now runs in: pages where a legend
 
 **The duplicate guard is now in the publisher.** Before writing anything, `publish_batch.py` refuses to publish a slug whose page already exists, alongside its existing checks for missing metadata, placeholder values and too few sources. That is the check that would have caught `aphantasia` and the three overwrites before it. Six batches have now hit that failure; it should be the last.
 
+## 0aq. Shipped in the forty-second pass — 21 November 2026: lost media and physics ideas
+
+25 dossiers: eleven fan theories, creepypasta and lost-media cases, two physics conjectures (ER = EPR, entropic gravity), and twelve modern claims from simulation lore to blockchain governance.
+
+631 dossiers, 2,630 sources, 665 images, 657 pages, PDF 1,496 pages, EPUB 634 chapters, sitemap 655 URLs, 0 problems.
+
+Two pages carry the batch's argument: `saki-sanobashi` (a lost anime that has never been found and probably never existed) sits beside `clockman` (a lost animation that was found). The same search method, two outcomes, and the difference is not the effort but the object.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

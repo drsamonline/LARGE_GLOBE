@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 606,
+ "count": 631,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -687,6 +687,35 @@
      "https://theconversation.com/why-some-people-still-believe-that-aliens-shaped-ancient-civilisations-277993",
      "https://prop.ub.uni-heidelberg.de/journals/aegyp/article/download/40164/33823",
      "https://www.discoveryuk.com/mysteries/legend-to-launchpad-the-ancient-astronaut-theory/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "animal-crossing-cult",
+   "url": "animal-crossing-cult.html",
+   "title": "Animal Crossing Is a Cult",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The joke theory that the game's cheerful village is a coercive community. It is a reading of the game's mechanics, and the game's designers did not intend it.",
+   "facts": {
+    "Status": "Joke theory",
+    "Game": "Animal Crossing",
+    "Theory": "The village is a cult",
+    "Mechanics cited": "Debt, routine, residents"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Animal_Crossing",
+     "https://en.wikipedia.org/wiki/Life_simulation_game",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Cult"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2797,6 +2826,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "clockman",
+   "url": "clockman.html",
+   "title": "Clockman",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A short animation remembered by a viewer and identified years later. It is a lost-media success, and the memory turned out to be accurate.",
+   "facts": {
+    "Status": "Found",
+    "Case": "Lost children's animation",
+    "Identified": "By a search community",
+    "Confirmed": "With creators and copies"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lost_media",
+     "https://en.wikipedia.org/wiki/Animation",
+     "https://en.wikipedia.org/wiki/Television_archive",
+     "https://en.wikipedia.org/wiki/False_memory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "cloud-feedback",
    "url": "cloud-feedback.html",
    "title": "Cloud Feedback",
@@ -3582,6 +3640,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "daos-autonomous-firms",
+   "url": "daos-autonomous-firms.html",
+   "title": "DAOs as Autonomous Firms",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Organisations run by code and token votes rather than managers. They exist, they hold real money, and their governance has produced both experiments and failures.",
+   "facts": {
+    "Status": "Documented",
+    "First": "The DAO, 2016",
+    "Raised": "About $150 million",
+    "Problems": "Low participation; power concentration",
+    "Record": "On-chain and public"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Decentralized_autonomous_organization",
+     "https://en.wikipedia.org/wiki/The_DAO",
+     "https://en.wikipedia.org/wiki/Smart_contract",
+     "https://en.wikipedia.org/wiki/Ethereum"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dark-flow",
    "url": "dark-flow.html",
    "title": "Dark Flow",
@@ -4203,6 +4291,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "digital-twin-policing",
+   "url": "digital-twin-policing.html",
+   "title": "Digital-Twin Predictive Policing",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that cities will be policed through real-time simulations of their populations. The components exist; the system does not.",
+   "facts": {
+    "Status": "Projection",
+    "Components": "Predictive policing; sensor networks",
+    "Deployed": "Some systems, with mixed results",
+    "Digital twin": "Not deployed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Predictive_policing",
+     "https://en.wikipedia.org/wiki/Digital_twin",
+     "https://en.wikipedia.org/wiki/Surveillance",
+     "https://en.wikipedia.org/wiki/Algorithmic_bias"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dinosaur-extinction",
    "url": "dinosaur-extinction.html",
    "title": "The Dinosaur Extinction",
@@ -4575,6 +4692,36 @@
      "https://en.wikipedia.org/wiki/Ancient_astronauts",
      "https://en.wikipedia.org/wiki/Hoax",
      "https://en.wikipedia.org/wiki/Archaeology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dulce-base",
+   "url": "dulce-base.html",
+   "title": "The Dulce Base",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claimed secret underground facility beneath New Mexico, housing aliens and joint projects. The claims rest on one man's testimony.",
+   "facts": {
+    "Status": "Fringe",
+    "Location claimed": "Near Dulce, New Mexico",
+    "Origin": "Paul Bennewitz, late 1970s",
+    "Official assessment": "Ordinary aircraft and base activity",
+    "Physical evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dulce_Base",
+     "https://en.wikipedia.org/wiki/Paul_Bennewitz",
+     "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base",
+     "https://en.wikipedia.org/wiki/Disinformation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5230,6 +5377,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "entropic-gravity",
+   "url": "entropic-gravity.html",
+   "title": "Entropic Gravity",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The proposal that gravity is not a fundamental force but an emergent consequence of entropy. It is elegant, it made a testable prediction, and the test disagreed.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "Verlinde, 2009",
+    "Claim": "Gravity is an entropic effect",
+    "Extension": "2016, galaxy-scale prediction",
+    "Test": "Galaxy rotation and lensing",
+    "Result": "Not supported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Entropic_gravity",
+     "https://en.wikipedia.org/wiki/Erik_Verlinde",
+     "https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics",
+     "https://en.wikipedia.org/wiki/Dark_matter"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "epigenetic-trauma",
    "url": "epigenetic-trauma.html",
    "title": "Epigenetic Inheritance of Trauma",
@@ -5261,6 +5439,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "er-equal-epr",
+   "url": "er-equal-epr.html",
+   "title": "ER = EPR",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The proposal that wormholes and quantum entanglement are the same phenomenon, described by two different theories. It is elegant, influential and unproved.",
+   "facts": {
+    "Status": "Conjecture",
+    "Proposed": "Maldacena and Susskind, 2013",
+    "Claim": "Wormholes and entanglement are the same",
+    "Consequences": "Black-hole information; interior entanglement",
+    "Test": "None direct"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/ER%3DEPR",
+     "https://en.wikipedia.org/wiki/Quantum_entanglement",
+     "https://en.wikipedia.org/wiki/Wormhole",
+     "https://en.wikipedia.org/wiki/Black_hole_information_paradox"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "eratosthenes",
    "url": "eratosthenes.html",
    "title": "Eratosthenes Measured the Earth",
@@ -5285,6 +5493,35 @@
      "https://en.wikipedia.org/wiki/Earth%27s_circumference",
      "https://en.wikipedia.org/wiki/Gnomon",
      "https://en.wikipedia.org/wiki/Alexandria"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "et-and-star-wars",
+   "url": "et-and-star-wars.html",
+   "title": "E.T. and Star Wars",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A cameo put E.T.'s species in the Star Wars senate, and a fan theory built a shared universe on it. The cameo is real; the universe is a joke.",
+   "facts": {
+    "Status": "Fan construction",
+    "Cameo": "The Phantom Menace, 1999",
+    "Intent": "An in-joke",
+    "Theory": "A shared universe"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial",
+     "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace",
+     "https://en.wikipedia.org/wiki/Easter_egg_(media)",
+     "https://en.wikipedia.org/wiki/Fan_theory"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5348,6 +5585,36 @@
      "https://en.wikipedia.org/wiki/Europa_Clipper",
      "https://en.wikipedia.org/wiki/Tidal_heating",
      "https://en.wikipedia.org/wiki/Ocean_world"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "evil-farming-game",
+   "url": "evil-farming-game.html",
+   "title": "The Evil Farming Game",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A remembered game about a farmer with a dark secret, searched for and never found. The likely answer is a memory blend.",
+   "facts": {
+    "Status": "Documented",
+    "Claim": "A dark farming game",
+    "Search": "Documented on Reddit",
+    "Found": "No match",
+    "Likely": "Memory blend"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lost_media",
+     "https://en.wikipedia.org/wiki/False_memory",
+     "https://en.wikipedia.org/wiki/Farming_Simulator",
+     "https://en.wikipedia.org/wiki/Reddit"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6077,6 +6344,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "gadget-is-a-decoy",
+   "url": "gadget-is-a-decoy.html",
+   "title": "Gadget Is a Decoy",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The theory that Inspector Gadget is a decoy while his niece does the work. It is a joke about the show's structure, and the show's structure supports it.",
+   "facts": {
+    "Status": "Fiction",
+    "Show": "Inspector Gadget, 1983",
+    "Theory": "Gadget is a decoy",
+    "Formula": "Gadgets fail; Penny solves",
+    "Intention": "Parody of spy gadgetry"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Inspector_Gadget",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Parody",
+     "https://en.wikipedia.org/wiki/Formula_fiction"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "gaia",
    "url": "gaia.html",
    "title": "Gaia",
@@ -6164,6 +6461,35 @@
      "https://en.wikipedia.org/wiki/Tiwanaku",
      "https://en.wikipedia.org/wiki/Staff_God",
      "https://en.wikipedia.org/wiki/Archaeoastronomy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "gateway-of-the-mind",
+   "url": "gateway-of-the-mind.html",
+   "title": "Gateway of the Mind",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A creepypasta about a sensory deprivation experiment that goes wrong. It is written as a case report, and the report is the fiction.",
+   "facts": {
+    "Status": "Fiction",
+    "Era": "2000s",
+    "Format": "Fictional case report",
+    "Real basis": "Sensory deprivation research"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sensory_deprivation",
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Case_report",
+     "https://en.wikipedia.org/wiki/Hallucination"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8202,6 +8528,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "jack-time-traveller",
+   "url": "jack-time-traveller.html",
+   "title": "Jack Is a Time Traveller",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The theory that Jack Sparrow is a time traveller, based on his modern mannerisms. It is a reading of a performance, not a plot.",
+   "facts": {
+    "Status": "Fan theory",
+    "Films": "Pirates of the Caribbean",
+    "Theory": "Jack is a time traveller",
+    "Reality": "Deliberate anachronism"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Jack_Sparrow",
+     "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series)",
+     "https://en.wikipedia.org/wiki/Anachronism",
+     "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "jersey-devil",
    "url": "jersey-devil.html",
    "title": "The Jersey Devil",
@@ -8350,6 +8705,35 @@
      "https://en.wikipedia.org/wiki/Dyson_sphere",
      "https://en.wikipedia.org/wiki/World_energy_supply_and_consumption",
      "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "keanu-immortal",
+   "url": "keanu-immortal.html",
+   "title": "Keanu Is Immortal",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The joke that Keanu Reeves has not aged because he is immortal, supported by portraits that look like him. The portraits are a selection, and the joke is the point.",
+   "facts": {
+    "Status": "Joke theory",
+    "Subject": "Keanu Reeves",
+    "Theory": "He is immortal",
+    "Method": "Resemblance search"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Keanu_Reeves",
+     "https://en.wikipedia.org/wiki/Pareidolia",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Selection_bias"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9000,6 +9384,36 @@
      "https://en.wikipedia.org/wiki/Musaeum",
      "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
      "https://en.wikipedia.org/wiki/Papyrus"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "light-speed-clock-limit",
+   "url": "light-speed-clock-limit.html",
+   "title": "Light Speed as a Clock Limit",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that the speed of light is not a physical constant but the processing limit of a simulation. The constant is measured; the simulation is an interpretation.",
+   "facts": {
+    "Status": "Fringe",
+    "Constant": "Speed of light, 299,792,458 m/s",
+    "Claim": "A simulation processing limit",
+    "Test": "None",
+    "Standard account": "Relativity"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Speed_of_light",
+     "https://en.wikipedia.org/wiki/Special_relativity",
+     "https://en.wikipedia.org/wiki/Simulation_hypothesis",
+     "https://en.wikipedia.org/wiki/Physical_constant"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10930,6 +11344,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "mystery-flesh-pit",
+   "url": "mystery-flesh-pit.html",
+   "title": "The Mystery Flesh Pit",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A worldbuilding project about a national park inside a living organism. It is fiction, presented as an archive of a place that never existed.",
+   "facts": {
+    "Status": "Fiction",
+    "Begun": "2019",
+    "Format": "Archive of documents and maps",
+    "Technique": "Bureaucratic realism"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Worldbuilding",
+     "https://en.wikipedia.org/wiki/Collaborative_fiction",
+     "https://en.wikipedia.org/wiki/Epistolary_novel",
+     "https://en.wikipedia.org/wiki/Found_footage_(film_technique)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "navier-stokes",
    "url": "navier-stokes.html",
    "title": "Navier–Stokes Existence and Smoothness",
@@ -11357,6 +11800,35 @@
      "https://en.wikipedia.org/wiki/Roman_Britain",
      "https://en.wikipedia.org/wiki/Nijmegen",
      "https://en.wikipedia.org/wiki/Roman_legion"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "noend-house",
+   "url": "noend-house.html",
+   "title": "NoEnd House",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A creepypasta about a haunted house with a series of rooms and no exit. It is fiction, and its structure has been widely copied.",
+   "facts": {
+    "Status": "Fiction",
+    "Genre": "Creepypasta",
+    "Structure": "Nine escalating rooms",
+    "Influence": "Widely reused"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Haunted_house",
+     "https://en.wikipedia.org/wiki/Horror_fiction",
+     "https://en.wikipedia.org/wiki/Frame_story"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12441,6 +12913,36 @@
      "https://en.wikipedia.org/wiki/Linear_A",
      "https://en.wikipedia.org/wiki/Minoan_civilization",
      "https://en.wikipedia.org/wiki/Undeciphered_writing_systems"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "phantom-cosmonaut-tapes",
+   "url": "phantom-cosmonaut-tapes.html",
+   "title": "The Phantom Cosmonaut Tapes",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Recordings said to capture dying Soviet cosmonauts. The recordings exist; the interpretation has never been verified.",
+   "facts": {
+    "Status": "Unresolved",
+    "Recorded by": "Judica-Cordiglia brothers",
+    "Era": "1960s",
+    "Content": "Unverified",
+    "Archives": "Record no concealed crews"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lost_Cosmonauts",
+     "https://en.wikipedia.org/wiki/Judica-Cordiglia_brothers",
+     "https://en.wikipedia.org/wiki/Numbers_station",
+     "https://en.wikipedia.org/wiki/Soviet_space_program"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -14368,6 +14870,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "rothschild-myths",
+   "url": "rothschild-myths.html",
+   "title": "Rothschild Banking Myths",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A family of bankers has been at the centre of conspiracy theories for two centuries. The theories are documented as theories, and they are false — and they repeat a familiar pattern of antisemitic tropes.",
+   "facts": {
+    "Status": "Debunked",
+    "Family": "Rothschild banking dynasty",
+    "Historical role": "Prominent in 19th-century finance",
+    "Conspiracy claims": "World control — false",
+    "Function": "Scapegoating; antisemitic tropes"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Rothschild_family",
+     "https://en.wikipedia.org/wiki/Antisemitic_canard",
+     "https://en.wikipedia.org/wiki/Conspiracy_theory",
+     "https://en.wikipedia.org/wiki/Bank"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "russian-sleep-experiment",
    "url": "russian-sleep-experiment.html",
    "title": "The Russian Sleep Experiment",
@@ -14459,6 +14991,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "saki-sanobashi",
+   "url": "saki-sanobashi.html",
+   "title": "Saki Sanobashi",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A lost anime said to show children trapped in a bathroom. It has never been found, and the search suggests it never existed.",
+   "facts": {
+    "Status": "Fiction",
+    "Claim appeared": "Around 2015",
+    "Alleged": "An 1980s–90s anime",
+    "Found": "Nothing",
+    "Likely": "A fabrication"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lost_media",
+     "https://en.wikipedia.org/wiki/Anime",
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/False_memory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "salting-carthage",
    "url": "salting-carthage.html",
    "title": "Salting Carthage",
@@ -14514,6 +15076,36 @@
      "https://en.wikipedia.org/wiki/Saqqara",
      "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
      "https://en.wikipedia.org/wiki/Out-of-place_artifact"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "satoshi-agency",
+   "url": "satoshi-agency.html",
+   "title": "Satoshi as an Intelligence Agency",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that Bitcoin's pseudonymous creator was a state intelligence operation. The identity is unknown, and the claim is an inference from the design.",
+   "facts": {
+    "Status": "Unfalsifiable",
+    "Pseudonym": "Satoshi Nakamoto",
+    "White paper": "2008",
+    "Software": "2009",
+    "Evidence of agency": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Satoshi_Nakamoto",
+     "https://en.wikipedia.org/wiki/Bitcoin",
+     "https://en.wikipedia.org/wiki/Cypherpunk",
+     "https://en.wikipedia.org/wiki/Conspiracy_theory"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -14638,6 +15230,36 @@
      "https://en.wikipedia.org/wiki/Collaborative_fiction",
      "https://en.wikipedia.org/wiki/Creepypasta",
      "https://en.wikipedia.org/wiki/Creative_Commons"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "scp-real-agency",
+   "url": "scp-real-agency.html",
+   "title": "SCP Is a Real Agency",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The SCP Foundation is a collaborative fiction wiki. The claim that it is a real agency with real containment procedures is a misunderstanding of a very consistent joke.",
+   "facts": {
+    "Status": "Fiction",
+    "Founded": "2007",
+    "Format": "Clinical documents",
+    "Licence": "Creative Commons",
+    "Real agency": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/SCP_Foundation",
+     "https://en.wikipedia.org/wiki/Collaborative_fiction",
+     "https://en.wikipedia.org/wiki/Creative_Commons",
+     "https://en.wikipedia.org/wiki/Docudrama"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -15365,6 +15987,36 @@
      "https://en.wikipedia.org/wiki/Tulpa",
      "https://en.wikipedia.org/wiki/Creepypasta",
      "https://en.wikipedia.org/wiki/Something_Awful"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "smart-cities-surveillance",
+   "url": "smart-cities-surveillance.html",
+   "title": "Smart Cities as Surveillance Grids",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that smart-city projects are a cover for total surveillance. The sensors are real; the total grid is not, and the projects have mostly been smaller and duller.",
+   "facts": {
+    "Status": "Debunked",
+    "Deployments": "Sensors, cameras, pilots",
+    "Limits": "Modest scale; cancellations",
+    "Concerns": "Real privacy questions",
+    "Total grid": "Not established"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Smart_city",
+     "https://en.wikipedia.org/wiki/Ubiquitous_computing",
+     "https://en.wikipedia.org/wiki/Privacy",
+     "https://en.wikipedia.org/wiki/Surveillance"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16115,6 +16767,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sub-simulation-stacking",
+   "url": "sub-simulation-stacking.html",
+   "title": "Sub-Simulation Stacking",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that simulations nest inside simulations, so that our world is many layers down. The argument is statistical, and it has no empirical content.",
+   "facts": {
+    "Status": "Unfalsifiable",
+    "Basis": "Bostrom's simulation argument",
+    "Claim": "Simulations nest",
+    "Test": "None",
+    "Evidence offered": "Physical limits — ordinary explanations exist"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Simulation_hypothesis",
+     "https://en.wikipedia.org/wiki/Nick_Bostrom",
+     "https://en.wikipedia.org/wiki/Falsifiability",
+     "https://en.wikipedia.org/wiki/Matrioshka_brain"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "substrate-independence",
    "url": "substrate-independence.html",
    "title": "Substrate Independence",
@@ -16622,6 +17304,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "technosphere-layer",
+   "url": "technosphere-layer.html",
+   "title": "The Technosphere Layer",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The claim that human technology has become a geological layer of the planet, with its own mass and dynamics. The concept is now used in Earth-systems science.",
+   "facts": {
+    "Status": "Documented",
+    "Concept": "The technosphere",
+    "Includes": "Buildings, roads, machines, waste",
+    "Comparison": "Human-made mass now exceeds biomass",
+    "Uncertainty": "Wide"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Technosphere",
+     "https://en.wikipedia.org/wiki/Anthropocene",
+     "https://en.wikipedia.org/wiki/Biomass_(ecology)",
+     "https://en.wikipedia.org/wiki/Earth_system_science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ted-the-caver",
    "url": "ted-the-caver.html",
    "title": "Ted the Caver",
@@ -16736,6 +17448,35 @@
      "https://en.wikipedia.org/wiki/Memory_consolidation",
      "https://en.wikipedia.org/wiki/Tetris",
      "https://en.wikipedia.org/wiki/Hypnagogia"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "the-strange-man",
+   "url": "the-strange-man.html",
+   "title": "The Strange Man",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A creepypasta figure who appears in the background of photographs. The story is fiction, and the photographs are props.",
+   "facts": {
+    "Status": "Fiction",
+    "Genre": "Creepypasta",
+    "Mechanism": "Photograph plus caption",
+    "Canon": "None fixed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Internet_folklore",
+     "https://en.wikipedia.org/wiki/Pareidolia",
+     "https://en.wikipedia.org/wiki/Photo_manipulation"
     ]
    },
    "last_reviewed": "2026-11-20",
