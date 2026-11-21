@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 791,
+ "count": 811,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -58,6 +58,35 @@
      "https://en.wikipedia.org/wiki/Urban_planning",
      "https://en.wikipedia.org/wiki/Conspiracy_theory",
      "https://en.wikipedia.org/wiki/Walkability"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "23andme-policing",
+   "url": "23andme-policing.html",
+   "title": "23andMe and Genealogy Policing",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Consumer DNA databases used to identify criminal suspects through their relatives. The practice is documented and consequential.",
+   "facts": {
+    "Status": "Documented",
+    "Method": "Genetic genealogy",
+    "First major case": "2018",
+    "Issue": "Consent of relatives"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Genetic_genealogy",
+     "https://en.wikipedia.org/wiki/Golden_State_Killer",
+     "https://en.wikipedia.org/wiki/23andMe",
+     "https://en.wikipedia.org/wiki/Genetic_privacy"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1239,6 +1268,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "armstrong-doping",
+   "url": "armstrong-doping.html",
+   "title": "Armstrong's Doping Programme",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A seven-time winner stripped of his titles after a doping investigation and a confession.",
+   "facts": {
+    "Status": "Documented",
+    "Report": "USADA, 2012",
+    "Titles": "Stripped",
+    "Confession": "2013"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lance_Armstrong",
+     "https://en.wikipedia.org/wiki/Doping_in_sport",
+     "https://en.wikipedia.org/wiki/United_States_Anti-Doping_Agency",
+     "https://en.wikipedia.org/wiki/Tour_de_France"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "arrow-of-time",
    "url": "arrow-of-time.html",
    "title": "The Arrow of Time",
@@ -1332,6 +1390,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "ashley-madison-bots",
+   "url": "ashley-madison-bots.html",
+   "title": "Ashley Madison's Bots",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A dating site whose user base included large numbers of fabricated female profiles. The data leak made it measurable.",
+   "facts": {
+    "Status": "Documented",
+    "Site": "Ashley Madison",
+    "Breach": "2015",
+    "Finding": "Many profiles fabricated",
+    "Outcome": "Regulatory settlement"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ashley_Madison_data_breach",
+     "https://en.wikipedia.org/wiki/Sockpuppet_(Internet)",
+     "https://en.wikipedia.org/wiki/Federal_Trade_Commission",
+     "https://en.wikipedia.org/wiki/Online_dating_service"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ashvlogs",
    "url": "ashvlogs.html",
    "title": "AshVlogs",
@@ -1385,6 +1473,36 @@
      "https://en.wikipedia.org/wiki/Abiogenesis",
      "https://en.wikipedia.org/wiki/Complexity",
      "https://en.wikipedia.org/wiki/Mass_spectrometry"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "astros-sign-stealing",
+   "url": "astros-sign-stealing.html",
+   "title": "The Astros Sign Stealing",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A baseball team used a camera and a monitor to relay the opposing catcher's signals. The scheme is documented in a league report.",
+   "facts": {
+    "Status": "Documented",
+    "Team": "Houston Astros",
+    "Season": "2017",
+    "Method": "Camera and signalling",
+    "Penalties": "Fines; draft picks; suspensions"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Houston_Astros_sign_stealing_scandal",
+     "https://en.wikipedia.org/wiki/Major_League_Baseball",
+     "https://en.wikipedia.org/wiki/Baseball_signals",
+     "https://en.wikipedia.org/wiki/Cheating_in_baseball"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3382,6 +3500,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "chernobyl-design-flaw",
+   "url": "chernobyl-design-flaw.html",
+   "title": "Chernobyl's Design Flaw",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A reactor that became unstable at low power, operated outside its limits, with a test that went wrong.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "1986",
+    "Reactor": "RBMK",
+    "Flaw": "Positive void coefficient",
+    "Report": "IAEA assessment"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+     "https://en.wikipedia.org/wiki/RBMK",
+     "https://en.wikipedia.org/wiki/Void_coefficient",
+     "https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "chinese-gunpowder",
    "url": "chinese-gunpowder.html",
    "title": "Chinese Gunpowder Weapons",
@@ -5175,6 +5323,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "deepwater-cement",
+   "url": "deepwater-cement.html",
+   "title": "Deepwater Horizon Cement",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A well blowout that killed eleven people and spilled millions of barrels. The cement job and the decisions around it are documented.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2010",
+    "Well": "Macondo",
+    "Deaths": "Eleven",
+    "Report": "Presidential commission"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Deepwater_Horizon_explosion",
+     "https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill",
+     "https://en.wikipedia.org/wiki/Blowout_preventer",
+     "https://en.wikipedia.org/wiki/National_Commission_on_the_BP_Deepwater_Horizon_Oil_Spill_and_Offshore_Drilling"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "deja-reve",
    "url": "deja-reve.html",
    "title": "Déjà Rêvé",
@@ -6318,6 +6496,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "east-palestine-burn",
+   "url": "east-palestine-burn.html",
+   "title": "The East Palestine Burn",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A derailment, then a controlled burn of vinyl chloride that sent a plume over the town. Both are documented.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2023",
+    "Place": "East Palestine, Ohio",
+    "Chemical": "Vinyl chloride",
+    "Response": "Controlled burn"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/East_Palestine_train_derailment",
+     "https://en.wikipedia.org/wiki/Vinyl_chloride",
+     "https://en.wikipedia.org/wiki/Dangerous_goods",
+     "https://en.wikipedia.org/wiki/Environmental_monitoring"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "echo-chambers",
    "url": "echo-chambers.html",
    "title": "Echo Chambers",
@@ -7174,6 +7382,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "facebook-teen-research",
+   "url": "facebook-teen-research.html",
+   "title": "Facebook's Teen Research",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Internal studies found harms to teenage users, and the company's own researchers said so. The documents were disclosed by a whistleblower.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2021",
+    "Source": "Whistleblower disclosure",
+    "Subject": "Teen wellbeing on Instagram"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Frances_Haugen",
+     "https://en.wikipedia.org/wiki/Instagram",
+     "https://en.wikipedia.org/wiki/Facebook_Files",
+     "https://en.wikipedia.org/wiki/Whistleblower"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "facial-feedback",
    "url": "facial-feedback.html",
    "title": "Facial Feedback",
@@ -7320,6 +7557,36 @@
      "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
      "https://en.wikipedia.org/wiki/Church_Committee",
      "https://en.wikipedia.org/wiki/J._Edgar_Hoover"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "fda-purdue",
+   "url": "fda-purdue.html",
+   "title": "The FDA–Purdue Door",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A drug label change negotiated between a regulator and the company, and the revolving door around it.",
+   "facts": {
+    "Status": "Documented",
+    "Drug": "OxyContin",
+    "Label claim": "2001; withdrawn 2013",
+    "Plea": "2007",
+    "Issue": "Revolving door"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Oxycodone",
+     "https://en.wikipedia.org/wiki/Purdue_Pharma",
+     "https://en.wikipedia.org/wiki/Food_and_Drug_Administration",
+     "https://en.wikipedia.org/wiki/Revolving_door_(politics)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7541,6 +7808,36 @@
      "https://en.wikipedia.org/wiki/Algonquian_peoples",
      "https://en.wikipedia.org/wiki/List_of_cryptids",
      "https://en.wikipedia.org/wiki/Cultural_appropriation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "flint-lead",
+   "url": "flint-lead.html",
+   "title": "Flint's Lead",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A city switched its water source to save money, and the water corroded the pipes. The lead poisoning is documented.",
+   "facts": {
+    "Status": "Documented",
+    "City": "Flint, Michigan",
+    "Year": "2014",
+    "Cause": "Corrosive water; no inhibitor",
+    "Consequence": "Lead in drinking water"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Flint_water_crisis",
+     "https://en.wikipedia.org/wiki/Lead_poisoning",
+     "https://en.wikipedia.org/wiki/Corrosion_inhibitor",
+     "https://en.wikipedia.org/wiki/Water_supply"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9123,6 +9420,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "green-coffee-scam",
+   "url": "green-coffee-scam.html",
+   "title": "The Green Coffee Bean Scam",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A weight-loss supplement promoted on television with a study that was retracted and a researcher who was paid.",
+   "facts": {
+    "Status": "Documented",
+    "Product": "Green coffee bean extract",
+    "Study retracted": "2014",
+    "Regulator": "US FTC",
+    "Outcome": "Cases; debarment"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Green_coffee_extract",
+     "https://en.wikipedia.org/wiki/Retraction_(scholarly_publishing)",
+     "https://en.wikipedia.org/wiki/Federal_Trade_Commission",
+     "https://en.wikipedia.org/wiki/Weight_loss_fraud"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "green-run",
    "url": "green-run.html",
    "title": "The Green Run",
@@ -10325,6 +10652,36 @@
      "https://en.wikipedia.org/wiki/Implicit_stereotype",
      "https://en.wikipedia.org/wiki/Repeatability",
      "https://en.wikipedia.org/wiki/Replication_crisis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "incognito-not-private",
+   "url": "incognito-not-private.html",
+   "title": "Incognito Was Not Private",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Private browsing does not stop websites, employers or networks from seeing what you do. A lawsuit forced the clarification.",
+   "facts": {
+    "Status": "Documented",
+    "Settlement": "2024",
+    "Mode": "Private browsing",
+    "Does": "Clears local history",
+    "Does not": "Hide activity from networks or sites"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Private_browsing",
+     "https://en.wikipedia.org/wiki/Google",
+     "https://en.wikipedia.org/wiki/Class_action",
+     "https://en.wikipedia.org/wiki/Internet_privacy"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13057,6 +13414,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "match-fake-messages",
+   "url": "match-fake-messages.html",
+   "title": "Match.com's Fake Messages",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A dating service that sent messages from fake accounts to lure users back. The regulator documented it.",
+   "facts": {
+    "Status": "Documented",
+    "Regulator": "US FTC",
+    "Settlement": "2019",
+    "Practice": "Fake accounts and messages"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Match.com",
+     "https://en.wikipedia.org/wiki/Federal_Trade_Commission",
+     "https://en.wikipedia.org/wiki/Deception",
+     "https://en.wikipedia.org/wiki/Online_dating_service"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "matrioshka-brains",
    "url": "matrioshka-brains.html",
    "title": "Matrioshka Brains",
@@ -13815,6 +14201,35 @@
      "https://en.wikipedia.org/wiki/Elizabeth_Magie",
      "https://en.wikipedia.org/wiki/Georgism",
      "https://en.wikipedia.org/wiki/The_Landlord%27s_Game"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "monsanto-ghostwriting",
+   "url": "monsanto-ghostwriting.html",
+   "title": "Monsanto's Ghostwritten Studies",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Internal documents showed the company drafting research on its own products and arranging for academics to publish it.",
+   "facts": {
+    "Status": "Documented",
+    "Revealed": "2015 litigation documents",
+    "Practice": "Ghostwritten studies",
+    "Subject": "Glyphosate safety"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Monsanto",
+     "https://en.wikipedia.org/wiki/Glyphosate",
+     "https://en.wikipedia.org/wiki/Ghostwriter",
+     "https://en.wikipedia.org/wiki/Conflict_of_interest"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -17020,6 +17435,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "predictive-policing-bias",
+   "url": "predictive-policing-bias.html",
+   "title": "Predictive Policing Bias",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Systems that send police where crime data says crime happens, which is where police have been sent before.",
+   "facts": {
+    "Status": "Documented",
+    "Systems": "PredPol and similar",
+    "Input": "Arrest records",
+    "Problem": "Feedback loop",
+    "Outcome": "Programmes discontinued"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Predictive_policing",
+     "https://en.wikipedia.org/wiki/Algorithmic_bias",
+     "https://en.wikipedia.org/wiki/Positive_feedback",
+     "https://en.wikipedia.org/wiki/PredPol"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "primordial-black-hole",
    "url": "primordial-black-hole.html",
    "title": "Primordial Black Holes",
@@ -17971,6 +18416,36 @@
      "https://en.wikipedia.org/wiki/Lucid_dream",
      "https://en.wikipedia.org/wiki/Hypnagogia",
      "https://en.wikipedia.org/wiki/Multiverse"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "referee-bet",
+   "url": "referee-bet.html",
+   "title": "The Referee Who Bet",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Match officials have bet on games and, in some cases, influenced them. The cases are documented in court and league records.",
+   "facts": {
+    "Status": "Documented",
+    "Sports": "Football; cricket; basketball",
+    "Outcome": "Prosecutions; bans",
+    "Monitoring": "Integrity units",
+    "Extent": "Unknown"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Match_fixing",
+     "https://en.wikipedia.org/wiki/Referee",
+     "https://en.wikipedia.org/wiki/Sports_betting",
+     "https://en.wikipedia.org/wiki/Sports_integrity"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -19620,6 +20095,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "smart-tv-surveillance",
+   "url": "smart-tv-surveillance.html",
+   "title": "Smart TV Viewing Surveillance",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Televisions that recognise what is on screen and report it. The feature is documented in patents, settings and research.",
+   "facts": {
+    "Status": "Documented",
+    "Technology": "Automatic content recognition",
+    "Default": "Often on",
+    "Documented by": "Research; patents; reporting"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Automatic_content_recognition",
+     "https://en.wikipedia.org/wiki/Smart_TV",
+     "https://en.wikipedia.org/wiki/Privacy",
+     "https://en.wikipedia.org/wiki/Data_broker"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "smile-jpg",
    "url": "smile-jpg.html",
    "title": "Smile.jpg",
@@ -19858,6 +20362,36 @@
      "https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.74.425",
      "https://www.nature.com/",
      "https://www.aps.org/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "sony-rootkit",
+   "url": "sony-rootkit.html",
+   "title": "Sony's Rootkit",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Music CDs installed hidden software that compromised the computers of the people who bought them.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2005",
+    "Company": "Sony BMG",
+    "Mechanism": "Hidden copy-protection software",
+    "Outcome": "Recall; settlements"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal",
+     "https://en.wikipedia.org/wiki/Rootkit",
+     "https://en.wikipedia.org/wiki/Sony_BMG",
+     "https://en.wikipedia.org/wiki/Class_action"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -22440,6 +22974,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "uber-greyball",
+   "url": "uber-greyball.html",
+   "title": "Uber's Greyball",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Software that showed a different version of the app to regulators and to people the company wanted to avoid.",
+   "facts": {
+    "Status": "Discontinued",
+    "Tool": "Greyball",
+    "Function": "Show regulators a false app view",
+    "Revealed": "2017"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Greyball",
+     "https://en.wikipedia.org/wiki/Uber",
+     "https://en.wikipedia.org/wiki/Regulatory_avoidance",
+     "https://en.wikipedia.org/wiki/Internal_affairs_(law_enforcement)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ulcers-bacterial",
    "url": "ulcers-bacterial.html",
    "title": "Ulcers Are Bacterial",
@@ -23760,6 +24323,36 @@
      "https://en.wikipedia.org/wiki/Organ_transplantation",
      "https://en.wikipedia.org/wiki/Porcine_endogenous_retrovirus",
      "https://en.wikipedia.org/wiki/Immunosuppression"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "xkeyscore-tempora",
+   "url": "xkeyscore-tempora.html",
+   "title": "XKeyscore and Tempora",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Two bulk-collection programmes disclosed in 2013. Their existence is documented; their scope is partly redacted.",
+   "facts": {
+    "Status": "Documented",
+    "Disclosed": "2013",
+    "Programmes": "XKeyscore; Tempora",
+    "Consequences": "Litigation; reform",
+    "Detail": "Partly classified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/XKeyscore",
+     "https://en.wikipedia.org/wiki/Tempora",
+     "https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)",
+     "https://en.wikipedia.org/wiki/Edward_Snowden"
     ]
    },
    "last_reviewed": "2026-11-20",
