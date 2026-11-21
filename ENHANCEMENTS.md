@@ -546,6 +546,40 @@ The pass was too slow: 10 dossiers every 45 seconds of build and roughly 40 minu
 
 The first 25-dossier pass produced 22 new pages, because two slugs (`panpsychism`, `free-energy-principle`) already existed and were overwritten, and a third (`amoc-collapse`) duplicated the existing `amoc.html`. All three were reverted: the originals restored from git, the duplicate deleted, the search index, sitemap, themes, related strips and ledger rebuilt without it. That is the anti-duplication rule doing its job — the register check happens before writing, and the `git ls-tree` check should now happen too.
 
+## 0ag. Shipped in the thirty-second pass — 21 November 2026: 25 dossiers
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | Conformal Cyclic Cosmology | Live debate |
+| 2 | The Ekpyrotic Universe | Live debate |
+| 3 | Holographic Noise | Live debate |
+| 4 | A White Dwarf as a Weapon | Fringe claim |
+| 5 | Grabby Aliens | Fringe claim |
+| 6 | Nessie as a Plesiosaur | Fringe claim |
+| 7 | The Chupacabra | Debunked |
+| 8 | Mokele-mbembe | Fringe claim |
+| 9 | The Mongolian Death Worm | Fringe claim |
+| 10 | Raining Animals | Documented |
+| 11 | The Sailing Stones | Documented |
+| 12 | Lake Nyos | Documented |
+| 13 | The Door to Hell | Documented |
+| 14 | The Crooked Forest | Live debate |
+| 15 | Star Jelly | Live debate |
+| 16 | The Dancing Plague of 1518 | Live debate |
+| 17 | Nazca Lines as Runways | Debunked |
+| 18 | The Dogon and Sirius B | Debunked |
+| 19 | The Olmec Heads as Africans | Debunked |
+| 20 | Puma Punku Laser Cuts | Debunked |
+| 21 | D. B. Cooper | Live debate |
+| 22 | The Lost Dutchman Mine | Fringe claim |
+| 23 | The Yonaguni Monument | Live debate |
+| 24 | Darth Jar Jar | Fiction |
+| 25 | Mario 3 Is a Stage Play | Documented |
+
+383 dossiers, 1,638 sources, 417 images, 409 pages, PDF 1,000 pages, EPUB 386 chapters, sitemap 407 URLs, 0 problems.
+
+The first full 25-dossier pass, and the mix is deliberate: five cosmology claims (two of which have been tested and narrowed), five cryptids, five solved or near-solved natural phenomena, five historical puzzles, and two pieces of fandom. The solved ones matter most — sailing stones, Lake Nyos, raining animals — because they show the archive's method producing an answer rather than withholding one.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

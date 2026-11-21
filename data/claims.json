@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 358,
+ "count": 383,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -1748,6 +1748,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "chupacabra",
+   "url": "chupacabra.html",
+   "title": "The Chupacabra",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A creature that drains livestock of blood, first reported in Puerto Rico in 1995. Every carcass that has been tested has turned out to be a coyote or dog with mange.",
+   "facts": {
+    "Status": "Debunked",
+    "First reported": "Puerto Rico, 1995",
+    "Original description": "Bipedal, spined",
+    "Carcasses tested": "Identified as coyote, dog, raccoon",
+    "Condition": "Severe mange",
+    "Specimen of the original": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Chupacabra",
+     "https://en.wikipedia.org/wiki/Mange",
+     "https://en.wikipedia.org/wiki/Coyote",
+     "https://en.wikipedia.org/wiki/Cryptozoology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "cold-fusion",
    "url": "cold-fusion.html",
    "title": "Cold Fusion",
@@ -1803,6 +1834,36 @@
      "https://en.wikipedia.org/wiki/%C3%89mile_Durkheim",
      "https://en.wikipedia.org/wiki/The_Elementary_Forms_of_Religious_Life",
      "https://en.wikipedia.org/wiki/Entrainment_(biomusicology)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "conformal-cyclic-cosmology",
+   "url": "conformal-cyclic-cosmology.html",
+   "title": "Conformal Cyclic Cosmology",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Penrose's proposal that the universe repeats, with each aeon's end becoming the next one's beginning. It makes a specific prediction about the microwave background, and the searches for it have not found it.",
+   "facts": {
+    "Status": "Unsupported",
+    "Proposed": "Penrose, 2005",
+    "Prediction": "Concentric circles in the CMB",
+    "Reported detections": "2010, 2013",
+    "Reanalyses": "Consistent with chance"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology",
+     "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+     "https://en.wikipedia.org/wiki/Roger_Penrose",
+     "https://en.wikipedia.org/wiki/Conformal_geometry"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2033,6 +2094,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "crooked-forest",
+   "url": "crooked-forest.html",
+   "title": "The Crooked Forest",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "About four hundred pines near Gryfino in Poland bend sharply north at their base. They were planted in the 1930s, and nobody knows why they bend.",
+   "facts": {
+    "Status": "Live debate",
+    "Location": "Gryfino, Poland",
+    "Trees": "About 400 pines",
+    "Planted": "1930s",
+    "Bend": "North, at about 20 cm",
+    "Likely cause": "Deliberate shaping"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Crooked_Forest",
+     "https://en.wikipedia.org/wiki/Pinus_sylvestris",
+     "https://en.wikipedia.org/wiki/Coppicing",
+     "https://en.wikipedia.org/wiki/Gryfino"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "cryptids",
    "url": "cryptids.html",
    "title": "Cryptids",
@@ -2196,6 +2288,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dancing-plague",
+   "url": "dancing-plague.html",
+   "title": "The Dancing Plague of 1518",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "In Strasbourg, hundreds of people danced for days without stopping, and some died. The two leading explanations are ergot poisoning and mass psychogenic illness.",
+   "facts": {
+    "Status": "Live debate",
+    "Place": "Strasbourg, 1518",
+    "Affected": "Several hundred, over weeks",
+    "Response": "Musicians and a stage — dance it out",
+    "Candidate causes": "Ergot poisoning; mass psychogenic illness",
+    "Settled": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dancing_plague_of_1518",
+     "https://en.wikipedia.org/wiki/Ergotism",
+     "https://en.wikipedia.org/wiki/Mass_psychogenic_illness",
+     "https://en.wikipedia.org/wiki/Strasbourg"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dark-flow",
    "url": "dark-flow.html",
    "title": "Dark Flow",
@@ -2283,6 +2406,67 @@
      "https://www.aanda.org/articles/aa/full_html/2020/09/aa33910-18/aa33910-18.html",
      "https://xenonexperiment.org/",
      "https://en.wikipedia.org/wiki/Dark_matter"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "darth-jar-jar",
+   "url": "darth-jar-jar.html",
+   "title": "Darth Jar Jar",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A fan theory that Jar Jar Binks was secretly a Sith lord, whose clownish behaviour was a cover. It is inventive, it is argued from staging and dialogue, and its authors know it is fiction.",
+   "facts": {
+    "Status": "Speculation, offered as such",
+    "Origin": "Fan post, 2015",
+    "Claim": "Jar Jar was a Sith lord in disguise",
+    "Method": "Reading of staging and dialogue",
+    "Filmmakers": "Describe the character as comic relief"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Jar_Jar_Binks",
+     "https://en.wikipedia.org/wiki/Darth_Binks",
+     "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace",
+     "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "db-cooper",
+   "url": "db-cooper.html",
+   "title": "D. B. Cooper",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A man hijacked a passenger jet, took $200,000, and jumped into the night over the Pacific Northwest. He was never found, and the case is the only unsolved hijacking in US history.",
+   "facts": {
+    "Status": "Live debate",
+    "Date": "24 November 1971",
+    "Ransom": "$200,000",
+    "Recovered": "$5,800, in 1980",
+    "Identity": "Unknown",
+    "FBI case": "Closed 2016"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "https://en.wikipedia.org/wiki/Aircraft_hijacking",
+     "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation",
+     "https://en.wikipedia.org/wiki/Unsolved_mystery"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2577,6 +2761,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dogon-sirius",
+   "url": "dogon-sirius.html",
+   "title": "The Dogon and Sirius B",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The Dogon of Mali are said to have known that Sirius has a tiny, dense companion with a fifty-year orbit, centuries before telescopes could see it. The fieldwork behind the claim is the problem.",
+   "facts": {
+    "Status": "Debunked",
+    "People": "Dogon, Mali",
+    "Fieldwork": "Griaule and Dieterlen, 1930s–40s",
+    "Claim": "Knowledge of Sirius B's orbit and density",
+    "Timing problem": "Sirius B's properties known in print first",
+    "Method criticism": "Small sample; leading questions"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dogon_people",
+     "https://en.wikipedia.org/wiki/Sirius_B",
+     "https://en.wikipedia.org/wiki/Marcel_Griaule",
+     "https://en.wikipedia.org/wiki/White_dwarf"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dogu-astronauts",
    "url": "dogu-astronauts.html",
    "title": "Dogū as Astronauts",
@@ -2632,6 +2847,37 @@
      "https://doi.org/10.1038/363315a0",
      "https://www.anthropic-principle.com/",
      "https://en.wikipedia.org/wiki/Self-sampling_assumption"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "door-to-hell",
+   "url": "door-to-hell.html",
+   "title": "The Door to Hell",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A gas crater in Turkmenistan has been burning since 1971, and it looks like an entrance to the underworld. It is a collapsed gas cavity, set alight to burn off the gas.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "Darvaza, Turkmenistan",
+    "Formed": "1971, drilling collapse",
+    "Size": "About 70 m across, 30 m deep",
+    "Burning since": "1971",
+    "Cause": "Methane vent, ignited deliberately"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Darvaza_gas_crater",
+     "https://en.wikipedia.org/wiki/Natural_gas",
+     "https://en.wikipedia.org/wiki/Sinkhole",
+     "https://en.wikipedia.org/wiki/Turkmenistan"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3038,6 +3284,36 @@
      "https://doi.org/10.1177/1745691616652873",
      "https://doi.org/10.3389/fpsyg.2014.00823",
      "https://doi.org/10.1177/0956797621989733"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ekpyrotic-universe",
+   "url": "ekpyrotic-universe.html",
+   "title": "The Ekpyrotic Universe",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A model in which the Big Bang is the collision of two branes in a higher-dimensional space. It replaces inflation with a collision, and the two make different predictions.",
+   "facts": {
+    "Status": "Constrained, not excluded",
+    "Proposed": "Steinhardt and Turok, 2001",
+    "Mechanism": "Brane collision",
+    "Rival": "Cosmic inflation",
+    "Discriminating tests": "Gravitational waves; non-Gaussianity"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ekpyrotic_universe",
+     "https://en.wikipedia.org/wiki/Brane_cosmology",
+     "https://en.wikipedia.org/wiki/Cosmic_inflation",
+     "https://en.wikipedia.org/wiki/Non-Gaussianity"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4151,6 +4427,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "grabby-aliens",
+   "url": "grabby-aliens.html",
+   "title": "Grabby Aliens",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A model in which civilisations expand at a fixed speed and announce themselves, and the fact that we see none constrains when they appear. It explains the Fermi paradox by predicting we are early.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed": "Hanson, Martin and McCarter, 2021",
+    "Assumptions": "Fixed expansion speed; visible settlement",
+    "Prediction": "We are early; arrival far in the future",
+    "Criticism": "Too many free parameters",
+    "Test": "None available"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Fermi_paradox",
+     "https://en.wikipedia.org/wiki/Great_Filter",
+     "https://en.wikipedia.org/wiki/Interstellar_travel",
+     "https://en.wikipedia.org/wiki/Observable_universe"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "grail-bloodline",
    "url": "grail-bloodline.html",
    "title": "The Grail Bloodline",
@@ -4679,6 +4986,37 @@
      "https://en.wikipedia.org/wiki/Holobiont",
      "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
      "https://en.wikipedia.org/wiki/Fecal_microbiota_transplant"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "holographic-noise",
+   "url": "holographic-noise.html",
+   "title": "Holographic Noise",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "If space is a hologram, it should jitter at the Planck scale. A purpose-built interferometer looked for the jitter and found nothing, which ruled out some versions of the idea.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed by": "Craig Hogan, from 2008",
+    "Prediction": "Planck-scale jitter in light paths",
+    "Instrument": "Holometer, Fermilab",
+    "Result": "No signal, 2015",
+    "Effect": "Simplest model ruled out"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Holographic_principle",
+     "https://en.wikipedia.org/wiki/Holometer",
+     "https://en.wikipedia.org/wiki/Interferometry",
+     "https://en.wikipedia.org/wiki/Planck_length"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5280,6 +5618,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "lake-nyos",
+   "url": "lake-nyos.html",
+   "title": "Lake Nyos",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A crater lake in Cameroon released a cloud of carbon dioxide that killed about 1,700 people overnight. It is the clearest documented case of a limnic eruption.",
+   "facts": {
+    "Status": "Documented",
+    "Date": "21 August 1986",
+    "Deaths": "About 1,700",
+    "Gas": "Carbon dioxide",
+    "Mechanism": "Limnic eruption — lake overturn",
+    "Mitigation": "Degassing pipe since 2001"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lake_Nyos",
+     "https://en.wikipedia.org/wiki/Limnic_eruption",
+     "https://en.wikipedia.org/wiki/Lake_Monoun",
+     "https://en.wikipedia.org/wiki/Carbon_dioxide"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "larger-globe",
    "url": "larger-globe.html",
    "title": "The Larger Globe",
@@ -5659,6 +6028,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "lost-dutchman",
+   "url": "lost-dutchman.html",
+   "title": "The Lost Dutchman Mine",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A German prospector is said to have found a fabulously rich gold mine in the Superstition Mountains and died without revealing it. People have died looking, and nothing has been found.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Region": "Superstition Mountains, Arizona",
+    "Prospector": "Jacob Waltz, died 1891",
+    "Claim": "A very rich gold mine, location secret",
+    "Found": "Nothing",
+    "Cost": "Multiple deaths over a century"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lost_Dutchman%27s_Gold_Mine",
+     "https://en.wikipedia.org/wiki/Superstition_Mountains",
+     "https://en.wikipedia.org/wiki/Gold_mining",
+     "https://en.wikipedia.org/wiki/Treasure_hunting"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lucid-dreaming",
    "url": "lucid-dreaming.html",
    "title": "Lucid Dreaming",
@@ -5961,6 +6361,36 @@
      "https://www.britannica.com/science/many-worlds-interpretation",
      "https://www.adlerplanetarium.org/blog/top-multiverse-theories-niyah-and-the-multiverse/",
      "https://www.bbc.co.uk/programmes/b0083zq1"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mario-3-stage-play",
+   "url": "mario-3-stage-play.html",
+   "title": "Mario 3 Is a Stage Play",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A fan theory holds that Super Mario Bros. 3 is staged as a theatre performance — the curtain, the blocks on stands, the card at the end. It is a reading, and the developers have answered it.",
+   "facts": {
+    "Status": "Interpretation",
+    "Game": "Super Mario Bros. 3, 1988",
+    "Observation": "Curtain, bolted blocks, hanging platforms",
+    "Reading": "The game is a stage play",
+    "Developer comment": "Stylistic choice"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+     "https://en.wikipedia.org/wiki/Fan_theory",
+     "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
+     "https://en.wikipedia.org/wiki/Fourth_wall"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6277,6 +6707,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "mokele-mbembe",
+   "url": "mokele-mbembe.html",
+   "title": "Mokele-mbembe",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A large animal said to live in the Congo basin, often described as a sauropod dinosaur. Expeditions have been going for a century and have produced stories, not specimens.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Region": "Congo basin",
+    "Reports from": "Early 1900s",
+    "Described as": "Large, long-necked, river-dwelling",
+    "Physical evidence": "None",
+    "Expeditions": "Many, including 2000s–2010s"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mokele-mbembe",
+     "https://en.wikipedia.org/wiki/Cryptozoology",
+     "https://en.wikipedia.org/wiki/Sauropoda",
+     "https://en.wikipedia.org/wiki/Congo_Basin"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "momo-panic",
    "url": "momo-panic.html",
    "title": "The Momo Panic",
@@ -6333,6 +6794,37 @@
      "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.201101",
      "https://iopscience.iop.org/article/10.1086/508162",
      "https://science.nasa.gov/universe/dark-matter-dark-energy/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mongolian-death-worm",
+   "url": "mongolian-death-worm.html",
+   "title": "The Mongolian Death Worm",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A worm said to live in the Gobi, capable of spitting venom or electricity. The reports come from travellers, and no specimen has ever been produced.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Region": "Gobi desert",
+    "Entered literature": "Andrews, 1926",
+    "Claimed traits": "Venom or electric discharge",
+    "Searches": "2005, 2009, later",
+    "Specimen": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mongolian_death_worm",
+     "https://en.wikipedia.org/wiki/Gobi_Desert",
+     "https://en.wikipedia.org/wiki/Roy_Chapman_Andrews",
+     "https://en.wikipedia.org/wiki/Electric_organ_(biology)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6596,6 +7088,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "nazca-runways",
+   "url": "nazca-runways.html",
+   "title": "Nazca Lines as Runways",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The lines and figures on the Nazca desert were said to be landing strips for aircraft. They are shallow scrapes in the surface, and the ground beneath them would not support a wheel.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Von Däniken, 1968",
+    "Construction": "Surface stones removed, 500 BC – 500 AD",
+    "Depth": "A few centimetres",
+    "Purpose": "Water, ritual, processional routes",
+    "Runway evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Nazca_lines",
+     "https://en.wikipedia.org/wiki/Nazca_culture",
+     "https://en.wikipedia.org/wiki/Geoglyph",
+     "https://en.wikipedia.org/wiki/Ancient_astronauts"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "near-death-experience",
    "url": "near-death-experience.html",
    "title": "Near-Death Experiences",
@@ -6651,6 +7174,37 @@
      "https://en.wikipedia.org/wiki/Genesis_flood_narrative",
      "https://en.wikipedia.org/wiki/Giant_(mythology)",
      "https://en.wikipedia.org/wiki/Book_of_Enoch"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "nessie-plesiosaur",
+   "url": "nessie-plesiosaur.html",
+   "title": "Nessie as a Plesiosaur",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The Loch Ness Monster is usually drawn as a plesiosaur. That identification has a specific problem: a breeding population of large air-breathing reptiles in a cold lake would leave traces, and none has been found.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Lake": "Loch Ness, 56 km², cold and deep",
+    "Sightings since": "1933",
+    "Famous photo": "Surgeon's Photograph, 1934 — hoax",
+    "eDNA survey": "2018 — no reptile DNA",
+    "Population problem": "Breeding requires dozens of individuals"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Loch_Ness_Monster",
+     "https://en.wikipedia.org/wiki/Plesiosaur",
+     "https://en.wikipedia.org/wiki/Environmental_DNA",
+     "https://en.wikipedia.org/wiki/Cryptozoology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6774,6 +7328,37 @@
      "https://doi.org/10.1103/PhysRevD.34.470",
      "https://doi.org/10.1103/RevModPhys.85.471",
      "https://doi.org/10.1038/s41567-020-1008-4"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "olmec-heads",
+   "url": "olmec-heads.html",
+   "title": "The Olmec Heads as Africans",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The colossal stone heads of the Olmec show faces with broad noses and full lips, and have been said to depict Africans. They depict Olmec rulers, and the stone came from local quarries.",
+   "facts": {
+    "Status": "Debunked",
+    "Culture": "Olmec, Gulf Coast Mexico",
+    "Dates": "c. 1500–400 BC",
+    "Material": "Basalt from the Tuxtla mountains",
+    "Reading": "Portraits of rulers in helmets",
+    "Contact evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Olmec_colossal_heads",
+     "https://en.wikipedia.org/wiki/Olmecs",
+     "https://en.wikipedia.org/wiki/Basalt",
+     "https://en.wikipedia.org/wiki/Pre-Columbian_transoceanic_contact_theories"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7815,6 +8400,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "puma-punku",
+   "url": "puma-punku.html",
+   "title": "Puma Punku Laser Cuts",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Stone blocks at Tiwanaku have precise right angles and interlocking shapes, said to require lasers. They were cut with stone tools, and the site has been heavily disturbed.",
+   "facts": {
+    "Status": "Debunked",
+    "Site": "Puma Punku, Tiwanaku, Bolivia",
+    "Dates": "c. 500–1000 AD",
+    "Materials": "Red sandstone; andesite",
+    "Claim": "Laser or machine precision",
+    "Explanation": "Stone tools, abrasives, labour"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Pumapunku",
+     "https://en.wikipedia.org/wiki/Tiwanaku",
+     "https://en.wikipedia.org/wiki/Andesite",
+     "https://en.wikipedia.org/wiki/Stone_tool"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "punctuated-equilibrium",
    "url": "punctuated-equilibrium.html",
    "title": "Punctuated Equilibrium",
@@ -8088,6 +8704,37 @@
      "https://en.wikipedia.org/wiki/Pre-Columbian_art",
      "https://en.wikipedia.org/wiki/Out-of-place_artifact",
      "https://en.wikipedia.org/wiki/Glider_(aircraft)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "raining-animals",
+   "url": "raining-animals.html",
+   "title": "Raining Animals",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Reports of fish, frogs and other animals falling from the sky are documented across centuries. The mechanism is meteorological, and it is well understood.",
+   "facts": {
+    "Status": "Documented",
+    "Reported": "Across centuries, many countries",
+    "Common animals": "Fish, frogs, small birds",
+    "Mechanism": "Updrafts, tornadoes, waterspouts",
+    "Pattern": "Single species, near a water body",
+    "Exaggeration": "Common in retelling"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Raining_animals",
+     "https://en.wikipedia.org/wiki/Waterspout",
+     "https://en.wikipedia.org/wiki/Tornado",
+     "https://en.wikipedia.org/wiki/Lluvia_de_peces"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8429,6 +9076,37 @@
      "https://en.wikipedia.org/wiki/Creepypasta",
      "https://en.wikipedia.org/wiki/Deep_web",
      "https://en.wikipedia.org/wiki/Art_game"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "sailing-stones",
+   "url": "sailing-stones.html",
+   "title": "The Sailing Stones",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Rocks on a dry lake bed leave long tracks, apparently moving on their own. The explanation — ice sheets pushed by light wind — was confirmed with GPS and time-lapse in 2014.",
+   "facts": {
+    "Status": "Documented",
+    "Location": "Racetrack Playa, Death Valley",
+    "Known since": "1915",
+    "Mechanism": "Floating ice sheets pushed by wind",
+    "Confirmed": "2014, with GPS and time-lapse",
+    "Speed": "A few metres per minute"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sailing_stones",
+     "https://en.wikipedia.org/wiki/Racetrack_Playa",
+     "https://en.wikipedia.org/wiki/Ice_shove",
+     "https://en.wikipedia.org/wiki/Death_Valley_National_Park"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9345,6 +10023,37 @@
      "https://en.wikipedia.org/wiki/Corpus_callosum",
      "https://en.wikipedia.org/wiki/Roger_Sperry",
      "https://en.wikipedia.org/wiki/Michael_Gazzaniga"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "star-jelly",
+   "url": "star-jelly.html",
+   "title": "Star Jelly",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A gelatinous substance found in fields, traditionally said to fall from the sky during meteor showers. The DNA work has found frog and toad, and the rest is slime mould and bacteria.",
+   "facts": {
+    "Status": "Live debate",
+    "Reports since": "Fifteenth century",
+    "Traditional cause": "Meteor showers",
+    "Identified sources": "Amphibian remains, slime moulds, bacteria",
+    "2013 study": "Frog DNA found in samples",
+    "Meteoric sample": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Star_jelly",
+     "https://en.wikipedia.org/wiki/Slime_mold",
+     "https://en.wikipedia.org/wiki/Frog",
+     "https://en.wikipedia.org/wiki/Nostoc"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10831,6 +11540,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "white-dwarf-weapon",
+   "url": "white-dwarf-weapon.html",
+   "title": "A White Dwarf as a Weapon",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that a stellar remnant could be steered, or used, as a weapon. It appears in science fiction and in UFO lore; the physics of moving a star is the objection.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Object": "White dwarf, ~solar mass",
+    "Size": "Earth-sized",
+    "Requirement": "Momentum change on a stellar scale",
+    "Mechanism proposed": "None",
+    "Observed anomaly": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/White_dwarf",
+     "https://en.wikipedia.org/wiki/Momentum",
+     "https://en.wikipedia.org/wiki/Sirius_B",
+     "https://en.wikipedia.org/wiki/Stellar_engine"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "white-hole",
    "url": "white-hole.html",
    "title": "White Holes",
@@ -11134,6 +11874,37 @@
      "https://en.wikipedia.org/wiki/Chinese_dragon",
      "https://en.wikipedia.org/wiki/Records_of_the_Grand_Historian",
      "https://en.wikipedia.org/wiki/Culture_hero"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "yonaguni",
+   "url": "yonaguni.html",
+   "title": "The Yonaguni Monument",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A submerged rock formation off Japan has flat surfaces, right angles and a stair-like structure. Geologists read it as natural sandstone; others read it as a worked monument.",
+   "facts": {
+    "Status": "Live debate",
+    "Location": "Off Yonaguni, Japan",
+    "Depth": "About 25 m",
+    "Rock": "Sandstone with bedding and joints",
+    "Geological reading": "Natural formation",
+    "Artefacts": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Yonaguni_Monument",
+     "https://en.wikipedia.org/wiki/Joint_(geology)",
+     "https://en.wikipedia.org/wiki/Bedding_(geology)",
+     "https://en.wikipedia.org/wiki/Underwater_archaeology"
     ]
    },
    "last_reviewed": "2026-11-20",
