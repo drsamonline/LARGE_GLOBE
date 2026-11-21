@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 276,
+ "count": 286,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -2147,6 +2147,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dunning-kruger",
+   "url": "dunning-kruger.html",
+   "title": "Dunning–Kruger",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Low performers overestimate their ability. The effect is real and the popular version — a graph with a peak of confidence on a mountain of stupidity — is not what the paper showed.",
+   "facts": {
+    "Status": "Documented",
+    "Published": "Kruger and Dunning, 1999",
+    "Finding": "Low performers overestimate their percentile rank",
+    "Explanation offered": "Metacognitive: skill is needed to judge skill",
+    "Statistical caveat": "Much of the pattern is regression to the mean",
+    "Popular version": "The 'Mount Stupid' curve — not in the data"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+     "https://en.wikipedia.org/wiki/Regression_toward_the_mean",
+     "https://en.wikipedia.org/wiki/Metacognition",
+     "https://en.wikipedia.org/wiki/Self-assessment"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dyatlov-pass",
    "url": "dyatlov-pass.html",
    "title": "Dyatlov Pass",
@@ -2804,6 +2835,37 @@
      "https://restructuring.ra.kroll.com/FTX/",
      "https://en.wikipedia.org/wiki/Bankruptcy_of_FTX",
      "https://www.cftc.gov/PressRoom/PressReleases/8638-22"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "fur-loss",
+   "url": "fur-loss.html",
+   "title": "Why We Lost Our Fur",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Humans are the naked ape: hairless, sweaty, and able to run in heat. The three leading explanations are thermoregulation, parasites and sexual selection, and the fossil evidence does not choose between them.",
+   "facts": {
+    "Status": "Live debate",
+    "What changed": "Hair became fine and short; follicle density unchanged",
+    "Clothing date": "Body louse divergence, ~100,000 years ago",
+    "Leading explanation": "Thermoregulation and endurance running",
+    "Also proposed": "Parasite load; sexual selection",
+    "Not preserved": "Hair, in the fossil record"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Body_hair",
+     "https://en.wikipedia.org/wiki/Endurance_running_hypothesis",
+     "https://en.wikipedia.org/wiki/Body_louse",
+     "https://en.wikipedia.org/wiki/Human_evolution"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3698,6 +3760,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "hygiene-hypothesis",
+   "url": "hygiene-hypothesis.html",
+   "title": "Hygiene or Old Friends",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Allergies and autoimmune disease rose through the twentieth century in rich countries. The explanation is not dirt, and the leading version — that we have lost contact with old microbial companions — has good evidence and no complete mechanism.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "Strachan, 1989",
+    "Modern version": "Old friends hypothesis (Rook)",
+    "Strongest evidence": "Farm and household epidemiology",
+    "Mixed": "Helminth therapy trials",
+    "Not the variable": "'Hygiene' in the popular sense"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hygiene_hypothesis",
+     "https://en.wikipedia.org/wiki/Old_friends_hypothesis",
+     "https://en.wikipedia.org/wiki/Microbiome",
+     "https://en.wikipedia.org/wiki/Allergy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "hyperloop",
    "url": "hyperloop.html",
    "title": "Hyperloop Feasibility",
@@ -4163,6 +4256,37 @@
      "https://doi.org/10.1111/j.1539-6053.2009.01038.x",
      "https://doi.org/10.3389/fpsyg.2012.00429",
      "https://en.wikipedia.org/wiki/Testing_effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "left-handedness",
+   "url": "left-handedness.html",
+   "title": "Why Ten Per Cent Are Left-Handed",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Hand preference is stable, partly heritable, and not explained. Identical twins disagree about a third of the time, which rules out a simple genetic account.",
+   "facts": {
+    "Status": "Live debate",
+    "Prevalence": "About 10%; higher in men",
+    "Onset": "Visible in utero",
+    "Heritability": "Modest; genes identified, none decisive",
+    "Twin discordance": "Roughly a quarter to a third of identical pairs",
+    "Likely model": "Threshold trait with developmental noise"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Handedness",
+     "https://en.wikipedia.org/wiki/Lateralization_of_brain_function",
+     "https://en.wikipedia.org/wiki/LRRTM1",
+     "https://en.wikipedia.org/wiki/Frequency-dependent_selection"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4853,6 +4977,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "mirror-neurons",
+   "url": "mirror-neurons.html",
+   "title": "Mirror Neurons",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Neurons that fire both when a monkey acts and when it watches the same action. They were found in macaques, and the human claims built on them — empathy, language, autism — are much larger than the evidence.",
+   "facts": {
+    "Status": "Live debate",
+    "Found": "Macaque premotor cortex, early 1990s",
+    "Human evidence": "Indirect: fMRI, TMS, EEG",
+    "Plausible role": "Action understanding, imitation",
+    "Overstated": "Empathy, language origins, autism",
+    "Autism claim": "Largely abandoned"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mirror_neuron",
+     "https://en.wikipedia.org/wiki/Premotor_cortex",
+     "https://en.wikipedia.org/wiki/Action_observation",
+     "https://en.wikipedia.org/wiki/Empathy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "modern-monetary-theory",
    "url": "modern-monetary-theory.html",
    "title": "Modern Monetary Theory",
@@ -4971,6 +5126,37 @@
      "https://irds.ieee.org/",
      "https://doi.org/10.1145/3282307",
      "https://en.wikipedia.org/wiki/Dennard_scaling"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mozart-effect",
+   "url": "mozart-effect.html",
+   "title": "The Mozart Effect",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Listening to Mozart was said to raise IQ. It raises arousal for about fifteen minutes, and the IQ claim was a press release that outlived the paper.",
+   "facts": {
+    "Status": "Debunked",
+    "Study": "Rauscher et al., Nature, 1993",
+    "Original finding": "A short-term spatial task boost after ten minutes of Mozart",
+    "Replications": "An arousal effect, not Mozart-specific",
+    "Long-term claim": "Not supported",
+    "Meta-analysis": "Pietschnig et al., 2010 — small, arousal-based"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mozart_effect",
+     "https://en.wikipedia.org/wiki/Arousal",
+     "https://en.wikipedia.org/wiki/Music_and_cognition",
+     "https://en.wikipedia.org/wiki/Replication_crisis"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6803,6 +6989,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "serotonin-depression",
+   "url": "serotonin-depression.html",
+   "title": "Serotonin and Depression",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The story that depression is caused by low serotonin is the most repeated claim in mental health. A 2022 review found no consistent evidence for it, and the argument since has been about what that means for the drugs.",
+   "facts": {
+    "Status": "Live debate",
+    "Hypothesis": "Monoamine deficiency, 1960s",
+    "2022 review": "No consistent evidence for lowered serotonin",
+    "Drug efficacy": "Better than placebo in moderate to severe depression",
+    "Mechanism": "Unknown",
+    "The harm": "A simplification repeated until it was believed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Biology_of_depression",
+     "https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor",
+     "https://en.wikipedia.org/wiki/Monoamine_hypothesis_of_depression",
+     "https://en.wikipedia.org/wiki/Antidepressant"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "shakespeare-authorship",
    "url": "shakespeare-authorship.html",
    "title": "Who Wrote Shakespeare?",
@@ -8535,6 +8752,99 @@
      "https://en.wikipedia.org/wiki/Schwarzschild_metric",
      "https://science.nasa.gov/universe/gamma-ray-bursts-harness-the-power-of-the-big-bang/",
      "https://arxiv.org/abs/1801.08120"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "why-we-dream",
+   "url": "why-we-dream.html",
+   "title": "Why We Dream",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Dreams are vivid, emotional, remembered badly, and unexplained. The leading theories disagree about whether they do anything at all.",
+   "facts": {
+    "Status": "Live debate",
+    "Theories": "Activation-synthesis; threat simulation; memory; social simulation",
+    "Documented": "REM association; incorporation of recent experience",
+    "Contested": "Whether dreams have a function",
+    "Limitation": "Content known only from waking reports",
+    "Fringe attachments": "Prophecy, shared dreaming, astral travel"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dream",
+     "https://en.wikipedia.org/wiki/Activation-synthesis_hypothesis",
+     "https://en.wikipedia.org/wiki/Threat_simulation_theory",
+     "https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "why-we-sleep",
+   "url": "why-we-sleep.html",
+   "title": "Why We Sleep",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Sleep restores something, and after a century of research nobody can say precisely what. The candidates are all supported and none is sufficient.",
+   "facts": {
+    "Status": "Live debate",
+    "Necessary": "Yes; deprivation is harmful and eventually fatal",
+    "Candidate functions": "Restoration, synaptic homeostasis, clearance, immunity, safety",
+    "Best supported": "Synaptic renormalisation",
+    "Not established": "A single primary function",
+    "Share of life": "About a third"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sleep",
+     "https://en.wikipedia.org/wiki/Synaptic_homeostasis_hypothesis",
+     "https://en.wikipedia.org/wiki/Glymphatic_system",
+     "https://en.wikipedia.org/wiki/Sleep_deprivation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "why-we-yawn",
+   "url": "why-we-yawn.html",
+   "title": "Why We Yawn",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Yawning is contagious, appears before birth, and has no agreed function. The brain-cooling account is the best supported; the social account explains the contagion.",
+   "facts": {
+    "Status": "Live debate",
+    "Present in": "Mammals, birds; fetuses from ~11 weeks",
+    "Contagious": "In humans; socially modulated",
+    "Best-supported theory": "Brain cooling",
+    "Also proposed": "Arousal; social synchronisation",
+    "Agreed function": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Yawn",
+     "https://en.wikipedia.org/wiki/Contagious_yawning",
+     "https://en.wikipedia.org/wiki/Thermoregulation",
+     "https://en.wikipedia.org/wiki/Empathy"
     ]
    },
    "last_reviewed": "2026-11-20",

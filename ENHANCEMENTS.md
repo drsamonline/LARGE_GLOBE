@@ -405,6 +405,27 @@ Ten from the internet-and-mind shelf, the newest material in the archive.
 
 **The publisher's validator caught the batch, not me.** Nine of the ten were written without their `field`/`years` pair, and the new pre-flight check refused to publish until each was filled with a real value. That is the difference between this batch and the one that shipped eight `"General"` fields: the failure now happens at the door, before a page is written, and the fix has to be a real field rather than a default.
 
+## 0z. Shipped in the twenty-sixth pass — 21 November 2026
+
+Ten from the body-and-mind shelf: the everyday myths and the ordinary open questions.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | The Mozart Effect | Debunked |
+| 2 | Why Ten Per Cent Are Left-Handed | Live debate |
+| 3 | Dunning–Kruger | Documented |
+| 4 | Why We Sleep | Live debate |
+| 5 | Why We Dream | Live debate |
+| 6 | Why We Yawn | Live debate |
+| 7 | Why We Lost Our Fur | Live debate |
+| 8 | Serotonin and Depression | Live debate |
+| 9 | Mirror Neurons | Live debate |
+| 10 | Hygiene or Old Friends | Live debate |
+
+286 dossiers, 1,250 sources, 320 images, 312 pages, PDF 804 pages, EPUB 288 chapters, sitemap 310 URLs, 0 problems.
+
+Nine of the ten are `live debate`, which is the honest label for questions where the phenomenon is well measured and the explanation is not: sleep, dreams, yawning, fur, handedness. The two `debunked` pages are the ones where a specific claim was tested and failed, and the two `documented` pages are where a real effect is well measured and the popular version of it is a distortion.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
