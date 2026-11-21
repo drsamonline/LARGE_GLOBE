@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 316,
+ "count": 326,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -602,6 +602,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "ark-capacitor",
+   "url": "ark-capacitor.html",
+   "title": "The Ark as a Capacitor",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The Ark of the Covenant was a gold-plated box that killed a man who touched it. The claim is that it was an electrical capacitor. The description fits a capacitor; the rest does not.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Object": "Gold over acacia wood, with a lid",
+    "Claim": "A capacitor",
+    "Key episode": "Uzzah's death, 2 Samuel 6",
+    "Missing": "Charging mechanism, circuit, electrical knowledge",
+    "Textual reading": "Holiness and prohibition"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ark_of_the_Covenant",
+     "https://en.wikipedia.org/wiki/Capacitor",
+     "https://en.wikipedia.org/wiki/2_Samuel_6",
+     "https://en.wikipedia.org/wiki/Analogy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "arrow-of-time",
    "url": "arrow-of-time.html",
    "title": "The Arrow of Time",
@@ -750,6 +781,37 @@
      "https://en.wikipedia.org/wiki/Trilithon",
      "https://en.wikipedia.org/wiki/Roman_engineering",
      "https://en.wikipedia.org/wiki/Argument_from_incredulity"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "babel-spaceport",
+   "url": "babel-spaceport.html",
+   "title": "Babel as a Spaceport",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The Tower of Babel is a story about language. A modern reading makes it a rocket launch facility, which requires ignoring what the text says and what Babylon actually built.",
+   "facts": {
+    "Status": "Debunked",
+    "Source": "Genesis 11",
+    "Genre": "Etiological narrative",
+    "Real referent": "Mesopotamian ziggurat",
+    "Candidate": "Etemenanki, Babylon",
+    "Spaceport evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tower_of_Babel",
+     "https://en.wikipedia.org/wiki/Ziggurat",
+     "https://en.wikipedia.org/wiki/Etemenanki",
+     "https://en.wikipedia.org/wiki/Etiology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2229,6 +2291,37 @@
      "https://en.wikipedia.org/wiki/Sodder_children_disappearance",
      "https://en.wikipedia.org/wiki/MV_Joyita",
      "https://en.wikipedia.org/wiki/Percy_Fawcett"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dogu-astronauts",
+   "url": "dogu-astronauts.html",
+   "title": "Dogū as Astronauts",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Clay figurines from Jōmon Japan have goggle-like eyes and patterned bodies. They were read as space suits. They are stylised figures, mostly female, and many were deliberately broken.",
+   "facts": {
+    "Status": "Debunked",
+    "Period": "Jōmon, c. 14,000–300 BC",
+    "Size": "Usually 10–30 cm",
+    "Mostly": "Female figures",
+    "Context": "Domestic and burial; often broken",
+    "The 'goggles'": "An exaggerated eye style"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dog%C5%AB",
+     "https://en.wikipedia.org/wiki/J%C5%8Dmon_period",
+     "https://en.wikipedia.org/wiki/Ancient_astronauts",
+     "https://en.wikipedia.org/wiki/Venus_figurine"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3720,6 +3813,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "great-martian-god",
+   "url": "great-martian-god.html",
+   "title": "The Great Martian God",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A 1976 Viking image showed a face on Mars. Higher-resolution images showed a mesa. The claim survived the picture, which is the interesting part.",
+   "facts": {
+    "Status": "Debunked",
+    "First image": "Viking 1, 1976",
+    "Region": "Cydonia Mensae, Mars",
+    "Later images": "MGS 1998/2001; HiRISE",
+    "Result": "A natural mesa",
+    "Afterlife": "Claims the new images were doctored"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cydonia_(Mars)",
+     "https://en.wikipedia.org/wiki/Pareidolia",
+     "https://en.wikipedia.org/wiki/High_Resolution_Imaging_Science_Experiment",
+     "https://en.wikipedia.org/wiki/Viking_1"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "great-oxidation-event",
    "url": "great-oxidation-event.html",
    "title": "The Great Oxidation Event",
@@ -4569,6 +4693,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "kubrick-moon-hoax",
+   "url": "kubrick-moon-hoax.html",
+   "title": "Kubrick Confessed to the Moon Hoax",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A video appears to show Stanley Kubrick confessing to faking the Moon landings. The video is a hoax, the interview is real and unrelated, and the claim has been circulating since 2015.",
+   "facts": {
+    "Status": "Debunked",
+    "Video": "2015, edited from a 1979 interview",
+    "Original": "Contains no confession",
+    "Independent evidence": "Orbital images of the sites; retroreflectors",
+    "Scale objection": "About 400,000 people involved",
+    "Claim since": "1970s"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories",
+     "https://en.wikipedia.org/wiki/Apollo_11",
+     "https://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiments",
+     "https://en.wikipedia.org/wiki/Stanley_Kubrick"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "larger-globe",
    "url": "larger-globe.html",
    "title": "The Larger Globe",
@@ -5187,6 +5342,37 @@
     "urls": [
      "https://www.britannica.com/science/Mandela-effect",
      "https://www.britannica.com/science/Why-Is-It-Called-the-Mandela-Effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "manna-machine",
+   "url": "manna-machine.html",
+   "title": "The Manna Machine",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A 1978 book argued that the manna of Exodus was produced by a machine the Israelites carried. The argument is built on a medieval mystical text, and there is no machine in the archaeological record.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Book": "Sassoon and Dale, 1978",
+    "Claim": "A machine producing algal manna",
+    "Source": "The Zohar, 13th century",
+    "Archaeology": "No machine found",
+    "Natural candidate": "Tamarisk scale-insect secretion"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Manna",
+     "https://en.wikipedia.org/wiki/Zohar",
+     "https://en.wikipedia.org/wiki/Book_of_Exodus",
+     "https://en.wikipedia.org/wiki/Chlorella"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7074,6 +7260,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "quimbaya-aeroplanes",
+   "url": "quimbaya-aeroplanes.html",
+   "title": "The Quimbaya Aeroplanes",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Small gold figurines from Colombia have triangular wings and a vertical tail. Replicas have been flown as gliders, which is the argument, and the argument is backwards.",
+   "facts": {
+    "Status": "Debunked",
+    "Culture": "Quimbaya, Colombia",
+    "Date": "c. 1000 AD",
+    "Material": "Gold alloy",
+    "Reading": "Stylised bird or flying creature",
+    "Replicas": "Fly only when modified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Quimbaya_culture",
+     "https://en.wikipedia.org/wiki/Pre-Columbian_art",
+     "https://en.wikipedia.org/wiki/Out-of-place_artifact",
+     "https://en.wikipedia.org/wiki/Glider_(aircraft)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "randonautica",
    "url": "randonautica.html",
    "title": "Randonautica",
@@ -8051,6 +8268,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sodom-airburst",
+   "url": "sodom-airburst.html",
+   "title": "Sodom and the Airburst",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A 2021 paper argued that a site in Jordan was destroyed by a Tunguska-like airburst around 1650 BC, and linked it to Sodom. The claim is contested on chronology, geology and identification.",
+   "facts": {
+    "Status": "Live debate",
+    "Site": "Tall el-Hammam, Jordan",
+    "Claim": "Cosmic airburst, c. 1650 BC",
+    "Published": "Scientific Reports, 2021",
+    "Contested": "The impact evidence; the chronology",
+    "Not accepted": "The identification with Sodom"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Tall_el-Hammam",
+     "https://en.wikipedia.org/wiki/Tunguska_event",
+     "https://en.wikipedia.org/wiki/Sodom_and_Gomorrah",
+     "https://en.wikipedia.org/wiki/Impact_event"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "solar-geoengineering",
    "url": "solar-geoengineering.html",
    "title": "Solar Geoengineering",
@@ -8262,6 +8510,37 @@
      "https://en.wikipedia.org/wiki/Corpus_callosum",
      "https://en.wikipedia.org/wiki/Roger_Sperry",
      "https://en.wikipedia.org/wiki/Michael_Gazzaniga"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "star-of-bethlehem",
+   "url": "star-of-bethlehem.html",
+   "title": "The Star of Bethlehem",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Matthew mentions a star that led the Magi to Bethlehem. Astronomy has offered conjunctions, comets and supernovae, and none of them fits the text without strain.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Source": "Matthew 2, only",
+    "Behaviour described": "Rises, leads, stops",
+    "Candidates": "Conjunctions, comet, supernova, occultation",
+    "Dating constraint": "Herod died 4 BC",
+    "Best fit": "None survives the description"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Star_of_Bethlehem",
+     "https://en.wikipedia.org/wiki/Matthew_2",
+     "https://en.wikipedia.org/wiki/Conjunction_(astronomy)",
+     "https://en.wikipedia.org/wiki/Herod_the_Great"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9495,6 +9774,37 @@
      "https://en.wikipedia.org/wiki/Voynich_manuscript",
      "https://news.arizona.edu/story/voynich-manuscript-may-be-much-older",
      "https://www.newyorker.com/magazine/2013/07/08/the-unread"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "wandjina",
+   "url": "wandjina.html",
+   "title": "The Wandjina",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Rock art from the Kimberley shows figures with large white faces and haloes. They were read as astronauts in helmets. They are ancestral beings, painted by the people who still paint them.",
+   "facts": {
+    "Status": "Debunked",
+    "Region": "The Kimberley, Western Australia",
+    "Tradition": "Living; repainted in ceremony",
+    "Meaning": "Ancestral rain beings",
+    "The 'helmet'": "A headdress or halo",
+    "The error": "Modern iconography imposed on unfamiliar art"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Wandjina",
+     "https://en.wikipedia.org/wiki/Aboriginal_Australian_art",
+     "https://en.wikipedia.org/wiki/Kimberley_(Western_Australia)",
+     "https://en.wikipedia.org/wiki/Ancient_astronauts"
     ]
    },
    "last_reviewed": "2026-11-20",

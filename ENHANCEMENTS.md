@@ -489,6 +489,27 @@ Ten more, from the internet-folklore shelf and the modern hazards beside it.
 
 Two `fiction` pages in one batch is a first, and deliberate: the archive needs a shelf for honest invention, or the label scheme looks like it is only interested in error. SCP-096 and the Backrooms are labelled as fiction by their authors everywhere they appear, which is exactly what the fringe pages here are not.
 
+## 0ad. Shipped in the thirtieth pass — 21 November 2026
+
+Ten more: nine ancient-artefact readings and one Moon-hoax confession.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | The Wandjina | Debunked |
+| 2 | Dogū as Astronauts | Debunked |
+| 3 | The Quimbaya Aeroplanes | Debunked |
+| 4 | Babel as a Spaceport | Debunked |
+| 5 | The Manna Machine | Fringe claim |
+| 6 | The Ark as a Capacitor | Fringe claim |
+| 7 | Sodom and the Airburst | Live debate |
+| 8 | The Star of Bethlehem | Fringe claim |
+| 9 | The Great Martian God | Debunked |
+| 10 | Kubrick Confessed to the Moon Hoax | Debunked |
+
+326 dossiers, 1,410 sources, 360 images, 352 pages, PDF 884 pages, EPUB 328 chapters, sitemap 350 URLs, 0 problems.
+
+The Wandjina page is the one that matters most in this batch, and not for the astronomy: the explanation has been available from the Ngarinyin, Wunambal and Worora artists who still paint the figures, which makes the astronaut reading not just wrong but a taking.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
