@@ -765,6 +765,14 @@ The counterweight batch. Twelve pages where the historical claim was doubted, re
 
 The five `open problem` pages are the first use of that label in the archive, and they need it: these are claims with overwhelming computational evidence and no proof, which is a different epistemic state from both "documented" and "live debate".
 
+## 0an. Shipped in the thirty-ninth pass — 21 November 2026: more open problems
+
+25 dossiers: ten more `open problem` pages (Legendre, odd perfect numbers, abc, Beal, Yang–Mills, Hodge, Birch–Swinnerton-Dyer, the moving sofa, the inscribed square, the lonely runner) and fifteen live debates in Earth science and medicine.
+
+557 dossiers, 2,334 sources, 591 images, 583 pages, PDF 1,348 pages, EPUB 560 chapters, sitemap 581 URLs, 0 problems.
+
+**A working-copy failure worth recording.** This pass began in a pod whose copy of the repository was three commits behind the remote — the lost-lands, things-that-were-real and open-problems batches had been pushed but were not in the local clone. The first publish therefore wrote 25 pages on top of a stale tree and produced a sitemap of 507 URLs where there should have been 581. The fix was `git fetch` and `git reset --hard origin/main` (which preserved the untracked new pages), then re-running the publisher so that the search index, sitemap, charts and ledger were rebuilt against the correct tree. Nothing was lost; the check that caught it was the sitemap count, which should never go down.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

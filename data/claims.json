@@ -2,8 +2,38 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 532,
+ "count": 557,
  "claims": [
+  {
+   "slug": "abc-conjecture",
+   "url": "abc-conjecture.html",
+   "title": "The abc Conjecture",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "A conjecture about the prime factors of a+b=c that would settle a family of Diophantine problems. A claimed proof has been disputed since 2012.",
+   "facts": {
+    "Status": "Open",
+    "Proposed": "Oesterlé and Masser, 1985",
+    "Claimed proof": "Mochizuki, 2012",
+    "Framework": "Inter-universal Teichmüller theory",
+    "Consensus": "Not accepted"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Abc_conjecture",
+     "https://en.wikipedia.org/wiki/Shinichi_Mochizuki",
+     "https://en.wikipedia.org/wiki/Diophantine_equation",
+     "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
   {
    "slug": "abiogenic-petroleum",
    "url": "abiogenic-petroleum.html",
@@ -1345,6 +1375,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "beals-conjecture",
+   "url": "beals-conjecture.html",
+   "title": "Beal's Conjecture",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "If aˣ + bʸ = cᶻ with exponents above two, the three bases share a prime factor. There is a million-dollar prize and no proof.",
+   "facts": {
+    "Status": "Open",
+    "Formulated": "Andrew Beal, 1993",
+    "Statement": "aˣ + bʸ = cᶻ implies a shared prime factor",
+    "Prize": "$1 million",
+    "Implied by": "The abc conjecture"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Beal_conjecture",
+     "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
+     "https://en.wikipedia.org/wiki/Abc_conjecture",
+     "https://en.wikipedia.org/wiki/American_Mathematical_Society"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "berenstain-bears",
    "url": "berenstain-bears.html",
    "title": "The Berenstain Bears",
@@ -1555,6 +1615,36 @@
      "https://en.wikipedia.org/wiki/Chatham_House_Rule",
      "https://en.wikipedia.org/wiki/Transatlantic_relations",
      "https://en.wikipedia.org/wiki/Elite_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "birch-swinnerton-dyer",
+   "url": "birch-swinnerton-dyer.html",
+   "title": "Birch and Swinnerton-Dyer",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "A conjecture connecting the number of rational points on an elliptic curve to a function attached to it. It is the Millennium problem with the most computational support.",
+   "facts": {
+    "Status": "Open",
+    "Formulated": "1965",
+    "Objects": "Elliptic curves and L-functions",
+    "Claim": "Rank equals the order of vanishing",
+    "Proved in": "Special cases"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture",
+     "https://en.wikipedia.org/wiki/Elliptic_curve",
+     "https://en.wikipedia.org/wiki/L-function",
+     "https://en.wikipedia.org/wiki/Millennium_Prize_Problems"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1865,6 +1955,36 @@
      "https://en.wikipedia.org/wiki/Void_(astronomy)",
      "https://en.wikipedia.org/wiki/Observable_universe",
      "https://en.wikipedia.org/wiki/Galaxy_filament"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "boring-billion",
+   "url": "boring-billion.html",
+   "title": "The Boring Billion",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Between about 1.8 and 0.8 billion years ago, the Earth's climate, oceans and evolution appear to have been unusually stable. Whether it was boring is now disputed.",
+   "facts": {
+    "Status": "Contested",
+    "Interval": "c. 1.8–0.8 Ga",
+    "Name": "A joke that stuck",
+    "Claim": "Environmental stability; slow evolution",
+    "Revision": "Dynamic chemistry; sparse record"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Boring_Billion",
+     "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+     "https://en.wikipedia.org/wiki/Proterozoic",
+     "https://en.wikipedia.org/wiki/Eukaryote"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2274,6 +2394,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "chemical-imbalance",
+   "url": "chemical-imbalance.html",
+   "title": "The Chemical Imbalance Critique",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that mental illness is caused by a chemical imbalance was told to patients for decades. It was a simplification, and the correction has been widely misread.",
+   "facts": {
+    "Status": "Live debate",
+    "Metaphor": "Chemical imbalance",
+    "Used from": "1960s",
+    "Support": "Never well established",
+    "Risk of the correction": "Patients stopping effective treatment",
+    "Mechanism": "Unknown"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Chemical_imbalance_theory",
+     "https://en.wikipedia.org/wiki/Dopamine_hypothesis_of_schizophrenia",
+     "https://en.wikipedia.org/wiki/Antidepressant",
+     "https://en.wikipedia.org/wiki/Medical_model_of_disability"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "chemtrails",
    "url": "chemtrails.html",
    "title": "Chemtrails",
@@ -2546,6 +2697,37 @@
      "https://en.wikipedia.org/wiki/Cleopatra",
      "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
      "https://en.wikipedia.org/wiki/Alexandria"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cloud-feedback",
+   "url": "cloud-feedback.html",
+   "title": "Cloud Feedback",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Clouds both warm and cool the planet, and how they will change is the largest single uncertainty in climate projection. The sign is agreed; the size is not.",
+   "facts": {
+    "Status": "Live debate",
+    "Low clouds": "Cooling",
+    "High clouds": "Warming",
+    "Net feedback": "Mostly positive",
+    "Magnitude": "Contested",
+    "Key uncertainty": "Low marine clouds"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cloud_feedback",
+     "https://en.wikipedia.org/wiki/Climate_sensitivity",
+     "https://en.wikipedia.org/wiki/Cloud",
+     "https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3585,6 +3767,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "deep-biosphere",
+   "url": "deep-biosphere.html",
+   "title": "The Deep Biosphere's Extent",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Microbes live in rock kilometres below the surface, and they may account for a large fraction of the planet's biomass. How much, and how active, is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Discovery": "Confirmed from the 1990s",
+    "Depth": "Kilometres below surface",
+    "Uncertainty": "Biomass estimates",
+    "Hard problem": "Contamination",
+    "Activity": "Extremely low; contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Deep_biosphere",
+     "https://en.wikipedia.org/wiki/Ocean_Drilling_Program",
+     "https://en.wikipedia.org/wiki/Extremophile",
+     "https://en.wikipedia.org/wiki/Biomass_(ecology)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "deep-web",
    "url": "deep-web.html",
    "title": "Deep Web &amp; Dark Web",
@@ -4363,6 +4576,37 @@
      "https://en.wikipedia.org/wiki/Tabby%27s_Star",
      "https://en.wikipedia.org/wiki/Kardashev_scale",
      "https://wise2.ipac.caltech.edu/docs/release/allwise/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "early-geodynamo",
+   "url": "early-geodynamo.html",
+   "title": "The Early Geodynamo",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The Earth's magnetic field is generated by a dynamo in the core, and it was running more than three billion years ago. How, with a hotter core, is the problem.",
+   "facts": {
+    "Status": "Live debate",
+    "Evidence": "Palaeomagnetic records; zircons",
+    "Age of the field": "Over 3 billion years",
+    "Problem": "A hot core resists thermal convection",
+    "Proposals": "Compositional convection; exsolution",
+    "Field": "Geophysics"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dynamo_theory",
+     "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+     "https://en.wikipedia.org/wiki/Paleomagnetism",
+     "https://en.wikipedia.org/wiki/Earth%27s_inner_core"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6777,6 +7021,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "hodge-conjecture",
+   "url": "hodge-conjecture.html",
+   "title": "The Hodge Conjecture",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "A statement about which shapes can be described by equations. It is one of the hardest open problems in mathematics and one of the least explainable.",
+   "facts": {
+    "Status": "Open",
+    "Formulated": "Hodge, 1950",
+    "Field": "Algebraic geometry",
+    "Proved in": "Special cases",
+    "Prize": "Millennium Prize"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hodge_conjecture",
+     "https://en.wikipedia.org/wiki/Algebraic_geometry",
+     "https://en.wikipedia.org/wiki/Hodge_theory",
+     "https://en.wikipedia.org/wiki/Millennium_Prize_Problems"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "hollow-earth",
    "url": "hollow-earth.html",
    "title": "Hollow Earth &amp; the Inner Sun",
@@ -7338,6 +7612,37 @@
      "https://en.wikipedia.org/wiki/Seismology",
      "https://en.wikipedia.org/wiki/Structure_of_the_Earth",
      "https://en.wikipedia.org/wiki/Core%E2%80%93mantle_boundary"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "inscribed-square-problem",
+   "url": "inscribed-square-problem.html",
+   "title": "The Inscribed Square Problem",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "Every closed curve contains four points forming a square. It is easy to state, proved for smooth curves, and open in general.",
+   "facts": {
+    "Status": "Open problem",
+    "Posed": "Toeplitz, 1911",
+    "Proved for": "Smooth curves; polygons",
+    "Open for": "Arbitrary Jordan curves",
+    "Obstacle": "Pathological cases",
+    "Field": "Topology"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Inscribed_square_problem",
+     "https://en.wikipedia.org/wiki/Jordan_curve_theorem",
+     "https://en.wikipedia.org/wiki/Topology",
+     "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7969,6 +8274,67 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "leaky-gut",
+   "url": "leaky-gut.html",
+   "title": "Leaky Gut",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that increased intestinal permeability allows bacterial products into the blood and drives systemic disease. The permeability is measurable; the disease claims are much larger.",
+   "facts": {
+    "Status": "Live debate",
+    "Measurement": "Zonulin; lactulose/mannitol",
+    "Documented in": "Coeliac disease; IBD",
+    "Syndrome claim": "Not established",
+    "Treatments": "Not established",
+    "Field": "Gastroenterology"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Intestinal_permeability",
+     "https://en.wikipedia.org/wiki/Tight_junction",
+     "https://en.wikipedia.org/wiki/Coeliac_disease",
+     "https://en.wikipedia.org/wiki/Zonulin"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "lean-mass-hyper-responders",
+   "url": "lean-mass-hyper-responders.html",
+   "title": "Lean Mass Hyper-Responders",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A subgroup on low-carbohydrate diets shows large rises in LDL cholesterol while remaining lean and metabolically healthy. Whether that is harmless is the question.",
+   "facts": {
+    "Status": "Open",
+    "Features": "High LDL, high HDL, low triglycerides, lean",
+    "Context": "Low-carbohydrate or ketogenic diet",
+    "Question": "Is the LDL risk the same?",
+    "Evidence": "Observational, small"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Low-density_lipoprotein",
+     "https://en.wikipedia.org/wiki/Ketogenic_diet",
+     "https://en.wikipedia.org/wiki/Atherosclerosis",
+     "https://en.wikipedia.org/wiki/Lipid_hypothesis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "learning-styles",
    "url": "learning-styles.html",
    "title": "Learning Styles",
@@ -8024,6 +8390,35 @@
      "https://en.wikipedia.org/wiki/Lateralization_of_brain_function",
      "https://en.wikipedia.org/wiki/LRRTM1",
      "https://en.wikipedia.org/wiki/Frequency-dependent_selection"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "legendre-conjecture",
+   "url": "legendre-conjecture.html",
+   "title": "Legendre's Conjecture",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "There is always a prime between n² and (n+1)². It has been checked far out and proved nowhere.",
+   "facts": {
+    "Status": "Open",
+    "Proposed": "Legendre, 1808",
+    "Statement": "A prime between n² and (n+1)²",
+    "Verified": "Over large ranges"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Legendre%27s_conjecture",
+     "https://en.wikipedia.org/wiki/Prime_gap",
+     "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+     "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8272,6 +8667,37 @@
      "https://en.wikipedia.org/wiki/Concretion",
      "https://en.wikipedia.org/wiki/Out-of-place_artifact",
      "https://en.wikipedia.org/wiki/Creation_science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "lonely-runner-conjecture",
+   "url": "lonely-runner-conjecture.html",
+   "title": "The Lonely Runner Conjecture",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "Runners on a circular track at different constant speeds: each will at some point be far from all the others. It is proved for small numbers of runners and open beyond.",
+   "facts": {
+    "Status": "Open problem",
+    "Posed": "Wills, 1967",
+    "Statement": "Each runner is lonely at some time",
+    "Proved for": "Up to seven runners",
+    "Open": "In general",
+    "Field": "Number theory"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lonely_runner_conjecture",
+     "https://en.wikipedia.org/wiki/Diophantine_approximation",
+     "https://en.wikipedia.org/wiki/Circle",
+     "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8839,6 +9265,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "marine-ice-cliffs",
+   "url": "marine-ice-cliffs.html",
+   "title": "Marine Ice Cliffs",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that tall ice cliffs at the edge of Antarctica could collapse rapidly, raising sea level faster than models allow. Later work suggests the cliffs are stronger than the hypothesis assumed.",
+   "facts": {
+    "Status": "Downgraded",
+    "Hypothesis": "Marine ice cliff instability",
+    "Threshold claimed": "About 100 m",
+    "Observations": "Cliffs more stable than assumed",
+    "Modelling": "Mechanism unlikely at scale"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Marine_ice_sheet_instability",
+     "https://en.wikipedia.org/wiki/Ice_calving",
+     "https://en.wikipedia.org/wiki/Sea_level_rise",
+     "https://en.wikipedia.org/wiki/Ice_sheet"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "mario-3-stage-play",
    "url": "mario-3-stage-play.html",
    "title": "Mario 3 Is a Stage Play",
@@ -8923,6 +9379,36 @@
      "https://www.bps.org.uk/psychologist/dancing-plagues-and-mass-hysteria",
      "https://www.history.com/articles/mysterious-illnesses-mass-hysteria",
      "https://www.degruyterbrill.com/document/doi/10.1515/HUMOR.2007.003/html"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "mast-cell-activation",
+   "url": "mast-cell-activation.html",
+   "title": "Mast Cell Activation Syndrome",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A proposed condition in which mast cells release mediators inappropriately, producing flushing, pain and allergic-type symptoms. The cells are real; the syndrome's criteria are contested.",
+   "facts": {
+    "Status": "Contested",
+    "Cells": "Mast cells",
+    "Established disease": "Mastocytosis",
+    "Proposed syndrome": "Non-proliferative activation",
+    "Specific test": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mast_cell_activation_syndrome",
+     "https://en.wikipedia.org/wiki/Mast_cell",
+     "https://en.wikipedia.org/wiki/Mastocytosis",
+     "https://en.wikipedia.org/wiki/Histamine"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9513,6 +9999,37 @@
      "https://irds.ieee.org/",
      "https://doi.org/10.1145/3282307",
      "https://en.wikipedia.org/wiki/Dennard_scaling"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "moving-sofa-problem",
+   "url": "moving-sofa-problem.html",
+   "title": "The Moving Sofa Problem",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "The largest sofa that can be moved round a right-angled corridor. The best known answer has stood since 1992 and is not proved optimal.",
+   "facts": {
+    "Status": "Open problem",
+    "Formulated": "Moser, 1966",
+    "Best shape": "Gerver, 1992 — area 2.2195",
+    "Proved": "Locally optimal, 2017",
+    "Open": "Global optimality",
+    "Field": "Geometry and analysis"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Moving_sofa_problem",
+     "https://en.wikipedia.org/wiki/Joseph_Gerver",
+     "https://en.wikipedia.org/wiki/Optimization_problem",
+     "https://en.wikipedia.org/wiki/Recreational_mathematics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10207,6 +10724,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "odd-perfect-numbers",
+   "url": "odd-perfect-numbers.html",
+   "title": "Odd Perfect Numbers",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "A perfect number equals the sum of its divisors. Every one known is even, and nobody knows whether an odd one exists.",
+   "facts": {
+    "Status": "Open",
+    "Definition": "Equals the sum of its proper divisors",
+    "Known perfect numbers": "All even",
+    "Lower bound if odd": "Above 10¹⁵⁰⁰",
+    "Distinct prime factors": "At least nine"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Perfect_number",
+     "https://en.wikipedia.org/wiki/Mersenne_prime",
+     "https://en.wikipedia.org/wiki/Euclid%E2%80%93Euler_theorem",
+     "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "olmec-heads",
    "url": "olmec-heads.html",
    "title": "The Olmec Heads as Africans",
@@ -10675,6 +11222,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "pandas-pans",
+   "url": "pandas-pans.html",
+   "title": "PANDAS and PANS",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that a streptococcal infection can trigger sudden obsessive-compulsive symptoms in children. The clinical phenomenon is described; the autoimmune mechanism is not established.",
+   "facts": {
+    "Status": "Contested",
+    "Proposed": "1998",
+    "Trigger claimed": "Streptococcal infection",
+    "Broader category": "PANS",
+    "Specific test": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/PANDAS",
+     "https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder",
+     "https://en.wikipedia.org/wiki/Streptococcal_pharyngitis",
+     "https://en.wikipedia.org/wiki/Autoimmunity"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "panpsychism",
    "url": "panpsychism.html",
    "title": "Panpsychism",
@@ -10761,6 +11338,37 @@
      "https://en.wikipedia.org/wiki/Companion_chatbot",
      "https://en.wikipedia.org/wiki/Replika",
      "https://en.wikipedia.org/wiki/Loneliness"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "parkinsons-infection",
+   "url": "parkinsons-infection.html",
+   "title": "The Infection Hypothesis of Parkinson's",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that Parkinson's begins with an infection or an environmental trigger that travels to the brain. The pathology spreads in a pattern that fits, and the trigger has not been found.",
+   "facts": {
+    "Status": "Live debate",
+    "Protein": "Alpha-synuclein",
+    "Spread": "Braak staging",
+    "Route proposed": "Vagus nerve; gut",
+    "Key evidence": "Vagotomy cohort study",
+    "Trigger": "Not identified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Parkinson%27s_disease",
+     "https://en.wikipedia.org/wiki/Alpha-synuclein",
+     "https://en.wikipedia.org/wiki/Vagus_nerve",
+     "https://en.wikipedia.org/wiki/Braak_staging"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11759,6 +12367,36 @@
      "https://history.howstuffworks.com/history-vs-myth/11-unbelievable-conspiracy-theories-that-were-actually-true.htm",
      "https://www.businessinsider.com/true-government-conspiracies-2013-12",
      "https://skeptoid.com/episodes/416"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "pterosaur-takeoff",
+   "url": "pterosaur-takeoff.html",
+   "title": "How Pterosaurs Took Off",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Pterosaurs were the size of giraffes and flew. The leading explanation is a quadrupedal launch, using the wings as front legs to vault into the air.",
+   "facts": {
+    "Status": "Widely accepted",
+    "Group": "Pterosaurs",
+    "Largest wingspan": "Over 10 m",
+    "Launch hypothesis": "Quadrupedal vault",
+    "Evidence": "Joint structure; reinforced wing bones; trackways"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Pterosaur",
+     "https://en.wikipedia.org/wiki/Azhdarchidae",
+     "https://en.wikipedia.org/wiki/Bird_flight",
+     "https://en.wikipedia.org/wiki/Trackway"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13100,6 +13738,37 @@
      "https://en.wikipedia.org/wiki/Omega-6_fatty_acid",
      "https://en.wikipedia.org/wiki/Inflammation",
      "https://en.wikipedia.org/wiki/Seed_oil"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "serotonin-critique",
+   "url": "serotonin-critique.html",
+   "title": "The Serotonin Critique",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A 2022 umbrella review found no consistent evidence that depression is caused by low serotonin. The argument since has been about what that means for the drugs, and the drugs still work.",
+   "facts": {
+    "Status": "Live debate",
+    "Review": "Moncrieff et al., 2022",
+    "Finding": "No consistent evidence for low serotonin",
+    "Drug efficacy": "Better than placebo in moderate to severe depression",
+    "Mechanism": "Unknown",
+    "Common misreading": "That the drugs do not work"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Biology_of_depression",
+     "https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor",
+     "https://en.wikipedia.org/wiki/Antidepressant",
+     "https://en.wikipedia.org/wiki/Systematic_review"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -15298,6 +15967,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "turtle-shell",
+   "url": "turtle-shell.html",
+   "title": "The Turtle's Shell",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A turtle's shell is its ribcage, grown outward and fused. How that happened without killing the animal is the question, and the fossil record has narrowed it.",
+   "facts": {
+    "Status": "Largely resolved",
+    "Structure": "Ribs and vertebrae fused into bone",
+    "Key fossils": "Odontochelys; Eunotosaurus",
+    "Developmental change": "Rib growth timing; mesoderm signalling"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Turtle_shell",
+     "https://en.wikipedia.org/wiki/Odontochelys",
+     "https://en.wikipedia.org/wiki/Eunotosaurus",
+     "https://en.wikipedia.org/wiki/Evolutionary_developmental_biology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "tut-hidden-chambers",
    "url": "tut-hidden-chambers.html",
    "title": "Hidden Chambers in Tut's Tomb",
@@ -15924,6 +16622,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "warburg-theory",
+   "url": "warburg-theory.html",
+   "title": "The Warburg Effect",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Cancer cells ferment glucose even when oxygen is available. Whether that is a cause of cancer or a consequence is the argument, and the difference matters for treatment.",
+   "facts": {
+    "Status": "Live debate",
+    "Observed": "Warburg, 1924",
+    "Effect": "Aerobic glycolysis",
+    "Clinical use": "PET imaging",
+    "Causal claim": "Contested",
+    "Modern view": "Mostly a consequence"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Warburg_effect",
+     "https://en.wikipedia.org/wiki/Otto_Heinrich_Warburg",
+     "https://en.wikipedia.org/wiki/Glycolysis",
+     "https://en.wikipedia.org/wiki/Positron_emission_tomography"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "watchers-enoch",
    "url": "watchers-enoch.html",
    "title": "The Watchers of Enoch",
@@ -16382,6 +17111,36 @@
      "https://en.wikipedia.org/wiki/Tomoyuki_Yamashita",
      "https://en.wikipedia.org/wiki/Corregidor",
      "https://en.wikipedia.org/wiki/Treasure_hunting"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "yang-mills-mass-gap",
+   "url": "yang-mills-mass-gap.html",
+   "title": "Yang–Mills and the Mass Gap",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Open problem",
+   "label_class": "b-open",
+   "label_canonical": true,
+   "standfirst": "Quantum field theory works, and nobody can prove that its simplest version is mathematically consistent — or that its particles have mass.",
+   "facts": {
+    "Status": "Open",
+    "Formulated": "Yang and Mills, 1954",
+    "Question": "A rigorous theory with a mass gap in 4D",
+    "Numerical support": "Lattice QCD",
+    "Prize": "Millennium Prize"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap",
+     "https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_theory",
+     "https://en.wikipedia.org/wiki/Mass_gap",
+     "https://en.wikipedia.org/wiki/Lattice_QCD"
     ]
    },
    "last_reviewed": "2026-11-20",
