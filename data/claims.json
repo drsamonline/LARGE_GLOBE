@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 839,
+ "count": 868,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -58,6 +58,35 @@
      "https://en.wikipedia.org/wiki/Urban_planning",
      "https://en.wikipedia.org/wiki/Conspiracy_theory",
      "https://en.wikipedia.org/wiki/Walkability"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "1mdb-heist",
+   "url": "1mdb-heist.html",
+   "title": "The 1MDB Heist",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Billions taken from a Malaysian state fund, traced through banks, films and a yacht. The prosecutions are documented.",
+   "facts": {
+    "Status": "Documented",
+    "Fund": "1MDB, Malaysia",
+    "Scale": "Billions of dollars",
+    "Agency": "US DOJ; Malaysian courts"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/1MDB_scandal",
+     "https://en.wikipedia.org/wiki/Jho_Low",
+     "https://en.wikipedia.org/wiki/Kleptocracy",
+     "https://en.wikipedia.org/wiki/Money_laundering"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -517,6 +546,36 @@
      "https://en.wikipedia.org/wiki/Alexander_the_Great",
      "https://en.wikipedia.org/wiki/Alexandria",
      "https://en.wikipedia.org/wiki/Soma_(Alexandria)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "alexander-poisoned",
+   "url": "alexander-poisoned.html",
+   "title": "Alexander Poisoned",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Did Alexander the Great die of disease or poison? The sources disagree and the body is lost.",
+   "facts": {
+    "Status": "Live debate",
+    "Date": "323 BC",
+    "Place": "Babylon",
+    "Cause": "Contested",
+    "Remains": "Never identified"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great",
+     "https://en.wikipedia.org/wiki/Alexander_the_Great",
+     "https://en.wikipedia.org/wiki/Guillain%E2%80%93Barr%C3%A9_syndrome",
+     "https://en.wikipedia.org/wiki/Typhoid_fever"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1053,6 +1112,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "anunnaki",
+   "url": "anunnaki.html",
+   "title": "The Anunnaki",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Sitchin's claim that alien visitors created humanity, built on a mistranslation of Sumerian texts.",
+   "facts": {
+    "Status": "Debunked",
+    "Author": "Zecharia Sitchin",
+    "Claim": "Aliens engineered humanity",
+    "Problem": "Mistranslation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Anunnaki",
+     "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
+     "https://en.wikipedia.org/wiki/Sumerian_language",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "aphantasia",
    "url": "aphantasia.html",
    "title": "Aphantasia",
@@ -1232,6 +1320,35 @@
      "https://en.wikipedia.org/wiki/Capacitor",
      "https://en.wikipedia.org/wiki/2_Samuel_6",
      "https://en.wikipedia.org/wiki/Analogy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ark-king-chamber",
+   "url": "ark-king-chamber.html",
+   "title": "The Ark in the King's Chamber",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that the Ark of the Covenant was housed in the Great Pyramid. The chamber is real; the Ark is not there.",
+   "facts": {
+    "Status": "Fringe",
+    "Claim": "The Ark was kept in the pyramid",
+    "Chamber": "Empty; documented",
+    "Evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza#King%27s_Chamber",
+     "https://en.wikipedia.org/wiki/Ark_of_the_Covenant",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology",
+     "https://en.wikipedia.org/wiki/Egyptology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -1685,6 +1802,65 @@
      "https://en.wikipedia.org/wiki/Cosmic_variance",
      "https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe",
      "https://en.wikipedia.org/wiki/Lambda-CDM_model"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "aztlan-utah",
+   "url": "aztlan-utah.html",
+   "title": "Aztlán in Utah",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that the Mexica homeland was in Utah. The tradition is real; the location is not.",
+   "facts": {
+    "Status": "Fringe",
+    "Claim": "Aztlán was in Utah",
+    "Evidence": "Landscape descriptions",
+    "Archaeology": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Aztl%C3%A1n",
+     "https://en.wikipedia.org/wiki/Utah",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology",
+     "https://en.wikipedia.org/wiki/Mexica"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "aztlan",
+   "url": "aztlan.html",
+   "title": "Aztlán",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The ancestral homeland of the Mexica, described in colonial sources and located nowhere.",
+   "facts": {
+    "Status": "Fringe claim",
+    "People": "The Mexica",
+    "Source": "Colonial-era accounts",
+    "Location": "Unestablished",
+    "Modern use": "Cultural symbol"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Aztl%C3%A1n",
+     "https://en.wikipedia.org/wiki/Mexica",
+     "https://en.wikipedia.org/wiki/Aztec_codices",
+     "https://en.wikipedia.org/wiki/Chicano_movement"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2885,6 +3061,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "brain-hive-minds",
+   "url": "brain-hive-minds.html",
+   "title": "Brain-Computer Hive Minds",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that brain-computer interfaces will merge people into a collective intelligence. The interfaces are real; the hive is not.",
+   "facts": {
+    "Status": "Fringe",
+    "Real": "Medical brain-computer interfaces",
+    "Bandwidth": "Very low",
+    "Hive mind": "Not demonstrated"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface",
+     "https://en.wikipedia.org/wiki/Neuralink",
+     "https://en.wikipedia.org/wiki/Collective_intelligence",
+     "https://en.wikipedia.org/wiki/Neuroprosthetics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "brandolinis-law",
    "url": "brandolinis-law.html",
    "title": "Brandolini's Law",
@@ -3253,6 +3458,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "cantrer-gwaelod",
+   "url": "cantrer-gwaelod.html",
+   "title": "Cantre'r Gwaelod",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A drowned kingdom under Cardigan Bay, kept out by a gate that was left open. The legend is real; the kingdom is not.",
+   "facts": {
+    "Status": "Legend",
+    "Region": "Cardigan Bay, Wales",
+    "Legend from": "Medieval period",
+    "Real feature": "Submerged forests"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cantre%27r_Gwaelod",
+     "https://en.wikipedia.org/wiki/Cardigan_Bay",
+     "https://en.wikipedia.org/wiki/Submerged_forest",
+     "https://en.wikipedia.org/wiki/Flood_myth"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "capitalist-realism",
    "url": "capitalist-realism.html",
    "title": "Capitalist Realism",
@@ -3307,6 +3541,36 @@
      "https://en.wikipedia.org/wiki/Low-carbohydrate_diet",
      "https://en.wikipedia.org/wiki/Insulin",
      "https://en.wikipedia.org/wiki/Energy_homeostasis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "carnac-seismograph",
+   "url": "carnac-seismograph.html",
+   "title": "Carnac as a Seismograph",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claim that the Carnac stones were arranged to record earthquakes. The rows are real; the function is invented.",
+   "facts": {
+    "Status": "Debunked",
+    "Site": "Carnac, Brittany",
+    "Stones": "Thousands, in rows",
+    "Purpose": "Unknown",
+    "Seismic function": "Unsupported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Carnac_stones",
+     "https://en.wikipedia.org/wiki/Megalith",
+     "https://en.wikipedia.org/wiki/Seismology",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3640,6 +3904,35 @@
      "https://en.wikipedia.org/wiki/RBMK",
      "https://en.wikipedia.org/wiki/Void_coefficient",
      "https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "chimera",
+   "url": "chimera.html",
+   "title": "The Chimera",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A lion with a goat's head and a serpent's tail, and a possible origin in volcanic landscape.",
+   "facts": {
+    "Status": "Unproven",
+    "Myth": "A composite beast",
+    "Region": "Lycia",
+    "Proposal": "A volcanic landscape"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Chimera_(mythology)",
+     "https://en.wikipedia.org/wiki/Yanarta%C5%9F",
+     "https://en.wikipedia.org/wiki/Lycia",
+     "https://en.wikipedia.org/wiki/Composite_creature"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5838,6 +6131,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dighton-rock",
+   "url": "dighton-rock.html",
+   "title": "Dighton Rock",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A boulder covered in carvings, attributed to Phoenicians, Norse, Portuguese and Indigenous peoples.",
+   "facts": {
+    "Status": "Live debate",
+    "Location": "Massachusetts",
+    "Markings": "Petroglyphs",
+    "Attributions": "Many",
+    "Favoured": "Indigenous origin"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dighton_Rock",
+     "https://en.wikipedia.org/wiki/Petroglyph",
+     "https://en.wikipedia.org/wiki/Epigraphy",
+     "https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "digital-twin-policing",
    "url": "digital-twin-policing.html",
    "title": "Digital-Twin Predictive Policing",
@@ -6703,6 +7026,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "eden-mesopotamia",
+   "url": "eden-mesopotamia.html",
+   "title": "Eden in Mesopotamia",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that the Genesis garden can be located by its rivers. The text names four rivers; two cannot be identified.",
+   "facts": {
+    "Status": "Fringe",
+    "Text": "Genesis 2",
+    "Rivers": "Four named; two unidentified",
+    "Locations": "Incompatible"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Garden_of_Eden",
+     "https://en.wikipedia.org/wiki/Tigris%E2%80%93Euphrates_river_system",
+     "https://en.wikipedia.org/wiki/Genesis_creation_narrative",
+     "https://en.wikipedia.org/wiki/Biblical_geography"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ediacaran",
    "url": "ediacaran.html",
    "title": "The Ediacaran Organisms",
@@ -7554,6 +7906,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "ezekiel-wheel",
+   "url": "ezekiel-wheel.html",
+   "title": "Ezekiel's Wheel",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A vision of wheels within wheels, read by some as a description of a spacecraft. The text is a prophetic vision.",
+   "facts": {
+    "Status": "Fringe",
+    "Text": "Ezekiel 1",
+    "Genre": "Prophetic vision",
+    "Modern reading": "A spacecraft"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ezekiel_1",
+     "https://en.wikipedia.org/wiki/Merkabah_mysticism",
+     "https://en.wikipedia.org/wiki/Ancient_astronauts",
+     "https://en.wikipedia.org/wiki/Apocalyptic_literature"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "face-on-mars",
    "url": "face-on-mars.html",
    "title": "The Face on Mars",
@@ -8011,6 +8392,35 @@
      "https://en.wikipedia.org/wiki/Algonquian_peoples",
      "https://en.wikipedia.org/wiki/List_of_cryptids",
      "https://en.wikipedia.org/wiki/Cultural_appropriation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "flexible-glass",
+   "url": "flexible-glass.html",
+   "title": "Flexible Glass",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "The story of a glass that could be bent, and an inventor executed to protect the gold trade. It is a legend with no evidence.",
+   "facts": {
+    "Status": "Legend",
+    "Claim": "An unbreakable glass",
+    "Source": "Late Roman compilations",
+    "Artefact": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Flexible_glass",
+     "https://en.wikipedia.org/wiki/Roman_glass",
+     "https://en.wikipedia.org/wiki/Tiberius",
+     "https://en.wikipedia.org/wiki/Urban_legend"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8744,6 +9154,35 @@
      "https://en.wikipedia.org/wiki/Educational_film",
      "https://en.wikipedia.org/wiki/VHS",
      "https://en.wikipedia.org/wiki/Found_footage_(film_technique)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "genes-jumping",
+   "url": "genes-jumping.html",
+   "title": "Genes Jumping Between Animals",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Genes that move between species, not just from parent to child. Horizontal transfer is documented; its importance is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Phenomenon": "Horizontal gene transfer",
+    "Documented in": "Bacteria; insects; mammals",
+    "Importance": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Horizontal_gene_transfer",
+     "https://en.wikipedia.org/wiki/Transposable_element",
+     "https://en.wikipedia.org/wiki/Tree_of_life_(biology)",
+     "https://en.wikipedia.org/wiki/Genomics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10816,6 +11255,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "hypogeum-oracle",
+   "url": "hypogeum-oracle.html",
+   "title": "The Hypogeum Oracle Room",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A subterranean chamber in Malta that resonates at a specific frequency. The acoustics are measured; the ritual use is inferred.",
+   "facts": {
+    "Status": "Open",
+    "Site": "Hal Saflieni Hypogeum, Malta",
+    "Feature": "Low-frequency resonance",
+    "Ritual use": "Inferred"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hypogeum_of_%C4%A6al_Saflieni",
+     "https://en.wikipedia.org/wiki/Archaeoacoustics",
+     "https://en.wikipedia.org/wiki/Resonance",
+     "https://en.wikipedia.org/wiki/Prehistoric_Malta"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ica-stones",
    "url": "ica-stones.html",
    "title": "The Ica Stones",
@@ -11065,6 +11533,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "indus-script",
+   "url": "indus-script.html",
+   "title": "The Silence of the Indus Script",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A script on thousands of seals from a major civilisation, and no bilingual text to unlock it.",
+   "facts": {
+    "Status": "Documented",
+    "Signs": "Several hundred",
+    "Texts": "Short; mostly seals",
+    "Bilingual": "None",
+    "Decipherment": "None accepted"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Indus_script",
+     "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+     "https://en.wikipedia.org/wiki/Decipherment",
+     "https://en.wikipedia.org/wiki/Undeciphered_writing_systems"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "inflation-bounce",
    "url": "inflation-bounce.html",
    "title": "Inflation versus a Bounce",
@@ -11182,6 +11680,34 @@
      "https://en.wikipedia.org/wiki/Perception",
      "https://en.wikipedia.org/wiki/Direct_and_indirect_realism",
      "https://en.wikipedia.org/wiki/Evolutionary_epistemology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "internal-ramp",
+   "url": "internal-ramp.html",
+   "title": "The Internal Ramp",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A proposal that the Great Pyramid was built using an internal spiral ramp rather than external ones. The evidence is argued.",
+   "facts": {
+    "Status": "Contested",
+    "Proposal": "An internal spiral ramp",
+    "Evidence": "Internal features; muon imaging"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+     "https://en.wikipedia.org/wiki/Egyptian_pyramid_construction_techniques",
+     "https://en.wikipedia.org/wiki/Muon_tomography",
+     "https://en.wikipedia.org/wiki/ScanPyramids"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -12004,6 +12530,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "labyrinth-hawara",
+   "url": "labyrinth-hawara.html",
+   "title": "The Labyrinth of Hawara",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A vast mortuary complex described by Herodotus and Strabo, of which only fragments survive.",
+   "facts": {
+    "Status": "Documented",
+    "Site": "Hawara, Egypt",
+    "Described by": "Herodotus; Strabo",
+    "Surviving": "Pyramid; temple fragments"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hawara",
+     "https://en.wikipedia.org/wiki/Amenemhat_III",
+     "https://en.wikipedia.org/wiki/Herodotus",
+     "https://en.wikipedia.org/wiki/Strabo"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lake-city-quiet-pills",
    "url": "lake-city-quiet-pills.html",
    "title": "Lake City Quiet Pills",
@@ -12552,6 +13107,35 @@
      "https://en.wikipedia.org/wiki/Allan_Hills_84001",
      "https://en.wikipedia.org/wiki/Water_on_Mars",
      "https://en.wikipedia.org/wiki/Abiogenesis"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "life-under-ice",
+   "url": "life-under-ice.html",
+   "title": "Life Under the Ice",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Lakes beneath Antarctica's ice sheet have been sealed for millions of years. Drilling them is a test of whether life persists in isolation.",
+   "facts": {
+    "Status": "Ongoing",
+    "Lakes": "Hundreds mapped",
+    "Example": "Lake Vostok; Lake Whillans",
+    "Findings": "Microbial cells"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lake_Vostok",
+     "https://en.wikipedia.org/wiki/Subglacial_lake",
+     "https://en.wikipedia.org/wiki/Lake_Whillans",
+     "https://en.wikipedia.org/wiki/Ice_drilling"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -15802,6 +16386,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "nibiru",
+   "url": "nibiru.html",
+   "title": "Nibiru",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claimed planet on a long orbit that would pass Earth. It has been predicted repeatedly and has never appeared.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "A planet on a long orbit",
+    "Predicted dates": "2003; 2012; later",
+    "Detected": "Never"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Nibiru_cataclysm",
+     "https://en.wikipedia.org/wiki/Astronomical_survey",
+     "https://en.wikipedia.org/wiki/Planets_beyond_Neptune",
+     "https://en.wikipedia.org/wiki/Doomsday_cult"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ningen",
    "url": "ningen.html",
    "title": "The Ningen",
@@ -16099,6 +16712,35 @@
      "https://en.wikipedia.org/wiki/Mersenne_prime",
      "https://en.wikipedia.org/wiki/Euclid%E2%80%93Euler_theorem",
      "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ollantaytambo",
+   "url": "ollantaytambo.html",
+   "title": "Ollantaytambo Machining",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claim that Inca stonework at Ollantaytambo shows machine cutting. The precision is real; the machines are not.",
+   "facts": {
+    "Status": "Fringe",
+    "Site": "Ollantaytambo, Peru",
+    "Claim": "Machine-cut stone",
+    "Reality": "Hammered and fitted by hand"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ollantaytambo",
+     "https://en.wikipedia.org/wiki/Inca_architecture",
+     "https://en.wikipedia.org/wiki/Stonemasonry",
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16601,6 +17243,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "paititi",
+   "url": "paititi.html",
+   "title": "Paititi",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A lost Inca city said to lie east of the Andes. Expeditions have searched; nothing has been found.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Claim": "A lost Inca city",
+    "Region": "Eastern Peru",
+    "Found": "No",
+    "Related": "El Dorado"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Paititi",
+     "https://en.wikipedia.org/wiki/Inca_Empire",
+     "https://en.wikipedia.org/wiki/Lidar",
+     "https://en.wikipedia.org/wiki/El_Dorado"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "pakal-rocket",
    "url": "pakal-rocket.html",
    "title": "Pakal's Rocket",
@@ -17002,6 +17674,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "pentagon-uap-programme",
+   "url": "pentagon-uap-programme.html",
+   "title": "The Pentagon's UAP Programme",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A defence department programme to investigate unidentified objects, disclosed in 2017 and later renamed and expanded.",
+   "facts": {
+    "Status": "Documented",
+    "Programme": "AATIP, from 2007",
+    "Successors": "UAPTF; AARO",
+    "Reports": "Published",
+    "Extraterrestrial evidence": "None found"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program",
+     "https://en.wikipedia.org/wiki/Unidentified_flying_object",
+     "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office",
+     "https://en.wikipedia.org/wiki/United_States_Department_of_Defense"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "peopling-of-americas",
    "url": "peopling-of-americas.html",
    "title": "Peopling of the Americas",
@@ -17119,6 +17821,35 @@
      "https://en.wikipedia.org/wiki/Analog_horror",
      "https://en.wikipedia.org/wiki/Alternate_reality_game",
      "https://en.wikipedia.org/wiki/PlayStation_(console)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "pfas-coverup",
+   "url": "pfas-coverup.html",
+   "title": "The PFAS Cover-Up",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Chemical companies knew about the health effects of persistent compounds decades before regulators acted. The documents are public.",
+   "facts": {
+    "Status": "Documented",
+    "Compounds": "PFAS",
+    "Revealed": "Litigation documents",
+    "Consequence": "Regulation; settlements"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Per-_and_polyfluoroalkyl_substances",
+     "https://en.wikipedia.org/wiki/PFAS_contamination",
+     "https://en.wikipedia.org/wiki/Toxic_tort",
+     "https://en.wikipedia.org/wiki/Persistent_organic_pollutant"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -17333,6 +18064,35 @@
      "https://en.wikipedia.org/wiki/Fan_theory",
      "https://en.wikipedia.org/wiki/Selection_bias",
      "https://en.wikipedia.org/wiki/Sitcom"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "phoenix",
+   "url": "phoenix.html",
+   "title": "The Phoenix",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A bird that dies and is reborn from its ashes. The motif is ancient; the bird is not.",
+   "facts": {
+    "Status": "Symbol",
+    "Motif": "Death and rebirth by fire",
+    "Traditions": "Greek; Egyptian; Chinese",
+    "Animal": "None described"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Phoenix_(mythology)",
+     "https://en.wikipedia.org/wiki/Fenghuang",
+     "https://en.wikipedia.org/wiki/Bestiary",
+     "https://en.wikipedia.org/wiki/Myth"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -19110,6 +19870,34 @@
      "https://en.wikipedia.org/wiki/Carlo_Rovelli",
      "https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics",
      "https://en.wikipedia.org/wiki/Quantum_entanglement"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "rendering-optimisation",
+   "url": "rendering-optimisation.html",
+   "title": "Rendering Optimisation",
+   "theme": "Earth, geology and hidden geography",
+   "theme_id": "earth",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The claim that reality only renders what is observed, as a game engine does. The observation is real; the engine is a metaphor.",
+   "facts": {
+    "Status": "Metaphor",
+    "Claim": "Reality renders on demand",
+    "Real": "Quantum measurement"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Quantum_superposition",
+     "https://en.wikipedia.org/wiki/Rendering_(computer_graphics)",
+     "https://en.wikipedia.org/wiki/Simulation_hypothesis",
+     "https://en.wikipedia.org/wiki/Measurement_problem"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -22448,6 +23236,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "tecaxic-head",
+   "url": "tecaxic-head.html",
+   "title": "The Tecaxic Head",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A small stone head found in Mexico with features said to be Roman. The object is real; its origin is disputed.",
+   "facts": {
+    "Status": "Disputed",
+    "Found": "1960s, Mexico",
+    "Feature": "Mediterranean-looking head",
+    "Context": "Poorly recorded"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories",
+     "https://en.wikipedia.org/wiki/Roman_art",
+     "https://en.wikipedia.org/wiki/Provenance",
+     "https://en.wikipedia.org/wiki/Archaeological_context"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "technofeudalism",
    "url": "technofeudalism.html",
    "title": "Technofeudalism",
@@ -23685,6 +24502,36 @@
      "https://en.wikipedia.org/wiki/Yitang_Zhang",
      "https://en.wikipedia.org/wiki/Polymath_Project",
      "https://en.wikipedia.org/wiki/Prime_gap"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "twitter-files",
+   "url": "twitter-files.html",
+   "title": "The Twitter Files",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Internal documents released by a new owner, describing moderation decisions. Their content and their framing are both documented.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2022",
+    "Material": "Internal moderation documents",
+    "Claimed": "A censorship programme",
+    "Found": "Judgement calls and errors"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Twitter_Files",
+     "https://en.wikipedia.org/wiki/Content_moderation",
+     "https://en.wikipedia.org/wiki/Twitter",
+     "https://en.wikipedia.org/wiki/Source_selection_bias"
     ]
    },
    "last_reviewed": "2026-11-20",
