@@ -847,6 +847,14 @@ This is the shelf where the archive's two halves finally face each other: Kailas
 
 The batch's theme is that the record keeps turning out to be richer than the legend: Etruscan origins settled by DNA, Denisovan genes in living Tibetans, Roman coins in Indian hoards, a South American crop in Polynesia. The fringe pages here — tachyons, zero-point extraction, superdeterminism — are the ones where the mathematics is real and the world is not.
 
+## 0aw. Shipped in the forty-seventh pass — 21 November 2026: relics, myths, cosmology
+
+30 dossiers: fourteen on relics, myths and their explanations, eight cosmology and particle physics, eight on origins and evolution.
+
+762 dossiers, 3,156 sources, 796 images, 788 pages, PDF 1,760 pages, EPUB 765 chapters, sitemap 786 URLs, 0 problems.
+
+The relics pages are the archive at its most careful: a manuscript that is real (the Gospel of Judas), a shrine whose own custodians reject the story told about it (Roza Bal), an object nobody is allowed to examine (the Ark at Aksum), and a legend with a publication date (the Spear of Destiny, 1894 and after).
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

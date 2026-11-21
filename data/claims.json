@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 732,
+ "count": 762,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -598,6 +598,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "amazons",
+   "url": "amazons.html",
+   "title": "The Amazons",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Greek writers described warrior women. Archaeology has found women buried with weapons on the steppe.",
+   "facts": {
+    "Status": "Documented",
+    "Evidence": "Female burials with weapons",
+    "Region": "Eurasian steppe",
+    "Cultures": "Scythian; Sarmatian",
+    "Myth details": "Literary"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Amazons",
+     "https://en.wikipedia.org/wiki/Scythians",
+     "https://en.wikipedia.org/wiki/Sarmatians",
+     "https://en.wikipedia.org/wiki/Kurgan"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "amber-room",
    "url": "amber-room.html",
    "title": "The Amber Room",
@@ -1092,6 +1122,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "ark-of-ethiopia",
+   "url": "ark-of-ethiopia.html",
+   "title": "The Ark in Ethiopia",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A church in Aksum claims to hold the Ark of the Covenant. The claim is a matter of faith, and no examination has been permitted.",
+   "facts": {
+    "Status": "Faith claim",
+    "Location": "Aksum, Ethiopia",
+    "Holder": "Ethiopian Orthodox Church",
+    "Examined": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ark_of_the_Covenant",
+     "https://en.wikipedia.org/wiki/Church_of_Our_Lady_Mary_of_Zion",
+     "https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church",
+     "https://en.wikipedia.org/wiki/Aksum"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "arrow-of-time",
    "url": "arrow-of-time.html",
    "title": "The Arrow of Time",
@@ -1362,6 +1421,35 @@
      "https://en.wikipedia.org/wiki/Confirmation_bias",
      "https://en.wikipedia.org/wiki/Doppelg%C3%A4nger",
      "https://en.wikipedia.org/wiki/Death_hoax"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "axis-of-evil",
+   "url": "axis-of-evil.html",
+   "title": "The Axis of Evil",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A pattern in the cosmic microwave background that seems to align with the solar system. It is probably a statistical artefact.",
+   "facts": {
+    "Status": "Not new physics",
+    "Year": "2005",
+    "Data": "Cosmic microwave background",
+    "Explanation": "Cosmic variance; foregrounds"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+     "https://en.wikipedia.org/wiki/Cosmic_variance",
+     "https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe",
+     "https://en.wikipedia.org/wiki/Lambda-CDM_model"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2161,6 +2249,36 @@
      "https://en.wikipedia.org/wiki/Charlie_Brooker",
      "https://en.wikipedia.org/wiki/Easter_egg_(media)",
      "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "black-sea-deluge",
+   "url": "black-sea-deluge.html",
+   "title": "The Black Sea Deluge",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A hypothesis that the Black Sea flooded catastrophically when the Mediterranean broke through. The flood is argued; its scale and date are not settled.",
+   "facts": {
+    "Status": "Live debate",
+    "Proposed": "1997",
+    "Date claimed": "c. 7,600 years ago",
+    "Mechanism": "Bosphorus breakthrough",
+    "Contested": "Speed and scale"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis",
+     "https://en.wikipedia.org/wiki/Black_Sea",
+     "https://en.wikipedia.org/wiki/Bosporus",
+     "https://en.wikipedia.org/wiki/Flood_myth"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3671,6 +3789,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "constants-drift",
+   "url": "constants-drift.html",
+   "title": "Constants That Drift",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The proposal that the constants of nature may vary over cosmic time. Measurements keep finding no change, to extraordinary precision.",
+   "facts": {
+    "Status": "Live debate",
+    "Target": "The fine-structure constant",
+    "Methods": "Quasar spectra; atomic clocks",
+    "Result": "No variation found",
+    "Limits": "Parts in 10¹⁷ per year"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Fine-structure_constant",
+     "https://en.wikipedia.org/wiki/Time-variation_of_fundamental_constants",
+     "https://en.wikipedia.org/wiki/Quasar",
+     "https://en.wikipedia.org/wiki/Atomic_clock"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "contact-hypothesis",
    "url": "contact-hypothesis.html",
    "title": "The Contact Hypothesis",
@@ -4149,6 +4297,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "cyclops-skulls",
+   "url": "cyclops-skulls.html",
+   "title": "The Cyclops and Elephant Skulls",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A suggestion that the Cyclops story came from fossil elephant skulls, whose nasal opening looks like a single eye socket.",
+   "facts": {
+    "Status": "Unproven",
+    "Idea": "Fossil skulls inspired the Cyclops",
+    "Anatomy": "Central nasal opening",
+    "Objection": "Greek familiarity with elephants"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cyclops",
+     "https://en.wikipedia.org/wiki/Dwarf_elephant",
+     "https://en.wikipedia.org/wiki/Paleontology",
+     "https://en.wikipedia.org/wiki/Euhemerism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "damascus-steel",
    "url": "damascus-steel.html",
    "title": "Damascus Steel",
@@ -4328,6 +4505,36 @@
      "https://www.aanda.org/articles/aa/full_html/2020/09/aa33910-18/aa33910-18.html",
      "https://xenonexperiment.org/",
      "https://en.wikipedia.org/wiki/Dark_matter"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dark-photons",
+   "url": "dark-photons.html",
+   "title": "Dark Photons",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A hypothetical particle that would interact weakly with ordinary matter, proposed as a bridge to a dark sector.",
+   "facts": {
+    "Status": "Live debate",
+    "Candidate": "A massive photon analogue",
+    "Purpose": "Dark sector mediator",
+    "Searches": "Lasers; cavities; beam dumps",
+    "Detected": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dark_photon",
+     "https://en.wikipedia.org/wiki/Dark_matter",
+     "https://en.wikipedia.org/wiki/Photon",
+     "https://en.wikipedia.org/wiki/Interferometry"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4759,6 +4966,36 @@
      "https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy",
      "https://en.wikipedia.org/wiki/Familiarity_(psychology)",
      "https://en.wikipedia.org/wiki/Past_life_regression"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "delphic-ethylene",
+   "url": "delphic-ethylene.html",
+   "title": "The Delphic Ethylene",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A theory that the oracle at Delphi was inspired by ethylene gas rising from a fault. The geology is real; the effect is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Site": "Delphi",
+    "Theory": "Ethylene from a fault",
+    "Evidence": "Geology; ancient reports",
+    "Contested": "The pharmacology"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Pythia",
+     "https://en.wikipedia.org/wiki/Delphi",
+     "https://en.wikipedia.org/wiki/Ethylene",
+     "https://en.wikipedia.org/wiki/Geology_of_Greece"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5262,6 +5499,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "domestication-syndrome",
+   "url": "domestication-syndrome.html",
+   "title": "Domestication Syndrome",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Domesticated animals share a set of traits — floppy ears, patchy coats, smaller brains — and the explanation is argued.",
+   "facts": {
+    "Status": "Contested",
+    "Traits": "Floppy ears; patchy coats; smaller brains",
+    "Evidence": "The Russian fox experiment",
+    "Mechanism": "Neural crest, proposed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Domestication_syndrome",
+     "https://en.wikipedia.org/wiki/Neural_crest",
+     "https://en.wikipedia.org/wiki/Domesticated_red_fox",
+     "https://en.wikipedia.org/wiki/Domestication"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "doomsday-argument",
    "url": "doomsday-argument.html",
    "title": "The Doomsday Argument",
@@ -5348,6 +5614,35 @@
      "https://en.wikipedia.org/wiki/Conglomerate_(geology)",
      "https://en.wikipedia.org/wiki/Out-of-place_artifact",
      "https://en.wikipedia.org/wiki/Finial"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dragons-fossils",
+   "url": "dragons-fossils.html",
+   "title": "Dragons from Fossils",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The suggestion that dragon myths around the world grew from fossil bones. The bones are everywhere; the stories differ.",
+   "facts": {
+    "Status": "Partial",
+    "Idea": "Dragon myths from fossil bones",
+    "Material": "Dinosaur and mammoth remains",
+    "Problem": "Traditions differ; causality untestable"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dragon",
+     "https://en.wikipedia.org/wiki/Chinese_dragon",
+     "https://en.wikipedia.org/wiki/Fossil",
+     "https://en.wikipedia.org/wiki/Cryptozoology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5967,6 +6262,36 @@
      "https://en.wikipedia.org/wiki/Lake_Guatavita",
      "https://en.wikipedia.org/wiki/Muisca_Confederation",
      "https://en.wikipedia.org/wiki/Walter_Raleigh"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "eleusinian-kykeon",
+   "url": "eleusinian-kykeon.html",
+   "title": "The Eleusinian Kykeon",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A theory that the drink at the Eleusinian mysteries contained a psychedelic fungus. The rite is documented; the drug is not.",
+   "facts": {
+    "Status": "Live debate",
+    "Site": "Eleusis",
+    "Drink": "Kykeon",
+    "Theory": "Ergot alkaloids, 1978",
+    "Demonstrated": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Eleusinian_Mysteries",
+     "https://en.wikipedia.org/wiki/Kykeon",
+     "https://en.wikipedia.org/wiki/Ergot",
+     "https://en.wikipedia.org/wiki/Entheogen"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7827,6 +8152,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "gilgamesh-tomb",
+   "url": "gilgamesh-tomb.html",
+   "title": "Gilgamesh's Tomb",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A claim that the tomb of Gilgamesh was found under the Euphrates. The structure is real; the identification is a reading.",
+   "facts": {
+    "Status": "Unconfirmed",
+    "Reported": "2003, at Uruk",
+    "Structure": "Stone chamber under the riverbed",
+    "Evidence": "Location; the epic's account"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Gilgamesh",
+     "https://en.wikipedia.org/wiki/Uruk",
+     "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+     "https://en.wikipedia.org/wiki/Euphrates"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "giraffe-neck",
    "url": "giraffe-neck.html",
    "title": "The Giraffe's Neck",
@@ -8098,6 +8452,36 @@
      "https://en.wikipedia.org/wiki/Hanno_the_Navigator",
      "https://en.wikipedia.org/wiki/Hominidae",
      "https://en.wikipedia.org/wiki/Species_description"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "gospel-of-judas",
+   "url": "gospel-of-judas.html",
+   "title": "The Gospel of Judas",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A Gnostic gospel in which Judas is asked to betray Jesus. The manuscript is real, and it was published and then conserved.",
+   "facts": {
+    "Status": "Documented",
+    "Found": "1970s, Egypt",
+    "Published": "2006",
+    "Date": "c. 280 AD",
+    "Tradition": "Gnostic"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Gospel_of_Judas",
+     "https://en.wikipedia.org/wiki/Gnosticism",
+     "https://en.wikipedia.org/wiki/Coptic_language",
+     "https://en.wikipedia.org/wiki/Nag_Hammadi_library"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8501,6 +8885,65 @@
      "https://en.wikipedia.org/wiki/Molecular_nanotechnology",
      "https://en.wikipedia.org/wiki/Mechanosynthesis",
      "https://en.wikipedia.org/wiki/Molecular_assembler"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "griffin-protoceratops",
+   "url": "griffin-protoceratops.html",
+   "title": "The Griffin and Protoceratops",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A suggestion that the griffin's shape comes from fossil dinosaur skeletons in Central Asia. The fossils are there; the transmission is a guess.",
+   "facts": {
+    "Status": "Live debate",
+    "Fossil": "Protoceratops",
+    "Region": "Gobi",
+    "Myth": "The griffin",
+    "Link": "Plausible, unproven"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Griffin",
+     "https://en.wikipedia.org/wiki/Protoceratops",
+     "https://en.wikipedia.org/wiki/Gobi_Desert",
+     "https://en.wikipedia.org/wiki/Euhemerism"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "group-kin-selection",
+   "url": "group-kin-selection.html",
+   "title": "Group versus Kin Selection",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Why do animals help each other? Hamilton's rule explains a lot, and the argument about group selection has never quite ended.",
+   "facts": {
+    "Status": "Open",
+    "Key result": "Hamilton's rule",
+    "Revival": "Multilevel selection",
+    "Question": "One theory or two?"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kin_selection",
+     "https://en.wikipedia.org/wiki/Group_selection",
+     "https://en.wikipedia.org/wiki/Inclusive_fitness",
+     "https://en.wikipedia.org/wiki/W._D._Hamilton"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9876,6 +10319,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "jesus-in-india",
+   "url": "jesus-in-india.html",
+   "title": "Jesus in India",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that Jesus survived the crucifixion and travelled to Kashmir. It rests on a nineteenth-century book and no evidence.",
+   "facts": {
+    "Status": "Debunked",
+    "Origin": "1894, Mirza Ghulam Ahmad",
+    "Claim": "Jesus lived and died in Kashmir",
+    "Evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Roza_Bal",
+     "https://en.wikipedia.org/wiki/Mirza_Ghulam_Ahmad",
+     "https://en.wikipedia.org/wiki/Historicity_of_Jesus",
+     "https://en.wikipedia.org/wiki/Crucifixion_of_Jesus"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "jevons-paradox",
    "url": "jevons-paradox.html",
    "title": "The Jevons Paradox",
@@ -10293,6 +10765,35 @@
      "https://en.wikipedia.org/wiki/Arthur_Evans",
      "https://en.wikipedia.org/wiki/Minoan_civilization",
      "https://en.wikipedia.org/wiki/Linear_B"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "kraken",
+   "url": "kraken.html",
+   "title": "The Kraken",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A sea monster described by Norwegian writers, and a possible reference to the giant squid. The animal is real; the identification is inference.",
+   "facts": {
+    "Status": "Inferred identification",
+    "Tradition": "Norwegian and Icelandic",
+    "Candidate": "Giant squid",
+    "Filmed alive": "2012"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kraken",
+     "https://en.wikipedia.org/wiki/Giant_squid",
+     "https://en.wikipedia.org/wiki/Erik_Pontoppidan",
+     "https://en.wikipedia.org/wiki/Sea_monster"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11353,6 +11854,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "lost-ten-tribes",
+   "url": "lost-ten-tribes.html",
+   "title": "The Lost Ten Tribes",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Ten tribes deported by Assyria and never heard from again, and centuries of claims about where they went.",
+   "facts": {
+    "Status": "Unsupported",
+    "Event": "Assyrian deportations, 8th century BC",
+    "Recorded fate": "None",
+    "Claims": "Worldwide"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Ten_Lost_Tribes",
+     "https://en.wikipedia.org/wiki/Assyrian_captivity",
+     "https://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)",
+     "https://en.wikipedia.org/wiki/Genetic_studies_on_Jews"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "lucid-dreaming",
    "url": "lucid-dreaming.html",
    "title": "Lucid Dreaming",
@@ -12202,6 +12732,36 @@
      "https://en.wikipedia.org/wiki/Broadcast_signal_intrusion",
      "https://en.wikipedia.org/wiki/Max_Headroom",
      "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "maya-blue",
+   "url": "maya-blue.html",
+   "title": "Maya Blue",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A pigment that survived a thousand years of tropical rain, and whose chemistry was only explained in the twentieth century.",
+   "facts": {
+    "Status": "Documented",
+    "Used from": "c. 8th century",
+    "Colour": "Indigo in palygorskite",
+    "Property": "Extreme durability",
+    "Explained": "20th century"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Maya_blue",
+     "https://en.wikipedia.org/wiki/Palygorskite",
+     "https://en.wikipedia.org/wiki/Indigo_dye",
+     "https://en.wikipedia.org/wiki/Maya_art"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13071,6 +13631,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "multiverse",
+   "url": "multiverse.html",
+   "title": "The Multiverse",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The proposal that our universe is one of many. It follows from some theories and has no direct test.",
+   "facts": {
+    "Status": "Contested",
+    "Meanings": "Inflation; many-worlds; landscape",
+    "Test": "None direct"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Multiverse",
+     "https://en.wikipedia.org/wiki/Eternal_inflation",
+     "https://en.wikipedia.org/wiki/Many-worlds_interpretation",
+     "https://en.wikipedia.org/wiki/Falsifiability"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "muon-g2",
    "url": "muon-g2.html",
    "title": "The Muon's Wobble",
@@ -13468,6 +14056,36 @@
      "https://en.wikipedia.org/wiki/Prehistoric_cannibalism",
      "https://en.wikipedia.org/wiki/El_Sidr%C3%B3n",
      "https://en.wikipedia.org/wiki/Krapina"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "neanderthal-end",
+   "url": "neanderthal-end.html",
+   "title": "Why the Neanderthals Went",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "They lived in Europe for hundreds of thousands of years and disappeared within a few thousand of our arrival. The cause is still argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Last record": "c. 40,000 years ago",
+    "Overlap": "Thousands of years",
+    "Interbreeding": "Documented",
+    "Cause": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Neanderthal_extinction",
+     "https://en.wikipedia.org/wiki/Neanderthal",
+     "https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans",
+     "https://en.wikipedia.org/wiki/Upper_Paleolithic"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -14360,6 +14978,36 @@
      "https://en.wikipedia.org/wiki/Chalcolithic",
      "https://en.wikipedia.org/wiki/Forensic_anthropology",
      "https://en.wikipedia.org/wiki/Alps"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "oumuamua-composition",
+   "url": "oumuamua-composition.html",
+   "title": "‘Oumuamua's Composition",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The first known interstellar object, and a shape and acceleration that several explanations fit and none settles.",
+   "facts": {
+    "Status": "Live debate",
+    "Detected": "2017",
+    "Type": "Interstellar object",
+    "Features": "Elongated; no coma; acceleration",
+    "Explanation": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/%CA%BBOumuamua",
+     "https://en.wikipedia.org/wiki/Interstellar_object",
+     "https://en.wikipedia.org/wiki/Comet",
+     "https://en.wikipedia.org/wiki/Solar_sail"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16063,6 +16711,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "proton-radius",
+   "url": "proton-radius.html",
+   "title": "The Proton Radius Puzzle",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Two ways of measuring the proton gave different answers for years. The discrepancy has largely closed, and the episode is instructive.",
+   "facts": {
+    "Status": "Largely resolved",
+    "Year": "2010",
+    "Discrepancy": "About 4%",
+    "Cause": "Measurement technique"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Proton_radius_puzzle",
+     "https://en.wikipedia.org/wiki/Muonic_hydrogen",
+     "https://en.wikipedia.org/wiki/Proton",
+     "https://en.wikipedia.org/wiki/Precision_tests_of_QED"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "proven-conspiracies",
    "url": "proven-conspiracies.html",
    "title": "Proven Conspiracies",
@@ -16682,6 +17359,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "rare-earth",
+   "url": "rare-earth.html",
+   "title": "Rare Earth or Mediocrity",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Is complex life rare because Earth is unusual, or ordinary because the galaxy is vast? Both arguments are principled and neither is settled.",
+   "facts": {
+    "Status": "Open",
+    "Positions": "Rare Earth; mediocrity",
+    "Documented": "Rocky planets are common",
+    "Unmeasured": "Most Rare Earth factors"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Rare_Earth_hypothesis",
+     "https://en.wikipedia.org/wiki/Mediocrity_principle",
+     "https://en.wikipedia.org/wiki/Exoplanet",
+     "https://en.wikipedia.org/wiki/Fermi_paradox"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "rational-choice-voting",
    "url": "rational-choice-voting.html",
    "title": "Rational Choice Voting",
@@ -16894,6 +17600,35 @@
      "https://en.wikipedia.org/wiki/Riemann_hypothesis/",
      "https://en.wikipedia.org/wiki/Riemann_zeta_function/",
      "https://en.wikipedia.org/wiki/Hilbert%E2%80%93P%C3%B3lya_conjecture/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "rna-world",
+   "url": "rna-world.html",
+   "title": "RNA World or Metabolism First",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Two answers to how life began: a self-replicating molecule, or a self-sustaining chemical network. Both have support and neither is demonstrated.",
+   "facts": {
+    "Status": "Open",
+    "Positions": "RNA world; metabolism first",
+    "Support": "Ribozymes; vent chemistry",
+    "Obstacle": "Prebiotic synthesis"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/RNA_world",
+     "https://en.wikipedia.org/wiki/Ribozyme",
+     "https://en.wikipedia.org/wiki/Abiogenesis",
+     "https://en.wikipedia.org/wiki/Hydrothermal_vent"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -17169,6 +17904,35 @@
      "https://en.wikipedia.org/wiki/Antisemitic_canard",
      "https://en.wikipedia.org/wiki/Conspiracy_theory",
      "https://en.wikipedia.org/wiki/Bank"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "roza-bal",
+   "url": "roza-bal.html",
+   "title": "The Roza Bal Tomb",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A shrine in Srinagar said to be a prophet's tomb. The identification is modern, and the site's own tradition is different.",
+   "facts": {
+    "Status": "Debunked",
+    "Location": "Srinagar, Kashmir",
+    "Identification": "Late 19th century",
+    "Local tradition": "A Muslim holy man"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Roza_Bal",
+     "https://en.wikipedia.org/wiki/Srinagar",
+     "https://en.wikipedia.org/wiki/Ziyarat",
+     "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -18511,6 +19275,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "soma",
+   "url": "soma.html",
+   "title": "Soma",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A ritual drink praised in the Rigveda, and a botanical identification that has never been settled.",
+   "facts": {
+    "Status": "Live debate",
+    "Source": "Rigveda",
+    "Date": "c. 1500 BC",
+    "Object": "A plant and a drink",
+    "Identification": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Soma_(drink)",
+     "https://en.wikipedia.org/wiki/Rigveda",
+     "https://en.wikipedia.org/wiki/Haoma",
+     "https://en.wikipedia.org/wiki/Vedic_ritual"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "somerton-man",
    "url": "somerton-man.html",
    "title": "The Somerton Man",
@@ -18660,6 +19454,36 @@
      "https://www.niac.usra.edu/files/studies/final_report/472Edwards.pdf",
      "https://en.wikipedia.org/wiki/Specific_strength",
      "https://en.wikipedia.org/wiki/Carbon_nanotube"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "spear-of-destiny",
+   "url": "spear-of-destiny.html",
+   "title": "The Spear of Destiny",
+   "theme": "The ancient world, myth and archaeology",
+   "theme_id": "ancient",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A spear said to have pierced Christ, and a legend that its holder commands the world. The legend is modern.",
+   "facts": {
+    "Status": "Fiction",
+    "Objects": "Several claimed lances",
+    "Example": "Vienna Imperial Treasury",
+    "Legend": "20th century",
+    "Power": "Not historical"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Holy_Lance",
+     "https://en.wikipedia.org/wiki/Imperial_Treasury,_Vienna",
+     "https://en.wikipedia.org/wiki/Relic",
+     "https://en.wikipedia.org/wiki/Occult"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -21171,6 +21995,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "vents-or-ponds",
+   "url": "vents-or-ponds.html",
+   "title": "Vents or Ponds",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Where did the first chemistry happen: deep-sea vents, warm ponds, or somewhere else? Each setting has a case.",
+   "facts": {
+    "Status": "Open",
+    "Settings": "Vents; warm ponds",
+    "Support": "Experiments in both",
+    "Problem": "Dilution; concentration"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+     "https://en.wikipedia.org/wiki/Abiogenesis",
+     "https://en.wikipedia.org/wiki/Protocell",
+     "https://en.wikipedia.org/wiki/Nucleotide"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "venus-clouds-life",
    "url": "venus-clouds-life.html",
    "title": "Life in Venus's Clouds",
@@ -21966,6 +22819,35 @@
      "https://en.wikipedia.org/wiki/Fan_theory",
      "https://en.wikipedia.org/wiki/Unreliable_narrator",
      "https://en.wikipedia.org/wiki/Sitcom"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "wimps-axions",
+   "url": "wimps-axions.html",
+   "title": "WIMPs versus Axions",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Two candidates for dark matter, decades of experiments, and no detection of either.",
+   "facts": {
+    "Status": "Open",
+    "Candidates": "WIMPs; axions",
+    "Detected": "Neither",
+    "Evidence for mass": "Strong"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dark_matter",
+     "https://en.wikipedia.org/wiki/Weakly_interacting_massive_particle",
+     "https://en.wikipedia.org/wiki/Axion",
+     "https://en.wikipedia.org/wiki/Dark_matter#Direct_detection"
     ]
    },
    "last_reviewed": "2026-11-20",
