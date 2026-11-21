@@ -815,6 +815,14 @@ A full sweep of all 656 pages, every asset, the sitemap, the search index, the l
 
 Everything else came back clean: 0 broken internal links, 0 broken asset references, 0 missing OG cards, 0 missing 480px variants, 0 orphan pages, 0 duplicate titles or descriptions, 630 dossiers = 630 search entries = 630 ledger claims, sitemap 654 URLs matching the files on disk.
 
+## 0as. Shipped after the audit — 21 November 2026: unsolved cases and analog horror
+
+23 dossiers: seven unsolved or unexplained real cases (Max Headroom, the Somerton Man, the Yuba County Five, the Watcher house, the Circleville letters, the Isdal Woman, the Flannan Isles), eight creepypasta and analog-horror works, and eight web mysteries.
+
+653 dossiers, 2,720 sources, 687 images, 679 pages, PDF 1,542 pages, EPUB 656 chapters, sitemap 677 URLs, 0 problems.
+
+The audit's credits fix pays off here: the 23 new images are attributed automatically because the credits page is now rebuilt from the captions rather than maintained by hand. That was the defect worth finding.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

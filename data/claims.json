@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 630,
+ "count": 653,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -687,6 +687,36 @@
      "https://theconversation.com/why-some-people-still-believe-that-aliens-shaped-ancient-civilisations-277993",
      "https://prop.ub.uni-heidelberg.de/journals/aegyp/article/download/40164/33823",
      "https://www.discoveryuk.com/mysteries/legend-to-launchpad-the-ancient-astronaut-theory/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "andrew-carlssin",
+   "url": "andrew-carlssin.html",
+   "title": "Andrew Carlssin",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A story about a man who turned $800 into $350 million and claimed to be a time traveller. It ran in a supermarket tabloid.",
+   "facts": {
+    "Status": "Debunked",
+    "Year": "2003",
+    "Source": "Weekly World News",
+    "Nature of source": "Satirical tabloid",
+    "Case exists": "No"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Weekly_World_News",
+     "https://en.wikipedia.org/wiki/Andrew_Carlssin",
+     "https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission",
+     "https://en.wikipedia.org/wiki/Satire"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2788,6 +2818,37 @@
      "https://en.wikipedia.org/wiki/Abstract_expressionism",
      "https://en.wikipedia.org/wiki/Cultural_Cold_War",
      "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "circleville-letters",
+   "url": "circleville-letters.html",
+   "title": "The Circleville Letters",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A small Ohio town received anonymous letters accusing residents of affairs and worse. One man was convicted of a related crime; the letter-writer was never identified.",
+   "facts": {
+    "Status": "Documented",
+    "Place": "Circleville, Ohio",
+    "From": "1976",
+    "Letters": "Preserved",
+    "Conviction": "Gordon Gillispie",
+    "Author": "Unknown"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Circleville_letters",
+     "https://en.wikipedia.org/wiki/Circleville,_Ohio",
+     "https://en.wikipedia.org/wiki/Booby_trap",
+     "https://en.wikipedia.org/wiki/Anonymous_letter"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5500,6 +5561,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "erratas-kfc",
+   "url": "erratas-kfc.html",
+   "title": "Erratas and the KFC Link",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A set of videos with hidden codes that pointed, apparently, at a fast-food chain. The codes are real; the meaning is not settled.",
+   "facts": {
+    "Status": "Live debate",
+    "Form": "Videos with coded material",
+    "Decoded": "By a community, over months",
+    "Apparent link": "A fast-food chain",
+    "Intent": "Not established"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Alternate_reality_game",
+     "https://en.wikipedia.org/wiki/Steganography",
+     "https://en.wikipedia.org/wiki/Viral_marketing",
+     "https://en.wikipedia.org/wiki/KFC"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "et-and-star-wars",
    "url": "et-and-star-wars.html",
    "title": "E.T. and Star Wars",
@@ -5932,6 +6023,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "flannan-isles",
+   "url": "flannan-isles.html",
+   "title": "The Flannan Isles Lighthouse",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Three lighthouse keepers vanished from a Hebridean island in 1900. The lamps were trimmed, the kitchen was abandoned mid-meal, and no bodies were found.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "1900",
+    "Place": "Eilean Mòr, Flannan Isles",
+    "Keepers": "Three, all missing",
+    "Finding": "Swept away by a wave",
+    "Bodies": "Never found"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse",
+     "https://en.wikipedia.org/wiki/Flannan_Isles",
+     "https://en.wikipedia.org/wiki/Northern_Lighthouse_Board",
+     "https://en.wikipedia.org/wiki/Rogue_wave"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "flat-earth",
    "url": "flat-earth.html",
    "title": "Flat Earth &amp; the Firmament",
@@ -5992,6 +6114,36 @@
      "https://en.wikipedia.org/wiki/Barn_owl",
      "https://en.wikipedia.org/wiki/Meteoroid",
      "https://en.wikipedia.org/wiki/Ufology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "fleshgait-wendigo",
+   "url": "fleshgait-wendigo.html",
+   "title": "The Fleshgait and the Wendigo",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "Two creatures from different traditions, run together on the internet. One is an internet invention; the other belongs to Algonquian peoples.",
+   "facts": {
+    "Status": "Fiction",
+    "Wendigo": "Algonquian tradition",
+    "Fleshgait": "Internet invention, 2010s",
+    "Both": "Fiction, in this archive",
+    "Issue": "Cultural context"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Wendigo",
+     "https://en.wikipedia.org/wiki/Algonquian_peoples",
+     "https://en.wikipedia.org/wiki/List_of_cryptids",
+     "https://en.wikipedia.org/wiki/Cultural_appropriation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6521,6 +6673,35 @@
      "https://en.wikipedia.org/wiki/Remote_viewing",
      "https://en.wikipedia.org/wiki/Hemi-Sync",
      "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "gemini-home-entertainment",
+   "url": "gemini-home-entertainment.html",
+   "title": "Gemini Home Entertainment",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "An analog horror series presented as a catalogue of home videos about nature, which turns out to be about something else.",
+   "facts": {
+    "Status": "Fiction",
+    "Began": "2019",
+    "Format": "Fictional video catalogue",
+    "Genre": "Analog horror"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Analog_horror",
+     "https://en.wikipedia.org/wiki/Educational_film",
+     "https://en.wikipedia.org/wiki/VHS",
+     "https://en.wikipedia.org/wiki/Found_footage_(film_technique)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8528,6 +8709,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "isdal-woman",
+   "url": "isdal-woman.html",
+   "title": "The Isdal Woman",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A woman found dead in a Norwegian valley in 1970, with erased labels and multiple passports. She has never been identified.",
+   "facts": {
+    "Status": "Live debate",
+    "Found": "November 1970, Isdalen",
+    "Identified": "No",
+    "Evidence": "Multiple identities; coded notes",
+    "Isotopes": "Central Europe or France",
+    "Suspected": "Intelligence work"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Isdal_Woman",
+     "https://en.wikipedia.org/wiki/Isotope_analysis",
+     "https://en.wikipedia.org/wiki/Bergen",
+     "https://en.wikipedia.org/wiki/Cold_case"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "jack-time-traveller",
    "url": "jack-time-traveller.html",
    "title": "Jack Is a Time Traveller",
@@ -8643,6 +8855,65 @@
      "https://en.wikipedia.org/wiki/Time_travel",
      "https://en.wikipedia.org/wiki/Internet_hoax",
      "https://en.wikipedia.org/wiki/Black_hole"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "kane-pixels-backrooms",
+   "url": "kane-pixels-backrooms.html",
+   "title": "Kane Pixels' Backrooms",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A YouTube series that turned an imageboard joke into a film. It is fiction, made by a named creator, and it has a studio deal.",
+   "facts": {
+    "Status": "Fiction",
+    "Began": "2022",
+    "Creator": "Kane Pixels",
+    "Outcome": "Feature-film deal"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Backrooms",
+     "https://en.wikipedia.org/wiki/Kane_Pixels",
+     "https://en.wikipedia.org/wiki/Found_footage_(film_technique)",
+     "https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "kanye-quest-3030",
+   "url": "kanye-quest-3030.html",
+   "title": "Kanye Quest 3030",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A fan-made role-playing game with a hidden room that led players to a real website and a recruitment pitch for a 'clone' cult.",
+   "facts": {
+    "Status": "Documented",
+    "Released": "2013",
+    "Type": "Fan-made RPG",
+    "Hidden content": "Found in 2015",
+    "Linked group": "Ascension"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kanye_Quest_3030",
+     "https://en.wikipedia.org/wiki/Role-playing_video_game",
+     "https://en.wikipedia.org/wiki/Easter_egg_(media)",
+     "https://en.wikipedia.org/wiki/Cloning"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8918,6 +9189,36 @@
      "https://en.wikipedia.org/wiki/Lemuria_(continent)",
      "https://en.wikipedia.org/wiki/Plate_tectonics",
      "https://en.wikipedia.org/wiki/Indian_Ocean"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "lake-city-quiet-pills",
+   "url": "lake-city-quiet-pills.html",
+   "title": "Lake City Quiet Pills",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A website and a Reddit thread that appeared to be a front for something. The documents are real; the interpretation is not settled.",
+   "facts": {
+    "Status": "Live debate",
+    "Year": "2009",
+    "Platform": "Reddit and a private site",
+    "Evidence": "Screenshots and caches",
+    "Explanation": "None confirmed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Reddit",
+     "https://en.wikipedia.org/wiki/Internet_Archive",
+     "https://en.wikipedia.org/wiki/Hoax",
+     "https://en.wikipedia.org/wiki/Internet_art"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10135,6 +10436,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "man-from-taured",
+   "url": "man-from-taured.html",
+   "title": "The Man from Taured",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A traveller at a Japanese airport whose passport was from a country that does not exist. The story has no source, and it is an urban legend.",
+   "facts": {
+    "Status": "Debunked",
+    "Setting": "Haneda airport, Tokyo",
+    "Claim": "A passport from a nonexistent country",
+    "Primary source": "None",
+    "Pattern": "Urban legend"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Taured",
+     "https://en.wikipedia.org/wiki/Urban_legend",
+     "https://en.wikipedia.org/wiki/Haneda_Airport",
+     "https://en.wikipedia.org/wiki/Parallel_universes_in_fiction"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "mandela-catalogue",
    "url": "mandela-catalogue.html",
    "title": "The Mandela Catalogue",
@@ -10410,6 +10741,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "markovian-parallax-denigrate",
+   "url": "markovian-parallax-denigrate.html",
+   "title": "Markovian Parallax Denigrate",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Hundreds of Usenet posts in 1996 containing strings of words with no meaning. The posts are archived; their purpose is not known.",
+   "facts": {
+    "Status": "Live debate",
+    "Year": "1996",
+    "Platform": "Usenet",
+    "Content": "Word strings",
+    "Purpose": "Unknown"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Usenet",
+     "https://en.wikipedia.org/wiki/Markov_chain",
+     "https://en.wikipedia.org/wiki/Spam_(electronic)",
+     "https://en.wikipedia.org/wiki/Internet_Archive"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "mass-delusion",
    "url": "mass-delusion.html",
    "title": "Mass Hysteria",
@@ -10494,6 +10855,37 @@
      "https://en.wikipedia.org/wiki/Landauer%27s_principle",
      "https://en.wikipedia.org/wiki/Megastructure",
      "https://en.wikipedia.org/wiki/Limits_of_computation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "max-headroom",
+   "url": "max-headroom.html",
+   "title": "The Max Headroom Incident",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Two Chicago television stations were hijacked by a masked figure in 1987. Nobody was ever charged.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "1987",
+    "Place": "Chicago",
+    "Method": "Microwave signal intrusion",
+    "Charged": "Nobody",
+    "Recordings": "Survive"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking",
+     "https://en.wikipedia.org/wiki/Broadcast_signal_intrusion",
+     "https://en.wikipedia.org/wiki/Max_Headroom",
+     "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11029,6 +11421,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "monument-mythos",
+   "url": "monument-mythos.html",
+   "title": "The Monument Mythos",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "An analog horror series in which American monuments are something other than monuments.",
+   "facts": {
+    "Status": "Fiction",
+    "Began": "2020",
+    "Technique": "Edited real footage and documents",
+    "Genre": "Analog horror"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Analog_horror",
+     "https://en.wikipedia.org/wiki/Washington_Monument",
+     "https://en.wikipedia.org/wiki/Found_footage_(film_technique)",
+     "https://en.wikipedia.org/wiki/Disinformation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "moon-formation",
    "url": "moon-formation.html",
    "title": "How the Moon Formed",
@@ -11304,6 +11725,35 @@
      "https://www.science.org/doi/10.1126/sciadv.adj5661",
      "https://www.science.org/doi/10.1126/science.1189406",
      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050566"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "myhouse-wad",
+   "url": "myhouse-wad.html",
+   "title": "MyHouse.wad",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A Doom level released with a story about a friend who died. It is a work of art in a 1993 game engine, and it is fiction.",
+   "facts": {
+    "Status": "Fiction",
+    "Released": "2023",
+    "Engine": "Doom, 1993",
+    "Framing": "A fictional document"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Doom_(1993_video_game)",
+     "https://en.wikipedia.org/wiki/Video_game_modding",
+     "https://en.wikipedia.org/wiki/MyHouse.wad",
+     "https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -13628,6 +14078,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "poolrooms",
+   "url": "poolrooms.html",
+   "title": "The Poolrooms",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "An endless complex of tiled pools and corridors, invented on an imageboard. It is a liminal-space fiction, and it is labelled as one.",
+   "facts": {
+    "Status": "Fiction",
+    "First appeared": "2022",
+    "Genre": "Liminal-space fiction",
+    "Related": "The Backrooms"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)",
+     "https://en.wikipedia.org/wiki/The_Backrooms",
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Web_fiction"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "portal-half-life",
    "url": "portal-half-life.html",
    "title": "Portal and Half-Life Share a Universe",
@@ -15935,6 +16414,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "skinwalker-whistling",
+   "url": "skinwalker-whistling.html",
+   "title": "Skinwalker Whistling Lore",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "Internet posts claim that whistling at night attracts a skinwalker. The taboo is real in some traditions; the internet version is not.",
+   "facts": {
+    "Status": "Fiction",
+    "Tradition": "Navajo, about a shape-shifting figure",
+    "Internet rule": "Do not whistle at night",
+    "Effect": "None established"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Skinwalker",
+     "https://en.wikipedia.org/wiki/Navajo",
+     "https://en.wikipedia.org/wiki/Cultural_appropriation",
+     "https://en.wikipedia.org/wiki/Creepypasta"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "slender-man-tulpa",
    "url": "slender-man-tulpa.html",
    "title": "Slender Man as a Tulpa",
@@ -16018,6 +16526,35 @@
      "https://en.wikipedia.org/wiki/Internet_folklore",
      "https://en.wikipedia.org/wiki/Horror_fiction",
      "https://en.wikipedia.org/wiki/Chain_letter"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "smiling-man",
+   "url": "smiling-man.html",
+   "title": "The Smiling Man",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A creepypasta about a man in a suit who dances in the street at night. It is fiction, and it is one of the genre's best-known short pieces.",
+   "facts": {
+    "Status": "Fiction",
+    "Genre": "Creepypasta",
+    "Setting": "City streets at night",
+    "Influence": "Widely read"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Horror_fiction",
+     "https://en.wikipedia.org/wiki/Uncanny",
+     "https://en.wikipedia.org/wiki/Web_fiction"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16111,6 +16648,37 @@
      "https://en.wikipedia.org/wiki/Stratospheric_aerosol_injection",
      "https://en.wikipedia.org/wiki/Termination_shock",
      "https://en.wikipedia.org/wiki/1991_eruption_of_Mount_Pinatubo"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "somerton-man",
+   "url": "somerton-man.html",
+   "title": "The Somerton Man",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A man found dead on an Adelaide beach in 1948, with a scrap of Persian poetry and an unbreakable code. He was identified by DNA in 2022.",
+   "facts": {
+    "Status": "Live debate",
+    "Found": "December 1948, Somerton Beach",
+    "Code": "Undeciphered",
+    "Identified": "2022 — Carl Webb",
+    "Cause of death": "Unestablished",
+    "Method": "DNA and genealogy"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Somerton_Man",
+     "https://en.wikipedia.org/wiki/Tamam_Shud_case",
+     "https://en.wikipedia.org/wiki/Genetic_genealogy",
+     "https://en.wikipedia.org/wiki/Rubaiyat_of_Omar_Khayyam"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16391,6 +16959,35 @@
      "https://en.wikipedia.org/wiki/Motif_(narrative)",
      "https://en.wikipedia.org/wiki/Apophenia",
      "https://en.wikipedia.org/wiki/Fan_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "stairs-in-the-woods",
+   "url": "stairs-in-the-woods.html",
+   "title": "Stairs in the Woods",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A creepypasta about flights of stairs found in forests, leading nowhere. It began as an imageboard thread and became a genre fixture.",
+   "facts": {
+    "Status": "Fiction",
+    "Origin": "Imageboard posts, 2010s",
+    "Genre": "Creepypasta",
+    "Real analogue": "Access stairs, ruins"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)",
+     "https://en.wikipedia.org/wiki/Stairs",
+     "https://en.wikipedia.org/wiki/Internet_folklore"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -18698,6 +19295,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "watcher-house",
+   "url": "watcher-house.html",
+   "title": "The Watcher House",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A family bought a house in New Jersey and received letters from someone calling himself 'The Watcher'. The letters are documented; the author is not.",
+   "facts": {
+    "Status": "Documented",
+    "Place": "Westfield, New Jersey",
+    "Year": "2014",
+    "Letters": "Preserved",
+    "Author": "Not identified",
+    "Outcome": "Family moved; house sold"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Watcher_(letters)",
+     "https://en.wikipedia.org/wiki/Westfield,_New_Jersey",
+     "https://en.wikipedia.org/wiki/Stalking",
+     "https://en.wikipedia.org/wiki/Anonymous_letter"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "watchers-enoch",
    "url": "watchers-enoch.html",
    "title": "The Watchers of Enoch",
@@ -19131,6 +19759,36 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "worldcorp-enterprises",
+   "url": "worldcorp-enterprises.html",
+   "title": "WorldCorp Enterprises",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A YouTube channel posting disturbing, disjointed videos with corporate branding. It has never been explained, and it may be art.",
+   "facts": {
+    "Status": "Live debate",
+    "Platform": "YouTube",
+    "Content": "Corporate imagery; distorted footage",
+    "Creator": "Not established",
+    "Likely": "Art project or ARG"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Alternate_reality_game",
+     "https://en.wikipedia.org/wiki/YouTube",
+     "https://en.wikipedia.org/wiki/Internet_art",
+     "https://en.wikipedia.org/wiki/Viral_video"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "wow-signal",
    "url": "wow-signal.html",
    "title": "The Wow! Signal",
@@ -19339,6 +19997,36 @@
      "https://doi.org/10.1073/pnas.1507146112",
      "https://doi.org/10.1016/j.earscirev.2023.104502",
      "https://en.wikipedia.org/wiki/Younger_Dryas"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "yuba-county-five",
+   "url": "yuba-county-five.html",
+   "title": "The Yuba County Five",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Five men drove into the mountains after a basketball game and were found dead months later. What happened in between has never been established.",
+   "facts": {
+    "Status": "Unresolved",
+    "Year": "1978",
+    "Place": "Sierra Nevada, California",
+    "Found": "Bodies over months",
+    "Car": "Drivable; keys in ignition"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Yuba_County_Five",
+     "https://en.wikipedia.org/wiki/Plumas_National_Forest",
+     "https://en.wikipedia.org/wiki/Hypothermia",
+     "https://en.wikipedia.org/wiki/Cold_case"
     ]
    },
    "last_reviewed": "2026-11-20",
