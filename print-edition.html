@@ -239,12 +239,12 @@
 <p class="eyebrow">Single-volume edition · 2026</p>
 <h1>The Larger World Archive</h1>
 <p class="lede">Every dossier, in reading order, as one continuous document — built for printing, saving, or reading straight through.</p>
-<p style="margin:22px 0 6px"><a class="btn solid" href="assets/larger-world-archive.pdf">Download the PDF — 2160 pages, 3 MB</a> &nbsp; <a class="btn" href="assets/larger-world-archive.epub">Download the EPUB — 966 parts, 1467 KB</a></p>
+<p style="margin:22px 0 6px"><a class="btn solid" href="assets/larger-world-archive.pdf">Download the PDF — 2192 pages, 3 MB</a> &nbsp; <a class="btn" href="assets/larger-world-archive.epub">Download the EPUB — 982 parts, 1483 KB</a></p>
 <p class="small" style="margin:0 0 18px">A5, set for reading rather than for screen: no images, no navigation, one part per page-opening, every source list kept. The EPUB is the same 164 parts as reflowable text for a reader; both are generated from this page.</p>
 <p class="small" style="max-width:60ch">Each part keeps its own source list. Claims are quoted and attributed; where a claim has been tested, the test is linked alongside it. Inclusion is not endorsement. Use your browser’s Print command for a paper copy — the layout switches to black on white automatically.</p>
 </div>
 <section>
-<h2><span class="num">Contents</span>966 parts</h2>
+<h2><span class="num">Contents</span>982 parts</h2>
 <ol class="toc">
 <li><a href="#part-larger-globe">The Larger Globe</a></li>
 <li><a href="#part-flat-earth">Flat Earth &amp; the Firmament</a></li>
@@ -1211,6 +1211,22 @@
 <li><a href="#part-mohan-jo-daro-dancing-girl">The Dancing Girl of Mohenjo-daro</a></li>
 <li><a href="#part-jantar-mantar">The Jantar Mantar</a></li>
 <li><a href="#part-stepwells">Stepwells</a></li>
+<li><a href="#part-emergent-abilities">Emergent Abilities</a></li>
+<li><a href="#part-ai-hallucination">AI Hallucination</a></li>
+<li><a href="#part-rlhf">RLHF</a></li>
+<li><a href="#part-alignment-tax">The Alignment Tax</a></li>
+<li><a href="#part-benchmark-contamination">Benchmark Contamination</a></li>
+<li><a href="#part-agi-timelines">AGI Timelines</a></li>
+<li><a href="#part-compute-governance">Compute Governance</a></li>
+<li><a href="#part-open-weights">Open Weights</a></li>
+<li><a href="#part-model-welfare">Model Welfare</a></li>
+<li><a href="#part-prompt-injection">Prompt Injection</a></li>
+<li><a href="#part-data-wall">The Data Wall</a></li>
+<li><a href="#part-superintelligence">Superintelligence</a></li>
+<li><a href="#part-mechanistic-interpretability">Mechanistic Interpretability</a></li>
+<li><a href="#part-ai-bubble">The AI Bubble</a></li>
+<li><a href="#part-model-collapse">Model Collapse</a></li>
+<li><a href="#part-deepfake-detection">Deepfake Detection</a></li>
 <li><a href="#part-sources">All Sources</a></li>
 </ol>
 </section>
@@ -21646,6 +21662,294 @@
 <li><span class="t">Wikipedia, “Rani ki Vav” — an example</span><span class="u"><a href="https://en.wikipedia.org/wiki/Rani_ki_Vav">en.wikipedia.org</a></span></li>
 </ul>
 </section>
+<section class="part" id="part-emergent-abilities">
+<h2 class="part-title">Emergent Abilities</h2>
+<p><em>Big models were said to suddenly acquire skills. The suddenness turned out to be the metric's fault.</em></p>
+<h2>The claim</h2>
+<p>A 2022 paper reported that large language models show 'emergent abilities' — sharp improvements on tasks that appear suddenly at certain scales, and are absent in smaller models.</p>
+<h2>The counter-evidence</h2>
+<p>A 2023 analysis showed that the sharpness depends on the metric: exact-match scoring produces cliffs, while smoother measures such as token-level accuracy produce gradual improvement. The abilities are documented; the emergence is largely an artefact of measurement.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> the benchmark results.</p><p><strong>Documented:</strong> the metric dependence.</p><p><strong>Contested:</strong> whether emergence is real.</p><p><strong>The honest label:</strong> live debate.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is a case where the finding was in the scoring function, and that is a familiar story here.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Emergent ability” — the claim</span><span class="u"><a href="https://en.wikipedia.org/wiki/Emergent_ability">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Large language model” — the technology</span><span class="u"><a href="https://en.wikipedia.org/wiki/Large_language_model">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Benchmark (computing)” — the measure</span><span class="u"><a href="https://en.wikipedia.org/wiki/Benchmark_(computing)">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Scaling law” — the context</span><span class="u"><a href="https://en.wikipedia.org/wiki/Neural_scaling_law">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-ai-hallucination">
+<h2 class="part-title">AI Hallucination</h2>
+<p><em>Models produce fluent, confident falsehoods. The phenomenon is documented and its cause is argued.</em></p>
+<h2>The phenomenon</h2>
+<p>Large language models generate plausible text that is false, including fabricated citations, dates and quotations, and they do so without signalling uncertainty. The behaviour is documented across systems and benchmarks.</p>
+<h2>The explanations</h2>
+<p>Proposed causes include next-token training that rewards plausibility over truth, the absence of a factuality signal in training, and the way reinforcement learning from human feedback can reward confident phrasing. The mitigations — retrieval, citations, refusal training — reduce but do not eliminate it.</p>
+<div class="answer"><span class="who">What is established</span><p><strong>Documented:</strong> the behaviour.</p><p><strong>Documented:</strong> fabricated citations.</p><p><strong>Contested:</strong> the mechanism.</p><p><strong>Partial:</strong> the mitigations.</p><p><strong>The label:</strong> documented.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is the most consequential new source of confident false claims, and the archive exists to label those.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Hallucination (artificial intelligence)” — the phenomenon</span><span class="u"><a href="https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Large language model” — the technology</span><span class="u"><a href="https://en.wikipedia.org/wiki/Large_language_model">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Reinforcement learning from human feedback” — the method</span><span class="u"><a href="https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Retrieval-augmented generation” — a mitigation</span><span class="u"><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-rlhf">
+<h2 class="part-title">RLHF</h2>
+<p><em>The technique that turned raw models into assistants, and the argument about what it actually does.</em></p>
+<h2>The method</h2>
+<p>Reinforcement learning from human feedback trains a model to produce outputs that human raters prefer, using a learned reward model. It is documented as the technique behind the shift from text completion to instruction-following assistants.</p>
+<h2>The limits</h2>
+<p>Documented concerns include reward hacking, sycophancy — models learning to agree with the rater — and the difficulty of specifying what is wanted. The method works and does not solve alignment; both parts are documented.</p>
+<div class="answer"><span class="who">What is established</span><p><strong>Documented:</strong> the method and its use.</p><p><strong>Documented:</strong> reward hacking and sycophancy.</p><p><strong>Documented:</strong> the limits.</p><p><strong>The label:</strong> documented.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is a training method that shapes what a system will say, which is a claim about evidence.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Reinforcement learning from human feedback” — the method</span><span class="u"><a href="https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Sycophancy” — the failure mode</span><span class="u"><a href="https://en.wikipedia.org/wiki/Sycophancy">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Reward hacking” — the failure mode</span><span class="u"><a href="https://en.wikipedia.org/wiki/Reward_hacking">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “AI alignment” — the field</span><span class="u"><a href="https://en.wikipedia.org/wiki/AI_alignment">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-alignment-tax">
+<h2 class="part-title">The Alignment Tax</h2>
+<p><em>Safety measures are said to cost capability. The size of the cost is argued and measured differently.</em></p>
+<h2>The claim</h2>
+<p>The alignment tax is the loss in capability or efficiency that comes from safety training, refusal behaviour or interpretability constraints. It is used in arguments about how much safety the field can afford.</p>
+<h2>The evidence</h2>
+<p>Measurements show costs in some settings and small or negative costs in others; safety training can improve usefulness, and some constraints cost compute rather than quality. The trade-off is documented; the size depends on the task and the measure.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> the concept.</p><p><strong>Measured:</strong> in some settings.</p><p><strong>Contested:</strong> the size.</p><p><strong>Sometimes:</strong> no cost at all.</p><p><strong>The honest label:</strong> live debate.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is a policy argument resting on an empirical claim that is rarely measured in public.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “AI alignment” — the field</span><span class="u"><a href="https://en.wikipedia.org/wiki/AI_alignment">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “AI safety” — the topic</span><span class="u"><a href="https://en.wikipedia.org/wiki/AI_safety">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Language model” — the technology</span><span class="u"><a href="https://en.wikipedia.org/wiki/Language_model">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Benchmark (computing)” — the measure</span><span class="u"><a href="https://en.wikipedia.org/wiki/Benchmark_(computing)">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-benchmark-contamination">
+<h2 class="part-title">Benchmark Contamination</h2>
+<p><em>Test sets end up in training data, so the scores measure memory. The problem is documented and hard to fix.</em></p>
+<h2>The problem</h2>
+<p>Large models are trained on web text, and public benchmarks are on the web. Studies have found that models can reproduce test items verbatim, and that scores on contaminated benchmarks overstate capability.</p>
+<h2>The responses</h2>
+<p>Documented responses include private held-out sets, canary strings, and dynamic benchmarks generated fresh. None is complete, and contamination detection is itself an active research problem.</p>
+<div class="answer"><span class="who">What is established</span><p><strong>Documented:</strong> the contamination.</p><p><strong>Documented:</strong> verbatim reproduction.</p><p><strong>Documented:</strong> the mitigations.</p><p><strong>Incomplete:</strong> the solutions.</p><p><strong>The label:</strong> documented.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is the same failure as a student who has seen the exam, and the archive knows that one.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Data contamination” — the problem</span><span class="u"><a href="https://en.wikipedia.org/wiki/Data_contamination">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Benchmark (computing)” — the measure</span><span class="u"><a href="https://en.wikipedia.org/wiki/Benchmark_(computing)">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Large language model” — the technology</span><span class="u"><a href="https://en.wikipedia.org/wiki/Large_language_model">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Training, validation, and test data sets” — the method</span><span class="u"><a href="https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-agi-timelines">
+<h2 class="part-title">AGI Timelines</h2>
+<p><em>Predictions for when machines match humans at everything. The record of past predictions is documented.</em></p>
+<h2>The predictions</h2>
+<p>Researchers and companies have offered dates for artificial general intelligence ranging from a few years to never, and surveys of experts show wide disagreement. Several predictions from the 2010s have passed without the milestone.</p>
+<h2>The record</h2>
+<p>The documented pattern is that capability forecasts have been both too optimistic and too pessimistic depending on the task, and that definitions of AGI shift when a milestone is approached. No forecasting method has an established track record.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> the predictions and surveys.</p><p><strong>Documented:</strong> the missed dates.</p><p><strong>Contested:</strong> the definitions.</p><p><strong>The honest label:</strong> live debate.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is a claim about the future, and the archive's rule is to record what the record shows.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Artificial general intelligence” — the concept</span><span class="u"><a href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Technological singularity” — the related claim</span><span class="u"><a href="https://en.wikipedia.org/wiki/Technological_singularity">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Forecasting” — the method</span><span class="u"><a href="https://en.wikipedia.org/wiki/Forecasting">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “AI takeovers in popular culture” — the context</span><span class="u"><a href="https://en.wikipedia.org/wiki/AI_takeover">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-compute-governance">
+<h2 class="part-title">Compute Governance</h2>
+<p><em>Controlling access to training compute as a way to govern AI. The policy is documented; its effectiveness is argued.</em></p>
+<h2>The approach</h2>
+<p>Because frontier training requires very large clusters of specialised chips, compute is one of the few measurable inputs to AI development. Proposals include export controls, reporting thresholds and licensed clusters.</p>
+<h2>The argument</h2>
+<p>Export controls on advanced chips are documented policy, with reported effects on the target's access. Critics argue that compute is only one input, that algorithms and data matter, and that controls are leaky; supporters argue that it is the most tractable lever available.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> the policy instruments.</p><p><strong>Documented:</strong> the concentration of compute.</p><p><strong>Contested:</strong> the effectiveness.</p><p><strong>The honest label:</strong> live debate.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is a governance claim resting on an assumption about what matters, and that assumption is testable in principle.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “AI governance” — the field</span><span class="u"><a href="https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Export control” — the instrument</span><span class="u"><a href="https://en.wikipedia.org/wiki/Export_control">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Semiconductor device fabrication” — the bottleneck</span><span class="u"><a href="https://en.wikipedia.org/wiki/Semiconductor_device_fabrication">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “AI safety” — the context</span><span class="u"><a href="https://en.wikipedia.org/wiki/AI_safety">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-open-weights">
+<h2 class="part-title">Open Weights</h2>
+<p><em>Models released for anyone to run. The benefits and the risks are both documented, and the argument is live.</em></p>
+<h2>The practice</h2>
+<p>Open-weight models are published with their parameters downloadable, so they can be run and modified locally. Several capable families are released this way, and the practice is documented.</p>
+<h2>The argument</h2>
+<p>Documented benefits include competition, inspection, local control and research access. Documented risks include the removal of safety filters and use for fraud or bioweapon research. Both sides cite evidence, and the net assessment is contested.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> the releases.</p><p><strong>Documented:</strong> benefits and risks.</p><p><strong>Contested:</strong> the net effect.</p><p><strong>The honest label:</strong> live debate.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is the open-source argument again, with higher stakes and better documentation.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Open-weight model” — the practice</span><span class="u"><a href="https://en.wikipedia.org/wiki/Open-weight_model">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Open-source software” — the precedent</span><span class="u"><a href="https://en.wikipedia.org/wiki/Open-source_software">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “AI safety” — the context</span><span class="u"><a href="https://en.wikipedia.org/wiki/AI_safety">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Regulation of artificial intelligence” — the policy</span><span class="u"><a href="https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-model-welfare">
+<h2 class="part-title">Model Welfare</h2>
+<p><em>The question of whether AI systems can suffer. The question is serious; the evidence is absent.</em></p>
+<h2>The question</h2>
+<p>As systems produce text that describes inner states, some researchers and companies have begun asking whether they could be welfare subjects, and one major lab has a model-welfare research programme.</p>
+<h2>The evidence</h2>
+<p>There is no accepted evidence of sentience in current systems, and the outputs that suggest it are generated by next-token prediction. The philosophical and ethical debate is documented; the empirical question is open and may not be resolvable by current methods.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> the debate and the programmes.</p><p><strong>No evidence:</strong> of sentience.</p><p><strong>Explained:</strong> by training on human text.</p><p><strong>The honest label:</strong> fringe.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because the question is asked seriously and the evidence is not there, which is exactly the combination this archive labels.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Artificial consciousness” — the question</span><span class="u"><a href="https://en.wikipedia.org/wiki/Artificial_consciousness">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Animal welfare” — the analogy</span><span class="u"><a href="https://en.wikipedia.org/wiki/Animal_welfare">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Philosophy of mind” — the field</span><span class="u"><a href="https://en.wikipedia.org/wiki/Philosophy_of_mind">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Sentience” — the concept</span><span class="u"><a href="https://en.wikipedia.org/wiki/Sentience">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-prompt-injection">
+<h2 class="part-title">Prompt Injection</h2>
+<p><em>Instructions hidden in text that an AI system reads, which hijack what it does. The vulnerability is documented and unsolved.</em></p>
+<h2>The vulnerability</h2>
+<p>Prompt injection is the insertion of instructions into content that a model processes — a web page, an email, a document — so that the model follows them instead of its operator's instructions. It is documented in security research since 2022.</p>
+<h2>The state of the fix</h2>
+<p>Mitigations exist and none is complete, because the model cannot reliably distinguish instructions from data. The problem is documented as an unsolved class of vulnerability rather than a bug to be patched.</p>
+<div class="answer"><span class="who">What is established</span><p><strong>Documented:</strong> the attack class.</p><p><strong>Documented:</strong> the mitigations.</p><p><strong>Not solved:</strong> the problem.</p><p><strong>The label:</strong> documented.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is the security flaw that follows from the archive's own subject: text that instructs.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Prompt injection” — the vulnerability</span><span class="u"><a href="https://en.wikipedia.org/wiki/Prompt_injection">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Computer security” — the field</span><span class="u"><a href="https://en.wikipedia.org/wiki/Computer_security">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “SQL injection” — the analogy</span><span class="u"><a href="https://en.wikipedia.org/wiki/SQL_injection">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Large language model” — the technology</span><span class="u"><a href="https://en.wikipedia.org/wiki/Large_language_model">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-data-wall">
+<h2 class="part-title">The Data Wall</h2>
+<p><em>The claim that training data is running out. The estimate depends on what counts as data.</em></p>
+<h2>The claim</h2>
+<p>Several analyses estimate that high-quality public text will be exhausted for frontier training within years, and that model developers are already using synthetic data and licensed corpora.</p>
+<h2>The counter-arguments</h2>
+<p>Estimates vary by an order of magnitude depending on quality thresholds and on whether images, video, code and private data are counted. Synthetic data, better data efficiency and multimodal training are documented responses, and their sufficiency is unknown.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> the estimates.</p><p><strong>Contested:</strong> the timeline.</p><p><strong>Documented:</strong> the responses.</p><p><strong>Unknown:</strong> whether they suffice.</p><p><strong>The honest label:</strong> live debate.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is a resource claim that shapes the whole AI argument, and the number is soft.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Training data” — the concept</span><span class="u"><a href="https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Synthetic data” — a response</span><span class="u"><a href="https://en.wikipedia.org/wiki/Synthetic_data">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Large language model” — the technology</span><span class="u"><a href="https://en.wikipedia.org/wiki/Large_language_model">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Web scraping” — the source</span><span class="u"><a href="https://en.wikipedia.org/wiki/Web_scraping">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-superintelligence">
+<h2 class="part-title">Superintelligence</h2>
+<p><em>The proposal that an intelligence explosion would produce a system beyond human control. The argument is documented; the outcome is speculative.</em></p>
+<h2>The argument</h2>
+<p>I. J. Good proposed in 1965 that a machine able to improve itself would do so faster and faster, and Nick Bostrom's 2014 book made the case that such a system would be extremely powerful and hard to control.</p>
+<h2>The problems</h2>
+<p>The argument depends on assumptions about recursive self-improvement, takeoff speed and goal stability that are argued rather than demonstrated. No such system exists, and the empirical basis for the timeline is thin; the risk analysis is documented and the claim is speculative.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> the argument.</p><p><strong>Documented:</strong> the critiques.</p><p><strong>Not demonstrated:</strong> recursive self-improvement.</p><p><strong>The honest label:</strong> fringe.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is the most influential speculative claim of the century, and it should be labelled as speculation.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Superintelligence” — the concept</span><span class="u"><a href="https://en.wikipedia.org/wiki/Superintelligence">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Intelligence explosion” — the mechanism</span><span class="u"><a href="https://en.wikipedia.org/wiki/Intelligence_explosion">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “AI control problem” — the problem</span><span class="u"><a href="https://en.wikipedia.org/wiki/AI_control_problem">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Nick Bostrom” — the author</span><span class="u"><a href="https://en.wikipedia.org/wiki/Nick_Bostrom">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-mechanistic-interpretability">
+<h2 class="part-title">Mechanistic Interpretability</h2>
+<p><em>The attempt to reverse-engineer what a model is computing inside. Results are documented; the general claim is not.</em></p>
+<h2>The field</h2>
+<p>Mechanistic interpretability tries to identify the internal circuits and features a model uses — for example, induction heads, specific feature directions, and circuits for particular tasks — and has produced documented findings in small models.</p>
+<h2>The limits</h2>
+<p>Whether the approach scales to frontier models, and whether it can give assurance about behaviour, is argued. Partial explanations of small circuits are documented; a general account of a large model is not.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> specific circuit findings.</p><p><strong>Contested:</strong> scaling to large models.</p><p><strong>Not established:</strong> assurance.</p><p><strong>The honest label:</strong> live debate.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is the field that would make AI claims checkable, and it is not there yet.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Mechanistic interpretability” — the field</span><span class="u"><a href="https://en.wikipedia.org/wiki/Mechanistic_interpretability">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Explainable artificial intelligence” — the broader field</span><span class="u"><a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Artificial neural network” — the structure</span><span class="u"><a href="https://en.wikipedia.org/wiki/Artificial_neural_network">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “AI safety” — the context</span><span class="u"><a href="https://en.wikipedia.org/wiki/AI_safety">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-ai-bubble">
+<h2 class="part-title">The AI Bubble</h2>
+<p><em>The claim that AI investment is a bubble. The spending is documented; whether it is a bubble is a forecast.</em></p>
+<h2>The claim</h2>
+<p>Analysts and investors argue that capital spending on AI infrastructure has outrun demonstrated revenue, and that a correction is likely. Others argue that the spending reflects a durable shift.</p>
+<h2>The evidence</h2>
+<p>The spending figures and revenue disclosures are documented; the interpretation is not. Historical bubbles are documented, and the analogy is suggestive rather than predictive. No one has a reliable method for identifying a bubble before it deflates.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> the spending.</p><p><strong>Documented:</strong> the revenue disclosures.</p><p><strong>Speculative:</strong> the bubble call.</p><p><strong>The honest label:</strong> live debate.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is a claim about the future dressed as a claim about the present.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Economic bubble” — the concept</span><span class="u"><a href="https://en.wikipedia.org/wiki/Economic_bubble">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Artificial intelligence” — the technology</span><span class="u"><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Capital expenditure” — the measure</span><span class="u"><a href="https://en.wikipedia.org/wiki/Capital_expenditure">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Dot-com bubble” — the precedent</span><span class="u"><a href="https://en.wikipedia.org/wiki/Dot-com_bubble">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-model-collapse">
+<h2 class="part-title">Model Collapse</h2>
+<p><em>Training on model output is said to degrade models. The phenomenon is documented in some settings; the generality is argued.</em></p>
+<h2>The claim</h2>
+<p>A 2023 paper argued that training generative models on their own output leads to 'model collapse' — a progressive loss of diversity and fidelity. The effect was demonstrated in text and image models.</p>
+<h2>The qualifications</h2>
+<p>Later work found that collapse depends on the ratio of synthetic to real data, and that accumulating real data or retaining original samples prevents it. The phenomenon is documented; the claim that it is inevitable is not.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> the effect in some settings.</p><p><strong>Documented:</strong> the conditions.</p><p><strong>Contested:</strong> inevitability.</p><p><strong>The honest label:</strong> live debate.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because it is a claim about evidence degradation, which is the archive's oldest subject in a new form.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Model collapse” — the phenomenon</span><span class="u"><a href="https://en.wikipedia.org/wiki/Model_collapse">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Synthetic data” — the cause</span><span class="u"><a href="https://en.wikipedia.org/wiki/Synthetic_data">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Generative artificial intelligence” — the technology</span><span class="u"><a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Training, validation, and test data sets” — the method</span><span class="u"><a href="https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets">en.wikipedia.org</a></span></li>
+</ul>
+</section>
+<section class="part" id="part-deepfake-detection">
+<h2 class="part-title">Deepfake Detection</h2>
+<p><em>Tools to spot synthetic media, and the arms race against them. Detection works sometimes.</em></p>
+<h2>The state of detection</h2>
+<p>Detectors use artefacts, physiological signals and learned features, and benchmark results are documented. Performance drops on new generators, compressed video and adversarial manipulation, which is documented in evaluation studies.</p>
+<h2>The argument</h2>
+<p>Some researchers argue detection will always lag; others argue that provenance standards — signed capture — are the more durable answer. Both are documented, and no method is reliable enough to settle a disputed video.</p>
+<div class="answer"><span class="who">Where it stands</span><p><strong>Documented:</strong> detector performance.</p><p><strong>Documented:</strong> degradation on new generators.</p><p><strong>Contested:</strong> the durable solution.</p><p><strong>The honest label:</strong> live debate.</p></div>
+<h2>Why it is in the archive</h2>
+<p>Because the archive's answer to 'is this real' has always been provenance, and that is now a technical standard.</p>
+<h3>Sources for this part</h3>
+<ul class="srclist">
+<li><span class="t">Wikipedia, “Deepfake” — the phenomenon</span><span class="u"><a href="https://en.wikipedia.org/wiki/Deepfake">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Content authenticity” — the provenance approach</span><span class="u"><a href="https://en.wikipedia.org/wiki/Content_Authenticity_Initiative">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Media forensics” — the field</span><span class="u"><a href="https://en.wikipedia.org/wiki/Media_forensics">en.wikipedia.org</a></span></li>
+<li><span class="t">Wikipedia, “Misinformation” — the context</span><span class="u"><a href="https://en.wikipedia.org/wiki/Misinformation">en.wikipedia.org</a></span></li>
+</ul>
+</section>
 <section class="part" id="part-sources">
 <h2 class="part-title">All Sources</h2>
 <p>Sources are grouped by field. Within each group, primary material — the text or the paper — is listed before commentary. Where a page quotes a fringe claim, the fringe source itself is included, so the claim can be read in its own words rather than in a hostile summary.</p>
@@ -21882,7 +22186,7 @@
 <hr class="rule">
 <h2>Source audit</h2>
 <p class="small">Every dossier ends with its own source list. This table is generated from the pages themselves each time the archive is rebuilt, so it cannot quietly drift from the content. If a page is thin, the number here shows it.</p>
-<p class="small"><b>963 dossiers · 626 source entries · 4.8 per page on average.</b> The thinnest page carries 2; the richest, 11.</p>
+<p class="small"><b>979 dossiers · 626 source entries · 4.8 per page on average.</b> The thinnest page carries 2; the richest, 11.</p>
 <table class="audit"><thead><tr><th>Dossier</th><th class="n">Sources</th></tr></thead>
 <tbody>
 <tr><td>Secret Societies</td><td class="n">11</td></tr>
@@ -22049,7 +22353,7 @@
 
 <div class="wrap">
 <p class="note"><b>The Larger World Archive</b> — an independent, non-commercial reading list. It collects fringe and mythological claims for study, with attribution; inclusion is not endorsement. Where a claim has been tested and failed, the test is linked alongside it.</p>
-<p class="note" style="text-align:right">963 dossiers · 2630 sources · 998 images<br><a href="master-list.html">Master list (150) →</a><br><a href="topics.html">Topic register →</a><br><a href="random.html">Random dossier →</a><br><a href="feed.xml">Feed →</a><br><a href="corrections.html">Corrections →</a><br><a href="how-to-read.html">How to read a dossier →</a><br><a href="glossary.html">Glossary →</a><br><a href="claims-index.html">Claim register →</a><br><a href="sources.html">Full bibliography →</a><br><a href="credits.html">Image credits →</a><br><a href="print-edition.html">Single-volume edition →</a></p>
+<p class="note" style="text-align:right">979 dossiers · 2630 sources · 1014 images<br><a href="master-list.html">Master list (150) →</a><br><a href="topics.html">Topic register →</a><br><a href="random.html">Random dossier →</a><br><a href="feed.xml">Feed →</a><br><a href="corrections.html">Corrections →</a><br><a href="how-to-read.html">How to read a dossier →</a><br><a href="glossary.html">Glossary →</a><br><a href="claims-index.html">Claim register →</a><br><a href="sources.html">Full bibliography →</a><br><a href="credits.html">Image credits →</a><br><a href="print-edition.html">Single-volume edition →</a></p>
 </div>
 </footer>
 <script src="assets/prefs.js" defer></script>

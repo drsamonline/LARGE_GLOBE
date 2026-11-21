@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 963,
+ "count": 979,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -364,6 +364,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "agi-timelines",
+   "url": "agi-timelines.html",
+   "title": "AGI Timelines",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Predictions for when machines match humans at everything. The record of past predictions is documented.",
+   "facts": {
+    "Status": "Contested",
+    "Forecasts": "Wide range",
+    "Record": "Missed dates; shifting definitions"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Artificial_general_intelligence",
+     "https://en.wikipedia.org/wiki/Technological_singularity",
+     "https://en.wikipedia.org/wiki/Forecasting",
+     "https://en.wikipedia.org/wiki/AI_takeover"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ai-box-experiment",
    "url": "ai-box-experiment.html",
    "title": "The AI Box Experiment",
@@ -388,6 +416,64 @@
      "https://en.wikipedia.org/wiki/AI_safety",
      "https://en.wikipedia.org/wiki/Anecdotal_evidence",
      "https://en.wikipedia.org/wiki/Blinded_experiment"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ai-bubble",
+   "url": "ai-bubble.html",
+   "title": "The AI Bubble",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that AI investment is a bubble. The spending is documented; whether it is a bubble is a forecast.",
+   "facts": {
+    "Status": "Live debate",
+    "Claim": "AI investment is a bubble",
+    "Documented": "Spending; revenue",
+    "Speculative": "The correction"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Economic_bubble",
+     "https://en.wikipedia.org/wiki/Artificial_intelligence",
+     "https://en.wikipedia.org/wiki/Capital_expenditure",
+     "https://en.wikipedia.org/wiki/Dot-com_bubble"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ai-hallucination",
+   "url": "ai-hallucination.html",
+   "title": "AI Hallucination",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Models produce fluent, confident falsehoods. The phenomenon is documented and its cause is argued.",
+   "facts": {
+    "Status": "Documented",
+    "Behaviour": "Fluent false output",
+    "Examples": "Fabricated citations; invented dates",
+    "Mitigations": "Retrieval; refusal training"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)",
+     "https://en.wikipedia.org/wiki/Large_language_model",
+     "https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback",
+     "https://en.wikipedia.org/wiki/Retrieval-augmented_generation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -760,6 +846,34 @@
      "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
      "https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter",
      "https://www.archives.gov/news/articles/do-records-show-proof-of-ufos"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "alignment-tax",
+   "url": "alignment-tax.html",
+   "title": "The Alignment Tax",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Safety measures are said to cost capability. The size of the cost is argued and measured differently.",
+   "facts": {
+    "Status": "Contested",
+    "Concept": "Capability cost of safety",
+    "Measured": "Varies by task"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/AI_alignment",
+     "https://en.wikipedia.org/wiki/AI_safety",
+     "https://en.wikipedia.org/wiki/Language_model",
+     "https://en.wikipedia.org/wiki/Benchmark_(computing)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2547,6 +2661,35 @@
      "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
      "https://en.wikipedia.org/wiki/Abc_conjecture",
      "https://en.wikipedia.org/wiki/American_Mathematical_Society"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "benchmark-contamination",
+   "url": "benchmark-contamination.html",
+   "title": "Benchmark Contamination",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Test sets end up in training data, so the scores measure memory. The problem is documented and hard to fix.",
+   "facts": {
+    "Status": "Documented",
+    "Problem": "Test data in training data",
+    "Evidence": "Verbatim reproduction",
+    "Mitigations": "Held-out sets; dynamic benchmarks"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Data_contamination",
+     "https://en.wikipedia.org/wiki/Benchmark_(computing)",
+     "https://en.wikipedia.org/wiki/Large_language_model",
+     "https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5067,6 +5210,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "compute-governance",
+   "url": "compute-governance.html",
+   "title": "Compute Governance",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Controlling access to training compute as a way to govern AI. The policy is documented; its effectiveness is argued.",
+   "facts": {
+    "Status": "Contested",
+    "Instrument": "Export controls; reporting; licensing",
+    "Assumption": "Compute is the binding input"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
+     "https://en.wikipedia.org/wiki/Export_control",
+     "https://en.wikipedia.org/wiki/Semiconductor_device_fabrication",
+     "https://en.wikipedia.org/wiki/AI_safety"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "conformal-cyclic-cosmology",
    "url": "conformal-cyclic-cosmology.html",
    "title": "Conformal Cyclic Cosmology",
@@ -5997,6 +6168,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "data-wall",
+   "url": "data-wall.html",
+   "title": "The Data Wall",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The claim that training data is running out. The estimate depends on what counts as data.",
+   "facts": {
+    "Status": "Contested",
+    "Claim": "Training data is running out",
+    "Estimates": "Vary widely",
+    "Responses": "Synthetic data; efficiency; multimodality"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets",
+     "https://en.wikipedia.org/wiki/Synthetic_data",
+     "https://en.wikipedia.org/wiki/Large_language_model",
+     "https://en.wikipedia.org/wiki/Web_scraping"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dating-elo",
    "url": "dating-elo.html",
    "title": "Dating-App Elo Gating",
@@ -6358,6 +6558,35 @@
      "https://www.crowdstrike.com/en-us/cybersecurity-101/threat-intelligence/dark-web-vs-deep-web",
      "https://theconversation.com/explainer-what-is-the-dark-web-46070",
      "https://www.torproject.org/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "deepfake-detection",
+   "url": "deepfake-detection.html",
+   "title": "Deepfake Detection",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Tools to spot synthetic media, and the arms race against them. Detection works sometimes.",
+   "facts": {
+    "Status": "Live debate",
+    "Methods": "Artefacts; physiology; learned features",
+    "Weakness": "New generators; compression",
+    "Alternative": "Provenance standards"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Deepfake",
+     "https://en.wikipedia.org/wiki/Content_Authenticity_Initiative",
+     "https://en.wikipedia.org/wiki/Media_forensics",
+     "https://en.wikipedia.org/wiki/Misinformation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8159,6 +8388,34 @@
      "https://en.wikipedia.org/wiki/Gesture",
      "https://en.wikipedia.org/wiki/Situated_cognition",
      "https://en.wikipedia.org/wiki/Cognitive_science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "emergent-abilities",
+   "url": "emergent-abilities.html",
+   "title": "Emergent Abilities",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Big models were said to suddenly acquire skills. The suddenness turned out to be the metric's fault.",
+   "facts": {
+    "Status": "Contested",
+    "Claim": "Abilities emerge suddenly",
+    "Reanalysis": "Depends on the metric"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Emergent_ability",
+     "https://en.wikipedia.org/wiki/Large_language_model",
+     "https://en.wikipedia.org/wiki/Benchmark_(computing)",
+     "https://en.wikipedia.org/wiki/Neural_scaling_law"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16026,6 +16283,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "mechanistic-interpretability",
+   "url": "mechanistic-interpretability.html",
+   "title": "Mechanistic Interpretability",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The attempt to reverse-engineer what a model is computing inside. Results are documented; the general claim is not.",
+   "facts": {
+    "Status": "Contested",
+    "Goal": "Reverse-engineer model computation",
+    "Findings": "Circuits in small models"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Mechanistic_interpretability",
+     "https://en.wikipedia.org/wiki/Explainable_artificial_intelligence",
+     "https://en.wikipedia.org/wiki/Artificial_neural_network",
+     "https://en.wikipedia.org/wiki/AI_safety"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "median-voter-theorem",
    "url": "median-voter-theorem.html",
    "title": "The Median Voter Theorem",
@@ -16559,6 +16844,63 @@
      "https://en.wikipedia.org/wiki/Tauroctony",
      "https://en.wikipedia.org/wiki/Axial_precession",
      "https://en.wikipedia.org/wiki/Astral_religion"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "model-collapse",
+   "url": "model-collapse.html",
+   "title": "Model Collapse",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Training on model output is said to degrade models. The phenomenon is documented in some settings; the generality is argued.",
+   "facts": {
+    "Status": "Contested",
+    "Claim": "Training on synthetic data degrades models",
+    "Conditions": "Depends on data ratio"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Model_collapse",
+     "https://en.wikipedia.org/wiki/Synthetic_data",
+     "https://en.wikipedia.org/wiki/Generative_artificial_intelligence",
+     "https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "model-welfare",
+   "url": "model-welfare.html",
+   "title": "Model Welfare",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The question of whether AI systems can suffer. The question is serious; the evidence is absent.",
+   "facts": {
+    "Status": "Fringe",
+    "Question": "Can AI systems suffer?",
+    "Evidence": "None",
+    "Debate": "Documented"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Artificial_consciousness",
+     "https://en.wikipedia.org/wiki/Animal_welfare",
+     "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+     "https://en.wikipedia.org/wiki/Sentience"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -18449,6 +18791,35 @@
      "https://arxiv.org/abs/2310.03693",
      "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
      "https://en.wikipedia.org/wiki/AI_safety"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "open-weights",
+   "url": "open-weights.html",
+   "title": "Open Weights",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Models released for anyone to run. The benefits and the risks are both documented, and the argument is live.",
+   "facts": {
+    "Status": "Contested",
+    "Practice": "Downloadable model weights",
+    "Benefits": "Competition; inspection; local control",
+    "Risks": "Filter removal; misuse"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Open-weight_model",
+     "https://en.wikipedia.org/wiki/Open-source_software",
+     "https://en.wikipedia.org/wiki/AI_safety",
+     "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -20834,6 +21205,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "prompt-injection",
+   "url": "prompt-injection.html",
+   "title": "Prompt Injection",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Instructions hidden in text that an AI system reads, which hijack what it does. The vulnerability is documented and unsolved.",
+   "facts": {
+    "Status": "Unsolved",
+    "Class": "Instruction injection",
+    "Since": "2022"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Prompt_injection",
+     "https://en.wikipedia.org/wiki/Computer_security",
+     "https://en.wikipedia.org/wiki/SQL_injection",
+     "https://en.wikipedia.org/wiki/Large_language_model"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "prophecies",
    "url": "prophecies.html",
    "title": "Prophecies",
@@ -21987,6 +22386,34 @@
      "https://en.wikipedia.org/wiki/Riemann_hypothesis/",
      "https://en.wikipedia.org/wiki/Riemann_zeta_function/",
      "https://en.wikipedia.org/wiki/Hilbert%E2%80%93P%C3%B3lya_conjecture/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "rlhf",
+   "url": "rlhf.html",
+   "title": "RLHF",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The technique that turned raw models into assistants, and the argument about what it actually does.",
+   "facts": {
+    "Status": "Documented",
+    "Method": "Preference-based training",
+    "Known issues": "Reward hacking; sycophancy"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback",
+     "https://en.wikipedia.org/wiki/Sycophancy",
+     "https://en.wikipedia.org/wiki/Reward_hacking",
+     "https://en.wikipedia.org/wiki/AI_alignment"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -25135,6 +25562,34 @@
      "https://en.wikipedia.org/wiki/Bell%27s_theorem",
      "https://en.wikipedia.org/wiki/Gerard_%27t_Hooft",
      "https://en.wikipedia.org/wiki/Falsifiability"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "superintelligence",
+   "url": "superintelligence.html",
+   "title": "Superintelligence",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The proposal that an intelligence explosion would produce a system beyond human control. The argument is documented; the outcome is speculative.",
+   "facts": {
+    "Status": "Speculative",
+    "Origin": "I. J. Good, 1965",
+    "Popularised": "Bostrom, 2014"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Superintelligence",
+     "https://en.wikipedia.org/wiki/Intelligence_explosion",
+     "https://en.wikipedia.org/wiki/AI_control_problem",
+     "https://en.wikipedia.org/wiki/Nick_Bostrom"
     ]
    },
    "last_reviewed": "2026-11-20",
