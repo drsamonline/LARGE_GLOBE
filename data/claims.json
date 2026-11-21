@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 306,
+ "count": 316,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -757,6 +757,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "backrooms-levels",
+   "url": "backrooms-levels.html",
+   "title": "The Backrooms Levels",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "An endless maze of yellow rooms, invented in a 2019 forum post, expanded by thousands of writers and filmmakers. It is fiction, it is labelled, and it has become one of the defining images of the internet's sense of place.",
+   "facts": {
+    "Status": "Fiction",
+    "Origin": "4chan post, May 2019",
+    "Form": "Collaborative fiction; 'levels'",
+    "Adaptation": "Kane Pixels series, 2022",
+    "Aesthetic": "Liminal space",
+    "Claim about the world": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/The_Backrooms",
+     "https://en.wikipedia.org/wiki/Liminal_space",
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Found_footage_(film_technique)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "backrooms",
    "url": "backrooms.html",
    "title": "The Backrooms",
@@ -1369,6 +1400,37 @@
      "https://en.wikipedia.org/wiki/Anger",
      "https://en.wikipedia.org/wiki/Expressive_writing",
      "https://en.wikipedia.org/wiki/Emotional_self-regulation"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ce5-contact-protocol",
+   "url": "ce5-contact-protocol.html",
+   "title": "The CE5 Contact Protocol",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Paid events where groups meditate to summon UFOs. Participants report lights in the sky; the lights are usually identifiable, and the protocol has never produced an object anyone could examine.",
+   "facts": {
+    "Status": "Debunked",
+    "Term": "Close encounter of the fifth kind",
+    "Popularised by": "Steven Greer",
+    "Method": "Meditation and light signalling at night",
+    "Reported": "Lights appearing and responding",
+    "Identified as": "Aircraft, satellites, lanterns, flares, drones"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Close_encounter",
+     "https://en.wikipedia.org/wiki/Steven_Greer",
+     "https://en.wikipedia.org/wiki/Sky_lantern",
+     "https://en.wikipedia.org/wiki/Satellite_flare"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2542,6 +2604,68 @@
      "https://doi.org/10.1177/1745691616652873",
      "https://doi.org/10.3389/fpsyg.2014.00823",
      "https://doi.org/10.1177/0956797621989733"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "elisa-lam-tapes",
+   "url": "elisa-lam-tapes.html",
+   "title": "The Elisa Lam Tapes",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A student died in a Los Angeles hotel in 2013, and the elevator footage of her last hours became one of the internet's most analysed videos. The official finding is an accidental drowning; the theories have not stopped.",
+   "facts": {
+    "Status": "Live debate",
+    "Death": "February 2013, Los Angeles",
+    "Finding": "Accidental drowning; bipolar disorder contributing",
+    "Footage": "Elevator video, released by police",
+    "Foul play": "No evidence produced",
+    "Setting": "A hotel with a documented safety record"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Death_of_Elisa_Lam",
+     "https://en.wikipedia.org/wiki/Cecil_Hotel_(Los_Angeles)",
+     "https://en.wikipedia.org/wiki/Bipolar_disorder",
+     "https://en.wikipedia.org/wiki/True_crime"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "elsagate",
+   "url": "elsagate.html",
+   "title": "Elsagate",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Children's videos on YouTube were infiltrated by content with inappropriate themes, surfaced by recommendation. The scandal was real, the platform response was documented, and the underlying problem has not gone away.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2017",
+    "Platform": "YouTube and YouTube Kids",
+    "Mechanism": "Engagement-optimised recommendation",
+    "Response": "Removals, restrictions, advertiser action",
+    "Later": "Variants continue to be reported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Elsagate",
+     "https://en.wikipedia.org/wiki/YouTube_Kids",
+     "https://en.wikipedia.org/wiki/Content_moderation",
+     "https://en.wikipedia.org/wiki/Recommender_system"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3838,6 +3962,37 @@
      "https://en.wikipedia.org/wiki/Shor%27s_algorithm",
      "https://en.wikipedia.org/wiki/Public-key_cryptography",
      "https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "havana-syndrome",
+   "url": "havana-syndrome.html",
+   "title": "Havana Syndrome",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Diplomats in Havana reported headaches, dizziness and cognitive problems, and some heard a sound. Eight years of investigation have produced two rival explanations and no confirmed cause.",
+   "facts": {
+    "Status": "Live debate",
+    "First cases": "Havana, 2016",
+    "Symptoms": "Headache, dizziness, tinnitus, cognitive complaints",
+    "Rival explanations": "Directed energy; mass psychogenic illness",
+    "Evidence for a device": "None produced",
+    "Case definition": "Inconsistent between studies"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Havana_syndrome",
+     "https://en.wikipedia.org/wiki/Mass_psychogenic_illness",
+     "https://en.wikipedia.org/wiki/Directed-energy_weapon",
+     "https://en.wikipedia.org/wiki/Microwave_auditory_effect"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5699,6 +5854,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "non-human-biologics",
+   "url": "non-human-biologics.html",
+   "title": "Non-Human Biologics",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A 2023 congressional hearing was told the United States holds craft and biological material of non-human origin. The claim is consequential, the evidence has not been produced, and the official investigations have found nothing to support it.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Testimony": "July 2023, House subcommittee",
+    "Claimant": "David Grusch, former intelligence officer",
+    "Basis": "Second-hand witness accounts",
+    "Evidence produced": "None",
+    "Official finding": "AARO, 2024 — no evidence of extraterrestrial technology"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/David_Grusch",
+     "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office",
+     "https://en.wikipedia.org/wiki/Unidentified_flying_object",
+     "https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "oak-island",
    "url": "oak-island.html",
    "title": "Oak Island",
@@ -7167,6 +7353,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sad-satan",
+   "url": "sad-satan.html",
+   "title": "Sad Satan",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A 2015 horror game distributed through the deep web, said to contain illegal material. The claims are unverified, the game has been examined, and its authorship is unknown.",
+   "facts": {
+    "Status": "Live debate",
+    "Circulated": "2015",
+    "Medium": "A game file passed between users",
+    "Claim": "Illegal content, deep-web origin",
+    "Examination": "No illegal material found",
+    "Authorship": "Unknown"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sad_Satan",
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Deep_web",
+     "https://en.wikipedia.org/wiki/Art_game"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "saqqara-bird",
    "url": "saqqara-bird.html",
    "title": "The Saqqara Bird",
@@ -7284,6 +7501,37 @@
      "https://en.wikipedia.org/wiki/The_Limits_to_Growth",
      "https://en.wikipedia.org/wiki/Simon%E2%80%93Ehrlich_wager",
      "https://www.usgs.gov/centers/national-minerals-information-center/mineral-commodity-summaries"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "scp-096",
+   "url": "scp-096.html",
+   "title": "SCP-096",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fiction",
+   "label_class": "b-fiction",
+   "label_canonical": true,
+   "standfirst": "A fictional creature that becomes violently distressed when its face is seen. It is one entry in a collaborative writing project with thousands of them, and it is labelled fiction everywhere it appears.",
+   "facts": {
+    "Status": "Fiction",
+    "Project": "SCP Foundation, from 2007",
+    "Entry": "SCP-096, 'The Shy Guy'",
+    "Format": "Clinical document style",
+    "Labelled": "Fiction, by its authors",
+    "Claim about the world": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/SCP_Foundation",
+     "https://en.wikipedia.org/wiki/Collaborative_fiction",
+     "https://en.wikipedia.org/wiki/Creepypasta",
+     "https://en.wikipedia.org/wiki/Creative_Commons"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7478,6 +7726,37 @@
      "https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor",
      "https://en.wikipedia.org/wiki/Monoamine_hypothesis_of_depression",
      "https://en.wikipedia.org/wiki/Antidepressant"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "shadow-biosphere",
+   "url": "shadow-biosphere.html",
+   "title": "The Shadow Biosphere",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "The proposal that life with a different biochemistry exists on Earth, undetected because our methods assume ours. It is a serious hypothesis with one famous failed test.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Proposed by": "Cleland and Davies, among others",
+    "Claim": "Life with a different biochemistry, undetected",
+    "Key test": "GFAJ-1, arsenic life, 2010",
+    "Outcome": "Refuted on reanalysis",
+    "Other candidates": "None survived"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Shadow_biosphere",
+     "https://en.wikipedia.org/wiki/GFAJ-1",
+     "https://en.wikipedia.org/wiki/Alternative_biochemistry",
+     "https://en.wikipedia.org/wiki/Abiogenesis"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7983,6 +8262,37 @@
      "https://en.wikipedia.org/wiki/Corpus_callosum",
      "https://en.wikipedia.org/wiki/Roger_Sperry",
      "https://en.wikipedia.org/wiki/Michael_Gazzaniga"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "starlink-ufo-panics",
+   "url": "starlink-ufo-panics.html",
+   "title": "Starlink and UFO Panics",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A train of bright lights crosses the sky, and a town reports a UFO. It is a line of satellites catching the sun, and the reports are now a routine part of astronomy outreach.",
+   "facts": {
+    "Status": "Documented",
+    "Cause": "Satellites in a line, sunlit after sunset",
+    "Since": "2019, with Starlink launches",
+    "Tracked": "Publicly, by orbit",
+    "Report spikes": "Coincide with launches",
+    "Identification": "Routine, by launch schedule"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Starlink",
+     "https://en.wikipedia.org/wiki/Satellite_constellation",
+     "https://en.wikipedia.org/wiki/Satellite_flare",
+     "https://en.wikipedia.org/wiki/Unidentified_flying_object"
     ]
    },
    "last_reviewed": "2026-11-20",

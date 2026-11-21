@@ -468,6 +468,27 @@ Ten more: five real-world hazards and five internet legends.
 
 The pairing is the point: the wet-bulb threshold is a physical limit nobody disputes and nobody acts on, while the Momo panic is a threat nobody could find and everybody acted on. Filing them on the same shelf is the archive's argument about what a claim is worth.
 
+## 0ac. Shipped in the twenty-ninth pass — 21 November 2026
+
+Ten more, from the internet-folklore shelf and the modern hazards beside it.
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | Havana Syndrome | Live debate |
+| 2 | Non-Human Biologics | Fringe claim |
+| 3 | The Shadow Biosphere | Fringe claim |
+| 4 | The CE5 Contact Protocol | Debunked |
+| 5 | Starlink and UFO Panics | Documented |
+| 6 | The Elisa Lam Tapes | Live debate |
+| 7 | Elsagate | Documented |
+| 8 | Sad Satan | Live debate |
+| 9 | SCP-096 | Fiction |
+| 10 | The Backrooms Levels | Fiction |
+
+316 dossiers, 1,370 sources, 350 images, 342 pages, PDF 864 pages, EPUB 318 chapters, sitemap 340 URLs, 0 problems.
+
+Two `fiction` pages in one batch is a first, and deliberate: the archive needs a shelf for honest invention, or the label scheme looks like it is only interested in error. SCP-096 and the Backrooms are labelled as fiction by their authors everywhere they appear, which is exactly what the fringe pages here are not.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
