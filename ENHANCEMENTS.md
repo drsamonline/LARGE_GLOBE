@@ -855,6 +855,16 @@ The batch's theme is that the record keeps turning out to be richer than the leg
 
 The relics pages are the archive at its most careful: a manuscript that is real (the Gospel of Judas), a shrine whose own custodians reject the story told about it (Roza Bal), an object nobody is allowed to examine (the Ark at Aksum), and a legend with a publication date (the Spear of Destiny, 1894 and after).
 
+## 0ax. Images and open resources — 21 November 2026
+
+Three changes to every page in the archive, requested as a pass of their own.
+
+**1. Images are no longer cropped.** `figure.hero-fig img` used `height:clamp(...)` with `object-fit:cover`, which cut the top and bottom off every hero photograph to fit a band. It is now `height:auto` with `max-height` and `object-fit:contain`, so the whole picture shows at its own aspect ratio. A lightbox was added: clicking any hero or gallery image opens it full-screen, Escape closes it.
+
+**2. Open resources on every page.** Each dossier now ends with a block linking to free, legitimate sources for its topic: Internet Archive texts (queried live for the page's title, with author and year), plus search links to DOAJ, PubMed Central, Internet Archive Scholar, Open Library, Project Gutenberg and Google Books. 331 pages have specific Internet Archive books; the rest carry the search links.
+
+**3. More images per page — in progress.** A tool (`enrich.py`) fetches two additional licence-cleared pictures per dossier, preferring the images used by the corresponding Wikipedia article and falling back to a filtered Commons search, and adds them as a captioned gallery. Twenty pages are done as the pilot; the remaining 742 are being filled in batches, because each image has to be searched, licence-checked, downloaded and converted.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
