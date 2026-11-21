@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 979,
+ "count": 994,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -1672,6 +1672,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "arson-myths",
+   "url": "arson-myths.html",
+   "title": "Arson Myths",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Investigators read patterns in fire damage as proof of arson. Many of the signs were normal fire behaviour.",
+   "facts": {
+    "Status": "Debunked",
+    "Indicators": "Crazing; charring; multiple origins",
+    "Tests": "Full-scale experiments",
+    "Outcome": "Convictions overturned"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Arson",
+     "https://en.wikipedia.org/wiki/Fire_investigation",
+     "https://en.wikipedia.org/wiki/Junk_science",
+     "https://en.wikipedia.org/wiki/Forensic_science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "arthur-roman",
    "url": "arthur-roman.html",
    "title": "Arthur as a Roman Commander",
@@ -2457,6 +2486,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "ballistics-matching",
+   "url": "ballistics-matching.html",
+   "title": "Ballistics Matching",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Marks on bullets and casings are matched to a gun. The marks are real; the certainty is argued.",
+   "facts": {
+    "Status": "Contested",
+    "Method": "Comparison microscopy",
+    "Error rate": "Low, not zero",
+    "Criticism": "No statistical foundation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Forensic_firearm_examination",
+     "https://en.wikipedia.org/wiki/Ballistics",
+     "https://en.wikipedia.org/wiki/Comparison_microscope",
+     "https://en.wikipedia.org/wiki/Forensic_science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "barabar-caves",
    "url": "barabar-caves.html",
    "title": "The Barabar Caves",
@@ -3035,6 +3093,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "bite-mark-evidence",
+   "url": "bite-mark-evidence.html",
+   "title": "Bite Mark Evidence",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Dentists testified that a wound matched a suspect's teeth. The science was never validated, and people were convicted.",
+   "facts": {
+    "Status": "Debunked",
+    "Practice": "Comparing wounds to dental casts",
+    "Finding": "NAS 2009: no scientific basis",
+    "Outcome": "Wrongful convictions; abandoned"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bite_mark_analysis",
+     "https://en.wikipedia.org/wiki/Forensic_dentistry",
+     "https://en.wikipedia.org/wiki/National_Academy_of_Sciences",
+     "https://en.wikipedia.org/wiki/Miscarriage_of_justice"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "black-hole-information",
    "url": "black-hole-information.html",
    "title": "The Black Hole Information Paradox",
@@ -3236,6 +3323,35 @@
      "https://en.wikipedia.org/wiki/Leech",
      "https://en.wikipedia.org/wiki/Humorism",
      "https://en.wikipedia.org/wiki/History_of_medicine"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "bloodstain-patterns",
+   "url": "bloodstain-patterns.html",
+   "title": "Bloodstain Pattern Analysis",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The shapes of bloodstains are used to reconstruct events. The physics is real; the inferences are argued.",
+   "facts": {
+    "Status": "Open",
+    "Method": "Pattern reconstruction",
+    "Physics": "Documented",
+    "Inference": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bloodstain_pattern_analysis",
+     "https://en.wikipedia.org/wiki/Fluid_dynamics",
+     "https://en.wikipedia.org/wiki/Forensic_science",
+     "https://en.wikipedia.org/wiki/National_Academy_of_Sciences"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3809,6 +3925,34 @@
      "https://en.wikipedia.org/wiki/Archaeological_forgery",
      "https://en.wikipedia.org/wiki/Pseudoarchaeology",
      "https://en.wikipedia.org/wiki/Epigraphy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "cadaver-dogs",
+   "url": "cadaver-dogs.html",
+   "title": "Cadaver Dogs",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Dogs trained to find human remains. The capability is real and the reliability is variable.",
+   "facts": {
+    "Status": "Contested",
+    "Capability": "Detecting decomposition scent",
+    "Variation": "Wide between teams"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Cadaver_dog",
+     "https://en.wikipedia.org/wiki/Detection_dog",
+     "https://en.wikipedia.org/wiki/Olfaction",
+     "https://en.wikipedia.org/wiki/Forensic_science"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8997,6 +9141,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "eyewitness-identification",
+   "url": "eyewitness-identification.html",
+   "title": "Eyewitness Identification",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The most persuasive evidence in a courtroom and one of the least reliable, as DNA exonerations showed.",
+   "facts": {
+    "Status": "Documented",
+    "Evidence": "DNA exonerations",
+    "Causes": "Stress; cross-race; suggestion",
+    "Reforms": "Double-blind lineups; recorded confidence"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Eyewitness_identification",
+     "https://en.wikipedia.org/wiki/Eyewitness_memory",
+     "https://en.wikipedia.org/wiki/Innocence_Project",
+     "https://en.wikipedia.org/wiki/Cross-race_effect"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "ezekiel-wheel",
    "url": "ezekiel-wheel.html",
    "title": "Ezekiel's Wheel",
@@ -9110,6 +9283,35 @@
      "https://en.wikipedia.org/wiki/Replication_crisis",
      "https://en.wikipedia.org/wiki/Emotion",
      "https://en.wikipedia.org/wiki/Proprioception"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "false-confessions",
+   "url": "false-confessions.html",
+   "title": "False Confessions",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "People confess to crimes they did not commit, and the reasons are documented.",
+   "facts": {
+    "Status": "Documented",
+    "Evidence": "DNA exonerations",
+    "Mechanisms": "Compliance; internalisation; minimisation",
+    "Reforms": "Recording; technique limits"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/False_confession",
+     "https://en.wikipedia.org/wiki/Reid_technique",
+     "https://en.wikipedia.org/wiki/Innocence_Project",
+     "https://en.wikipedia.org/wiki/Interrogation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9300,6 +9502,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "fibre-analysis",
+   "url": "fibre-analysis.html",
+   "title": "Fibre Analysis",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Fibres transfer between people and places. The transfer is real; the identification is weaker than it sounds.",
+   "facts": {
+    "Status": "Contested",
+    "Method": "Microscopic and dye comparison",
+    "Identifies": "A class, not a person"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Forensic_fiber_analysis",
+     "https://en.wikipedia.org/wiki/Trace_evidence",
+     "https://en.wikipedia.org/wiki/Locard%27s_exchange_principle",
+     "https://en.wikipedia.org/wiki/Forensic_science"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "fifa-bribes",
    "url": "fifa-bribes.html",
    "title": "FIFA Bribes",
@@ -9324,6 +9554,35 @@
      "https://en.wikipedia.org/wiki/FIFA",
      "https://en.wikipedia.org/wiki/Sepp_Blatter",
      "https://en.wikipedia.org/wiki/Racket_(crime)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "fingerprint-individuality",
+   "url": "fingerprint-individuality.html",
+   "title": "Fingerprint Individuality",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Fingerprints are unique in practice, and examiners' claims of certainty are a separate matter.",
+   "facts": {
+    "Status": "Contested",
+    "Method": "Ridge pattern comparison",
+    "Record": "Strong",
+    "Claim at issue": "Absolute certainty"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Fingerprint",
+     "https://en.wikipedia.org/wiki/Forensic_identification",
+     "https://en.wikipedia.org/wiki/Fingerprint_powder",
+     "https://en.wikipedia.org/wiki/2004_Madrid_train_bombings"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9758,6 +10017,35 @@
      "https://en.wikipedia.org/wiki/Delusion",
      "https://en.wikipedia.org/wiki/Shared_delusional_disorder",
      "https://en.wikipedia.org/wiki/DSM-5"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "forensic-fmri",
+   "url": "forensic-fmri.html",
+   "title": "Forensic fMRI",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that brain scans can detect lies or memories. The research exists; the courtroom use does not.",
+   "facts": {
+    "Status": "Debunked",
+    "Claims": "Lie detection; memory detection",
+    "Performance": "Above chance; unreliable",
+    "Courts": "Largely excluded"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Lie_detection",
+     "https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging",
+     "https://en.wikipedia.org/wiki/Brain_fingerprinting",
+     "https://en.wikipedia.org/wiki/Neuroethics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11137,6 +11425,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "graphology",
+   "url": "graphology.html",
+   "title": "Graphology",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that handwriting reveals personality. It has been tested many times and does not work.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "Handwriting reveals personality",
+    "Evidence": "Validity near zero"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Graphology",
+     "https://en.wikipedia.org/wiki/Questioned_document_examination",
+     "https://en.wikipedia.org/wiki/Personality_test",
+     "https://en.wikipedia.org/wiki/Pseudoscience"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "gravity-tabletop",
    "url": "gravity-tabletop.html",
    "title": "Gravity in Tabletop Experiments",
@@ -11743,6 +12059,35 @@
      "https://en.wikipedia.org/wiki/Ionosphere",
      "https://en.wikipedia.org/wiki/Weather_modification",
      "https://en.wikipedia.org/wiki/Conspiracy_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "hair-comparison",
+   "url": "hair-comparison.html",
+   "title": "Hair Comparison",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "FBI examiners testified that hairs 'matched' a suspect. The testimony overstated what the method could do.",
+   "facts": {
+    "Status": "Debunked",
+    "Method": "Microscopic comparison",
+    "Review": "FBI, 2015",
+    "Finding": "Overstated in most cases"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hair_analysis",
+     "https://en.wikipedia.org/wiki/Forensic_science",
+     "https://en.wikipedia.org/wiki/FBI_Laboratory",
+     "https://en.wikipedia.org/wiki/Forensic_identification"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -16581,6 +16926,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "microbiome-forensics",
+   "url": "microbiome-forensics.html",
+   "title": "Microbiome Forensics",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "The bacteria on a body or a phone may identify a person or a place. The research is early.",
+   "facts": {
+    "Status": "Live debate",
+    "Idea": "Microbial profiles as trace evidence",
+    "Evidence": "Early studies",
+    "Forensic use": "Not established"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Human_microbiome",
+     "https://en.wikipedia.org/wiki/Forensic_science",
+     "https://en.wikipedia.org/wiki/Thanatochemistry",
+     "https://en.wikipedia.org/wiki/Metagenomics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "microplastics-hormones",
    "url": "microplastics-hormones.html",
    "title": "Microplastics and Hormones",
@@ -20714,6 +21088,35 @@
      "https://en.wikipedia.org/wiki/Poltergeist_(1982_film)#Curse",
      "https://en.wikipedia.org/wiki/Selection_bias",
      "https://en.wikipedia.org/wiki/Dominique_Dunne"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "polygraph",
+   "url": "polygraph.html",
+   "title": "The Polygraph",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A machine that measures stress and is said to detect lies. It measures stress.",
+   "facts": {
+    "Status": "Contested",
+    "Measures": "Arousal",
+    "Review": "NAS 2003",
+    "Admissible": "Rarely"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Polygraph",
+     "https://en.wikipedia.org/wiki/Lie_detection",
+     "https://en.wikipedia.org/wiki/National_Academy_of_Sciences",
+     "https://en.wikipedia.org/wiki/Admissible_evidence"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -28234,6 +28637,34 @@
      "https://en.wikipedia.org/wiki/Vitamin_C",
      "https://en.wikipedia.org/wiki/Orthomolecular_medicine",
      "https://en.wikipedia.org/wiki/Randomized_controlled_trial"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "voice-identification",
+   "url": "voice-identification.html",
+   "title": "Voice Identification",
+   "theme": "Mind, belief and memory",
+   "theme_id": "mind",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Recognising a voice is something people do well and can do badly under stress.",
+   "facts": {
+    "Status": "Contested",
+    "Methods": "Earwitness; phonetic; software",
+    "Earwitness": "High error rates"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Earwitness_identification",
+     "https://en.wikipedia.org/wiki/Forensic_speaker_recognition",
+     "https://en.wikipedia.org/wiki/Voice_analysis",
+     "https://en.wikipedia.org/wiki/Eyewitness_identification"
     ]
    },
    "last_reviewed": "2026-11-20",
