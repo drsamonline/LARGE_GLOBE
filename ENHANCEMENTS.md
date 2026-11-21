@@ -781,6 +781,14 @@ The five `open problem` pages are the first use of that label in the archive, an
 
 The batch pairs the two directions the archive now runs in: pages where a legend was tested and failed (Pikachu's tail, the Fresno nightcrawlers, the hanging Munchkin) and pages where the fan reading turned out to be canon (Portal and Half-Life, Cobb's ring).
 
+## 0ap. Shipped in the forty-first pass — 21 November 2026: fan theories and creepypasta
+
+25 dossiers: twelve fan theories and film curses, eleven creepypasta and analog-horror works, two web artefacts.
+
+606 dossiers, 2,530 sources, 640 images, 632 pages, PDF 1,446 pages, EPUB 609 chapters, sitemap 630 URLs, 0 problems.
+
+**The duplicate guard is now in the publisher.** Before writing anything, `publish_batch.py` refuses to publish a slug whose page already exists, alongside its existing checks for missing metadata, placeholder values and too few sources. That is the check that would have caught `aphantasia` and the three overwrites before it. Six batches have now hit that failure; it should be the last.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.
