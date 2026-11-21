@@ -580,6 +580,40 @@ The first 25-dossier pass produced 22 new pages, because two slugs (`panpsychism
 
 The first full 25-dossier pass, and the mix is deliberate: five cosmology claims (two of which have been tested and narrowed), five cryptids, five solved or near-solved natural phenomena, five historical puzzles, and two pieces of fandom. The solved ones matter most — sailing stones, Lake Nyos, raining animals — because they show the archive's method producing an answer rather than withholding one.
 
+## 0ah. Shipped in the thirty-third pass — 21 November 2026: real operations and invented ones
+
+| # | Dossier | Label |
+|---|---|---|
+| 1 | Chemtrails | Debunked |
+| 2 | HAARP Weather Control | Debunked |
+| 3 | The Sovereign Strawman | Debunked |
+| 4 | NESARA and GESARA | Debunked |
+| 5 | Majestic 12 | Debunked |
+| 6 | Roswell Was Project Mogul | Documented |
+| 7 | The Montauk Project | Fringe claim |
+| 8 | Die Glocke | Fringe claim |
+| 9 | Operation Highjump | Fringe claim |
+| 10 | Lazar and Element 115 | Fringe claim |
+| 11 | The Tic Tac | Live debate |
+| 12 | The Men in Black | Fringe claim |
+| 13 | The Illuminati | Fringe claim |
+| 14 | The D.C. Street Grid | Debunked |
+| 15 | The Georgia Guidestones | Documented |
+| 16 | Bilderberg | Documented |
+| 17 | Fluoride and the Pineal Gland | Debunked |
+| 18 | The Water-Powered Car | Debunked |
+| 19 | Project Azorian | Documented |
+| 20 | Operation Snow White | Documented |
+| 21 | Stuxnet | Documented |
+| 22 | Crypto AG | Documented |
+| 23 | The Rainbow Warrior | Documented |
+| 24 | Dead Hand | Documented |
+| 25 | Ulcers Are Bacterial | Documented |
+
+408 dossiers, 1,738 sources, 442 images, 434 pages, PDF 1,050 pages, EPUB 408 chapters, sitemap 432 URLs, 0 problems.
+
+The batch is built as a paired argument: ten invented conspiracies on one side, nine real operations on the other. Roswell is a real cover-up of a balloon; Azorian is a real cover story for a submarine; Crypto AG is a real fifty-year secret that nobody exposed; Rainbow Warrior is a real state bombing that was admitted within weeks. Set beside chemtrails and Majestic 12, the difference is not plausibility — it is paperwork.
+
 ## 1. Shipped in the first pass
 
 These were gaps found in the audit and closed without touching a single sentence of content.

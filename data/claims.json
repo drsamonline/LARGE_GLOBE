@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 383,
+ "count": 408,
  "claims": [
   {
    "slug": "abiogenic-petroleum",
@@ -1159,6 +1159,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "bilderberg",
+   "url": "bilderberg.html",
+   "title": "Bilderberg",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "An annual off-the-record meeting of politicians, bankers and executives. It is real, it is influential, and it is not secret — the participant list is published every year.",
+   "facts": {
+    "Status": "Documented",
+    "Since": "1954",
+    "Attendees": "About 120–150 a year",
+    "Format": "Three days, off the record",
+    "Guest list": "Published annually",
+    "Formal power": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bilderberg_Meeting",
+     "https://en.wikipedia.org/wiki/Chatham_House_Rule",
+     "https://en.wikipedia.org/wiki/Transatlantic_relations",
+     "https://en.wikipedia.org/wiki/Elite_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "bird-compass",
    "url": "bird-compass.html",
    "title": "The Quantum Biology of the Bird Compass",
@@ -1686,6 +1717,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "chemtrails",
+   "url": "chemtrails.html",
+   "title": "Chemtrails",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that aircraft are spraying chemicals to control populations or climate. The trails are ice crystals, they behave exactly as contrail physics predicts, and no sampling has found the chemicals.",
+   "facts": {
+    "Status": "Debunked",
+    "Contrail": "Ice crystals from engine exhaust",
+    "Persistence depends on": "Humidity and temperature",
+    "Claimed payload": "Aluminium, barium, strontium",
+    "Sampling result": "Nothing above background",
+    "Recorded since": "1940s"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Contrail",
+     "https://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory",
+     "https://en.wikipedia.org/wiki/Cirrus_cloud",
+     "https://en.wikipedia.org/wiki/Cloud_seeding"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "chinese-room",
    "url": "chinese-room.html",
    "title": "The Chinese Room",
@@ -2161,6 +2223,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "crypto-ag",
+   "url": "crypto-ag.html",
+   "title": "Crypto AG",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A Swiss company sold encryption machines to governments around the world for decades. The CIA and the German BND owned it, and the machines were compromised by design.",
+   "facts": {
+    "Status": "Documented",
+    "Company": "Crypto AG, Zug, Switzerland",
+    "Owners": "CIA and BND, from 1970",
+    "Code name": "Rubicon",
+    "Duration": "About fifty years",
+    "Exposed": "2020, by journalism"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Crypto_AG",
+     "https://en.wikipedia.org/wiki/Signals_intelligence",
+     "https://en.wikipedia.org/wiki/Federal_Intelligence_Service",
+     "https://en.wikipedia.org/wiki/Backdoor_(computing)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "crystal-palaces",
    "url": "crystal-palaces.html",
    "title": "The Crystal Palaces",
@@ -2474,6 +2567,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dc-street-grid",
+   "url": "dc-street-grid.html",
+   "title": "The D.C. Street Grid",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "Washington's diagonal avenues are said to form a pentagram, a Masonic symbol and a satanic layout. They are baroque city planning, and the geometry does not work.",
+   "facts": {
+    "Status": "Debunked",
+    "Plan": "L'Enfant, 1791",
+    "Style": "Baroque diagonals over a grid",
+    "Precedents": "Versailles, Paris",
+    "Pentagram claim": "Requires selecting points",
+    "Occult evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Streets_and_highways_of_Washington,_D.C.",
+     "https://en.wikipedia.org/wiki/Pierre_Charles_L%27Enfant",
+     "https://en.wikipedia.org/wiki/Baroque_architecture",
+     "https://en.wikipedia.org/wiki/Apophenia"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "de-extinction",
    "url": "de-extinction.html",
    "title": "De-Extinction",
@@ -2498,6 +2622,36 @@
      "https://en.wikipedia.org/wiki/Colossal_Biosciences",
      "https://en.wikipedia.org/wiki/Ancient_DNA",
      "https://en.wikipedia.org/wiki/Conservation_biology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "dead-hand",
+   "url": "dead-hand.html",
+   "title": "Dead Hand",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A Soviet system designed to launch retaliation if the command authority were destroyed — a doomsday machine that actually exists, and is semi-automatic rather than automatic.",
+   "facts": {
+    "Status": "Uncertain; possibly modified and active",
+    "Russian name": "Perimetr",
+    "Developed": "1980s",
+    "Purpose": "Guaranteed retaliation after decapitation",
+    "Automation": "Semi-automatic, not fully"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dead_Hand",
+     "https://en.wikipedia.org/wiki/Mutual_assured_destruction",
+     "https://en.wikipedia.org/wiki/Command_and_control",
+     "https://en.wikipedia.org/wiki/Second_strike"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2689,6 +2843,37 @@
      "https://en.wikipedia.org/wiki/Dendera_light",
      "https://en.wikipedia.org/wiki/Lotus_(mythology)",
      "https://en.wikipedia.org/wiki/Crookes_tube"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "die-glocke",
+   "url": "die-glocke.html",
+   "title": "Die Glocke",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A supposed Nazi secret weapon called 'the Bell': a bell-shaped device said to use exotic physics. It appears in a 2000 book, and there is no contemporary document.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Popularised": "Witkowski, 2000",
+    "Claimed": "A bell-shaped device with exotic effects",
+    "Site": "Lower Silesia; a mine cooling tower",
+    "Wartime documents": "None",
+    "Fuel": "'Xerum 525' — no known chemistry"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Die_Glocke",
+     "https://en.wikipedia.org/wiki/Wunderwaffe",
+     "https://en.wikipedia.org/wiki/V-weapons",
+     "https://en.wikipedia.org/wiki/Pseudoscience"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -3798,6 +3983,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "fluoride-pineal",
+   "url": "fluoride-pineal.html",
+   "title": "Fluoride and the Pineal Gland",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that water fluoridation calcifies the pineal gland and dulls the mind. The studies cited are high-dose animal work, and the doses are orders of magnitude above drinking water.",
+   "facts": {
+    "Status": "Debunked",
+    "Regulated level": "About 0.7 mg/L",
+    "Pineal calcification": "Common with age, not fluoride-specific",
+    "Cited studies": "Animal, high dose",
+    "High natural exposure": "A real, separate problem",
+    "Deliberate purpose": "No evidence"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Water_fluoridation",
+     "https://en.wikipedia.org/wiki/Pineal_gland",
+     "https://en.wikipedia.org/wiki/Fluoride",
+     "https://en.wikipedia.org/wiki/Dose%E2%80%93response_relationship"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "flynn-effect",
    "url": "flynn-effect.html",
    "title": "The Flynn Effect",
@@ -4165,6 +4381,37 @@
      "https://en.wikipedia.org/wiki/Geopolymer",
      "https://en.wikipedia.org/wiki/Egyptian_pyramid_construction_techniques",
      "https://en.wikipedia.org/wiki/Petrography"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "georgia-guidestones",
+   "url": "georgia-guidestones.html",
+   "title": "The Georgia Guidestones",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A granite monument in Georgia carried ten commandments for a post-apocalyptic age, in eight languages. It was commissioned anonymously, vandalised repeatedly, and destroyed by a bomb in 2022.",
+   "facts": {
+    "Status": "Documented",
+    "Erected": "1980, Elberton, Georgia",
+    "Commissioner": "'R.C. Christian', unidentified",
+    "Inscriptions": "Ten principles, eight languages",
+    "Function": "Also an astronomical calendar",
+    "Destroyed": "July 2022, by explosive"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Georgia_Guidestones",
+     "https://en.wikipedia.org/wiki/Elberton,_Georgia",
+     "https://en.wikipedia.org/wiki/Granite",
+     "https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -4832,6 +5079,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "haarp-weather-control",
+   "url": "haarp-weather-control.html",
+   "title": "HAARP Weather Control",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A research facility in Alaska heats a patch of the upper atmosphere with radio waves. It has been blamed for earthquakes, hurricanes and mind control, and its power output is smaller than a large city's.",
+   "facts": {
+    "Status": "Debunked",
+    "Location": "Gakona, Alaska",
+    "Array": "180 antennas",
+    "Power": "About 3.6 MW",
+    "Target": "The ionosphere, ~100 km up",
+    "Fate": "Transferred to UAF, 2015"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/High-frequency_Active_Auroral_Research_Program",
+     "https://en.wikipedia.org/wiki/Ionosphere",
+     "https://en.wikipedia.org/wiki/Weather_modification",
+     "https://en.wikipedia.org/wiki/Conspiracy_theory"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "harvest-now-decrypt-later",
    "url": "harvest-now-decrypt-later.html",
    "title": "Harvest Now, Decrypt Later",
@@ -5239,6 +5517,37 @@
      "https://www.arc-cogitate.com/",
      "https://doi.org/10.1371/journal.pcbi.1011465",
      "https://www.nature.com/articles/d41586-023-02971-1"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "illuminati",
+   "url": "illuminati.html",
+   "title": "The Illuminati",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A Bavarian enlightenment society, banned in 1785, has become the supposed secret government of the world. The real organisation lasted nine years and left a paper trail.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Founded": "1776, Bavaria",
+    "Founder": "Adam Weishaupt",
+    "Banned": "1785",
+    "Records": "Seized and published",
+    "Survival": "No evidence"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Illuminati",
+     "https://en.wikipedia.org/wiki/Adam_Weishaupt",
+     "https://en.wikipedia.org/wiki/Eye_of_Providence",
+     "https://en.wikipedia.org/wiki/Conspiracy_theory"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -5708,6 +6017,37 @@
      "https://en.wikipedia.org/wiki/Omphalos_hypothesis",
      "https://www.gutenberg.org/ebooks/2529",
      "https://pubs.usgs.gov/gip/geotime/age.html"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "lazar-element-115",
+   "url": "lazar-element-115.html",
+   "title": "Lazar and Element 115",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A man who said he worked on alien craft at Area 51 claimed their fuel was element 115, unknown at the time. Element 115 was synthesised in 2003, and it decays in milliseconds.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Claimant": "Robert Lazar, from 1989",
+    "Claim": "Element 115 as a stable fuel",
+    "Synthesised": "2003 — moscovium",
+    "Stability": "Milliseconds",
+    "Employment claims": "Not supported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Bob_Lazar",
+     "https://en.wikipedia.org/wiki/Moscovium",
+     "https://en.wikipedia.org/wiki/Area_51",
+     "https://en.wikipedia.org/wiki/Island_of_stability"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6276,6 +6616,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "majestic-12",
+   "url": "majestic-12.html",
+   "title": "Majestic 12",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A set of documents supposedly signed by Truman, establishing a secret committee on recovered alien craft. The FBI examined them and called them fake, and the forgery is not subtle.",
+   "facts": {
+    "Status": "Debunked",
+    "Arrived": "1984, anonymously",
+    "Claim": "A secret committee from 1947",
+    "FBI finding": "Fabricated, 1988",
+    "Evidence": "Copied signature; wrong formats",
+    "Provenance": "An envelope"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Majestic_12",
+     "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation",
+     "https://en.wikipedia.org/wiki/Forgery",
+     "https://en.wikipedia.org/wiki/Ufology"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "mandela-effect",
    "url": "mandela-effect.html",
    "title": "The Mandela Effect",
@@ -6514,6 +6885,37 @@
      "https://doi.org/10.1086/256633",
      "https://en.wikipedia.org/wiki/McKelvey%E2%80%93Schofield_chaos_theorem",
      "https://en.wikipedia.org/wiki/Political_polarization"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "men-in-black",
+   "url": "men-in-black.html",
+   "title": "The Men in Black",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "Men in dark suits who visit witnesses and warn them to keep quiet. The stories are consistent, old, and unsupported by a single verified case.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Entered folklore": "1950s",
+    "Key book": "Gray Barker, 1956",
+    "Pattern": "Dark suits, warnings, odd behaviour",
+    "Verified visits": "None",
+    "Mundane seed": "Real officials interviewing witnesses"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Men_in_black",
+     "https://en.wikipedia.org/wiki/Gray_Barker",
+     "https://en.wikipedia.org/wiki/Albert_K._Bender",
+     "https://en.wikipedia.org/wiki/Ufology"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -6825,6 +7227,37 @@
      "https://en.wikipedia.org/wiki/Gobi_Desert",
      "https://en.wikipedia.org/wiki/Roy_Chapman_Andrews",
      "https://en.wikipedia.org/wiki/Electric_organ_(biology)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "montauk-project",
+   "url": "montauk-project.html",
+   "title": "The Montauk Project",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A claimed secret programme at a decommissioned radar station on Long Island: mind control, time travel, and a boy who conjured a monster. The station is real; the programme exists only in books.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Site": "Camp Hero, Montauk, New York",
+    "Real use": "Coastal radar station",
+    "Decommissioned": "1981",
+    "Claimed": "Mind control, time travel, teleportation",
+    "Evidence": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Montauk_Project",
+     "https://en.wikipedia.org/wiki/Camp_Hero_State_Park",
+     "https://en.wikipedia.org/wiki/Philadelphia_Experiment",
+     "https://en.wikipedia.org/wiki/Radar"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7181,6 +7614,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "nesara-gesara",
+   "url": "nesara-gesara.html",
+   "title": "NESARA and GESARA",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "A claimed law that would cancel all debt, abolish income tax and deliver prosperity packages. It has been 'about to be announced' for thirty years.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "A secret law abolishing debt and tax",
+    "Public record": "None",
+    "Source": "Channelled messages, 1990s",
+    "Announcement dates": "Repeatedly missed",
+    "Structure": "Imminent transformation, blocked by a cabal"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/NESARA",
+     "https://en.wikipedia.org/wiki/Prosperity_theology",
+     "https://en.wikipedia.org/wiki/QAnon",
+     "https://en.wikipedia.org/wiki/Channelling_(mediumistic)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "nessie-plesiosaur",
    "url": "nessie-plesiosaur.html",
    "title": "Nessie as a Plesiosaur",
@@ -7421,6 +7885,68 @@
      "https://arxiv.org/abs/2310.03693",
      "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
      "https://en.wikipedia.org/wiki/AI_safety"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "operation-highjump",
+   "url": "operation-highjump.html",
+   "title": "Operation Highjump",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Fringe claim",
+   "label_class": "b-fringe",
+   "label_canonical": true,
+   "standfirst": "A US naval expedition to Antarctica in 1946–47, with 4,700 men and a carrier. It has been read as a military operation against a hidden Nazi or alien base.",
+   "facts": {
+    "Status": "Fringe claim",
+    "Dates": "1946–47",
+    "Personnel": "About 4,700",
+    "Ships": "Thirteen, including a carrier",
+    "Purpose": "Mapping, training, science",
+    "Combat record": "None"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Operation_Highjump",
+     "https://en.wikipedia.org/wiki/Richard_E._Byrd",
+     "https://en.wikipedia.org/wiki/Antarctic_Treaty_System",
+     "https://en.wikipedia.org/wiki/New_Swabia"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "operation-snow-white",
+   "url": "operation-snow-white.html",
+   "title": "Operation Snow White",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The Church of Scientology ran a systematic infiltration of US government offices to remove documents about itself. Eleven senior officials were convicted.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "1970s",
+    "Targets": "IRS, DOJ, FBI and others",
+    "Raids": "1977",
+    "Convictions": "Eleven senior officials",
+    "Scale": "Largest known infiltration of US government"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Operation_Snow_White",
+     "https://en.wikipedia.org/wiki/Church_of_Scientology",
+     "https://en.wikipedia.org/wiki/Mary_Sue_Hubbard",
+     "https://en.wikipedia.org/wiki/Internal_Revenue_Service"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -8303,6 +8829,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "project-azorian",
+   "url": "project-azorian.html",
+   "title": "Project Azorian",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The CIA built a ship to lift a sunken Soviet submarine from the Pacific floor, and told the world it was mining manganese. It is the most expensive covert engineering project of the Cold War.",
+   "facts": {
+    "Status": "Documented",
+    "Target": "Soviet submarine K-129, sank 1968",
+    "Ship": "Glomar Explorer",
+    "Cover story": "Seabed manganese mining",
+    "Attempt": "1974, partly successful",
+    "Declassified": "From 2010"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Project_Azorian",
+     "https://en.wikipedia.org/wiki/Soviet_submarine_K-129_(1960)",
+     "https://en.wikipedia.org/wiki/Glomar_response",
+     "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "prometheus",
    "url": "prometheus.html",
    "title": "Prometheus the Rebel",
@@ -8711,6 +9268,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "rainbow-warrior",
+   "url": "rainbow-warrior.html",
+   "title": "The Rainbow Warrior",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "French intelligence officers sank a Greenpeace ship in Auckland harbour, killing a photographer. France initially denied it, then admitted it.",
+   "facts": {
+    "Status": "Documented",
+    "Date": "10 July 1985",
+    "Place": "Auckland harbour, New Zealand",
+    "Outcome": "Ship sunk; one photographer killed",
+    "Perpetrator": "French DGSE, authorised at ministerial level",
+    "France's position": "Denied, then admitted"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sinking_of_the_Rainbow_Warrior",
+     "https://en.wikipedia.org/wiki/Directorate-General_for_External_Security",
+     "https://en.wikipedia.org/wiki/Greenpeace",
+     "https://en.wikipedia.org/wiki/Moruroa"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "raining-animals",
    "url": "raining-animals.html",
    "title": "Raining Animals",
@@ -9045,6 +9633,37 @@
      "https://en.wikipedia.org/wiki/Pozzolana",
      "https://en.wikipedia.org/wiki/Pantheon,_Rome",
      "https://en.wikipedia.org/wiki/Self-healing_concrete"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "roswell-mogul",
+   "url": "roswell-mogul.html",
+   "title": "Roswell Was Project Mogul",
+   "theme": "Space, physics and the cosmos",
+   "theme_id": "cosmos",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The 1947 Roswell debris was a secret balloon array built to listen for Soviet nuclear tests. The US Air Force said so in 1994, and the alien story arrived decades later.",
+   "facts": {
+    "Status": "Documented",
+    "Date": "July 1947",
+    "Debris": "Foil, rubber, sticks, tape",
+    "Programme": "Project Mogul — acoustic detection",
+    "Identified": "USAF report, 1994",
+    "Alien narrative": "From the late 1970s"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Roswell_incident",
+     "https://en.wikipedia.org/wiki/Project_Mogul",
+     "https://en.wikipedia.org/wiki/Balloon_(aeronautics)",
+     "https://en.wikipedia.org/wiki/Nuclear_weapons_testing"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -9906,6 +10525,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "sovereign-strawman",
+   "url": "sovereign-strawman.html",
+   "title": "The Sovereign Strawman",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that a birth certificate creates a corporate 'strawman' separate from the real person, and that a living soul can escape law by naming it. Courts have rejected it in every jurisdiction that has heard it.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "A birth certificate creates a separate legal entity",
+    "Legal basis": "None",
+    "Court record": "Rejected in every jurisdiction",
+    "Consequence": "Frivolous filing penalties; convictions",
+    "Pattern": "Losing treated as evidence"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Sovereign_citizen_movement",
+     "https://en.wikipedia.org/wiki/Pseudolaw",
+     "https://en.wikipedia.org/wiki/Birth_certificate",
+     "https://en.wikipedia.org/wiki/Jurisdiction"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "space-elevator",
    "url": "space-elevator.html",
    "title": "The Space Elevator",
@@ -10271,6 +10921,37 @@
      "https://en.wikipedia.org/wiki/Loop_quantum_gravity",
      "https://arxiv.org/abs/hep-th/0509212",
      "https://en.wikipedia.org/wiki/AdS/CFT_correspondence"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "stuxnet",
+   "url": "stuxnet.html",
+   "title": "Stuxnet",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A computer worm that destroyed uranium centrifuges in Iran by making them spin at the wrong speed while reporting normal operation. It is the first known cyber weapon to cause physical damage.",
+   "facts": {
+    "Status": "Documented",
+    "Discovered": "2010",
+    "Target": "Siemens controllers at an enrichment plant",
+    "Technique": "Replay normal data while damaging centrifuges",
+    "Zero-days used": "Four",
+    "Attribution": "US and Israel, by reporting"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Stuxnet",
+     "https://en.wikipedia.org/wiki/Nuclear_program_of_Iran",
+     "https://en.wikipedia.org/wiki/Zero-day_(computing)",
+     "https://en.wikipedia.org/wiki/Programmable_logic_controller"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -10847,6 +11528,37 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "tic-tac-encounter",
+   "url": "tic-tac-encounter.html",
+   "title": "The Tic Tac",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A Navy pilot filmed an object off San Diego in 2004 that looked like a tic tac and appeared to move impossibly. It is the best-documented modern UAP case, and it is still unexplained.",
+   "facts": {
+    "Status": "Live debate",
+    "Date": "November 2004",
+    "Location": "Off San Diego",
+    "Evidence": "Radar, FLIR video, pilot accounts",
+    "Proposed explanations": "Parallax, sensor artefact, drone",
+    "Established": "Nothing exotic"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Pentagon_UFO_videos",
+     "https://en.wikipedia.org/wiki/USS_Nimitz_UFO_incident",
+     "https://en.wikipedia.org/wiki/Forward-looking_infrared",
+     "https://en.wikipedia.org/wiki/Unidentified_flying_object"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "time-crystals",
    "url": "time-crystals.html",
    "title": "Time Crystals",
@@ -11091,6 +11803,37 @@
      "https://en.wikipedia.org/wiki/Meteoric_iron",
      "https://en.wikipedia.org/wiki/Tutankhamun",
      "https://en.wikipedia.org/wiki/X-ray_fluorescence"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "ulcers-bacterial",
+   "url": "ulcers-bacterial.html",
+   "title": "Ulcers Are Bacterial",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Stomach ulcers were said to be caused by stress and acid. Two Australian researchers found a bacterium living in the stomach lining, were ignored for a decade, and won the Nobel Prize.",
+   "facts": {
+    "Status": "Documented",
+    "Found": "1982, Perth, Australia",
+    "Researchers": "Barry Marshall and Robin Warren",
+    "Organism": "Helicobacter pylori",
+    "Resistance": "About a decade",
+    "Nobel Prize": "2005"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Helicobacter_pylori",
+     "https://en.wikipedia.org/wiki/Barry_Marshall",
+     "https://en.wikipedia.org/wiki/Peptic_ulcer_disease",
+     "https://en.wikipedia.org/wiki/Nobel_Prize_in_Physiology_or_Medicine"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11471,6 +12214,37 @@
      "https://doi.org/10.1126/science.1261952",
      "https://en.wikipedia.org/wiki/Carbonaceous_chondrite",
      "https://science.nasa.gov/mission/rosetta/"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "water-powered-car",
+   "url": "water-powered-car.html",
+   "title": "The Water-Powered Car",
+   "theme": "Internet, media and modern life",
+   "theme_id": "internet",
+   "label_text": "Debunked",
+   "label_class": "b-debunk",
+   "label_canonical": true,
+   "standfirst": "The claim that a car can run on water alone, usually by splitting it into hydrogen and oxygen on board. The electrolysis costs more energy than the hydrogen returns.",
+   "facts": {
+    "Status": "Debunked",
+    "Claim": "A car running on water alone",
+    "Method claimed": "On-board electrolysis",
+    "Problem": "Electrolysis costs more than it returns",
+    "Real technology": "Hydrogen fuel-cell vehicles",
+    "Record": "Independent tests have failed"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Water-fuelled_car",
+     "https://en.wikipedia.org/wiki/Electrolysis_of_water",
+     "https://en.wikipedia.org/wiki/Hydrogen_vehicle",
+     "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
     ]
    },
    "last_reviewed": "2026-11-20",
