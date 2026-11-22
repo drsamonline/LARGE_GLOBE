@@ -2,7 +2,7 @@
  "$comment": "The provenance ledger. Generated from the pages by tools/build-ledger.py; the pages remain the source of truth until the views are rewired to read this file. label_class is the canonical four-label colour; label_text is the page's own gloss, bespoke on some pages (label_canonical).",
  "site": "The Larger World Archive",
  "generated": "2026-11-20",
- "count": 994,
+ "count": 1010,
  "claims": [
   {
    "slug": "11b-x-1371",
@@ -87,6 +87,35 @@
      "https://en.wikipedia.org/wiki/Jho_Low",
      "https://en.wikipedia.org/wiki/Kleptocracy",
      "https://en.wikipedia.org/wiki/Money_laundering"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "2008-bailouts",
+   "url": "2008-bailouts.html",
+   "title": "The 2008 Bailouts",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Governments bought stakes in banks and insurers. The scale and the recovery are documented; the verdict is argued.",
+   "facts": {
+    "Status": "Documented",
+    "Year": "2008",
+    "Programmes": "TARP; central-bank facilities",
+    "Recovery": "Mostly repaid"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program",
+     "https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis",
+     "https://en.wikipedia.org/wiki/Bailout",
+     "https://en.wikipedia.org/wiki/Too_big_to_fail"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -2970,6 +2999,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "big-mac-index",
+   "url": "big-mac-index.html",
+   "title": "The Big Mac Index",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A burger as a currency benchmark. It is a joke that works as a teaching tool and not as a forecast.",
+   "facts": {
+    "Status": "Documented",
+    "Since": "1986",
+    "Basket": "One burger",
+    "Purpose": "Illustration"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Big_Mac_Index",
+     "https://en.wikipedia.org/wiki/Purchasing_power_parity",
+     "https://en.wikipedia.org/wiki/The_Economist",
+     "https://en.wikipedia.org/wiki/Exchange_rate"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "bilderberg",
    "url": "bilderberg.html",
    "title": "Bilderberg",
@@ -5347,6 +5405,35 @@
      "https://en.wikipedia.org/wiki/Comics_Code_Authority",
      "https://en.wikipedia.org/wiki/Moral_panic",
      "https://en.wikipedia.org/wiki/Comic_book"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "comparative-advantage",
+   "url": "comparative-advantage.html",
+   "title": "Comparative Advantage",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The clearest idea in economics, and the one most often misstated.",
+   "facts": {
+    "Status": "Documented",
+    "Author": "David Ricardo, 1817",
+    "Claim": "Specialisation raises total output",
+    "Conditions": "Documented assumptions"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Comparative_advantage",
+     "https://en.wikipedia.org/wiki/David_Ricardo",
+     "https://en.wikipedia.org/wiki/International_trade",
+     "https://en.wikipedia.org/wiki/Opportunity_cost"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -7871,6 +7958,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "dutch-disease",
+   "url": "dutch-disease.html",
+   "title": "Dutch Disease",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A resource boom that hollows out the rest of the economy by raising the currency.",
+   "facts": {
+    "Status": "Documented",
+    "Mechanism": "Exchange-rate appreciation",
+    "Named": "Netherlands, 1977",
+    "Cases": "Several"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Dutch_disease",
+     "https://en.wikipedia.org/wiki/Resource_curse",
+     "https://en.wikipedia.org/wiki/Exchange_rate",
+     "https://en.wikipedia.org/wiki/Natural_resource"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "dwarka",
    "url": "dwarka.html",
    "title": "Dwarka",
@@ -8086,6 +8202,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "easterlin-paradox",
+   "url": "easterlin-paradox.html",
+   "title": "The Easterlin Paradox",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Richer countries are happier; richer people within them are happier; but growth over time does not raise happiness much.",
+   "facts": {
+    "Status": "Contested",
+    "Author": "Richard Easterlin, 1974",
+    "Finding": "Little rise in happiness with growth"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Easterlin_paradox",
+     "https://en.wikipedia.org/wiki/Happiness_economics",
+     "https://en.wikipedia.org/wiki/Subjective_well-being",
+     "https://en.wikipedia.org/wiki/Gross_domestic_product"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "echo-chambers",
    "url": "echo-chambers.html",
    "title": "Echo Chambers",
@@ -8199,6 +8343,35 @@
      "https://doi.org/10.1126/science.aat1327",
      "https://doi.org/10.1073/pnas.1406512112",
      "https://doi.org/10.1038/nature11777"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "efficiency-wage",
+   "url": "efficiency-wage.html",
+   "title": "The Efficiency Wage",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Paying above the market rate can raise productivity. The theory is documented; the size is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Theory": "Above-market pay raises output",
+    "Evidence": "Field experiments",
+    "Magnitude": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Efficiency_wage",
+     "https://en.wikipedia.org/wiki/Labour_economics",
+     "https://en.wikipedia.org/wiki/Field_experiment",
+     "https://en.wikipedia.org/wiki/Wage"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -11123,6 +11296,34 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "gold-standard",
+   "url": "gold-standard.html",
+   "title": "The Gold Standard",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Money redeemable in gold, praised for discipline and blamed for depression. The history is documented; the lesson is argued.",
+   "facts": {
+    "Status": "Contested",
+    "Mechanism": "Fixed convertibility",
+    "Record": "Stability; then interwar deflation"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Gold_standard",
+     "https://en.wikipedia.org/wiki/Great_Depression",
+     "https://en.wikipedia.org/wiki/Deflation",
+     "https://en.wikipedia.org/wiki/Monetary_policy"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "goldbach-conjecture",
    "url": "goldbach-conjecture.html",
    "title": "The Goldbach Conjecture",
@@ -12832,6 +13033,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "hyperinflation-zimbabwe",
+   "url": "hyperinflation-zimbabwe.html",
+   "title": "Zimbabwe's Hyperinflation",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A currency destroyed by printing, with documented causes and documented consequences.",
+   "facts": {
+    "Status": "Documented",
+    "Period": "Late 2000s",
+    "Peak": "Astronomical",
+    "Response": "Currency abandoned, 2009"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe",
+     "https://en.wikipedia.org/wiki/Hyperinflation",
+     "https://en.wikipedia.org/wiki/Seigniorage",
+     "https://en.wikipedia.org/wiki/Currency_substitution"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "hyperloop",
    "url": "hyperloop.html",
    "title": "Hyperloop Feasibility",
@@ -14315,6 +14545,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "kuznets-curve",
+   "url": "kuznets-curve.html",
+   "title": "The Kuznets Curve",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Inequality rises with development and then falls. The data behind it were thin and the pattern is not general.",
+   "facts": {
+    "Status": "Live debate",
+    "Author": "Simon Kuznets, 1955",
+    "Claim": "Inequality follows an inverted U",
+    "Evidence": "Thin; not general"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Kuznets_curve",
+     "https://en.wikipedia.org/wiki/Simon_Kuznets",
+     "https://en.wikipedia.org/wiki/Environmental_Kuznets_curve",
+     "https://en.wikipedia.org/wiki/Economic_inequality"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "labyrinth-hawara",
    "url": "labyrinth-hawara.html",
    "title": "The Labyrinth of Hawara",
@@ -14337,6 +14596,35 @@
      "https://en.wikipedia.org/wiki/Amenemhat_III",
      "https://en.wikipedia.org/wiki/Herodotus",
      "https://en.wikipedia.org/wiki/Strabo"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "laffer-curve",
+   "url": "laffer-curve.html",
+   "title": "The Laffer Curve",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Tax revenue is zero at 0% and at 100%, so somewhere in between it peaks. The shape is argued.",
+   "facts": {
+    "Status": "Live debate",
+    "Endpoints": "Zero revenue at 0% and 100%",
+    "Peak": "Empirical; contested",
+    "Self-financing cuts": "Mostly unsupported"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Laffer_curve",
+     "https://en.wikipedia.org/wiki/Tax_revenue",
+     "https://en.wikipedia.org/wiki/Tax_incidence",
+     "https://en.wikipedia.org/wiki/Supply-side_economics"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -20486,6 +20774,35 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "phillips-curve",
+   "url": "phillips-curve.html",
+   "title": "The Phillips Curve",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "Inflation and unemployment trade off — until they stopped doing so in the 1970s.",
+   "facts": {
+    "Status": "Live debate",
+    "Claim": "Inflation and unemployment trade off",
+    "Breakdown": "1970s stagflation",
+    "Survives": "As a short-run relationship"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Phillips_curve",
+     "https://en.wikipedia.org/wiki/Stagflation",
+     "https://en.wikipedia.org/wiki/Inflation",
+     "https://en.wikipedia.org/wiki/Macroeconomics"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "phobos-monolith",
    "url": "phobos-monolith.html",
    "title": "The Phobos Monolith",
@@ -21996,6 +22313,35 @@
      "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
      "https://en.wikipedia.org/wiki/Records_of_the_Grand_Historian",
      "https://en.wikipedia.org/wiki/Mercury_(element)"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "quantitative-easing",
+   "url": "quantitative-easing.html",
+   "title": "Quantitative Easing",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "Central banks created money to buy assets. The policy is documented; its effects are argued.",
+   "facts": {
+    "Status": "Documented",
+    "From": "2008",
+    "Instrument": "Asset purchases",
+    "Effects": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Quantitative_easing",
+     "https://en.wikipedia.org/wiki/Central_bank",
+     "https://en.wikipedia.org/wiki/Balance_sheet",
+     "https://en.wikipedia.org/wiki/Monetary_policy"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -23885,6 +24231,35 @@
      "https://en.wikipedia.org/wiki/Omega-6_fatty_acid",
      "https://en.wikipedia.org/wiki/Inflammation",
      "https://en.wikipedia.org/wiki/Seed_oil"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "seigniorage",
+   "url": "seigniorage.html",
+   "title": "Seigniorage",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "The profit from issuing money, and the reason governments can fund themselves by printing.",
+   "facts": {
+    "Status": "Documented",
+    "Definition": "Revenue from issuing money",
+    "Risk": "Inflation financing",
+    "Cases": "Documented"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Seigniorage",
+     "https://en.wikipedia.org/wiki/Inflation",
+     "https://en.wikipedia.org/wiki/Mint_(facility)",
+     "https://en.wikipedia.org/wiki/Hyperinflation"
     ]
    },
    "last_reviewed": "2026-11-20",
@@ -27548,6 +27923,64 @@
    "licence": "CC BY-NC 4.0"
   },
   {
+   "slug": "trickle-down",
+   "url": "trickle-down.html",
+   "title": "Trickle-Down Economics",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "A nickname for supply-side tax cuts, and a claim about who benefits. The evidence is contested and the term is a slogan.",
+   "facts": {
+    "Status": "Live debate",
+    "Policy": "Tax cuts at the top",
+    "Growth effect": "Small; contested",
+    "Distribution": "Documented rise in inequality"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Trickle-down_economics",
+     "https://en.wikipedia.org/wiki/Supply-side_economics",
+     "https://en.wikipedia.org/wiki/Economic_inequality",
+     "https://en.wikipedia.org/wiki/Tax_cut"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "trillion-dollar-coin",
+   "url": "trillion-dollar-coin.html",
+   "title": "The Trillion-Dollar Coin",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Documented",
+   "label_class": "b-doc",
+   "label_canonical": true,
+   "standfirst": "A legal loophole proposed in 2011 to bypass a debt-ceiling standoff. The proposal is documented; it was never used.",
+   "facts": {
+    "Status": "Documented",
+    "Proposed": "2011",
+    "Mechanism": "Platinum coin at face value",
+    "Used": "Never"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Trillion-dollar_coin",
+     "https://en.wikipedia.org/wiki/United_States_debt_ceiling",
+     "https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury",
+     "https://en.wikipedia.org/wiki/Seigniorage"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
    "slug": "trojan-horse-ram",
    "url": "trojan-horse-ram.html",
    "title": "The Trojan Horse as a Ram",
@@ -28366,6 +28799,35 @@
      "https://en.wikipedia.org/wiki/Fallout_(TV_series)",
      "https://en.wikipedia.org/wiki/Fallout_(franchise)#Vaults",
      "https://en.wikipedia.org/wiki/Unreliable_narrator"
+    ]
+   },
+   "last_reviewed": "2026-11-20",
+   "reviewed_by": "Dr. Sohil Momin",
+   "licence": "CC BY-NC 4.0"
+  },
+  {
+   "slug": "velocity-of-money",
+   "url": "velocity-of-money.html",
+   "title": "The Velocity of Money",
+   "theme": "Money, power and institutions",
+   "theme_id": "states",
+   "label_text": "Live debate",
+   "label_class": "b-debate",
+   "label_canonical": true,
+   "standfirst": "How fast money circulates, and why its apparent collapse puzzled economists.",
+   "facts": {
+    "Status": "Live debate",
+    "Definition": "Nominal output over money stock",
+    "Post-2008": "Fell sharply",
+    "Explanation": "Contested"
+   },
+   "sources": {
+    "count": 4,
+    "urls": [
+     "https://en.wikipedia.org/wiki/Velocity_of_money",
+     "https://en.wikipedia.org/wiki/Equation_of_exchange",
+     "https://en.wikipedia.org/wiki/Money_supply",
+     "https://en.wikipedia.org/wiki/Monetarism"
     ]
    },
    "last_reviewed": "2026-11-20",
