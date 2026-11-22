@@ -182,8 +182,10 @@ def main():
                   f"Source entries per page. The thinnest dossiers are {thin_txt}. A short list", page, flags=re.S)
 
     # 6. generated line
-    page = re.sub(r"Generated \d+ \w+ \d{4} — rebuilt with the site\.",
-                  "Generated 20 November 2026 from data/claims.json and credits.html — rebuilt with the site.", page)
+    import datetime
+    today = datetime.date.today().strftime("%-d %B %Y")
+    page = re.sub(r"Generated \d+ \w+ \d{4} from data/claims\.json and credits\.html",
+                  f"Generated {today} from data/claims.json and credits.html", page)
 
     if check:
         if page != orig:
