@@ -12,7 +12,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 [![dossiers](https://img.shields.io/badge/dossiers-1010-A8823F?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/master-list.html)
 [![sources](https://img.shields.io/badge/linked%20sources-4148-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sources.html)
 [![citations](https://img.shields.io/badge/citations-3%2C380%20across%20299%20domains-2C3548?style=flat-square)](#what-a-source-link-means-here)
-[![images](https://img.shields.io/badge/images-1046%20(1028%20photos%20%C2%B7%2018%20drawn)-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
+[![images](https://img.shields.io/badge/images-3177%20(3081%20photos%20%C2%B7%2096%20drawn)-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
 [![words](https://img.shields.io/badge/writing-~117%2C000%20words-2C3548?style=flat-square)](#what-this-is)
 [![pages](https://img.shields.io/badge/pages-788%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
 [![labels](https://img.shields.io/badge/labels-documented%20%C2%B7%20debate%20%C2%B7%20fringe%20%C2%B7%20debunked-6E6553?style=flat-square)](#the-four-labels)
