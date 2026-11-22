@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" role="img" aria-label="The serotonin story, revised">
+<rect width="820" height="300" fill="#12171c"/>
+<text x="22" y="40" fill="#e8e6e1" font-family="Georgia,serif" font-size="19">The serotonin story, revised</text>
+<rect x="22" y="92" width="180" height="132" rx="8" fill="#0d1116" stroke="#2a3138"/>
+<rect x="22" y="92" width="4" height="132" fill="#c8a45c"/>
+<text x="38" y="118" fill="#e8e6e1" font-family="Helvetica,Arial" font-size="14" font-weight="600">The story</text>
+<text x="38" y="140" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">Depression is caused by</text>
+<text x="38" y="155" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">low serotonin</text>
+<path d="M204 158 L216 158" stroke="#c8a45c" stroke-width="1.5"/>
+<path d="M216 158 l-5 -3.5 v7 z" fill="#c8a45c"/>
+<rect x="220" y="92" width="180" height="132" rx="8" fill="#0d1116" stroke="#2a3138"/>
+<rect x="220" y="92" width="4" height="132" fill="#c8a45c"/>
+<text x="236" y="118" fill="#e8e6e1" font-family="Helvetica,Arial" font-size="14" font-weight="600">What reviews found</text>
+<text x="236" y="140" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">No consistent evidence</text>
+<text x="236" y="155" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">of lowered serotonin</text>
+<text x="236" y="170" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">levels</text>
+<path d="M403 158 L415 158" stroke="#c8a45c" stroke-width="1.5"/>
+<path d="M415 158 l-5 -3.5 v7 z" fill="#c8a45c"/>
+<rect x="419" y="92" width="180" height="132" rx="8" fill="#0d1116" stroke="#2a3138"/>
+<rect x="419" y="92" width="4" height="132" fill="#c8a45c"/>
+<text x="435" y="118" fill="#e8e6e1" font-family="Helvetica,Arial" font-size="14" font-weight="600">What remains true</text>
+<text x="435" y="140" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">Antidepressants affect</text>
+<text x="435" y="155" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">serotonin and help some</text>
+<text x="435" y="170" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">patients</text>
+<path d="M602 158 L614 158" stroke="#c8a45c" stroke-width="1.5"/>
+<path d="M614 158 l-5 -3.5 v7 z" fill="#c8a45c"/>
+<rect x="618" y="92" width="180" height="132" rx="8" fill="#0d1116" stroke="#2a3138"/>
+<rect x="618" y="92" width="4" height="132" fill="#c8a45c"/>
+<text x="634" y="118" fill="#e8e6e1" font-family="Helvetica,Arial" font-size="14" font-weight="600">The correction</text>
+<text x="634" y="140" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">The mechanism is</text>
+<text x="634" y="155" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">unknown; the treatment</text>
+<text x="634" y="170" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">can still work</text>
+<text x="22" y="284" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="10.5">Diagram: The Larger World Archive · CC BY-NC 4.0</text></svg>
