@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" role="img" aria-label="The carbohydrate–insulin model, tested">
+<rect width="820" height="400" fill="#12171c"/>
+<text x="22" y="40" fill="#e8e6e1" font-family="Georgia,serif" font-size="19">The carbohydrate–insulin model, tested</text>
+<rect x="22" y="66" width="300" height="64" rx="8" fill="#0d1116" stroke="#2a3138"/>
+<rect x="22" y="66" width="4" height="64" fill="#6ea8b5"/>
+<text x="38" y="90" fill="#e8e6e1" font-family="Helvetica,Arial" font-size="14" font-weight="600">The claim</text>
+<text x="38" y="107" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">Insulin drives fat storage; carbohydrates</text>
+<text x="38" y="121" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">drive insulin</text>
+<rect x="498" y="96" width="300" height="74" rx="8" fill="#0d1116" stroke="#2a3138"/>
+<rect x="498" y="96" width="4" height="74" fill="#6ea8b5"/>
+<text x="514" y="120" fill="#e8e6e1" font-family="Helvetica,Arial" font-size="13.5" font-weight="600">Supporting</text>
+<text x="514" y="136" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">Physiology of insulin; some observational</text>
+<text x="514" y="150" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">data</text>
+<path d="M330 98 C410.0 98 410.0 133 490 133" stroke="#6ea8b5" stroke-width="1.2" fill="none" opacity=".7"/>
+<rect x="498" y="184" width="300" height="74" rx="8" fill="#0d1116" stroke="#2a3138"/>
+<rect x="498" y="184" width="4" height="74" fill="#6ea8b5"/>
+<text x="514" y="208" fill="#e8e6e1" font-family="Helvetica,Arial" font-size="13.5" font-weight="600">Against</text>
+<text x="514" y="224" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">Controlled trials show similar loss on</text>
+<text x="514" y="238" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">matched diets</text>
+<path d="M330 98 C410.0 98 410.0 221 490 221" stroke="#6ea8b5" stroke-width="1.2" fill="none" opacity=".7"/>
+<rect x="498" y="272" width="300" height="74" rx="8" fill="#0d1116" stroke="#2a3138"/>
+<rect x="498" y="272" width="4" height="74" fill="#6ea8b5"/>
+<text x="514" y="296" fill="#e8e6e1" font-family="Helvetica,Arial" font-size="13.5" font-weight="600">The status</text>
+<text x="514" y="312" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="11.5">Contested; the mechanism is not decisive</text>
+<path d="M330 98 C410.0 98 410.0 309 490 309" stroke="#6ea8b5" stroke-width="1.2" fill="none" opacity=".7"/>
+<text x="22" y="386" fill="#9aa3ad" font-family="Helvetica,Arial" font-size="10.5">Diagram: The Larger World Archive · CC BY-NC 4.0</text></svg>
