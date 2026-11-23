@@ -17,10 +17,34 @@ LIMIT = 1000   # the whole catalogue: a feed of 50 entries spans two days of a f
 CHECK = "--check" in sys.argv
 
 
+_DATES = None
+
+
+def all_dates():
+    """One git call for every page's first-publication date.
+
+    Calling git log per page is 1,010 subprocesses and took two minutes; this does
+    the same work in one pass.
+    """
+    global _DATES
+    if _DATES is not None:
+        return _DATES
+    out = subprocess.run(["git", "log", "--diff-filter=A", "--date=short",
+                          "--format=@%ad", "--name-only"],
+                         capture_output=True, text=True).stdout
+    dates, day = {}, None
+    for line in out.splitlines():
+        if line.startswith("@"):
+            day = line[1:].strip()
+        elif line.endswith(".html") and day and line not in dates:
+            dates[line] = day          # first hit wins: log is newest-first, so this
+                                           # is the most recent addition, i.e. publication
+    _DATES = dates
+    return dates
+
+
 def git_date(path):
-    r = subprocess.run(["git", "log", "--diff-filter=A", "--format=%ad", "--date=short",
-                        "-1", "--", path], capture_output=True, text=True)
-    d = r.stdout.strip()
+    d = all_dates().get(path, "")
     if d:
         return d
     r = subprocess.run(["git", "log", "-1", "--format=%ad", "--date=short", "--", path],
