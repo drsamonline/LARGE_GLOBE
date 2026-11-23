@@ -231,6 +231,8 @@ python3 tools/check-all.py --fast   # skip the arithmetic sweep
 | `update-readme.py --check` | a number in this README that no longer matches the repository |
 | `check-math.py` | an arithmetic claim in a mathematics dossier that no longer holds |
 
+How the archive is checked, what the checks have caught, and what is *not* checked is in [docs/AUDIT.md](docs/AUDIT.md).
+
 The generators — `build-credits.py`, `build-changelog.py`, `build-paths.py`, `build-sitemap.py`, `build-feed.py`, `update-readme.py` — rebuild their page or file from the repository, so no figure in this project is typed twice.
 
 ## Licence, privacy and disclaimer
