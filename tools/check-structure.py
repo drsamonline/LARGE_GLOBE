@@ -91,5 +91,24 @@ except FileNotFoundError:
 
 for p in problems:
     print(p)
+
+# in-page and cross-page anchors must resolve
+_anchor_bad = []
+for _p in glob.glob("*.html"):
+    _t = open(_p, encoding="utf-8").read()
+    _ids = set(re.findall(r'id="([^"]+)"', _t))
+    for _h in re.findall(r'href="#([^"]+)"', _t):
+        if _h not in _ids and _h not in ("main", "top"):
+            _anchor_bad.append(f"{_p}: missing anchor #{_h}")
+    for _f, _h in re.findall(r'href="([a-z0-9\-]+\.html)#([^"]+)"', _t):
+        if not os.path.exists(_f):
+            continue
+        _fids = set(re.findall(r'id="([^"]+)"', open(_f, encoding="utf-8").read()))
+        if _h not in _fids:
+            _anchor_bad.append(f"{_p}: {_f}#{_h} does not exist")
+for _b in _anchor_bad[:20]:
+    print("  " + _b)
+problems.extend(_anchor_bad)
+
 print(f"\n{len(pages)} pages checked, {len(problems)} problems")
 sys.exit(1 if problems else 0)
