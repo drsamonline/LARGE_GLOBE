@@ -123,6 +123,25 @@ def check_counts():
                 print(f"  index.html count corrected to {real:,}")
 
 
+def check_pdf():
+    """The stated page count must match the file that ships."""
+    if not os.path.exists("assets/larger-world-archive.pdf"):
+        return
+    try:
+        import pymupdf
+        real = pymupdf.open("assets/larger-world-archive.pdf").page_count
+    except Exception:
+        return
+    for f in ("print-edition.html", "README.md"):
+        if not os.path.exists(f):
+            continue
+        t = open(f, encoding="utf-8").read()
+        m = re.search(r"(\d[\d,]*)-page PDF|PDF — (\d[\d,]*) pages", t)
+        claimed = (m.group(1) or m.group(2)) if m else None
+        if claimed and int(claimed.replace(",", "")) != real:
+            problems.append(f"{f} claims a {claimed}-page PDF; the file has {real}")
+
+
 def check_charts():
     r = subprocess.run([sys.executable, "tools/rebuild-charts.py", "--check"],
                        capture_output=True, text=True)
@@ -139,6 +158,7 @@ def main():
     check_blank()
     check_credits(figs)
     check_counts()
+    check_pdf()
     check_charts()
     if not problems:
         print(f"images: {len(figs)} figures on {len(set(p for p, _ in figs))} pages, "
