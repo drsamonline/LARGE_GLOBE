@@ -6,8 +6,8 @@ Nothing here is estimated; every figure is arithmetic on the real file.
 
 ## The finding, first
 
-**The archive cannot be one paperback.** The current print edition is **2,343 pages**
-at A5 (420 × 594.96 pt). KDP's ceiling for black-ink paperback is **828 pages** at every
+**The archive cannot be one paperback.** Rendered at 6×9 with a mirrored gutter, the
+interior measures **2,101 pages** (432 × 648 pt — measured, not estimated). KDP's ceiling for black-ink paperback is **828 pages** at every
 trim from 5×8 up to 8×10, and **590** at 8.5×11. A single volume would be rejected for
 page count before anyone looked at the interior.
 
@@ -35,10 +35,12 @@ At 6×9, black ink, white paper (thickness 0.002252 in per page):
 |---|---|---|---|---|
 | I | 828 | 1.8647 in | 14.115 × 9.25 in | 0.875 in |
 | II | 828 | 1.8647 in | 14.115 × 9.25 in | 0.875 in |
-| III | 687 | 1.5471 in | 13.797 × 9.25 in | 0.750 in |
+| III | 445 | 1.0021 in | 13.252 × 9.25 in | 0.625 in |
 
 Cream paper would allow only 776 pages per volume and would need four volumes; white is
-the right choice here.
+the right choice here. The 2,101 figure is a straight render of the print document at 6×9
+with the KDP gutter rules applied — splitting at chapter boundaries may move each volume
+by a few pages, which changes the spine and therefore the cover.
 
 Two constraints that follow:
 

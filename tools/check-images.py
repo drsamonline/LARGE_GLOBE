@@ -157,6 +157,23 @@ def check_pdf():
             problems.append(f"{f} claims a {claimed}-page PDF; the file has {real}")
 
 
+def check_epub():
+    """The stated part count must match the EPUB that ships."""
+    import zipfile
+    path = "assets/larger-world-archive.epub"
+    if not os.path.exists(path):
+        return
+    try:
+        z = zipfile.ZipFile(path)
+        real = len([n for n in z.namelist() if n.endswith(".xhtml")]) - 3
+    except Exception:
+        return
+    t = open("print-edition.html", encoding="utf-8").read()
+    m = re.search(r"same (\d[\d,]*) parts", t)
+    if m and int(m.group(1).replace(",", "")) != real:
+        problems.append(f"print-edition.html claims {m.group(1)} EPUB parts; the file has {real}")
+
+
 def check_charts():
     r = subprocess.run([sys.executable, "tools/rebuild-charts.py", "--check"],
                        capture_output=True, text=True)
@@ -175,6 +192,7 @@ def main():
     check_dimensions()
     check_counts()
     check_pdf()
+    check_epub()
     check_charts()
     if not problems:
         print(f"images: {len(figs)} figures on {len(set(p for p, _ in figs))} pages, "
