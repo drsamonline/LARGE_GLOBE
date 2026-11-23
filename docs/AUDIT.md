@@ -17,7 +17,7 @@ re-run; nothing depends on a person remembering.
 | `build-feed.py --check` | the feed lists current entries |
 | `stamp-css.py --check` | one stylesheet hash on every page |
 | `update-readme.py --check` | no number in the README has drifted |
-| `check-epub.py` | EPUB container, manifest, spine, XHTML well-formedness and unique ids — the checks `epubcheck` would do, minus the ones that need Java |
+| `check-epub.py` | EPUB container, manifest, spine, XHTML well-formedness, unique ids, a valid UUID identifier and a current build date — the checks `epubcheck` would do, minus the ones that need Java |
 | `check-math.py` | the arithmetic claims in the mathematics dossiers still hold |
 
 Generators rebuild their artefact from the repository: `build-credits.py`,

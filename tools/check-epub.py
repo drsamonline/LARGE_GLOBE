@@ -85,6 +85,21 @@ def main():
                     problems.append(f"{n} has duplicate id {eid}")
                 seen.add(eid)
 
+    # 4b. the identifier must be a real UUID, and the build date must be current
+    import uuid as _uuid, datetime as _dt
+    ident = re.search(r"<dc:identifier[^>]*>urn:uuid:([^<]+)</dc:identifier>",
+                      z.read(opf_path).decode())
+    if ident:
+        try:
+            _uuid.UUID(ident.group(1))
+        except ValueError:
+            problems.append(f"dc:identifier is not a valid UUID: {ident.group(1)}")
+    date = re.search(r"<dc:date>(\d{4}-\d{2}-\d{2})</dc:date>", z.read(opf_path).decode())
+    if date:
+        age = (_dt.date.today() - _dt.date.fromisoformat(date.group(1))).days
+        if age > 30:
+            problems.append(f"dc:date is {date.group(1)}, {age} days old — the book was rebuilt since")
+
     # 5. a navigation document should be declared
     if not any("nav" in (el.get("properties") or "") for el in opf.iter()
                if el.tag.split("}")[-1] == "item"):
