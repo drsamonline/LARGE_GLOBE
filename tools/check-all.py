@@ -17,6 +17,7 @@ CHECKS = [
     ("shared shell in step with index.html", ["tools/rebuild-shell.py", "--check"], False),
     ("charts in step with the ledger", ["tools/rebuild-charts.py", "--check"], False),
     ("sitemap lists every page", ["tools/build-sitemap.py", "--check"], False),
+    ("EPUB structure — container, manifest, spine, XHTML", ["tools/check-epub.py"], False),
     ("feed lists current entries", ["tools/build-feed.py", "--check"], False),
     ("stylesheet hash current on every page", ["tools/stamp-css.py", "--check"], False),
     ("README numbers match the repository", ["tools/update-readme.py", "--check"], False),

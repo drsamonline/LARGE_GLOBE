@@ -229,6 +229,7 @@ python3 tools/check-all.py --fast   # skip the arithmetic sweep
 | `build-feed.py --check` | a stale feed |
 | `stamp-css.py --check` | a page carrying an old stylesheet hash |
 | `update-readme.py --check` | a number in this README that no longer matches the repository |
+| `check-epub.py` | an EPUB whose container, manifest, spine or XHTML has broken |
 | `check-math.py` | an arithmetic claim in a mathematics dossier that no longer holds |
 
 How the archive is checked, what the checks have caught, and what is *not* checked is in [docs/AUDIT.md](docs/AUDIT.md).

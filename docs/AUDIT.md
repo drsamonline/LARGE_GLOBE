@@ -17,6 +17,7 @@ re-run; nothing depends on a person remembering.
 | `build-feed.py --check` | the feed lists current entries |
 | `stamp-css.py --check` | one stylesheet hash on every page |
 | `update-readme.py --check` | no number in the README has drifted |
+| `check-epub.py` | EPUB container, manifest, spine, XHTML well-formedness and unique ids — the checks `epubcheck` would do, minus the ones that need Java |
 | `check-math.py` | the arithmetic claims in the mathematics dossiers still hold |
 
 Generators rebuild their artefact from the repository: `build-credits.py`,
@@ -70,5 +71,5 @@ Fourteen defects, every one invisible on screen and most of them mine:
 
 - **Prose accuracy.** Facts are checked against the sources cited, not against the world.
 - **External links** except on the weekly scheduled run (`check-links.py`).
-- **EPUB validity** — `epubcheck` needs Java, which the build environment does not have; the EPUB is verified structurally only.
+- **Full EPUB conformance** — `epubcheck` needs Java, which the build environment does not have. `check-epub.py` covers the container, manifest, spine, well-formedness and ids; it does not test CSS support, media overlays or accessibility metadata.
 - **Accessibility beyond structure.** Contrast, focus and touch targets were audited once by hand; there is no automated gate.
