@@ -209,6 +209,30 @@ Nothing is gated behind it, no tier exists, and a sponsor gets no say over a lab
 
 See [CHANGELOG.md](CHANGELOG.md) for every change, generated from the commit history.
 
+## Checking it
+
+One command runs every consistency check:
+
+```bash
+python3 tools/check-all.py          # all checks
+python3 tools/check-all.py --fast   # skip the arithmetic sweep
+```
+
+| Check | What it catches |
+|---|---|
+| `check-structure.py` | broken internal links, dead anchors, missing skip links, heading and canonical errors |
+| `check-size.py` | a page over its size budget |
+| `check-images.py` | figures pointing at missing files, orphan images, blank frames, credits out of step, wrong counts, images without dimensions, a stated PDF page count that disagrees with the file |
+| `rebuild-shell.py --check` | a page whose header or footer has drifted from the canonical shell |
+| `rebuild-charts.py --check` | a chart that no longer matches the ledger |
+| `build-sitemap.py --check` | a page missing from the sitemap |
+| `build-feed.py --check` | a stale feed |
+| `stamp-css.py --check` | a page carrying an old stylesheet hash |
+| `update-readme.py --check` | a number in this README that no longer matches the repository |
+| `check-math.py` | an arithmetic claim in a mathematics dossier that no longer holds |
+
+The generators — `build-credits.py`, `build-changelog.py`, `build-paths.py`, `build-sitemap.py`, `build-feed.py`, `update-readme.py` — rebuild their page or file from the repository, so no figure in this project is typed twice.
+
 ## Licence, privacy and disclaimer
 
 The text and diagrams are CC BY-NC 4.0 ([LICENSE](LICENSE)). What is inside that the
