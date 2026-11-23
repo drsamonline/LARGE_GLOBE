@@ -252,12 +252,12 @@
     });
   }
 
-  function row(kind, title, url, label, cls, text) {
+  function row(kind, title, url, label, cls, text, verdict) {
     return '<a class="res" href="' + esc(url) + '">' +
       '<span class="res-kind">' + kind + '</span>' +
       '<span class="res-body"><b>' + esc(title) + '</b>' +
       '<span class="res-text">' + esc(text) + '</span></span>' +
-      '<span class="badge ' + esc(cls) + '">' + esc(label) + '</span></a>';
+      '<span class="badge ' + esc(cls) + '" title="Verdict: ' + esc(verdict) + '">' + esc(label) + '</span></a>';
   }
 
   function render(term) {
@@ -265,7 +265,7 @@
     if (!term) {
       var all = data.d.slice(0, 24);
       out.innerHTML = all.map(function (d) {
-        return row('Dossier', d.t, d.u, d.l, d.c, d.s);
+        return row('Dossier', d.t, d.u, d.l, d.c, d.s, d.v);
       }).join('');
       count.textContent = 'Showing 24 of ' + data.d.length + ' dossiers — start typing to search all '
         + (data.d.length + data.e.length) + ' records';
@@ -274,11 +274,11 @@
     }
     var hits = [];
     data.d.forEach(function (d) {
-      var hay = (d.t + ' ' + d.s + ' ' + d.l + ' ' + d.g).toLowerCase();
+      var hay = (d.t + ' ' + d.s + ' ' + d.l + ' ' + (d.v || '') + ' ' + d.g).toLowerCase();
       if (hay.indexOf(term) > -1) hits.push({ k: 'Dossier', d: d });
     });
     data.e.forEach(function (e) {
-      var hay = (e.t + ' ' + e.s + ' ' + e.l + ' ' + e.g + ' ' + e.c).toLowerCase();
+      var hay = (e.t + ' ' + e.s + ' ' + e.l + ' ' + (e.v || '') + ' ' + e.g + ' ' + e.c).toLowerCase();
       if (hay.indexOf(term) > -1) hits.push({ k: 'Entry', d: e });
     });
     count.textContent = hits.length + (hits.length === 1 ? ' match' : ' matches') + ' for “' + term + '”';
@@ -286,7 +286,7 @@
     out.innerHTML = hits.slice(0, MAX).map(function (h) {
       var d = h.d;
       var sub = h.k === 'Entry' ? (d.c + ' · ' + d.g + ' · #' + d.n) : d.g;
-      return row(h.k, d.t, d.u, d.l, d.c || d.b, sub + ' — ' + d.s);
+      return row(h.k, d.t, d.u, d.l, d.c || d.b, sub + ' — ' + d.s, d.v);
     }).join('') + (hits.length > MAX ? '<p class="note">Showing the first ' + MAX + ' of ' + hits.length + '.</p>' : '');
   }
 
