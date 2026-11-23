@@ -157,6 +157,21 @@ def check_pdf():
             problems.append(f"{f} claims a {claimed}-page PDF; the file has {real}")
 
 
+def check_pdf_bookmarks():
+    """A 2,343-page book needs an outline; an empty one is a navigation failure."""
+    path = "assets/larger-world-archive.pdf"
+    if not os.path.exists(path):
+        return
+    try:
+        import pymupdf
+        d = pymupdf.open(path)
+        n = len(d.get_toc())
+    except Exception:
+        return
+    if n < 100:
+        problems.append(f"the PDF has {n} bookmarks; a book this long needs an outline")
+
+
 def check_epub():
     """The stated part count must match the EPUB that ships."""
     import zipfile
@@ -192,6 +207,7 @@ def main():
     check_dimensions()
     check_counts()
     check_pdf()
+    check_pdf_bookmarks()
     check_epub()
     check_charts()
     if not problems:
