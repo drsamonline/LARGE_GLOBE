@@ -123,6 +123,21 @@ def check_counts():
                 print(f"  index.html count corrected to {real:,}")
 
 
+def check_dimensions():
+    """Every image with a src must declare width and height, or the page jumps as it loads."""
+    bad = 0
+    for f in glob.glob("*.html"):
+        t = open(f, encoding="utf-8").read()
+        for m in re.finditer(r"<img[^>]*>", t):
+            tag = m.group(0)
+            if 'src="assets/' not in tag:
+                continue
+            if 'width=' not in tag or 'height=' not in tag:
+                bad += 1
+    if bad:
+        problems.append(f"{bad} image(s) lack width/height and will shift the layout")
+
+
 def check_pdf():
     """The stated page count must match the file that ships."""
     if not os.path.exists("assets/larger-world-archive.pdf"):
@@ -157,6 +172,7 @@ def main():
     check_references(figs)
     check_blank()
     check_credits(figs)
+    check_dimensions()
     check_counts()
     check_pdf()
     check_charts()

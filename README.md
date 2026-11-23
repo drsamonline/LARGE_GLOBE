@@ -93,7 +93,7 @@ Inclusion is not endorsement, and a debunked label is not a verdict on the reade
 
 Plain static HTML, one stylesheet, one page of JavaScript. There is no build step, no framework, no CDN and nothing to install — `git clone` and open `index.html`. That is the whole pipeline, and it is why the archive will still open in ten years.
 
-- **1038 pages, 24.8 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
+- **1038 pages, 24.9 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
 - **No runtime dependencies.** The only script on the site is the search index on one page — inline JSON, no fetch, so it works from `file://` and offline.
 - **AVIF images**, lazily loaded below the fold, 2,730 credited photographs, plus 198 vector figures drawn for this archive. Every one is credited with its licence and host on the [credits page](https://drsamonline.github.io/LARGE_GLOBE/credits.html).
 - **The whole archive as a book.** A [2343-page PDF, A5](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.pdf) and a [1514 KB EPUB with a cover](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.epub), both generated from the print edition: 1013 parts, no images, sources kept, links flattened to plain text.
