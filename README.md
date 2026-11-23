@@ -14,7 +14,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 [![citations](https://img.shields.io/badge/citations-3%2C380%20across%20299%20domains-2C3548?style=flat-square)](#what-a-source-link-means-here)
 [![images](https://img.shields.io/badge/images-2928%20(2730%20photos%20%C2%B7%20198%20drawn)-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
 [![words](https://img.shields.io/badge/writing-~117%2C000%20words-2C3548?style=flat-square)](#what-this-is)
-[![pages](https://img.shields.io/badge/pages-1037%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
+[![pages](https://img.shields.io/badge/pages-1038%20static%20files-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sitemap.xml)
 [![labels](https://img.shields.io/badge/labels-documented%20%C2%B7%20debate%20%C2%B7%20fringe%20%C2%B7%20debunked-6E6553?style=flat-square)](#the-four-labels)
 [![dependencies](https://img.shields.io/badge/runtime%20dependencies-0-2ea44f?style=flat-square)](#how-it-is-built)
 [![tracking](https://img.shields.io/badge/tracking%20%2F%20cookies-none-2ea44f?style=flat-square)](#privacy)
@@ -33,7 +33,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 
 A hidden-world claim usually arrives in one of two shapes: a screenshot with no author, or a ninety-minute video with no citations. Both are impossible to check. This archive rebuilds each idea from the bottom up — who said it first, what they actually wrote, who repeated it, and what the measurement said afterwards.
 
-**1010 dossiers. About 852,702 words. 4,147 linked sources. 2,928 images — 2,730 credited photographs and 198 diagrams, every one licence-checked and looked at. No account, no tracking, no paywall.**
+**1010 dossiers. About 854,722 words. 4,147 linked sources. 2,928 images — 2,730 credited photographs and 198 diagrams, every one licence-checked and looked at. No account, no tracking, no paywall.**
 
 Every dossier follows the same shape, so you always know where you are in it — breadcrumbs at the top, a citation block with APA, MLA, Chicago and BibTeX at the foot, and four neighbours from the same shelf:
 
@@ -93,7 +93,7 @@ Inclusion is not endorsement, and a debunked label is not a verdict on the reade
 
 Plain static HTML, one stylesheet, one page of JavaScript. There is no build step, no framework, no CDN and nothing to install — `git clone` and open `index.html`. That is the whole pipeline, and it is why the archive will still open in ten years.
 
-- **1037 pages, 24.7 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
+- **1038 pages, 24.8 MB of HTML**, generated from a single source of truth for the navigation, footer and palette, so a new dossier cannot drift from the rest.
 - **No runtime dependencies.** The only script on the site is the search index on one page — inline JSON, no fetch, so it works from `file://` and offline.
 - **AVIF images**, lazily loaded below the fold, 2,730 credited photographs, plus 198 vector figures drawn for this archive. Every one is credited with its licence and host on the [credits page](https://drsamonline.github.io/LARGE_GLOBE/credits.html).
 - **The whole archive as a book.** A [2343-page PDF, A5](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.pdf) and a [1514 KB EPUB with a cover](https://drsamonline.github.io/LARGE_GLOBE/assets/larger-world-archive.epub), both generated from the print edition: 1013 parts, no images, sources kept, links flattened to plain text.

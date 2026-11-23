@@ -268,3 +268,15 @@ a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visi
 /* stat strip: stop single words falling onto their own line */
 .stat-strip div span{text-wrap:pretty;letter-spacing:.02em}
 .stat-strip div b{text-wrap:nowrap}
+
+/* reading paths */
+.path{margin:34px 0 10px;padding-top:8px;border-top:1px solid var(--line-soft)}
+.path h2{font-size:clamp(20px,2.4vw,26px);margin:0 0 6px}
+.path-lede{color:var(--ink-dim);max-width:64ch;margin:0 0 14px}
+.path-list{list-style:none;counter-reset:p;margin:0;padding:0;display:grid;gap:8px}
+.path-list li{counter-increment:p;position:relative;padding:9px 12px 9px 44px;background:var(--panel);border:1px solid var(--line-soft);border-radius:9px}
+.path-list li:before{content:counter(p);position:absolute;left:12px;top:9px;font-family:var(--sans);font-size:11px;color:var(--amber);border:1px solid var(--amber-dim);border-radius:999px;width:20px;height:20px;display:grid;place-items:center}
+.path-list a{font-weight:600;border:0}
+.path-note{display:block;color:var(--muted);font-size:12.5px;margin-top:2px}
+.path-how{color:var(--muted);font-size:13.5px;max-width:64ch;margin:0 0 16px}
+.wrap > article > p{max-width:68ch}
