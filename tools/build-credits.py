@@ -29,19 +29,27 @@ def titles():
 
 
 def entries():
+    """One row per figure, parsed figure by figure.
+
+    The old regex scanned the whole page with a non-greedy span between <img> and
+    <figcaption>, so on a page with a hero figure it consumed the hero and the next
+    figure together and dropped every figure after the first.
+    """
     seen, rows = set(), []
     for p in sorted(glob.glob("*.html")):
         if p == "credits.html":
             continue
         t = open(p, encoding="utf-8").read()
-        if '<figcaption>' not in t:
-            continue
-        for m in FIG.finditer(t):
-            src = m.group(1)
+        for fig in re.findall(r"<figure[^>]*>.*?</figure>", t, re.S):
+            img = re.search(r'<img src="(assets/img/[^"]+)"', fig)
+            cred = re.search(r'<span class="credit">(.*?)</span>', fig, re.S)
+            if not img or not cred:
+                continue
+            src = img.group(1)
             if src in seen:
                 continue
             seen.add(src)
-            raw = m.group(3)
+            raw = cred.group(1)
             lk = LINK.search(raw)
             url = lk.group(1) if lk else ""
             txt = re.sub(r"<[^>]+>", "", raw).replace("·", "|")
