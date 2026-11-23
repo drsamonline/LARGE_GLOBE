@@ -877,7 +877,7 @@
   {
    "slug": "aliens",
    "url": "aliens.html",
-   "title": "Aliens, Area 51 &amp; the UFO Files",
+   "title": "Aliens, Area 51 & the UFO Files",
    "theme": "Space, physics and the cosmos",
    "theme_id": "cosmos",
    "label_text": "Genuinely open",
@@ -6985,7 +6985,7 @@
   {
    "slug": "deep-web",
    "url": "deep-web.html",
-   "title": "Deep Web &amp; Dark Web",
+   "title": "Deep Web & Dark Web",
    "theme": "Internet, media and modern life",
    "theme_id": "internet",
    "label_text": "Documented",
@@ -7995,7 +7995,7 @@
   {
    "slug": "dragons",
    "url": "dragons.html",
-   "title": "Dragons &amp; Dinosaurs",
+   "title": "Dragons & Dinosaurs",
    "theme": "The ancient world and archaeology",
    "theme_id": "ancient",
    "label_text": "Contested origin",
@@ -10180,7 +10180,7 @@
   {
    "slug": "flat-earth",
    "url": "flat-earth.html",
-   "title": "Flat Earth &amp; the Firmament",
+   "title": "Flat Earth & the Firmament",
    "theme": "Earth, geology and hidden geography",
    "theme_id": "earth",
    "label_text": "Debunked",
@@ -10341,7 +10341,7 @@
   {
    "slug": "flood-myths",
    "url": "flood-myths.html",
-   "title": "Noah, Gilgamesh &amp; the Great Flood",
+   "title": "Noah, Gilgamesh & the Great Flood",
    "theme": "The ancient world and archaeology",
    "theme_id": "ancient",
    "label_text": "Text, then geology",
@@ -13077,7 +13077,7 @@
   {
    "slug": "hollow-earth",
    "url": "hollow-earth.html",
-   "title": "Hollow Earth &amp; the Inner Sun",
+   "title": "Hollow Earth & the Inner Sun",
    "theme": "Earth, geology and hidden geography",
    "theme_id": "earth",
    "label_text": "Fringe claim",
@@ -18529,7 +18529,7 @@
   {
    "slug": "moores-law-end",
    "url": "moores-law-end.html",
-   "title": "The End of Moore&#8217;s Law",
+   "title": "The End of Moore\u2019s Law",
    "theme": "Internet, media and modern life",
    "theme_id": "internet",
    "label_text": "Live debate",
@@ -18870,7 +18870,7 @@
   {
    "slug": "mutants",
    "url": "mutants.html",
-   "title": "Mutants &amp; \u201cSuperpowers\u201d",
+   "title": "Mutants & \u201cSuperpowers\u201d",
    "theme": "Creatures, anomalies and evidence",
    "theme_id": "anomalies",
    "label_text": "Real biology",
@@ -27494,7 +27494,7 @@
   {
    "slug": "tabbys-star",
    "url": "tabbys-star.html",
-   "title": "Tabby&#8217;s Star",
+   "title": "Tabby\u2019s Star",
    "theme": "Space, physics and the cosmos",
    "theme_id": "cosmos",
    "label_text": "Live debate",
@@ -27589,7 +27589,7 @@
   {
    "slug": "tartarian",
    "url": "tartarian.html",
-   "title": "Tartaria &amp; the Mud Flood",
+   "title": "Tartaria & the Mud Flood",
    "theme": "The ancient world and archaeology",
    "theme_id": "ancient",
    "label_text": "Debunked",
@@ -29596,7 +29596,7 @@
   {
    "slug": "urban-legends",
    "url": "urban-legends.html",
-   "title": "Urban Legends &amp; Creepypasta",
+   "title": "Urban Legends & Creepypasta",
    "theme": "Internet, media and modern life",
    "theme_id": "internet",
    "label_text": "Invented, then real",
@@ -30379,7 +30379,7 @@
   {
    "slug": "water-origin",
    "url": "water-origin.html",
-   "title": "Where Earth&#8217;s Water Came From",
+   "title": "Where Earth\u2019s Water Came From",
    "theme": "Space, physics and the cosmos",
    "theme_id": "cosmos",
    "label_text": "Live debate",
