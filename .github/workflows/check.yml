@@ -23,6 +23,10 @@ jobs:
         run: python tools/rebuild-shell.py --check
       - name: charts.html is in step with the ledger
         run: python tools/rebuild-charts.py --check
+      - name: Images, credits and counts agree
+        run: |
+          pip install --quiet pillow
+          python tools/check-images.py
 
   external-links:
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
