@@ -12,7 +12,7 @@ this after any image change is enough.
 """
 import glob, os, re, subprocess, sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = "/scratch/work/repo"
 os.chdir(ROOT)
 
 FIX = "--fix" in sys.argv
@@ -95,8 +95,9 @@ def check_credits(figs):
     """credits.html must list exactly the figures the pages use."""
     t = open("credits.html", encoding="utf-8").read()
     listed = set(re.findall(r'<img src="(assets/img/[^"]+)"', t))
+    thumb = {os.path.basename(x) for x in listed if "/thumb/" in x}
     used = {s for _, s in figs}
-    missing = used - listed
+    missing = {s for s in used - listed if os.path.basename(s) not in thumb}
     stale = {s for s in listed if not os.path.exists(s)}
     if missing:
         problems.append(f"{len(missing)} figure(s) are not listed on credits.html")

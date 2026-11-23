@@ -230,3 +230,41 @@ figure.hero-fig .credit{display:block;margin-top:4px;font-size:11px}
   .site-nav a{white-space:nowrap}
   .prefs{margin-left:auto}
 }
+
+/* ---------- accessibility pass ---------- */
+/* amber-dim is used for borders and small caps labels; it sat at 3.06:1 in light
+   and 4.27:1 in dark, so text using it fails AA. Lift the text token only. */
+[data-theme="light"]{--amber-dim-text:#7d5f1d}
+:root{--amber-dim-text:#a8834a}
+.eyebrow,.kicker,.site-nav a,.prefs button,.foot-col h4,.badge,.tag{color:var(--ink-dim)}
+.site-nav a[aria-current="page"]{color:var(--amber)}
+.foot-col h4{color:var(--muted)}
+
+/* touch targets: nav and preference buttons reach 44px on small screens */
+@media (max-width:760px){
+  .site-nav a{min-height:44px;display:inline-flex;align-items:center;padding:0 14px}
+  .prefs button{min-height:44px;min-width:44px;padding:0 12px}
+  .btn{min-height:44px}
+}
+
+/* visible focus for keyboard users on every interactive element */
+a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visible{
+  outline:2px solid var(--amber);outline-offset:2px;border-radius:4px}
+
+/* respect the reader's motion preference */
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;
+    transition-duration:.01ms!important;scroll-behavior:auto!important}
+}
+
+/* long-form reading measure: keep lines inside the legible band */
+.article-body p,.article-body li{max-width:72ch}
+
+/* small-screen nav: let the last item scroll fully into view */
+@media (max-width:640px){
+  .site-nav{padding-right:18px;scroll-padding-right:18px}
+  .site-nav a:last-child{margin-right:12px}
+}
+/* stat strip: stop single words falling onto their own line */
+.stat-strip div span{text-wrap:pretty;letter-spacing:.02em}
+.stat-strip div b{text-wrap:nowrap}
