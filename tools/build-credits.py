@@ -52,13 +52,34 @@ def entries():
     return rows
 
 
+def dims(path):
+    """Intrinsic size, so the credits grid reserves its boxes."""
+    try:
+        if path.endswith(".svg"):
+            head = open(path, encoding="utf-8", errors="ignore").read(600)
+            m = re.search(r'viewBox="[\d.\-]+ [\d.\-]+ ([\d.]+) ([\d.]+)"', head)
+            if m:
+                return round(float(m.group(1))), round(float(m.group(2)))
+            return 200, 200
+        from PIL import Image
+        with Image.open(path) as im:
+            w, h = im.size
+        if w > 200:
+            h = round(200 * h / w)
+            w = 200
+        return w, h
+    except Exception:
+        return 200, 200
+
+
 def render(rows, ttl):
     items = []
     for r in rows:
         lic = (f'<a href="{r["url"]}" rel="noopener">{html.escape(r["lic"])}</a>'
                if r["url"] else html.escape(r["lic"]))
         items.append(
-            f'<li><img src="{r["src"]}" alt="" loading="lazy" decoding="async"><div>'
+            f'<li><img src="{r["src"]}" alt="" loading="lazy" decoding="async" '
+            f'width="{dims(r["src"])[0]}" height="{dims(r["src"])[1]}"><div>'
             f'<span class="t">{os.path.basename(r["src"])}</span>'
             f'<span class="u">{html.escape(r["author"])} · {lic} · '
             f'<a href="{r["page"]}">{html.escape(ttl.get(r["page"], r["page"]))}</a></span></div></li>')

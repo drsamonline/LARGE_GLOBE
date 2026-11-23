@@ -62,7 +62,7 @@ def check_blank():
         problems.append("Pillow is not installed, so the blank-frame test cannot run")
         return
     blank = []
-    for p in glob.glob("assets/img/gallery/*.webp"):
+    for p in glob.glob("assets/img/gallery/*.webp") + glob.glob("assets/img/*.webp") + glob.glob("assets/img/*.avif"):
         try:
             if ImageStat.Stat(Image.open(p).convert("L")).stddev[0] < 6:
                 blank.append(p)
