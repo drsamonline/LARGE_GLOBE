@@ -126,7 +126,7 @@ def main():
     # 1. at a glance
     glance = {
         "Dossiers": len(CLAIMS),
-        "Claims in the master list": 150,
+        "Claims in the master list": len(re.findall(r'<td class="v ', open("master-list.html", encoding="utf-8").read())),
         "Source entries": total_sources,
         "Credited images": images_total,
         "Average sources per dossier": f"{avg_sources:.1f}",
