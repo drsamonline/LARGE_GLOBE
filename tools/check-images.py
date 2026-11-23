@@ -12,7 +12,7 @@ this after any image change is enough.
 """
 import glob, os, re, subprocess, sys
 
-ROOT = "/scratch/work/repo"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 
 FIX = "--fix" in sys.argv

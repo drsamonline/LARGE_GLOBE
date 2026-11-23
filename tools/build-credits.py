@@ -9,7 +9,7 @@ appears on — so the credits cannot drift from the pages.
 """
 import glob, html, os, re
 
-ROOT = "/scratch/work/repo"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 
 FIG = re.compile(r'<img src="(assets/img/(?:gallery/|diagrams/|[a-z0-9\-]+\.(?:avif|webp|jpg|png))[^"]*)"[^>]*>'
