@@ -1,7 +1,10 @@
 /* The Larger World Archive — offline reading.
-   Cache-first for the shell and images, network-first for pages with a cache
-   fallback, so a read page stays readable on a train. */
-const V = 'lwa-v1';
+   Pages are network-first with a cache fallback, so a read page stays readable on
+   a train and a returning reader gets the current text. Assets are
+   stale-while-revalidate: the cached copy answers immediately and the network
+   copy replaces it, so a stylesheet change reaches a reader on their next visit
+   instead of never. */
+const V = 'lwa-v3';
 const SHELL = [
   './', 'index.html', 'assets/style.css', 'assets/prefs.js', 'assets/keys.js',
   'assets/cite.js', 'favicon.svg', 'assets/icon-192.png', 'offline.html'
@@ -38,16 +41,19 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
+  // stale-while-revalidate for everything else
   e.respondWith(
-    caches.match(req).then((hit) =>
-      hit ||
-      fetch(req).then((res) => {
-        if (res.ok && res.type === 'basic') {
-          const copy = res.clone();
-          caches.open(V).then((c) => c.put(req, copy));
-        }
-        return res;
-      }).catch(() => hit)
-    )
+    caches.match(req).then((hit) => {
+      const net = fetch(req)
+        .then((res) => {
+          if (res.ok && res.type === 'basic') {
+            const copy = res.clone();
+            caches.open(V).then((c) => c.put(req, copy));
+          }
+          return res;
+        })
+        .catch(() => hit);
+      return hit || net;
+    })
   );
 });

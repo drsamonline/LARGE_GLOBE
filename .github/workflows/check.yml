@@ -23,6 +23,8 @@ jobs:
         run: python tools/rebuild-shell.py --check
       - name: charts.html is in step with the ledger
         run: python tools/rebuild-charts.py --check
+      - name: Stylesheet hash is current on every page
+        run: python tools/stamp-css.py --check
       - name: Sitemap lists every page
         run: python tools/build-sitemap.py --check
       - name: README numbers match the repository
