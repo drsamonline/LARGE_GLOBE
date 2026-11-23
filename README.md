@@ -207,6 +207,8 @@ Nothing is gated behind it, no tier exists, and a sponsor gets no say over a lab
 
 </div>
 
+See [CHANGELOG.md](CHANGELOG.md) for every change, generated from the commit history.
+
 ## Licence, privacy and disclaimer
 
 The text and diagrams are CC BY-NC 4.0 ([LICENSE](LICENSE)). What is inside that the
