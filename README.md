@@ -207,6 +207,14 @@ Nothing is gated behind it, no tier exists, and a sponsor gets no say over a lab
 
 </div>
 
+## Licence, privacy and disclaimer
+
+The text and diagrams are CC BY-NC 4.0 ([LICENSE](LICENSE)). What is inside that the
+archive did not make — 2,827 photographs from Wikimedia Commons, and the tools used to
+build the site — is recorded in [NOTICE.md](NOTICE.md). What the site does with your data
+is in [PRIVACY.md](PRIVACY.md), and what it is not qualified to tell you is in
+[DISCLAIMER.md](DISCLAIMER.md).
+
 ## Licence
 
 **The writing** — every dossier, index, chart caption and page in this repository — is © Dr. Sohil Momin, released under [CC BY-NC 4.0](LICENSE): read it, quote it, teach from it, mirror it, translate it, with attribution and not for commercial resale.
