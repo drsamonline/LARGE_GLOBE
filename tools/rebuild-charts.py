@@ -188,7 +188,11 @@ def main():
                   f"Generated {today} from data/claims.json and credits.html", page)
 
     if check:
-        if page != orig:
+        # the generated-date line changes every day, so comparing it byte-for-byte
+        # made this check fail on the day after every commit. Compare everything else.
+        def stable(t):
+            return re.sub(r"Generated \d+ \w+ \d{4} from", "Generated TODAY from", t)
+        if stable(page) != stable(orig):
             print("charts.html is out of step with the ledger — run tools/rebuild-charts.py")
             sys.exit(1)
         print("charts.html is in step")

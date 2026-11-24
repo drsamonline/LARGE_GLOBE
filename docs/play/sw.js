@@ -5,9 +5,11 @@
    copy replaces it, so a stylesheet change reaches a reader on their next visit
    instead of never. */
 const V = 'lwa-v3';
+const ROOT = '/LARGE_GLOBE/';
 const SHELL = [
-  './', 'index.html', 'assets/style.css', 'assets/prefs.js', 'assets/keys.js',
-  'assets/cite.js', 'favicon.svg', 'assets/icon-192.png', 'offline.html'
+  ROOT, ROOT + 'index.html', ROOT + 'assets/style.css', ROOT + 'assets/prefs.js',
+  ROOT + 'assets/keys.js', ROOT + 'assets/cite.js', ROOT + 'favicon.svg',
+  ROOT + 'assets/icon-192.png', ROOT + 'offline.html'
 ];
 
 self.addEventListener('install', (e) => {
@@ -36,7 +38,7 @@ self.addEventListener('fetch', (e) => {
           caches.open(V).then((c) => c.put(req, copy));
           return res;
         })
-        .catch(() => caches.match(req).then((hit) => hit || caches.match('offline.html')))
+        .catch(() => caches.match(req).then((hit) => hit || caches.match(ROOT + 'offline.html')))
     );
     return;
   }

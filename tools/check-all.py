@@ -12,6 +12,7 @@ import subprocess, sys, time
 
 CHECKS = [
     ("structure — links, anchors, page invariants", ["tools/check-structure.py"], False),
+    ("docs — landing page, demo, robots, sitemaps", ["tools/check-docs.py"], False),
     ("size budget", ["tools/check-size.py"], False),
     ("images — references, blanks, credits, counts, dimensions", ["tools/check-images.py"], False),
     ("shared shell in step with index.html", ["tools/rebuild-shell.py", "--check"], False),

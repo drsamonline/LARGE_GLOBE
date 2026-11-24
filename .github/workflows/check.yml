@@ -19,6 +19,8 @@ jobs:
           python-version: "3.12"
       - name: Internal links, images, and page invariants
         run: python tools/check-structure.py
+      - name: Landing page, demo, robots and sitemaps
+        run: python tools/check-docs.py
       - name: Size budget
         run: python tools/check-size.py
       - name: Shared shell is in step with index.html
