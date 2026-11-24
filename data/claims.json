@@ -9809,12 +9809,13 @@
     "Reforms": "Recording; technique limits"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/False_confession",
      "https://en.wikipedia.org/wiki/Reid_technique",
      "https://en.wikipedia.org/wiki/Innocence_Project",
-     "https://en.wikipedia.org/wiki/Interrogation"
+     "https://en.wikipedia.org/wiki/Interrogation",
+     "https://en.wikipedia.org/wiki/Eyewitness_identification"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -10089,12 +10090,13 @@
     "Claim at issue": "Absolute certainty"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Fingerprint",
      "https://en.wikipedia.org/wiki/Forensic_identification",
      "https://en.wikipedia.org/wiki/Fingerprint_powder",
-     "https://en.wikipedia.org/wiki/2004_Madrid_train_bombings"
+     "https://en.wikipedia.org/wiki/2004_Madrid_train_bombings",
+     "https://en.wikipedia.org/wiki/Forensic_science"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -26004,12 +26006,13 @@
     "Journal": "Social Text"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Sokal_affair",
      "https://en.wikipedia.org/wiki/Alan_Sokal",
      "https://en.wikipedia.org/wiki/Science_wars",
-     "https://en.wikipedia.org/wiki/Hoax"
+     "https://en.wikipedia.org/wiki/Hoax",
+     "https://en.wikipedia.org/wiki/Reproducibility"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -30114,12 +30117,13 @@
     "Earwitness": "High error rates"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Earwitness_identification",
      "https://en.wikipedia.org/wiki/Forensic_speaker_recognition",
      "https://en.wikipedia.org/wiki/Voice_analysis",
-     "https://en.wikipedia.org/wiki/Eyewitness_identification"
+     "https://en.wikipedia.org/wiki/Eyewitness_identification",
+     "https://en.wikipedia.org/wiki/Voice_identification"
     ]
    },
    "last_reviewed": "2026-11-23",
