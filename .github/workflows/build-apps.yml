@@ -40,9 +40,17 @@ jobs:
     with:
       app_name: LARGE_GLOBE
       app_src: docs/play
-      deploy_path: docs
+      # No Pages deploy from this workflow.
+      #
+      # Two things were wrong with it. It failed on every run — "No artifacts named
+      # github-pages were found" — because the build job never uploads that artifact.
+      # And it could not have been right even if it had: Pages for this repository
+      # serves the archive from the repository root, so deploying docs/ would have
+      # replaced 1,038 dossiers with a landing page.
+      #
+      # The archive owns Pages. If the demo should be published, give it its own
+      # repository or its own Pages project; do not point it at this one.
+      deploy_path: ""
     permissions:
       contents: write
-      pages: write
       actions: write    # the shot job dispatches the run that publishes its picture
-      id-token: write
