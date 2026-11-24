@@ -113,12 +113,13 @@
     "Recovery": "Mostly repaid"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program",
      "https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis",
      "https://en.wikipedia.org/wiki/Bailout",
-     "https://en.wikipedia.org/wiki/Too_big_to_fail"
+     "https://en.wikipedia.org/wiki/Too_big_to_fail",
+     "https://en.wikipedia.org/wiki/2008_financial_crisis"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -4904,12 +4905,13 @@
     "Proposal": "A volcanic landscape"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Chimera_(mythology)",
      "https://en.wikipedia.org/wiki/Yanarta%C5%9F",
      "https://en.wikipedia.org/wiki/Lycia",
-     "https://en.wikipedia.org/wiki/Composite_creature"
+     "https://en.wikipedia.org/wiki/Composite_creature",
+     "https://en.wikipedia.org/wiki/Chimera_(genetics)"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -14269,12 +14271,13 @@
     "Claim": "Reality derives from information"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Digital_physics",
      "https://en.wikipedia.org/wiki/John_Archibald_Wheeler",
      "https://en.wikipedia.org/wiki/Quantum_information",
-     "https://en.wikipedia.org/wiki/Holographic_principle"
+     "https://en.wikipedia.org/wiki/Holographic_principle",
+     "https://en.wikipedia.org/wiki/It_from_bit"
     ]
    },
    "last_reviewed": "2026-11-23",
