@@ -82,11 +82,27 @@ def check_sitemaps():
             problems.append(f"{p}: not well-formed XML — {e}")
 
 
+def check_demo_not_deployed():
+    """The demo builds into the EXE and APK; it must never deploy to Pages.
+
+    Pages serves this repository from the root, so a deploy of docs/ would replace
+    the archive with a landing page. Enforced here rather than trusted to a comment.
+    """
+    p = ".github/workflows/build-apps.yml"
+    if not os.path.exists(p):
+        return
+    t = open(p, encoding="utf-8").read()
+    m = re.search(r'deploy_path:\s*"?([^"\n]*)"?', t)
+    if m and m.group(1).strip():
+        problems.append(f"{p}: deploy_path is '{m.group(1).strip()}' — that would publish docs/ over the archive")
+
+
 def main():
     pages = glob.glob("docs/**/*.html", recursive=True)
     for p in pages:
         check_page(p)
     check_robots()
+    check_demo_not_deployed()
     check_sitemaps()
     print(f"docs: {len(pages)} page(s) checked")
     if problems:

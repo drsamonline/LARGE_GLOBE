@@ -73,3 +73,12 @@ Fourteen defects, every one invisible on screen and most of them mine:
 - **External links** except on the weekly scheduled run (`check-links.py`).
 - **Full EPUB conformance** — `epubcheck` needs Java, which the build environment does not have. `check-epub.py` covers the container, manifest, spine, well-formedness and ids; it does not test CSS support, media overlays or accessibility metadata.
 - **Accessibility beyond structure.** Contrast, focus and touch targets were audited once by hand; there is no automated gate.
+
+## Decisions taken
+
+| Question | Decision | Consequence |
+|---|---|---|
+| Repository topics | Dropped | The GitHub App cannot set them (403) and the description and homepage carry the same information. Not raised again. |
+| The demo app in `docs/play` | Kept, never published | It builds into the EXE and APK. Pages serves this repository from the root, so publishing `docs/` would replace the archive with a landing page. `check-docs.py` fails if `deploy_path` is ever set again. |
+| KDP paperback | Not now | The PDF and EPUB are the deliverable. `docs/KDP-READINESS.md` records what a three-volume 6×9 set would need if that changes. |
+| Next content work | Expand existing dossiers | Longer bodies and more sources on pages that already exist. No new pages until the existing ones are deeper. |
