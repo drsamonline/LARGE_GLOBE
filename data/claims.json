@@ -514,12 +514,13 @@
     "Mitigations": "Retrieval; refusal training"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)",
      "https://en.wikipedia.org/wiki/Large_language_model",
      "https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback",
-     "https://en.wikipedia.org/wiki/Retrieval-augmented_generation"
+     "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+     "https://en.wikipedia.org/wiki/Confabulation"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -1431,12 +1432,13 @@
     "Problem": "Mistranslation"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Anunnaki",
      "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
      "https://en.wikipedia.org/wiki/Sumerian_language",
-     "https://en.wikipedia.org/wiki/Pseudoarchaeology"
+     "https://en.wikipedia.org/wiki/Pseudoarchaeology",
+     "https://en.wikipedia.org/wiki/Nibiru_cataclysm"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -27119,12 +27121,13 @@
     "Explanation": "Observer expectation"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Sugar_high",
      "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder",
      "https://en.wikipedia.org/wiki/Placebo",
-     "https://en.wikipedia.org/wiki/Blinded_experiment"
+     "https://en.wikipedia.org/wiki/Blinded_experiment",
+     "https://en.wikipedia.org/wiki/Sugar_rush"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -31235,12 +31238,13 @@
     "Outcome": "Creator identified"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Alternate_reality_game",
      "https://en.wikipedia.org/wiki/YouTube",
      "https://en.wikipedia.org/wiki/Internet_mystery",
-     "https://en.wikipedia.org/wiki/Internet_art"
+     "https://en.wikipedia.org/wiki/Internet_art",
+     "https://en.wikipedia.org/wiki/Creepypasta"
     ]
    },
    "last_reviewed": "2026-11-23",
