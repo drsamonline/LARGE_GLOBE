@@ -6641,12 +6641,13 @@
     "Responses": "Synthetic data; efficiency; multimodality"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets",
      "https://en.wikipedia.org/wiki/Synthetic_data",
      "https://en.wikipedia.org/wiki/Large_language_model",
-     "https://en.wikipedia.org/wiki/Web_scraping"
+     "https://en.wikipedia.org/wiki/Web_scraping",
+     "https://en.wikipedia.org/wiki/Neural_scaling_law"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -7051,12 +7052,13 @@
     "Alternative": "Provenance standards"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Deepfake",
      "https://en.wikipedia.org/wiki/Content_Authenticity_Initiative",
      "https://en.wikipedia.org/wiki/Media_forensics",
-     "https://en.wikipedia.org/wiki/Misinformation"
+     "https://en.wikipedia.org/wiki/Misinformation",
+     "https://en.wikipedia.org/wiki/Content_moderation"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -22694,12 +22696,13 @@
     "Since": "2022"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Prompt_injection",
      "https://en.wikipedia.org/wiki/Computer_security",
      "https://en.wikipedia.org/wiki/SQL_injection",
-     "https://en.wikipedia.org/wiki/Large_language_model"
+     "https://en.wikipedia.org/wiki/Large_language_model",
+     "https://en.wikipedia.org/wiki/Content_moderation"
     ]
    },
    "last_reviewed": "2026-11-23",

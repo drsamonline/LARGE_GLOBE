@@ -89,6 +89,11 @@
 <h4>Nearby in the archive</h4>
 <ul><li><a href="vaimanika-shastra.html">The Vaimanika Shastra</a><span class="badge b-debunk">Debunked</span></li><li><a href="attack-on-titan-loop.html">Attack on Titan's Time Loop</a><span class="badge b-fiction">Fiction</span></li><li><a href="microbiome-forensics.html">Microbiome Forensics</a><span class="badge b-debate">Live debate</span></li><li><a href="model-collapse.html">Model Collapse</a><span class="badge b-debate">Live debate</span></li></ul>
 </div>
+<h3 id="why-it-is-architectural">Why it is an architecture problem, not a bug</h3>
+<p>A language model cannot reliably distinguish its instructions from its input, because both arrive as text in the same channel. Anything that reaches the context window can attempt to act as an instruction — a web page the model is asked to summarise, a document it is asked to read, an email it is asked to reply to.</p>
+<p>The usual defences are filters, delimiters and classifiers that try to spot injected instructions. Each reduces the rate and none closes the hole, because the attack surface is the model's core competence: following instructions in natural language. Filtering the channel is not the same as separating the channels.</p>
+<p>The durable mitigations are outside the model: least privilege for any tool the model can call, human confirmation for consequential actions, and treating model output as untrusted input at every boundary it crosses. That is ordinary security practice, and it is the only part of this that has a good record.</p>
+
 <h4>Sources for this page</h4>
 <ul class="srclist">
 <li><span class="t">Wikipedia, “Prompt injection” — the vulnerability</span><span class="u"><a href="https://en.wikipedia.org/wiki/Prompt_injection" rel="noopener">en.wikipedia.org</a></span></li>
