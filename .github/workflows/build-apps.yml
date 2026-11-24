@@ -50,7 +50,12 @@ jobs:
       #
       # The archive owns Pages. If the demo should be published, give it its own
       # repository or its own Pages project; do not point it at this one.
-      deploy_path: ""
+      deploy_path: ""    # empty = do not deploy; the archive owns Pages
     permissions:
       contents: write
+      # granted because the called workflow declares them; a caller cannot grant
+      # fewer permissions than the callee requires, and the run dies at startup
+      # with no log if it tries
+      pages: write
+      id-token: write
       actions: write    # the shot job dispatches the run that publishes its picture
