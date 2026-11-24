@@ -704,12 +704,13 @@
     "Reality": "Damage to dendrites and white matter"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Alcohol_and_the_brain",
      "https://en.wikipedia.org/wiki/Alcoholism",
      "https://en.wikipedia.org/wiki/Neurotoxicity",
-     "https://en.wikipedia.org/wiki/Dendrite"
+     "https://en.wikipedia.org/wiki/Dendrite",
+     "https://en.wikipedia.org/wiki/Alcohol_and_health"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -10038,12 +10039,13 @@
     "Identifies": "A class, not a person"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Forensic_fiber_analysis",
      "https://en.wikipedia.org/wiki/Trace_evidence",
      "https://en.wikipedia.org/wiki/Locard%27s_exchange_principle",
-     "https://en.wikipedia.org/wiki/Forensic_science"
+     "https://en.wikipedia.org/wiki/Forensic_science",
+     "https://en.wikipedia.org/wiki/Forensic_biology"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -17834,12 +17836,14 @@
     "Forensic use": "Not established"
    },
    "sources": {
-    "count": 4,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Human_microbiome",
      "https://en.wikipedia.org/wiki/Forensic_science",
      "https://en.wikipedia.org/wiki/Thanatochemistry",
-     "https://en.wikipedia.org/wiki/Metagenomics"
+     "https://en.wikipedia.org/wiki/Metagenomics",
+     "https://en.wikipedia.org/wiki/Microbiome",
+     "https://en.wikipedia.org/wiki/Forensic_biology"
     ]
    },
    "last_reviewed": "2026-11-23",
