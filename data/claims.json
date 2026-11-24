@@ -30119,12 +30119,13 @@
     "Trials": "No cancer benefit"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Linus_Pauling",
      "https://en.wikipedia.org/wiki/Vitamin_C",
      "https://en.wikipedia.org/wiki/Orthomolecular_medicine",
-     "https://en.wikipedia.org/wiki/Randomized_controlled_trial"
+     "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+     "https://en.wikipedia.org/wiki/Vitamin_C_megadosage"
     ]
    },
    "last_reviewed": "2026-11-23",
