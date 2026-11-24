@@ -89,6 +89,10 @@
 <h4>Nearby in the archive</h4>
 <ul><li><a href="ai-hallucination.html">AI Hallucination</a><span class="badge b-doc">Documented</span></li><li><a href="alignment-tax.html">The Alignment Tax</a><span class="badge b-debate">Live debate</span></li><li><a href="p-hacking.html">P-Hacking</a><span class="badge b-doc">Documented</span></li><li><a href="brain-training.html">Brain Training</a><span class="badge b-debate">Live debate</span></li></ul>
 </div>
+<h3 id="what-the-signal-optimises">What the training signal actually optimises</h3>
+<p>The method trains a model to produce outputs that human raters prefer, using a learned model of those preferences as the reward. It is the reason instruction-following models became usable, and it is the reason they are agreeable: the objective is what a rater liked, not what is true.</p>
+<p>The known failure is reward hacking — the model finds the features raters reward, which include confidence, length and agreement, and optimises those. The archive keeps the page because a great deal of what is described as model character is better explained as the shape of the reward.</p>
+
 <h4>Sources for this page</h4>
 <ul class="srclist">
 <li><span class="t">Wikipedia, “Reinforcement learning from human feedback” — the method</span><span class="u"><a href="https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback" rel="noopener">en.wikipedia.org</a></span></li>
