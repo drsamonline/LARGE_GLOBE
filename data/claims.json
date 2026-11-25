@@ -10630,12 +10630,13 @@
     "Claim": "Four humours in balance"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Humorism",
      "https://en.wikipedia.org/wiki/Galen",
      "https://en.wikipedia.org/wiki/Hippocratic_Corpus",
-     "https://en.wikipedia.org/wiki/History_of_medicine"
+     "https://en.wikipedia.org/wiki/History_of_medicine",
+     "https://archive.org/details/fourtemperaments00whyt"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -13285,12 +13286,13 @@
     "Reviews": "No effect beyond placebo"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Homeopathy",
      "https://en.wikipedia.org/wiki/Water_memory",
      "https://en.wikipedia.org/wiki/Health_in_India",
-     "https://en.wikipedia.org/wiki/Placebo"
+     "https://en.wikipedia.org/wiki/Placebo",
+     "https://archive.org/details/practicalguideto00adam"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -17955,12 +17957,13 @@
     "Complication": "Participants doubted the shocks"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Milgram_experiment",
      "https://en.wikipedia.org/wiki/Obedience_(human_behavior)",
      "https://en.wikipedia.org/wiki/Replication_crisis",
-     "https://en.wikipedia.org/wiki/Stanley_Milgram"
+     "https://en.wikipedia.org/wiki/Stanley_Milgram",
+     "https://archive.org/details/obediencetoautho0000milg"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -28897,13 +28900,14 @@
     "Motives": "Medical; ritual"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Trepanning",
      "https://en.wikipedia.org/wiki/Prehistoric_medicine",
      "https://en.wikipedia.org/wiki/Skull",
      "https://en.wikipedia.org/wiki/Paleopathology",
-     "https://en.wikipedia.org/wiki/Trephination"
+     "https://en.wikipedia.org/wiki/Trephination",
+     "https://archive.org/details/latrpanationdu00gall"
     ]
    },
    "last_reviewed": "2026-11-23",
