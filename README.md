@@ -33,7 +33,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 
 A hidden-world claim usually arrives in one of two shapes: a screenshot with no author, or a ninety-minute video with no citations. Both are impossible to check. This archive rebuilds each idea from the bottom up — who said it first, what they actually wrote, who repeated it, and what the measurement said afterwards.
 
-**1010 dossiers. About 872,054 words. 4,220 linked sources. 2,985 images — 2,884 credited photographs and 101 diagrams, every one licence-checked and looked at. No account, no tracking, no paywall.**
+**1010 dossiers. About 872,741 words. 4,220 linked sources. 2,985 images — 2,884 credited photographs and 101 diagrams, every one licence-checked and looked at. No account, no tracking, no paywall.**
 
 Every dossier follows the same shape, so you always know where you are in it — breadcrumbs at the top, a citation block with APA, MLA, Chicago and BibTeX at the foot, and four neighbours from the same shelf:
 
