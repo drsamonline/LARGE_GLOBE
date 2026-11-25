@@ -11177,12 +11177,13 @@
     "Genre": "Analog horror"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Analog_horror",
      "https://en.wikipedia.org/wiki/Educational_film",
      "https://en.wikipedia.org/wiki/VHS",
-     "https://en.wikipedia.org/wiki/Found_footage_(film_technique)"
+     "https://en.wikipedia.org/wiki/Found_footage_(film_technique)",
+     "https://en.wikipedia.org/wiki/Gemini_Home_Entertainment"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -30562,12 +30563,13 @@
     "Name from": "Selenium WebDriver"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Webdriver_Torso",
      "https://en.wikipedia.org/wiki/Selenium_(software)",
      "https://en.wikipedia.org/wiki/YouTube",
-     "https://en.wikipedia.org/wiki/Test_automation"
+     "https://en.wikipedia.org/wiki/Test_automation",
+     "https://en.wikipedia.org/wiki/Webdriver_torso"
     ]
    },
    "last_reviewed": "2026-11-23",
