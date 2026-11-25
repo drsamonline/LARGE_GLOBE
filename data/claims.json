@@ -237,12 +237,13 @@
     "Consensus": "Not accepted"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Abc_conjecture",
      "https://en.wikipedia.org/wiki/Shinichi_Mochizuki",
      "https://en.wikipedia.org/wiki/Diophantine_equation",
-     "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem"
+     "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
+     "https://archive.org/details/arxiv-math9908024"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -1091,12 +1092,13 @@
     "Risk": "Contested"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation",
      "https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change",
      "https://en.wikipedia.org/wiki/Tipping_points_in_the_climate_system",
-     "https://en.wikipedia.org/wiki/Greenland_ice_sheet"
+     "https://en.wikipedia.org/wiki/Greenland_ice_sheet",
+     "https://archive.org/details/gulfstreamphysic00stom"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -1913,12 +1915,13 @@
     "Evidence": "Internal documents, litigation"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Asbestos",
      "https://en.wikipedia.org/wiki/Radon",
      "https://en.wikipedia.org/wiki/Asbestosis",
-     "https://en.wikipedia.org/wiki/Occupational_safety_and_health"
+     "https://en.wikipedia.org/wiki/Occupational_safety_and_health",
+     "https://archive.org/details/reportofroyasbest02onta"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -2067,12 +2070,13 @@
     "Penalties": "Fines; draft picks; suspensions"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Houston_Astros_sign_stealing_scandal",
      "https://en.wikipedia.org/wiki/Major_League_Baseball",
      "https://en.wikipedia.org/wiki/Baseball_signals",
-     "https://en.wikipedia.org/wiki/Cheating_in_baseball"
+     "https://en.wikipedia.org/wiki/Cheating_in_baseball",
+     "https://archive.org/details/baseballcodesbea0000turb_v0a5"
     ]
    },
    "last_reviewed": "2026-11-23",
