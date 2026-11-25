@@ -4701,12 +4701,13 @@
     "Purpose": "Contested"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park",
      "https://en.wikipedia.org/wiki/Chacoan_road_system",
      "https://en.wikipedia.org/wiki/Ancestral_Puebloans",
-     "https://en.wikipedia.org/wiki/Great_house_(Pueblo)"
+     "https://en.wikipedia.org/wiki/Great_house_(Pueblo)",
+     "https://archive.org/details/smallsitearchite00mcke"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -4858,12 +4859,13 @@
     "Report": "IAEA assessment"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Chernobyl_disaster",
      "https://en.wikipedia.org/wiki/RBMK",
      "https://en.wikipedia.org/wiki/Void_coefficient",
-     "https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency"
+     "https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency",
+     "https://archive.org/details/YablokovChernobylBook"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -6443,13 +6445,14 @@
     "Settled": "No"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Dancing_plague_of_1518",
      "https://en.wikipedia.org/wiki/Ergotism",
      "https://en.wikipedia.org/wiki/Mass_psychogenic_illness",
      "https://en.wikipedia.org/wiki/Strasbourg",
-     "https://archive.org/details/00338041.9352.emory.edu"
+     "https://archive.org/details/00338041.9352.emory.edu",
+     "https://archive.org/details/dancingplaguestr0000wall"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -28779,12 +28782,13 @@
     "Evidence against": "Hull numbers; photographs; plans; the wreck"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Titanic_conspiracy_theories",
      "https://en.wikipedia.org/wiki/RMS_Titanic",
      "https://en.wikipedia.org/wiki/RMS_Olympic",
-     "https://en.wikipedia.org/wiki/White_Star_Line"
+     "https://en.wikipedia.org/wiki/White_Star_Line",
+     "https://archive.org/details/truthabouttitani00grac"
     ]
    },
    "last_reviewed": "2026-11-23",
