@@ -3140,12 +3140,13 @@
     "Purpose": "Illustration"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Big_Mac_Index",
      "https://en.wikipedia.org/wiki/Purchasing_power_parity",
      "https://en.wikipedia.org/wiki/The_Economist",
-     "https://en.wikipedia.org/wiki/Exchange_rate"
+     "https://en.wikipedia.org/wiki/Exchange_rate",
+     "https://archive.org/details/exchangeratespur1178zieb"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -5646,12 +5647,13 @@
     "Conditions": "Documented assumptions"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Comparative_advantage",
      "https://en.wikipedia.org/wiki/David_Ricardo",
      "https://en.wikipedia.org/wiki/International_trade",
-     "https://en.wikipedia.org/wiki/Opportunity_cost"
+     "https://en.wikipedia.org/wiki/Opportunity_cost",
+     "https://archive.org/details/comparativeadvan00dorn"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -16687,12 +16689,13 @@
     "Untestable": "The counterfactual without deterrence"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Mutual_assured_destruction",
      "https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident",
      "https://en.wikipedia.org/wiki/Able_Archer_83",
-     "https://en.wikipedia.org/wiki/Nuclear_winter"
+     "https://en.wikipedia.org/wiki/Nuclear_winter",
+     "https://archive.org/details/Getting-MAD-Nuclear-Mutual-Assured-Destruction-Its-Origins-and-Practice-2004"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -21561,12 +21564,13 @@
     "Survives": "As a short-run relationship"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Phillips_curve",
      "https://en.wikipedia.org/wiki/Stagflation",
      "https://en.wikipedia.org/wiki/Inflation",
-     "https://en.wikipedia.org/wiki/Macroeconomics"
+     "https://en.wikipedia.org/wiki/Macroeconomics",
+     "https://archive.org/details/inflationunemplo256fisc"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -25154,13 +25158,14 @@
     "Cases": "Documented"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Seigniorage",
      "https://en.wikipedia.org/wiki/Inflation",
      "https://en.wikipedia.org/wiki/Mint_(facility)",
      "https://en.wikipedia.org/wiki/Hyperinflation",
-     "https://en.wikipedia.org/wiki/Money_creation"
+     "https://en.wikipedia.org/wiki/Money_creation",
+     "https://archive.org/details/coinageofeuropea00hazluoft"
     ]
    },
    "last_reviewed": "2026-11-23",

@@ -10,7 +10,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 
 [![live](https://img.shields.io/badge/live-drsamonline.github.io%2FLARGE__GLOBE-A8823F?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/)
 [![dossiers](https://img.shields.io/badge/dossiers-1010-A8823F?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/master-list.html)
-[![sources](https://img.shields.io/badge/linked%20sources-4271-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sources.html)
+[![sources](https://img.shields.io/badge/linked%20sources-4276-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/sources.html)
 [![citations](https://img.shields.io/badge/citations-3%2C380%20across%20299%20domains-2C3548?style=flat-square)](#what-a-source-link-means-here)
 [![images](https://img.shields.io/badge/images-2985%20(2884%20photos%20%C2%B7%20101%20drawn)-2C3548?style=flat-square)](https://drsamonline.github.io/LARGE_GLOBE/credits.html)
 [![words](https://img.shields.io/badge/writing-~117%2C000%20words-2C3548?style=flat-square)](#what-this-is)
@@ -33,7 +33,7 @@ A sourced reference library of hidden-world claims — the larger globe, the fla
 
 A hidden-world claim usually arrives in one of two shapes: a screenshot with no author, or a ninety-minute video with no citations. Both are impossible to check. This archive rebuilds each idea from the bottom up — who said it first, what they actually wrote, who repeated it, and what the measurement said afterwards.
 
-**1010 dossiers. About 879,803 words. 4,271 linked sources. 2,985 images — 2,884 credited photographs and 101 diagrams, every one licence-checked and looked at. No account, no tracking, no paywall.**
+**1010 dossiers. About 879,848 words. 4,276 linked sources. 2,985 images — 2,884 credited photographs and 101 diagrams, every one licence-checked and looked at. No account, no tracking, no paywall.**
 
 Every dossier follows the same shape, so you always know where you are in it — breadcrumbs at the top, a citation block with APA, MLA, Chicago and BibTeX at the foot, and four neighbours from the same shelf:
 
