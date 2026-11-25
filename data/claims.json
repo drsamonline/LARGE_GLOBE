@@ -644,12 +644,13 @@
     "Motive": "Contested"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Akhenaten",
      "https://en.wikipedia.org/wiki/Amarna",
      "https://en.wikipedia.org/wiki/Aten",
-     "https://en.wikipedia.org/wiki/Atenism"
+     "https://en.wikipedia.org/wiki/Atenism",
+     "https://archive.org/details/akhenatenheretic0000redf"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -738,12 +739,13 @@
     "Candidates": "Nebi Daniel; Latin cemetery; harbour"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Tomb_of_Alexander_the_Great",
      "https://en.wikipedia.org/wiki/Alexander_the_Great",
      "https://en.wikipedia.org/wiki/Alexandria",
-     "https://en.wikipedia.org/wiki/Soma_(Alexandria)"
+     "https://en.wikipedia.org/wiki/Soma_(Alexandria)",
+     "https://archive.org/details/cu31924026460752"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -1434,13 +1436,14 @@
     "Problem": "Mistranslation"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Anunnaki",
      "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
      "https://en.wikipedia.org/wiki/Sumerian_language",
      "https://en.wikipedia.org/wiki/Pseudoarchaeology",
-     "https://en.wikipedia.org/wiki/Nibiru_cataclysm"
+     "https://en.wikipedia.org/wiki/Nibiru_cataclysm",
+     "https://archive.org/details/anunnakichronicl0000sitc"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -1811,12 +1814,13 @@
     "Chronology problem": "Three centuries too early"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/King_Arthur",
      "https://en.wikipedia.org/wiki/Historia_Brittonum",
      "https://en.wikipedia.org/wiki/Lucius_Artorius_Castus",
-     "https://en.wikipedia.org/wiki/Sub-Roman_Britain"
+     "https://en.wikipedia.org/wiki/Sub-Roman_Britain",
+     "https://archive.org/details/storyofkingarthu00pylerich"
     ]
    },
    "last_reviewed": "2026-11-23",
