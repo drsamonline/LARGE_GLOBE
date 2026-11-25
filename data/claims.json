@@ -2983,12 +2983,13 @@
     "The error": "No denominator \u2014 a busy region has more losses"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Bermuda_Triangle",
      "https://en.wikipedia.org/wiki/Flight_19",
      "https://en.wikipedia.org/wiki/Gulf_Stream",
-     "https://en.wikipedia.org/wiki/Selection_bias"
+     "https://en.wikipedia.org/wiki/Selection_bias",
+     "https://archive.org/details/bermudatriangle000kusc"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -15045,12 +15046,13 @@
     "Claim since": "1970s"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories",
      "https://en.wikipedia.org/wiki/Apollo_11",
      "https://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiments",
-     "https://en.wikipedia.org/wiki/Stanley_Kubrick"
+     "https://en.wikipedia.org/wiki/Stanley_Kubrick",
+     "https://archive.org/details/TheGreatMoonHoaxOf18351859"
     ]
    },
    "last_reviewed": "2026-11-23",
