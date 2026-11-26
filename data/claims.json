@@ -3214,12 +3214,13 @@
     "Proved in": "Special cases"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture",
      "https://en.wikipedia.org/wiki/Elliptic_curve",
      "https://en.wikipedia.org/wiki/L-function",
-     "https://en.wikipedia.org/wiki/Millennium_Prize_Problems"
+     "https://en.wikipedia.org/wiki/Millennium_Prize_Problems",
+     "https://archive.org/details/arxiv-0706.4344"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -5538,13 +5539,14 @@
     "Known cycles": "4-2-1"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Collatz_conjecture",
      "https://en.wikipedia.org/wiki/Iterated_function",
      "https://en.wikipedia.org/wiki/Paul_Erd%C5%91s",
      "https://en.wikipedia.org/wiki/Terence_Tao",
-     "https://en.wikipedia.org/wiki/Jeffrey_Lagarias"
+     "https://en.wikipedia.org/wiki/Jeffrey_Lagarias",
+     "https://archive.org/details/arxiv-1203.2229"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -6627,12 +6629,13 @@
     "Detected": "No"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Dark_photon",
      "https://en.wikipedia.org/wiki/Dark_matter",
      "https://en.wikipedia.org/wiki/Photon",
-     "https://en.wikipedia.org/wiki/Interferometry"
+     "https://en.wikipedia.org/wiki/Interferometry",
+     "https://archive.org/details/arxiv-1304.3461"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -8402,12 +8405,13 @@
     "2024 search": "Five million sources, seven candidates"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Dyson_sphere",
      "https://en.wikipedia.org/wiki/Tabby%27s_Star",
      "https://en.wikipedia.org/wiki/Infrared_excess",
-     "https://en.wikipedia.org/wiki/Circumstellar_dust"
+     "https://en.wikipedia.org/wiki/Circumstellar_dust",
+     "https://archive.org/details/dysonsphere00pell"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -9496,12 +9500,13 @@
     "Mission": "Europa Clipper, launched 2024, arrives 2030"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Europa_(moon)",
      "https://en.wikipedia.org/wiki/Europa_Clipper",
      "https://en.wikipedia.org/wiki/Tidal_heating",
-     "https://en.wikipedia.org/wiki/Ocean_world"
+     "https://en.wikipedia.org/wiki/Ocean_world",
+     "https://archive.org/details/unmaskingeuropas0000gree"
     ]
    },
    "last_reviewed": "2026-11-23",
