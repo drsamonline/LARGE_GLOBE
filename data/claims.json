@@ -10153,13 +10153,14 @@
     "Claim at issue": "Absolute certainty"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Fingerprint",
      "https://en.wikipedia.org/wiki/Forensic_identification",
      "https://en.wikipedia.org/wiki/Fingerprint_powder",
      "https://en.wikipedia.org/wiki/2004_Madrid_train_bombings",
-     "https://en.wikipedia.org/wiki/Forensic_science"
+     "https://en.wikipedia.org/wiki/Forensic_science",
+     "https://archive.org/details/AutomatedFingerprintIdentificationSystemsAFIS"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -10633,12 +10634,13 @@
     "Courts": "Largely excluded"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Lie_detection",
      "https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging",
      "https://en.wikipedia.org/wiki/Brain_fingerprinting",
-     "https://en.wikipedia.org/wiki/Neuroethics"
+     "https://en.wikipedia.org/wiki/Neuroethics",
+     "https://archive.org/details/pubmed-PMC3978358"
     ]
    },
    "last_reviewed": "2026-11-23",
