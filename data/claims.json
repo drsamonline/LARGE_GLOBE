@@ -2960,12 +2960,13 @@
     "Contested": "Route and timing"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Beringia",
      "https://en.wikipedia.org/wiki/Settlement_of_the_Americas",
      "https://en.wikipedia.org/wiki/Bering_Strait",
-     "https://en.wikipedia.org/wiki/Ancient_Beringian"
+     "https://en.wikipedia.org/wiki/Ancient_Beringian",
+     "https://archive.org/details/latequaternaryst00beau"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -4623,12 +4624,13 @@
     "Exotic cause": "None established"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Cattle_mutilation",
      "https://en.wikipedia.org/wiki/Forensic_entomology",
      "https://en.wikipedia.org/wiki/Decomposition",
-     "https://en.wikipedia.org/wiki/Scavenger"
+     "https://en.wikipedia.org/wiki/Scavenger",
+     "https://archive.org/details/Fbi-CattleMutilationInvestigationfoia"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -7032,12 +7034,13 @@
     "Activity": "Extremely low; contested"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Deep_biosphere",
      "https://en.wikipedia.org/wiki/Ocean_Drilling_Program",
      "https://en.wikipedia.org/wiki/Extremophile",
-     "https://en.wikipedia.org/wiki/Biomass_(ecology)"
+     "https://en.wikipedia.org/wiki/Biomass_(ecology)",
+     "https://archive.org/details/deephotbiosphere0000gold"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -8463,12 +8466,13 @@
     "Field": "Geophysics"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Dynamo_theory",
      "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
      "https://en.wikipedia.org/wiki/Paleomagnetism",
-     "https://en.wikipedia.org/wiki/Earth%27s_inner_core"
+     "https://en.wikipedia.org/wiki/Earth%27s_inner_core",
+     "https://archive.org/details/arxiv-1008.0309"
     ]
    },
    "last_reviewed": "2026-11-23",
