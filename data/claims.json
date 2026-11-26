@@ -1162,12 +1162,13 @@
     "Contested": "Whether amyloid is cause or marker"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Amyloid_beta",
      "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
      "https://en.wikipedia.org/wiki/Lecanemab",
-     "https://en.wikipedia.org/wiki/Tau_protein"
+     "https://en.wikipedia.org/wiki/Tau_protein",
+     "https://archive.org/details/pubmed-PMC3601014"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -2486,12 +2487,13 @@
     "Mechanism": "Auditory pareidolia"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Backmasking",
      "https://en.wikipedia.org/wiki/Pareidolia",
      "https://en.wikipedia.org/wiki/Moral_panic",
-     "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction"
+     "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+     "https://archive.org/details/rockshiddenpersu0000pete_m2t9"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -3559,12 +3561,13 @@
     "Inference": "Contested"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Bloodstain_pattern_analysis",
      "https://en.wikipedia.org/wiki/Fluid_dynamics",
      "https://en.wikipedia.org/wiki/Forensic_science",
-     "https://en.wikipedia.org/wiki/National_Academy_of_Sciences"
+     "https://en.wikipedia.org/wiki/National_Academy_of_Sciences",
+     "https://archive.org/details/principlesofbloo0000jame"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -3969,12 +3972,13 @@
     "Not found": "General transfer"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Brain_training",
      "https://en.wikipedia.org/wiki/Transfer_of_learning",
      "https://en.wikipedia.org/wiki/Cognitive_training",
-     "https://en.wikipedia.org/wiki/Neuromyth"
+     "https://en.wikipedia.org/wiki/Neuromyth",
+     "https://archive.org/details/masteryourbraint0000adco"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -4186,12 +4190,13 @@
     "Variation": "Wide between teams"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Cadaver_dog",
      "https://en.wikipedia.org/wiki/Detection_dog",
      "https://en.wikipedia.org/wiki/Olfaction",
-     "https://en.wikipedia.org/wiki/Forensic_science"
+     "https://en.wikipedia.org/wiki/Forensic_science",
+     "https://archive.org/details/cadaverdoghandbo0000rebm"
     ]
    },
    "last_reviewed": "2026-11-23",
