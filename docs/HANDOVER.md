@@ -1,6 +1,6 @@
 # Handover — The Larger World Archive
 
-State at commit `7e10d433` (27 November 2026). Everything here is measured, not estimated.
+State at commit `d1d48e993` (27 November 2026). Everything here is measured, not estimated.
 
 ## What this repository is
 
@@ -16,10 +16,10 @@ charts, feed and sitemap are generated from `data/claims.json` and the pages.
 | Measure | Value |
 |---|---|
 | Dossiers | 1,010 |
-| Sources | 4,557 |
+| Sources | 4,566 |
 | Distinct source domains | 267 |
 | archive.org primary sources added | 336 |
-| Dossiers citing only Wikipedia | 512 |
+| Dossiers citing only Wikipedia | 503 |
 | Images | 2,985 (1,965 figures on 1,008 pages) |
 | Words | 882,407 |
 | PDF | 2,211 A5 pages, 1,012 bookmarks |
@@ -32,7 +32,14 @@ The archive's weakest point is that its sourcing was encyclopaedia-shaped. The c
 to give every dossier at least one source that is **not** Wikipedia — ideally the primary
 document the claim rests on.
 
-Progress: 838 → 512 Wikipedia-only dossiers, 326 converted, 4,223 → 4,557 sources.
+Progress: 838 → 503 Wikipedia-only dossiers, 335 converted, 4,223 → 4,566 sources.
+
+The 503 is an over-count of the real gap. 125 of those pages already link an archive.org, DOI
+or JSTOR item from their further-reading block; they are only Wikipedia-sourced in
+`data/claims.json`. Two of the nine pages converted on 27 November were exactly this case
+(`expanding-earth`, `manna-machine`) and were left alone rather than cited twice. Whether to
+promote those links into `sources.urls`, or to measure the gap from the pages instead of the
+ledger, is undecided.
 
 ### Method that works
 
@@ -89,6 +96,7 @@ All three workflows must read `success` before the batch is done: `check`, `Buil
 | Removing figures changes ledger counts | Rebuild charts in the same commit |
 | `rebuild-charts.py --check` is date-sensitive | It normalises the "Generated" line; keep that normalisation |
 | Large pushes occasionally fail | A plain retry of `git push origin main` has always worked |
+| A `--depth 1` clone breaks two checks | `build-feed.py` dates every entry from its first-publication commit, so a shallow clone dates all 1,000 entries to today and the feed check fails on a file that was never wrong. Clone with full history, or `git fetch --unshallow`, before trusting `feed` or `README` checks |
 
 ## Generators
 
@@ -118,7 +126,7 @@ All three workflows must read `success` before the batch is done: `check`, `Buil
 
 | Job | Size |
 |---|---|
-| Finish the sourcing pass | 512 dossiers, ~40 batches at 10–15 per batch |
+| Finish the sourcing pass | 503 in the ledger, of which 378 have no non-Wikipedia link on the page at all; ~30 batches at 9–15 per batch |
 | Accessibility beyond structure | Medium: screen-reader semantics, landmarks, skip targets |
 | Image weight | 2,985 images at ~90 MB; AVIF and `srcset` would cut it substantially |
 | Search filters | Small: by verdict, theme, year |
