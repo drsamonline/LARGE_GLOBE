@@ -16,10 +16,10 @@ charts, feed and sitemap are generated from `data/claims.json` and the pages.
 | Measure | Value |
 |---|---|
 | Dossiers | 1,010 |
-| Sources | 4,658 |
+| Sources | 4,663 |
 | Distinct source domains | 267 |
 | archive.org primary sources added | 336 |
-| Dossiers citing only Wikipedia | 411 |
+| Dossiers citing only Wikipedia | 406 |
 | Images | 2,985 (1,965 figures on 1,008 pages) |
 | Words | 882,407 |
 | PDF | 2,211 A5 pages, 1,012 bookmarks |
@@ -32,15 +32,15 @@ The archive's weakest point is that its sourcing was encyclopaedia-shaped. The c
 to give every dossier at least one source that is **not** Wikipedia — ideally the primary
 document the claim rests on.
 
-Progress: 838 → 411 Wikipedia-only dossiers, 427 converted, 4,223 → 4,658 sources.
+Progress: 838 → 406 Wikipedia-only dossiers, 432 converted, 4,223 → 4,663 sources.
 
-The 411 is an over-count of the real gap. 122 of those pages already link an archive.org, DOI
+The 406 is an over-count of the real gap. 122 of those pages already link an archive.org, DOI
 or JSTOR item from their further-reading block; they are only Wikipedia-sourced in
 `data/claims.json`. Eight pages met in the first three batches were exactly this case
 (`expanding-earth`, `manna-machine`, `polyvagal`, `tired-light`, `cambrian-explosion`,
 `damascus-steel`, `gunung-padang`, `mast-cell-activation`) and were left alone rather than cited
 twice. Whether to promote those links into `sources.urls`, or to measure the gap from the pages
-instead of the ledger, is undecided. The real gap is 289 pages.
+instead of the ledger, is undecided. The real gap is 284 pages.
 
 ### Method that works
 
@@ -69,7 +69,7 @@ about evidence is worse than no citation.
 The ledger's Wikipedia-only list includes pages whose further-reading block already cites a
 non-Wikipedia source. Sampling from it wastes a batch: in the first three batches eight of the
 78 sampled pages were this case. Filter first — page body must contain no
-`archive.org/details/`, `doi.org` or `jstor.org` — and the pool is 94 pages rather than 411.
+`archive.org/details/`, `doi.org` or `jstor.org` — and the pool is 68 pages rather than 406.
 
 ### Measuring the gap, carefully
 
@@ -144,7 +144,7 @@ All three workflows must read `success` before the batch is done: `check`, `Buil
 
 | Job | Size |
 |---|---|
-| Finish the sourcing pass | 411 in the ledger, of which 289 have no citation on the page at all and 122 have one the ledger does not know about; ~20 batches at 6–15 per batch |
+| Finish the sourcing pass | 406 in the ledger, of which 284 have no citation on the page at all and 122 have one the ledger does not know about; ~19 batches at 5–15 per batch |
 | Ledger drift | 47 pages list 56 sources the page does not show, all in one direction: `data/claims.json` over-counts. No page shows a source the ledger omits. `dutch-disease`, `sugar-hyperactivity` and `2008-bailouts` were fixed by hand on 27 November; the rest need a decision — write the missing `<li>`, or drop the URL from the ledger. The list: 2008-bailouts, ai-bubble, ai-hallucination, alcohol-brain-cells, anunnaki, aztlan-utah, barbie-red-pill, blue-whale-challenge, bosnian-pyramids, bowery-hidden-army, chewing-gum-seven-years, chimera (and 37 more — find them by comparing each page's `ul.srclist` `<li>` count with `sources.urls`) |
 | Accessibility beyond structure | Medium: screen-reader semantics, landmarks, skip targets |
 | Image weight | 2,985 images at ~90 MB; AVIF and `srcset` would cut it substantially |
