@@ -31382,12 +31382,13 @@
     "Evidence for mass": "Strong"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Dark_matter",
      "https://en.wikipedia.org/wiki/Weakly_interacting_massive_particle",
      "https://en.wikipedia.org/wiki/Axion",
-     "https://en.wikipedia.org/wiki/Dark_matter#Direct_detection"
+     "https://en.wikipedia.org/wiki/Dark_matter#Direct_detection",
+     "https://archive.org/details/arxiv-1207.3124"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -31572,12 +31573,13 @@
     "Problem": "Ascertainment bias"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/XYY_syndrome",
      "https://en.wikipedia.org/wiki/Selection_bias",
      "https://en.wikipedia.org/wiki/Karyotype",
-     "https://en.wikipedia.org/wiki/Behavioural_genetics"
+     "https://en.wikipedia.org/wiki/Behavioural_genetics",
+     "https://archive.org/details/pubmed-PMC3289987"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -32014,12 +32016,13 @@
     "Constraint": "Thermodynamics"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Casimir_effect",
      "https://en.wikipedia.org/wiki/Zero-point_energy",
      "https://en.wikipedia.org/wiki/Perpetual_motion",
-     "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
+     "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics",
+     "https://archive.org/details/arxiv-1604.01328"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -32044,12 +32047,13 @@
     "Key text": "al-Khwarizmi's arithmetic"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system",
      "https://en.wikipedia.org/wiki/0",
      "https://en.wikipedia.org/wiki/Al-Khwarizmi",
-     "https://en.wikipedia.org/wiki/Indian_mathematics"
+     "https://en.wikipedia.org/wiki/Indian_mathematics",
+     "https://archive.org/details/hinduarabicnume04karpgoog"
     ]
    },
    "last_reviewed": "2026-11-23",
