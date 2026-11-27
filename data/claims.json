@@ -2825,12 +2825,13 @@
     "Response": "Battery health indicator; cheaper replacements"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Batterygate",
      "https://en.wikipedia.org/wiki/Lithium-ion_battery",
      "https://en.wikipedia.org/wiki/Planned_obsolescence",
-     "https://en.wikipedia.org/wiki/IOS"
+     "https://en.wikipedia.org/wiki/IOS",
+     "https://archive.org/details/perma_cc_ER8P-KZAT"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -17863,12 +17864,13 @@
     "Origin": "Contested"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Medusa",
      "https://en.wikipedia.org/wiki/Gorgoneion",
      "https://en.wikipedia.org/wiki/Apotropaic_magic",
-     "https://en.wikipedia.org/wiki/Greek_mythology"
+     "https://en.wikipedia.org/wiki/Greek_mythology",
+     "https://archive.org/details/medusasolvingmys0000wilk"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -31657,12 +31659,13 @@
     "Prize": "Millennium Prize"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap",
      "https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_theory",
      "https://en.wikipedia.org/wiki/Mass_gap",
-     "https://en.wikipedia.org/wiki/Lattice_QCD"
+     "https://en.wikipedia.org/wiki/Lattice_QCD",
+     "https://archive.org/details/arxiv-1202.4476"
     ]
    },
    "last_reviewed": "2026-11-23",
