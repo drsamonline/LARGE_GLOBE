@@ -16,10 +16,10 @@ charts, feed and sitemap are generated from `data/claims.json` and the pages.
 | Measure | Value |
 |---|---|
 | Dossiers | 1,010 |
-| Sources | 4,581 |
+| Sources | 4,590 |
 | Distinct source domains | 267 |
 | archive.org primary sources added | 336 |
-| Dossiers citing only Wikipedia | 488 |
+| Dossiers citing only Wikipedia | 479 |
 | Images | 2,985 (1,965 figures on 1,008 pages) |
 | Words | 882,407 |
 | PDF | 2,211 A5 pages, 1,012 bookmarks |
@@ -32,9 +32,9 @@ The archive's weakest point is that its sourcing was encyclopaedia-shaped. The c
 to give every dossier at least one source that is **not** Wikipedia — ideally the primary
 document the claim rests on.
 
-Progress: 838 → 488 Wikipedia-only dossiers, 350 converted, 4,223 → 4,581 sources.
+Progress: 838 → 479 Wikipedia-only dossiers, 359 converted, 4,223 → 4,590 sources.
 
-The 488 is an over-count of the real gap. 122 of those pages already link an archive.org, DOI
+The 479 is an over-count of the real gap. 122 of those pages already link an archive.org, DOI
 or JSTOR item from their further-reading block; they are only Wikipedia-sourced in
 `data/claims.json`. Eight pages met in the first three batches were exactly this case
 (`expanding-earth`, `manna-machine`, `polyvagal`, `tired-light`, `cambrian-explosion`,
@@ -63,6 +63,13 @@ produced three additions, two wrong: the AI box experiment matched *Hokuto no Ke
 Super Nintendo, and the alignment tax matched a self-published tract on "sovereign
 resonance". Reverted. A third of automated matches are wrong, and a wrong citation on a page
 about evidence is worse than no citation.
+
+### Sample from the real gap, not the ledger
+
+The ledger's Wikipedia-only list includes pages whose further-reading block already cites a
+non-Wikipedia source. Sampling from it wastes a batch: in the first three batches eight of the
+78 sampled pages were this case. Filter first — page body must contain no
+`archive.org/details/`, `doi.org` or `jstor.org` — and the pool is 323 pages rather than 479.
 
 ### Sampling matters
 
@@ -127,8 +134,8 @@ All three workflows must read `success` before the batch is done: `check`, `Buil
 
 | Job | Size |
 |---|---|
-| Finish the sourcing pass | 488 in the ledger, of which 366 have no non-Wikipedia link on the page at all; ~28 batches at 7–15 per batch |
-| Ledger drift | 49 pages list 58 sources the page does not show, all in one direction: `data/claims.json` over-counts. No page shows a source the ledger omits. `dutch-disease` was fixed by hand on 27 November; the rest need a decision — write the missing `<li>`, or drop the URL from the ledger. The list: 2008-bailouts, ai-bubble, ai-hallucination, alcohol-brain-cells, anunnaki, aztlan-utah, barbie-red-pill, blue-whale-challenge, bosnian-pyramids, bowery-hidden-army, chewing-gum-seven-years, chimera (and 37 more — find them by comparing each page's `ul.srclist` `<li>` count with `sources.urls`) |
+| Finish the sourcing pass | 479 in the ledger, of which 357 have no non-Wikipedia link on the page at all; ~26 batches at 9–15 per batch |
+| Ledger drift | 48 pages list 57 sources the page does not show, all in one direction: `data/claims.json` over-counts. No page shows a source the ledger omits. `dutch-disease` and `sugar-hyperactivity` were fixed by hand on 27 November; the rest need a decision — write the missing `<li>`, or drop the URL from the ledger. The list: 2008-bailouts, ai-bubble, ai-hallucination, alcohol-brain-cells, anunnaki, aztlan-utah, barbie-red-pill, blue-whale-challenge, bosnian-pyramids, bowery-hidden-army, chewing-gum-seven-years, chimera (and 37 more — find them by comparing each page's `ul.srclist` `<li>` count with `sources.urls`) |
 | Accessibility beyond structure | Medium: screen-reader semantics, landmarks, skip targets |
 | Image weight | 2,985 images at ~90 MB; AVIF and `srcset` would cut it substantially |
 | Search filters | Small: by verdict, theme, year |
