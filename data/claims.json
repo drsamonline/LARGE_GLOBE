@@ -975,12 +975,13 @@
     "Cancer claims": "Unsupported"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Alkaline_diet",
      "https://en.wikipedia.org/wiki/Acid%E2%80%93base_homeostasis",
      "https://en.wikipedia.org/wiki/PH",
-     "https://en.wikipedia.org/wiki/List_of_alternative_cancer_treatments"
+     "https://en.wikipedia.org/wiki/List_of_alternative_cancer_treatments",
+     "https://doi.org/10.1136/bmjopen-2015-010438"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -14290,12 +14291,13 @@
     "Field": "Topology"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Inscribed_square_problem",
      "https://en.wikipedia.org/wiki/Jordan_curve_theorem",
      "https://en.wikipedia.org/wiki/Topology",
-     "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics"
+     "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics",
+     "https://doi.org/10.1090/noti1100"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -28473,12 +28475,13 @@
     "Reality": "Activity throughout"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth",
      "https://en.wikipedia.org/wiki/Neuroimaging",
      "https://en.wikipedia.org/wiki/Human_brain",
-     "https://en.wikipedia.org/wiki/Neuromyth"
+     "https://en.wikipedia.org/wiki/Neuromyth",
+     "https://doi.org/10.3389/fpsyg.2012.00429"
     ]
    },
    "last_reviewed": "2026-11-23",
