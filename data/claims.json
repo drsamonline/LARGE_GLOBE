@@ -3655,13 +3655,14 @@
     "Evidence": "None found"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Blue_Whale_Challenge",
      "https://en.wikipedia.org/wiki/Moral_panic",
      "https://en.wikipedia.org/wiki/Copycat_crime",
      "https://en.wikipedia.org/wiki/Media_coverage_of_suicide",
-     "https://en.wikipedia.org/wiki/Momo_Challenge_hoax"
+     "https://en.wikipedia.org/wiki/Momo_Challenge_hoax",
+     "https://doi.org/10.1145/3392831"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -4547,12 +4548,13 @@
     "Prediction": "Insulin resistance should predict response \u2014 it does not"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Carbohydrate-insulin_model_of_obesity",
      "https://en.wikipedia.org/wiki/Low-carbohydrate_diet",
      "https://en.wikipedia.org/wiki/Insulin",
-     "https://en.wikipedia.org/wiki/Energy_homeostasis"
+     "https://en.wikipedia.org/wiki/Energy_homeostasis",
+     "https://doi.org/10.1093/ajcn/nqab270"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -25497,12 +25499,13 @@
     "Cohort data": "Higher linoleic acid linked to lower risk"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Linoleic_acid",
      "https://en.wikipedia.org/wiki/Omega-6_fatty_acid",
      "https://en.wikipedia.org/wiki/Inflammation",
-     "https://en.wikipedia.org/wiki/Seed_oil"
+     "https://en.wikipedia.org/wiki/Seed_oil",
+     "https://pubmed.ncbi.nlm.nih.gov/19171857/"
     ]
    },
    "last_reviewed": "2026-11-23",
