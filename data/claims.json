@@ -19847,12 +19847,13 @@
     "Population problem": "Breeding requires dozens of individuals"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Loch_Ness_Monster",
      "https://en.wikipedia.org/wiki/Plesiosaur",
      "https://en.wikipedia.org/wiki/Environmental_DNA",
-     "https://en.wikipedia.org/wiki/Cryptozoology"
+     "https://en.wikipedia.org/wiki/Cryptozoology",
+     "https://doi.org/10.1098/rsos.172307"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -31554,12 +31555,13 @@
     "Repeat": "None, in 48 years"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Wow!_signal",
      "https://en.wikipedia.org/wiki/Hydrogen_line",
      "https://en.wikipedia.org/wiki/Big_Ear",
-     "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence"
+     "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence",
+     "https://www.sciencenews.org/article/wow-signal-not-aliens"
     ]
    },
    "last_reviewed": "2026-11-23",
