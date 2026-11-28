@@ -1900,12 +1900,13 @@
     "Contested": "Politically"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Indo-Aryan_migrations",
      "https://en.wikipedia.org/wiki/Sintashta_culture",
      "https://en.wikipedia.org/wiki/Rigveda",
-     "https://en.wikipedia.org/wiki/Genetics_and_archaeogenetics_of_South_Asia"
+     "https://en.wikipedia.org/wiki/Genetics_and_archaeogenetics_of_South_Asia",
+     "https://doi.org/10.1126/science.aat7487"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -4863,12 +4864,13 @@
     "Mechanism": "Unknown"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Chemical_imbalance_theory",
      "https://en.wikipedia.org/wiki/Dopamine_hypothesis_of_schizophrenia",
      "https://en.wikipedia.org/wiki/Antidepressant",
-     "https://en.wikipedia.org/wiki/Medical_model_of_disability"
+     "https://en.wikipedia.org/wiki/Medical_model_of_disability",
+     "https://doi.org/10.1038/s41380-022-01661-0"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -6167,14 +6169,15 @@
     "Result": "No difference"
    },
    "sources": {
-    "count": 6,
+    "count": 7,
     "urls": [
      "https://en.wikipedia.org/wiki/Cracking_joints",
      "https://en.wikipedia.org/wiki/Cavitation",
      "https://en.wikipedia.org/wiki/Osteoarthritis",
      "https://en.wikipedia.org/wiki/Self-experimentation",
      "https://en.wikipedia.org/wiki/Cracking_knuckles",
-     "https://en.wikipedia.org/wiki/Crepitus"
+     "https://en.wikipedia.org/wiki/Crepitus",
+     "https://onlinelibrary.wiley.com/doi/10.1002/1529-0131(199805)41:5%3C949::AID-ART36%3E3.0.CO;2-3"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -17474,12 +17477,13 @@
     "Explained by": "Family background"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment",
      "https://en.wikipedia.org/wiki/Self-control",
      "https://en.wikipedia.org/wiki/Replication_crisis",
-     "https://en.wikipedia.org/wiki/Delayed_gratification"
+     "https://en.wikipedia.org/wiki/Delayed_gratification",
+     "https://doi.org/10.1177/0956797618761661"
     ]
    },
    "last_reviewed": "2026-11-23",
