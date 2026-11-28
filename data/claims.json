@@ -524,13 +524,14 @@
     "Mitigations": "Retrieval; refusal training"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)",
      "https://en.wikipedia.org/wiki/Large_language_model",
      "https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback",
      "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
-     "https://en.wikipedia.org/wiki/Confabulation"
+     "https://en.wikipedia.org/wiki/Confabulation",
+     "https://doi.org/10.1145/3571730"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -2061,12 +2062,13 @@
     "Published": "Nature, 2023"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Assembly_theory",
      "https://en.wikipedia.org/wiki/Abiogenesis",
      "https://en.wikipedia.org/wiki/Complexity",
-     "https://en.wikipedia.org/wiki/Mass_spectrometry"
+     "https://en.wikipedia.org/wiki/Mass_spectrometry",
+     "https://doi.org/10.1038/s41586-023-06600-9"
     ]
    },
    "last_reviewed": "2026-11-23",
