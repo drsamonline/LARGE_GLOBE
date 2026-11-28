@@ -2703,12 +2703,13 @@
     "Feature": "Polished surfaces; long echo"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Barabar_Caves",
      "https://en.wikipedia.org/wiki/Maurya_Empire",
      "https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika",
-     "https://en.wikipedia.org/wiki/Rock-cut_architecture"
+     "https://en.wikipedia.org/wiki/Rock-cut_architecture",
+     "https://doi.org/10.5281/zenodo.16870852"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -14871,12 +14872,13 @@
     "Evidence": "None"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Kardashev_scale",
      "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence",
      "https://en.wikipedia.org/wiki/Dyson_sphere",
-     "https://en.wikipedia.org/wiki/Thought_experiment"
+     "https://en.wikipedia.org/wiki/Thought_experiment",
+     "https://ui.adsabs.harvard.edu/abs/1964SvA.....8..217K/abstract"
     ]
    },
    "last_reviewed": "2026-11-23",
