@@ -7186,13 +7186,14 @@
     "Alternative": "Provenance standards"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Deepfake",
      "https://en.wikipedia.org/wiki/Content_Authenticity_Initiative",
      "https://en.wikipedia.org/wiki/Media_forensics",
      "https://en.wikipedia.org/wiki/Misinformation",
-     "https://en.wikipedia.org/wiki/Content_moderation"
+     "https://en.wikipedia.org/wiki/Content_moderation",
+     "https://doi.org/10.1145/3699710"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -17964,12 +17965,13 @@
     "Recent specimen": "None"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Megalodon",
      "https://en.wikipedia.org/wiki/Shark_tooth",
      "https://en.wikipedia.org/wiki/Deep_sea",
-     "https://en.wikipedia.org/wiki/Lazarus_taxon"
+     "https://en.wikipedia.org/wiki/Lazarus_taxon",
+     "https://doi.org/10.1126/sciadv.abm9424"
     ]
    },
    "last_reviewed": "2026-11-23",
