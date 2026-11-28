@@ -430,12 +430,13 @@
     "Record": "Missed dates; shifting definitions"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Artificial_general_intelligence",
      "https://en.wikipedia.org/wiki/Technological_singularity",
      "https://en.wikipedia.org/wiki/Forecasting",
-     "https://en.wikipedia.org/wiki/AI_takeover"
+     "https://en.wikipedia.org/wiki/AI_takeover",
+     "https://arxiv.org/abs/2401.02843"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -18492,12 +18493,13 @@
     "Debate": "Documented"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Artificial_consciousness",
      "https://en.wikipedia.org/wiki/Animal_welfare",
      "https://en.wikipedia.org/wiki/Philosophy_of_mind",
-     "https://en.wikipedia.org/wiki/Sentience"
+     "https://en.wikipedia.org/wiki/Sentience",
+     "https://arxiv.org/abs/2411.00986"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -18652,12 +18654,13 @@
     "Vector": "Official warnings and news coverage"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Momo_Challenge_hoax",
      "https://en.wikipedia.org/wiki/Moral_panic",
      "https://en.wikipedia.org/wiki/Blue_Whale_Challenge",
-     "https://en.wikipedia.org/wiki/Hoax"
+     "https://en.wikipedia.org/wiki/Hoax",
+     "https://scholarworks.iu.edu/journals/index.php/cl/article/view/35757"
     ]
    },
    "last_reviewed": "2026-11-23",
