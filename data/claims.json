@@ -9136,12 +9136,13 @@
     "Later": "Variants continue to be reported"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Elsagate",
      "https://en.wikipedia.org/wiki/YouTube_Kids",
      "https://en.wikipedia.org/wiki/Content_moderation",
-     "https://en.wikipedia.org/wiki/Recommender_system"
+     "https://en.wikipedia.org/wiki/Recommender_system",
+     "https://spir.aoir.org/ojs/index.php/spir/article/view/10921"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -20509,12 +20510,13 @@
     "Risks": "Filter removal; misuse"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Open-weight_model",
      "https://en.wikipedia.org/wiki/Open-source_software",
      "https://en.wikipedia.org/wiki/AI_safety",
-     "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence"
+     "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
+     "https://arxiv.org/abs/2403.07918"
     ]
    },
    "last_reviewed": "2026-11-23",
