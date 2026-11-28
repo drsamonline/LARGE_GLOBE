@@ -5757,12 +5757,13 @@
     "Assumption": "Compute is the binding input"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
      "https://en.wikipedia.org/wiki/Export_control",
      "https://en.wikipedia.org/wiki/Semiconductor_device_fabrication",
-     "https://en.wikipedia.org/wiki/AI_safety"
+     "https://en.wikipedia.org/wiki/AI_safety",
+     "https://arxiv.org/abs/2402.08797"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -15910,12 +15911,13 @@
     "Hard to measure": "Real-world magnitude"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Liar%27s_dividend",
      "https://en.wikipedia.org/wiki/Deepfake",
      "https://en.wikipedia.org/wiki/Denialism",
-     "https://en.wikipedia.org/wiki/Misinformation"
+     "https://en.wikipedia.org/wiki/Misinformation",
+     "https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -23084,13 +23086,14 @@
     "Since": "2022"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Prompt_injection",
      "https://en.wikipedia.org/wiki/Computer_security",
      "https://en.wikipedia.org/wiki/SQL_injection",
      "https://en.wikipedia.org/wiki/Large_language_model",
-     "https://en.wikipedia.org/wiki/Content_moderation"
+     "https://en.wikipedia.org/wiki/Content_moderation",
+     "https://arxiv.org/abs/2211.09527"
     ]
    },
    "last_reviewed": "2026-11-23",
