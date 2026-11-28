@@ -9950,12 +9950,13 @@
     "Lesson": "Famous results shrink"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Facial_feedback_hypothesis",
      "https://en.wikipedia.org/wiki/Replication_crisis",
      "https://en.wikipedia.org/wiki/Emotion",
-     "https://en.wikipedia.org/wiki/Proprioception"
+     "https://en.wikipedia.org/wiki/Proprioception",
+     "https://doi.org/10.1177/1745691616674458"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -10330,12 +10331,13 @@
     "Depends on": "Moisture; surface"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Five-second_rule",
      "https://en.wikipedia.org/wiki/Food_safety",
      "https://en.wikipedia.org/wiki/Bacteria",
-     "https://en.wikipedia.org/wiki/Fomite"
+     "https://en.wikipedia.org/wiki/Fomite",
+     "https://doi.org/10.1128/AEM.01838-16"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -20874,12 +20876,13 @@
     "Reforms": "Pre-registration; multiverse analysis"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Data_dredging",
      "https://en.wikipedia.org/wiki/P-value",
      "https://en.wikipedia.org/wiki/Multiple_comparisons_problem",
-     "https://en.wikipedia.org/wiki/Preregistration_(science)"
+     "https://en.wikipedia.org/wiki/Preregistration_(science)",
+     "https://doi.org/10.1177/0956797611417632"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -22754,13 +22757,14 @@
     "Felt power": "Small effect"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Power_posing",
      "https://en.wikipedia.org/wiki/Replication_crisis",
      "https://en.wikipedia.org/wiki/Body_language",
      "https://en.wikipedia.org/wiki/Preregistration_(science)",
-     "https://en.wikipedia.org/wiki/Amy_Cuddy"
+     "https://en.wikipedia.org/wiki/Amy_Cuddy",
+     "https://doi.org/10.1177/0956797614553946"
     ]
    },
    "last_reviewed": "2026-11-23",
