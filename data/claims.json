@@ -18410,12 +18410,13 @@
     "Autism claim": "Largely abandoned"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Mirror_neuron",
      "https://en.wikipedia.org/wiki/Premotor_cortex",
      "https://en.wikipedia.org/wiki/Action_observation",
-     "https://en.wikipedia.org/wiki/Empathy"
+     "https://en.wikipedia.org/wiki/Empathy",
+     "https://doi.org/10.1162/jocn.2009.21189"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -18983,12 +18984,13 @@
     "Meta-analysis": "Pietschnig et al., 2010 \u2014 small, arousal-based"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Mozart_effect",
      "https://en.wikipedia.org/wiki/Arousal",
      "https://en.wikipedia.org/wiki/Music_and_cognition",
-     "https://en.wikipedia.org/wiki/Replication_crisis"
+     "https://en.wikipedia.org/wiki/Replication_crisis",
+     "https://doi.org/10.1038/23608"
     ]
    },
    "last_reviewed": "2026-11-23",
