@@ -130,6 +130,21 @@ Scanning the list in order keeps returning pages already done. Sample at interva
 `w[::max(1,len(w)//26)][:26]` finds fresh pages. Throughput with that change is 10–15 per
 batch instead of 2–5.
 
+### The archive.org pass is finished
+
+Thirty-two batches, 28 November. The yield by batch, from the second pass onward:
+5, 5, 2, 2, 1, and then **0 of 20**. That last batch queried twenty pages never searched
+before — Aiud, Aryan invasion, Blue Whale, Coronil, Dorchester pot, Flannan, Green Run,
+interface theory, London Hammer, Megalodon, the Landlord's Game, Nessie, Nibiru, Orion,
+Oumuamua, the Saqqara bird, the Somerton Man, the Sony rootkit, swimming after eating, ten
+percent of the brain — and not one returned a source that was on the subject and defensible.
+The nearest misses were instructive: "Megalodon" returned a 1930 paper on a crocodilian jaw
+that shares the name; "Plesiosaur" returned four real anatomy papers, none of them about neck
+posture; "Dorchester" returned a 1984 high school yearbook.
+
+Do not start another batch expecting conversions. If the pass is to continue, it needs one of
+the three decisions below, not another search.
+
 ## Per-batch loop
 
 ```
