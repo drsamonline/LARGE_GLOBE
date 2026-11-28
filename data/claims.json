@@ -6762,13 +6762,14 @@
     "Responses": "Synthetic data; efficiency; multimodality"
    },
    "sources": {
-    "count": 5,
+    "count": 6,
     "urls": [
      "https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets",
      "https://en.wikipedia.org/wiki/Synthetic_data",
      "https://en.wikipedia.org/wiki/Large_language_model",
      "https://en.wikipedia.org/wiki/Web_scraping",
-     "https://en.wikipedia.org/wiki/Neural_scaling_law"
+     "https://en.wikipedia.org/wiki/Neural_scaling_law",
+     "https://proceedings.mlr.press/v235/villalobos24a.html"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -9190,12 +9191,13 @@
     "Reanalysis": "Depends on the metric"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Emergent_ability",
      "https://en.wikipedia.org/wiki/Large_language_model",
      "https://en.wikipedia.org/wiki/Benchmark_(computing)",
-     "https://en.wikipedia.org/wiki/Neural_scaling_law"
+     "https://en.wikipedia.org/wiki/Neural_scaling_law",
+     "https://arxiv.org/abs/2304.15004"
     ]
    },
    "last_reviewed": "2026-11-23",
@@ -18452,12 +18454,13 @@
     "Conditions": "Depends on data ratio"
    },
    "sources": {
-    "count": 4,
+    "count": 5,
     "urls": [
      "https://en.wikipedia.org/wiki/Model_collapse",
      "https://en.wikipedia.org/wiki/Synthetic_data",
      "https://en.wikipedia.org/wiki/Generative_artificial_intelligence",
-     "https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets"
+     "https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets",
+     "https://doi.org/10.1038/s41586-024-07566-y"
     ]
    },
    "last_reviewed": "2026-11-23",
